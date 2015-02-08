@@ -1,0 +1,382 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Computer Science and Engineering: Welcome to CSE @ UCR</title> 
+  <meta http-equiv="last-modified" content="2015-02-05"> 
+  <meta name="version" content="1.204 1.233 "> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href=" http:="" www1.cs.ucr.edu="">
+   <span class="printonly">Computer Science and Engineering</span> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li class="lastitem">Computer Science and Engineering</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Welcome to CSE @ UCR</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Admissions</h3>
+        <ul>
+         <li><a href="/education/heres_why/" title="Why Choose UCR?">Why Choose UCR?</a></li>
+         <li><a href="http://admissions.ucr.edu/" title="Undergraduate Admissions">Undergraduate Admissions</a></li>
+         <li><a href="/education/undergraduate/infocurrentstudents/" title="Undergraduate Readmissions">Undergraduate Readmissions</a></li>
+         <li><a href="http://www.universityofcalifornia.edu/admissions/transfer/index.html" title="Transferring to UC">Transferring to UC</a></li>
+         <li><a href="/education/graduate/admissions/" title="Graduate Admissions">Graduate Admissions</a></li>
+        </ul></li>
+       <li><a href="/department/overview/" title="Department">Department<br><span></span></a></li>
+       <li><a href="/people/faculty" title="People">People<br><span></span></a></li>
+       <li><a href="/research/labs" title="Research">Research<br><span></span></a></li>
+       <li><a href="/education/" title="Education">Education<br><span></span></a></li>
+       <li><a href="/employment/" title="CSE Employment">CSE Employment<br><span></span></a></li>
+       <li><a href="/internships/" title="Internships &amp; Careers">Internships &amp; Careers<br><span></span></a></li>
+       <li><a href="/faq/" title="Account FAQs">Account FAQs</a></li>
+       <li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br><span></span></a></li> 
+      </ul> 
+     </div> 
+     <h4 class="news_sidebar_topper"><img src="/images/news_events_topper.png" alt="News &amp; Events"></h4> 
+     <div class="news_sidebar"> 
+      <h5><a href="/department/distinguished_lecturers">Distinguished Lecture Series</a></h5> 
+      <p>See who is giving talks at UCR!</p> 
+      <h5><a href="http://www1.cs.ucr.edu/index.php#in_the_news">News</a></h5> 
+      <p>News about the Department.</p> 
+      <h5><a href="/department/seminars">Events</a></h5> 
+      <p>Department talks.</p> 
+      <h5><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></h5> 
+      <p>Subscribe to our RSS feed.</p> 
+     </div> 
+     <img src="/images/celink.jpg" style="padding:8px">
+     <br> 
+     <a title="Computer Engineering" href="http://cen.ucr.edu/" target="_blank">Visit the Computer Engineering Program!</a> 
+     <h4>Department Intranet</h4> 
+     <ul> 
+      <li><a href="http://csedept.cs.ucr.edu">Login</a></li> 
+      <li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li> 
+      <li><a href="http://ilearn.ucr.edu">iLearn (Courses)</a></li> 
+      <li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li> 
+      <!--<li><a href="https://www.cs.ucr.edu/faq/">Account FAQ</a></li>--> 
+     </ul> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <img src="/images/frontpage/Night-Bourns3-700x144.png" alt="" height="144" width="700"> 
+      <p> 
+       <!-- <img alt="Banner" height="141" src="/images/design6/sample-banner.gif" mce_src="/images/design6/sample-banner.gif" width="484" /> --> </p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <div id="centerContent" class="column"> 
+       <table style="width: 609px; height: 64px;" border="0"> 
+        <tbody> 
+         <tr> 
+          <td> <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Department of Computer Science &amp; Engineering<br></strong></h3> <p>&nbsp;</p> <p>Welcome to Computer Science and Engineering (CSE) at the University of California, Riverside! <br> <br> Fostering groundbreaking research and producing graduates who are in demand, our department has established itself as a leader in the field of computer science and engineering. In recognition of the quality of our research and educational opportunities, the department has been highly ranked by the National Review Council, the Princeton Review, and U.S. News &amp; World Report.<br> <br> Our department offers a variety of degrees for undergraduates and graduates in computing-related areas. All degree programs combine the teaching of core principles with hands-on laboratory experience, preparing students for exciting careers in industry and academia. Students at all levels can enrich their educational experience by participating in sponsored research projects and professional student organizations like ACM or IEEE. The majority of our undergraduates go on to work in the computer industry at major companies like Google, Microsoft, or Facebook, while others get involved in start-ups, work for government agencies, or continue their education in graduate school. A number of our graduate students continue into careers in academia.<br> <br> Our department’s 24 faculty are involved in cutting-edge research in the areas of computer architecture, compilers, embedded systems, algorithms, computational biology, databases, data mining, machine learning, computer networks, distributed processing, artificial intelligence, software engineering, and graphics. Attesting to the quality and impact of the research conducted in our laboratories are the prestigious awards won by our faculty, who include 3 ACM Fellows, five IEEE Fellows, five AAAS Fellows, and nine NSF CAREER awardees. Research projects in our department receive more than $10 million in funding per year from external sources, including federal agencies like NSF, NIH, and DARPA as well as high-tech companies like Google, HP, Intel, AT&amp;T, and Samsung. <br> <br> Nestled in the foothills of Box Springs Mountains, with its warm and dry climate, the campus offers beautiful scenery and year-round opportunities for outdoor activities. UCR students enjoy the benefits of a smaller campus, a relaxed atmosphere, personal attention and guidance, and opportunities for informal, one-on-one interaction with our faculty and staff. I invite you to learn more about the innovative research and learning taking placeat CSE at UCR.<br> <br> <strong>Marek Chrobak</strong><br><strong> Professor and Chair, CSE Department</strong></p> 
+           <!-- <br>
+<h4><i>Faculty Positions in Computer Science &amp; Engineering</i></h4>
+<p>We are now accepting applications for tenure-track faculty positions. <a href="/employment/academic/tenuretrack/" _mce_href="/employment/academic/tenuretrack/" mce_href="/employment/academic/tenuretrack/">Check our new announcement</a> or go directly to the <a href="http://www.engr.ucr.edu/facultysearch/" _mce_href="http://www.engr.ucr.edu/facultysearch/" mce_href="http://www.engr.ucr.edu/facultysearch/">application</a>.</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+-->
+           <hr class="spacer"> 
+           <table style="margin-left: auto; margin-right: auto;" border="0"> 
+            <tbody> 
+             <tr> 
+              <td style="text-align: center;"><img src="/images/brochure_thumb.jpg" alt="brochure_thumb" width="117" height="148"></td> 
+              <td style="text-align: center;"><img src="/images/2014DLSPoster-thumb.jpg" alt="dls_thumb" width="82" height="148"></td> 
+             </tr> 
+             <tr> 
+              <td><span style="font-size: 1.3em;"><a href="http://www1.cs.ucr.edu/store/docs/cse_dept_brochure.pdf">CSE Brochure</a></span></td> 
+              <td><span style="font-size: 1.3em;"><a href="http://www1.cs.ucr.edu/department/distinguished_lecturers/">Distinguished Lecture Series</a></span></td> 
+             </tr> 
+            </tbody> 
+           </table> <p>&nbsp;</p> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="spotlight" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <p>&nbsp;</p> 
+      <a title="in_the_news" name="in_the_news"> </a> 
+      <div class="spotlight" style="text-align: center;"> 
+       <div class="spotlight" style="text-align: center;"> 
+        <h3>In the News</h3> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 163px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>CSE brings in $10 million in new funding.</strong></h4> <p>CSE researchers secured over $10 million in new funding for the year 2013-14 and beyond. Noteworthy among the new grants are a project by Srikanth Krishnamurthy (PI), Harsha Madhyastha (Co-PI) and Iulian Neamtiu (Co-PI) from Army Research Lab (ARL), on a Collaborative Research Alliance on Cyber Security for $3.7 million for the first 5 years with renewal potential for the next 5 years, a project by Stefano Lonardi (PI) and K. Le Roch(Co-PI) from NSF on Algorithms and Software Tools for Epigenetic Research for $994,370 for 3 years and another project by Christian Shelton (PI) from DARPA on Inference for Continuous-Time Probabilistic Programming for $706,000 for 4 years. For more listing on recent projects, see <a style="font-size: 1em; line-height: 1.5em;" href="http://www1.cs.ucr.edu/research/grants/" target="_blank">here</a>.</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 619px; height: 152px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td><img src="/images/wei_li.jpg" alt="pami" width="114"></td> 
+            <td style="text-align: left;"> <h4><strong>CSE graduate students, visiting student and alumnus team up to win the "Best Paper" award<br></strong></h4> <p>CSE graduate students Masruba Tasnim and Ei-Wen Yang, former graduate student Wei Li and visiting student Shining Ma have recently won the (only) best paper award at the 13th Asia Pacific Bioinformatics Conference (APBC) held in Jan., 2015. The award winning paper is entitled "Accurate inference of isoforms from multiple sample RNA-Seq data" and coauthored with their advisor Professor Tao Jiang. Wei Li is currently a postdoc at Dana-Farber Cancer Institute and Harvard School of Public Health and Shining Ma a Ph.D student at Tsinghua University, Beijing.</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 162px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>CSE hires three new faculty </strong></h4> <p>We are proud to add three new faculty to CSE this year: Zhiyun Qian, K.K. Ramakrishnan, and Nael Abu-Ghazaleh (Left to right in photo). Assistant Professor Qian's areas of interest span cyber-security, mobile computing and network systems including TCP/IP security, cellular networks security, and security of firewalls. Full Professor Ramakrishnan does research in computer network architecture protocols and systems as well as virtualization and cloud computing and information centric networks. Full Professor Abu-Ghazaleh joins both CSE and ECE with interest in computer architecture support for security, wireless, and sensor networks, and parallel computing.</p> </td> 
+            <td><img src="/images/new_faculty2014.jpg" alt="new_faculty" width="295" height="126"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 163px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>CSE faculty Eamonn Keogh research leader in data mining</strong></h4> <p>CSE faculty Eamonn Keogh was listed in the 6th place of "Top Research Leaders in Data Mining" by Microsoft Academic Search and kdnuggets.com. (Find the report here: <a style="font-size: 1em; line-height: 1.5em;" href="http://www.kdnuggets.com/2014/08/top-research-leaders-data-mining-data-science.html">here</a> Dr Keogh is the only professor from a UC campus to make the top ten, although Padhraic Smyth of UC-Irvine appeared in eleventh place. And Keogh points out that his ranking is all that more impressive given how much younger he is relative to the top five. Way to go Eamonn, we're proud of you and your age!</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 619px; height: 152px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td><img src="/images/PPAML_3x3.jpg" alt="pami" width="148" height="149"></td> 
+            <td style="text-align: left;"> <h4><strong>CSE faculty Shelton lands solo DARPA grant<br></strong></h4> <p>Christian Shelton was awarded a $700K DARPA grant as part of the agency’s Probabilistic Programming for Advanced Machine Learning (PPAML) program for his project, “Inference for Continuous-Time Probabilistic Programming.” The project is developing automatic inference engines to be employed in probabilistic programming languages, computer languages in which statistical processes can be described and reasoned with and in which the compiler automatically generates the necessary statistical reasoning code. The aim is to allow non-experts to model continuous-time processes efficiently and quickly.</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 162px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>Pazzani wins Classic Paper Award</strong></h4> <p>CSE faculty Michael Pazzani won the 2014 AAAI Classic Paper Award for his 1996 paper demonstrating how a user’s interests and web browsing behavior could be identified by a machine learning algorithm. Co-authored with Daniel Billsus and Jack Muramatsu, the paper was the first at the AAAI conferences to explore the now-ubiquitous feature of content-based personalization.</p> </td> 
+            <td><img src="/images/pazzani.jpg" alt="Pazzani" width="124" height="171"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 619px; height: 152px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td><img src="/images/alex.jpg" alt="Alex" width="184" height="149"></td> 
+            <td style="text-align: left;"> <h4><strong>CSE Best Paper on online education<br></strong></h4> <p>CSE faculty Frank Vahid and Ph.D. student Alex Edgcomb authored a paper that received a best paper award at the main annual conference for American Society for Engineering Education (ASEE) 2014. The paper showed that students using their web-native interactive zyBook achieve better learning outcomes than when using the best-selling textbook in online form, with especially-large gains by the initially-weaker students. Students also voluntarily spent twice as much time engaged with the material and reported higher engagement levels. Read the paper <a href="http://www.cs.ucr.edu/~aedgcomb/papers/static_vs_interactive_content_ASEE14_EdgcombVahid.pdf" target="_blank">here</a>&nbsp;</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 162px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>CSE lands another NSF Fellowship. Congrats Nick!</strong></h4> <p>CSE Ph.D. student, Nick Nobles, was awarded the prestigious NSF Graduate Research Fellowship. He is co-advised between Drs. Shinar and Zordan. The goal of the research is to determine shape and motion for optimal nanoswimmers through the use of physically-based simulation and an optimization process. Simulated findings can be used to guide the development of real-world nanoswimmers which have great potential in medical applications, targeting diagnosis and treating of maladies.</p> </td> 
+            <td><img src="/images/nnobles.jpg" alt="Nobles" width="130" height="126"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 619px; height: 152px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td><img src="/images/brisk1.jpg" alt="Brisk" width="146" height="126"></td> 
+            <td style="text-align: left;"> <h4><strong>CSE faculty Brisk receives NSF CAREER award</strong></h4> <p>CSE assistant professor Philip Brisk has been awarded the prestigious National Science Foundation CAREER grant for his research to create design automation software for laboratories-on-a-chip. The nearly $500K grant will help Brisk and his research team design and implement computer software that automatically converts biological applications into physical device layouts that can be fabricated. Successful completion of this project will enhance productivity and lower the barrier-to-entry for new users.</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 162px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>CSE start-up gets aquired!</strong></h4> <p>StopTheHacker, an anti-malware company founded by CSE Ph.D graduate, Anirban Banerjee and adjunct CSE Faculty Michalis Faloutsos has been bought by CloudFlare, the web performance and security company who protects more than 1.5 million web sites and sees five percent of Internet traffic worldwide. StopTheHacker was co-founded by Banerjee shortly after he received his Ph.D. in 2008. Financial details of the acquisition are not being disclosed.</p> </td> 
+            <td><img src="/images/sth_logo.png" alt="nohacker" width="158" height="152"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 617px; height: 151px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td><img src="/images/yanping.jpg" alt="Yanping" width="233" height="155"></td> 
+            <td style="text-align: left;"> <h4><strong>UCR graduate student wins 100K Gates Grand Challenge</strong></h4> <p>CSE's Yanping Chen will develop an inexpensive and robust sensor to directly measure the real-time density of insect vectors that transmit parasitic diseases to help plan intervention and treatment programs. Preliminary results indicate that insects can be classified based on the frequency of their wingbeats, which also varies depending on the time of day. Chen will develop an accurate detection system by investigating combining wingbeat frequency with circadian rhythms and other behaviors.&nbsp;</p> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: center;"> 
+         <table style="width: 625px; height: 162px;" border="0"> 
+          <tbody> 
+           <tr style="text-align: left;"> 
+            <td style="text-align: left;"> <h4><strong>UCR alum wins Samsung GOLD!</strong></h4> <p>Congratulations to Jilong Kuang (PhD 2011; Advisor: Prof. Laxmi Bhuyan) for winning the Gold Medal in the software research field at the Samsung Best Paper Award 2013. His paper "Absolute Zero-Copy Web-Object Cache Design for High-Performance Cloud Deployments", co-authored by Daniel G. Waddington and Juan A. Colmenares, was selected as the Best Paper in the software field among about 350 submissions from all Samsung branches, and it is one of the 9 Gold-Medal winners out of over 1,700 submissions in different technical fields.</p> </td> 
+            <td><img src="/images/jilong.jpg" alt="Jilong" width="198" height="169"></td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div> 
+        <div class="spotlight" style="text-align: right;"> 
+         <p><a class="linkMore" title="Read More Link" href="/department/news/">More News</a></p> 
+        </div> 
+       </div> 
+      </div>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Department of Computer Science and Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br><br> Tel: (951) 827-5639<br> Fax: (951) 827-4643<br></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="" "http:="" www.ucr.edu"="">UC Riverside</a></li> 
+       <li><a href="" "http:="" www.engr.ucr.edu"="">Bourns College of Engineering</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01003&amp;site=cse&amp;path=%2Findex.html">Last modified: 2015-Feb-05</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>
