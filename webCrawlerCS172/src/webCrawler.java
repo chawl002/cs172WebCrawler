@@ -1,5 +1,7 @@
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+
 import static java.nio.file.StandardOpenOption.*;
 import java.nio.file.*;
 import java.io.FileNotFoundException;
@@ -30,7 +32,8 @@ public class webCrawler
 {
 	public static final int SEARCH_LIMIT = 10;
 	public static Queue<String> Frontier = new LinkedList<String>();
-	public Queue<String> Crawled_Already = new LinkedList<String>();
+	//public static Queue<String> crawled_already = new LinkedList<String>();
+	public static ConcurrentHashMap<String, Integer> crawled_already = new ConcurrentHashMap<String, Integer>();
 	
 	//Load all the seeds from the seed.txt file and puts them into Frontier
 	
@@ -41,6 +44,16 @@ public class webCrawler
 		  System.out.println("URL: " + element);
 		}
 		System.out.println("END! This line is not in the queue");
+	}
+	public static boolean urlExistsInFrontier(String url) {
+		Iterator iterator = Frontier.iterator();
+		while(iterator.hasNext()) {
+			if(iterator.equals(url)){
+				return true;
+			}
+		}
+		return false;
+		
 	}
 	public static void load_seeds()
 	{
@@ -109,43 +122,64 @@ public static void crawl_frontier() throws URISyntaxException, IOException
 	else {
 		return;
 	}
-	boolean follow = false;
+	boolean robotsShouldFollow = false;
 	try {
 		//check if robots.txt file exists
+		//URI uri = new URI(url);
 		URL urlObject = new URL(url);
 		URI uri = urlObject.toURI();
 		RobotExclusionUtil robotUtility = new RobotExclusionUtil();
 		if(robotSafe(urlObject)) {
 			//check the contents of robots.txt file
-			follow = robotUtility.robotsShouldFollow(urlObject.getHost());
+			robotsShouldFollow = robotUtility.robotsShouldFollow(urlObject.getHost());
+			System.out.println("Is robotSafe");
+		}
+		else
+		{
+			System.out.println("Is not robotSafe");
 		}
 	}
 	catch(MalformedURLException e) {System.out.println("Could not create a URL\n");}
 	catch(URISyntaxException e){System.out.println("Cannot convert to a URI\n");}
+	
 	Document doc;
+	Elements questions;
+	ConcurrentHashMap<String, ConcurrentHashMap<String, Boolean>> map;
 	//Open URL and clean up HTML
-	if(follow)
-	{
+	if(robotsShouldFollow)
+	{//Check what its allowed
+		
+		
+		
+		
+		
+		
+	}
+		//map = new ConcurrentHashMap<String, ConcurrentHashMap<String, Boolean>>(url, RobotExclusionUtil.map);
 		doc = Jsoup.connect(url).get();
+		crawled_already.put(url, 1);
 		String htmlContent = doc.html();
 		String fileName = url.replaceAll("http://", "_");
-		System.out.println("fileName: \n" + fileName);
+		System.out.println("fileName: " + fileName);
 		saveAsFile(fileName, htmlContent);
 		
 		//scan html doc for links and extract them
-		Elements questions = doc.select("a[href]");
+		questions = doc.select("a[href]");
+		
 		for(Element link: questions)
 		{
 			if(link.attr("href").contains(".edu"))
 			{
-				Frontier.add(link.attr("abs:href"));
+				
+					
+				if(!urlExistsInFrontier(link.attr("abs:href")))//!crawled_already.containsKey(link.attr("abs:href") && !urlExistsInFrontier(link.attr("abs:href")))
+				{	
+					Frontier.add(link.attr("abs:href"));
+				}
 				//processPage(link.attr("abs:href"));
 			}
 		}
-	}
-	else {
-		return;
-	}
+		System.out.println("hashmap: " + crawled_already);
 }
 	
 	private static void processPage(String attr) {

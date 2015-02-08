@@ -87,7 +87,7 @@ try {
 	if (m == null) {
 		return true;
 	} else {
-		//System.out.println("u.getPath(): " + u.getPath());
+		System.out.println("u.getPath(): " + u.getPath());
 		String path = u.getPath();
 		if (path != null && path.length() > 0 && path.endsWith("/"))
 			path = path.substring(0, path.lastIndexOf('/'));
@@ -139,7 +139,7 @@ return page.toString();
 /**
 * For testing only. Parses robosts.txt file for a particular site
 */
-public static void main(String[] args) {
-System.out.println(robotsShouldFollow("http://academicpersonnel.ucr.edu/employment/"));
-}
+	public static void main(String[] args) {
+		System.out.println(robotsShouldFollow("http://academicpersonnel.ucr.edu/employment/"));
+	}
 }
