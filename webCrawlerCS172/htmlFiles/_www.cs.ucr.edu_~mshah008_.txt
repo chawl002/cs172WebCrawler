@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0"> 
+  <title>Moloud Shahbazi@UCR</title> 
+  <meta name="description" content="Home  — Page"> 
+  <meta name="author" content="shail"> 
+  <!-- main css file--> 
+  <link rel="stylesheet" href="css/style.css"> 
+  <!-- you can change css skin here--> 
+  <link rel="stylesheet" id="skin_css" href="css/skins/colorful.css"> 
+  <!-- contains styles not supported by IE 6, 7, 8 --> 
+  <!--[if gt IE 8]><!--> 
+  <!-- css3 hover effects --> 
+  <link rel="stylesheet" media="screen" href="css/effects/all.css"> 
+  <!-- for screens 768px or less in width --> 
+  <link rel="stylesheet" type="text/css" media="screen" href="css/responsive.css"> 
+  <!-- iPhone specific --> 
+  <link rel="stylesheet" type="text/css" media="screen and (min-device-width : 320px) and (max-device-width: 480px)" href="css/mobile.css"> 
+  <!-- <![endif]--> 
+  <!-- printing rules --> 
+  <link rel="stylesheet" media="print" href="css/print.css"> 
+  <!-- Fancybox Plugin --> 
+  <link rel="stylesheet" href="js/libs/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen"> 
+  <!--link rel="shortcut icon" href="favicon.gif" /--> 
+  <!-- Facebook picture --> 
+  <meta property="og:image" content="facebook_icon.jpg"> 
+  <!-- modify this file to add any changes. This will make update process much easier --> 
+  <link rel="stylesheet" href="css/user.css"> 
+  <script src="js/libs/modernizr-2.0.6.min.js"></script> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38670372-1', 'ucr.edu');
+  ga('send', 'pageview');
+
+</script> 
+ </head> 
+ <body> 
+  <!--?php include_once("analyticstracking.php") ?--> 
+  <div id="container"> 
+   <!-- header block --> 
+   <header class="wrap-header"> 
+    <article> 
+     <div class="wrap-ribbons"> 
+      <!-- <a class="ribbon" href="MoloudCV.pdf">Download <em>CV</em></a> --> 
+      <!-- <a class="ribbon ribbon2 zoom-html" href="#contacts">Contact <em>Me</em></a> --> 
+      <a class="ribbon ribbon3" href="" target="_blank"><em>Home</em></a> 
+     </div> 
+     <div class="wrap-title"> 
+      <h1><span>Moloud Shahbazi</span></h1> 
+      <p>&nbsp;&nbsp;Graduate Student</p> 
+     </div> 
+     <div class="social-services"> 
+      <!-- social services: tweet / google +1 / facebook like 
+          <a href="https://twitter.com/share" class="twitter-share-button" data-text="Interesting example of a Resume template" data-via="in_theme" data-align="left">Tweet</a>
+          <div class="wrap-g-plusone"><div class="g-plusone" data-size="medium"></div></div>
+          <div class="wrap-fb-like">
+            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Finthe.me/demo/incv&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+          </div>
+        </div>
+		--> 
+     </div>
+    </article> 
+   </header> 
+   <!-- information block --> 
+   <div class="row row-info"> 
+    <article class="markup"> 
+     <h2 class="section-title">About Me</h2> 
+     <!-- add your content here --> 
+     <!-- html markup supported --> 
+     <p> I am currently a Graduate student in Department of <a href="http://www.cs.ucr.edu" target="_blank">Computer Science and Engineering</a> at <a href="http://www.ucr.edu">UC Riverside</a>. I am working under supervision of <a href="http://www.cs.ucr.edu/~vagelis/">Prof. Vagelis Hiristidis</a> in Data Mining and Information Retrieval Lab. I have completed my bachelors in 2008 from <a href="http://aut.ac.ir/www/aut/main/">Amirkabir University of Technology</a>, Tehran, Iran, in Information Technology Eng. and my master in 2010 from <a href="http://www.sharif.ir/web/en/">Sharif University of Technology</a>, Tehran,<br> Iran, in Networks and Communications. </p> 
+     <!--
+        <blockquote>
+          Simplicity and repose are the qualities that measure the true value of any work of art.
+          <footer>
+            &mdash; Frank Lloyd Wright
+          </footer>
+        </blockquote>
+		--> 
+    </article> 
+   </div> 
+   <!-- education block --> 
+   <div class="row row-education"> 
+    <article> 
+     <h2 class="section-title">Education</h2> 
+     <div class="column-row"> 
+      <div class="column"> 
+       <h3>Computer Science, M.S.</h3> 
+       <a href="http://www.ucr.edu/" target="_blank" class="logo"> <img src="./img/demo/ucr.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.ucr.edu/" target="_blank">University Of California Riverside</a>, USA<br> 2010 — 2012 </p> 
+       <div class="smaller-text"> 
+        <p> <b>Research Work</b>: Image Mining in Large-Scale Databases and Classification/Clustering of Time Series Data. <br> <b>Advisor</b>: Dr. Eamonn Keogh. </p> 
+       </div> 
+      </div> 
+      <div class="column"> 
+       <h3>Information Technology, M.Sc.</h3> 
+       <a href="http://www.sharif.ir/web/en/" target="_blank" class="logo"> <img src="./img/demo/sharif.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.sharif.ir/web/en/" target="_blank">Sharif University of Technology</a> Tehran, IRAN<br>2008 — 2010 </p> 
+       <div class="smaller-text"> 
+        <p> <b>Thesis</b>: Efficient Multimedia Transmission over Wireless Sensor Networks.<br> <b>Advisor</b>: Dr. Ali Movaghar. </p> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column"> 
+      <h3>Information Technology, B.S</h3> 
+      <a href="http://aut.ac.ir/www/aut/main/" target="_blank" class="logo"> <img src="./img/demo/amirkabir.png" alt=""> </a> 
+      <p class="subtitle"> <a href="http://aut.ac.ir/www/aut/main/" target="_blank">Amirkabir University of Technology</a> Tehran, IRAN<br>2003 — 2007 </p> 
+      <div class="smaller-text"> 
+       <p> <b>Thesis</b>: A Comparison of Methods of Self Organizing Map Application in Reinforcement Learning for Delay Reward Problems. <br> <b>Advisor</b>: Dr. Reza Safabakhsh. </p> 
+      </div> 
+     </div> 
+    </article> 
+   </div> 
+   <!-- Research intrests block --> 
+   <div class="row row-info"> 
+    <article class="markup"> 
+     <h2 class="section-title">Research Intrests</h2> 
+     <ul class="column-row"> 
+      <li><b>Data Mining and Information Retrieval</b></li> 
+      <li><b>Machine Learning and Algorithm Design</b></li> 
+      <li><b>Social Media Analysis</b></li> 
+      <li><b>Wireless and Mobile Computing</b></li> 
+     </ul> 
+    </article> 
+   </div> 
+   <!-- Publications block --> 
+   <div class="row row-portfolio"> 
+    <article> 
+     <h2 class="section-title">Publications</h2> 
+     <ul class="portfolio"> 
+      <p> <b>ACM Mobihoc 2012</b> </p> 
+      <li class="effect2"> 
+       <div class="border"> 
+        <img src="img/demo/mobihoc3.png" alt=""> 
+        <div class="mask"> 
+         <h2>Wireless Networks</h2> 
+         <p> Joint Power and Rate adaptation to alleviate frequency selective fading in OFDM based wireless networks. </p> 
+         <a href="http://www.cs.ucr.edu/~singhs/files/mobihoc12.pdf" class="view">Download</a> 
+        </div> 
+       </div> </li> 
+     </ul> 
+    </article> 
+   </div> 
+   <!-- experience block --> 
+   <div class="row row-experience"> 
+    <article> 
+     <h2 class="section-title">Research Experiences</h2> 
+     <div class="column-row"> 
+      <div class="column column-no-logo"> 
+       <h3>Data Mining and Information Retrieval</h3> 
+       <!-- Logo on the left of the column --> 
+       <a href="http://www.amazon.com" target="_blank" class="logo"> <img src="./img/demo/amazon.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.amazon.com">Data Mining Lab</a> — UC Riverside<br> 2012 — Present </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!-- I am working on blah blah ...--> </p> 
+       </div> 
+       <p class="reference"> Advisor<br> <a href="http://www.cs.ucr.edu/~eamonn" target="_blank">Prof.&nbsp; E. Keogh</a> </p> 
+      </div> 
+      <div class="column column-no-logo"> 
+       <h3>Social Networks Analysis (Hidden Network Discovery) </h3> 
+       <a href="" target="_blank" class="logo"> <img src="./img/demo/vimeo.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.networks.cs.ucr.edu"></a> Networks Lab—UC Riverside <br> 2011 — 2012 </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!--There goes a text about your achievments while working at your company.--> </p> 
+       </div> 
+       <p class="reference"> Advisor <br> <a href="http://www.cs.ucr.edu/~krish" target="_blank">Prof.&nbsp; S. V. Krishnamurthy</a> </p> 
+      </div> 
+     </div> 
+     <div class="column-row"> 
+      <div class="column column-no-logo"> 
+       <h3>Wireless Networks - Physical Layer</h3> 
+       <!-- Logo on the left of the column --> 
+       <a href="http://www.amazon.com" target="_blank" class="logo"> <img src="./img/demo/amazon.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.amazon.com">Data Mining Lab</a> — UC Riverside<br> 2011 — 2012 </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!-- I am working on blah blah ...--> </p> 
+       </div> 
+       <p class="reference"> Advisor<br> <a href="http://www.cs.ucr.edu/~krish" target="_blank">Prof.&nbsp;&nbsp;S. V. Krishnamurthy</a> </p> 
+      </div> 
+      <div class="column column-no-logo"> 
+       <h3>Multimedia Sensor Networks </h3> 
+       <a href="" target="_blank" class="logo"> <img src="./img/demo/vimeo.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.ipm.ac.ir/"></a> Institute for studies in theoretical Physics and Mathematics(IPM)—Sharif University <br> 2009 — 2011 </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!-- There goes a text about your achievments while working at your company.--> </p> 
+       </div> 
+       <p class="reference"> Advisor<br> <a href="http://sharif.edu/~movaghar/" target="_blank">Prof.&nbsp;&nbsp;Ali Movaghar</a> </p> 
+      </div> 
+     </div> 
+     <div class="column-row"> 
+      <div class="column column-no-logo"> 
+       <h3>Probabilistic Balance Monitoring for Bipedal Robots</h3> 
+       <!-- Logo on the left of the column --> 
+       <a href="http://www.amazon.com" target="_blank" class="logo"> <img src="./img/demo/amazon.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://arc.aut.ac.ir/index.php?q=en">Robotics Research Center,</a> — Amirkabir University of Technology<br> 2006 — 2008 </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!-- I am working on blah blah ...--> </p> 
+       </div> 
+      </div> 
+      <div class="column column-no-logo"> 
+       <h3>Study of Reinforcement Learning and self-organizing Map Networks </h3> 
+       <a href="" target="_blank" class="logo"> <img src="./img/demo/vimeo.png" alt=""> </a> 
+       <p class="subtitle"> <a href="http://www.ipm.ac.ir/"></a> Computer Engineering and IT Department,—Amirkabir University of Technology <br> 2006 — 2007 </p> 
+       <div class="smaller-text"> 
+        <p> 
+         <!-- There goes a text about your achievments while working at your company. --> </p> 
+       </div> 
+       <p class="reference"> Advisor<br> <a href="http://www.aut.ac.ir/official/main.asp?uid=safa" target="_blank">Prof.&nbsp;&nbsp;R. Safabakhsh</a> </p> 
+      </div> 
+     </div> 
+    </article> 
+   </div> 
+   <div class="row row-education"> 
+    <article> 
+     <h2 class="section-title">Awards and Achievements</h2> 
+     <div class="column-row"> 
+      <p>2011-2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dean’s Distinguished Fellowship</b>, College of Engineering, University of California, Riverside.</p> 
+      <p>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Travel award</b> to attend ACM Turing Centenary Celebration.</p> 
+      <p>2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13th place in nation wide <b>Graduate University Entrance Exam</b> in Information Technology. </p> 
+      <p>2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qualified for Participation in Soccer Simulation League With "Aria" team in <b>International Robocup<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition</b>, Georgia Tech., USA. </p>
+      <p>2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sixth Place (Best All Women Team), "Bah Molnaz" team,<b> ACM International Collegiate Programming Contest</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of West-Asian Region Tehran Site, Iran.</p> 
+      <p>2003&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;900th place in <b>National University Entrance Exam</b> for under graduate program.</p> 
+      <p>2001&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Semifinalist in <b>National Mathematics and Computer Olympiad</b>, Iran.</p> 
+     </div>
+    </article> 
+   </div> 
+   <div class="row row-experience"> 
+    <article> 
+     <h2 class="section-title">Technical Skills</h2> 
+     <div class="column-row"> 
+      <div class="column"> 
+       <h3>Programming</h3> 
+       <a target="_blank" class="logo"> <img src="./img/demo/programming.jpg" alt=""> </a> 
+       <p class="subtitle"> <a> </a> </p> 
+       <div class="smaller-text"> 
+        <p> <b>C, C++, C#, Python, PHP/MySQL, Pascal</b><br><b>Network Programming and Android SDK</b> </p> 
+       </div> 
+      </div> 
+      <div class="column"> 
+       <h3>Typography</h3> 
+       <a target="_blank" class="logo"> <img src="./img/demo/typography.jpg" alt=""> </a> 
+       <p class="subtitle"> </p> 
+       <div class="smaller-text"> 
+        <p> <b>MicroSoft Word and LATEX</b> </p> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column-row"> 
+      <div class="column"> 
+       <h3>Tools</h3> 
+       <a target="_blank" class="logo"> <img src="./img/demo/tools.png" alt=""> </a> 
+       <p class="subtitle"> <a> </a> </p> 
+       <div class="smaller-text"> 
+        <p> <b>Matlab, NS-2, NS-3 and omnet++</b> </p> 
+       </div> 
+      </div> 
+      <div class="column"> 
+       <h3>OS</h3> 
+       <a target="_blank" class="logo"> <img src="./img/demo/os.jpg" alt=""> </a> 
+       <p class="subtitle"> </p> 
+       <div class="smaller-text"> 
+        <p> <b>Linux, MAC OS X, Windows</b> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </article> 
+   </div> 
+   <div class="row row-contact" id="contact_row" style="display: none"> 
+    <article> 
+     <h2 class="section-title">Contact Me</h2> 
+     <!--
+        <p>This block can be hidden and only shown in <a href="#contacts" class="zoom-html">a popup</a>.</p>
+--> 
+     <div class="wrap-contact-form"> 
+      <form id="contacts" class="contact-form" action="contacts.php" method="post"> 
+       <table class="info"> 
+        <tbody>
+         <tr> 
+          <th><label for="contact_name">Name</label></th> 
+          <td><input type="text" class="input-text" name="contact_name" id="contact_name" value=""></td> 
+         </tr> 
+         <tr class="spam-protection"> 
+          <th><label>E-mail</label></th> 
+          <td><input type="text" name="email" value=""></td> 
+         </tr> 
+         <tr> 
+          <th><label for="contact_email">E-mail</label></th> 
+          <td><input type="text" class="input-text input-email" name="contact_email" id="contact_email"></td> 
+         </tr> 
+         <tr> 
+          <th><label for="contact_message">Your Message</label></th> 
+          <td><textarea id="contact_message" name="contact_message"></textarea></td> 
+         </tr> 
+         <tr> 
+          <th></th> 
+          <td> <input type="submit" class="input-submit" name="contact_send" value="Send"> 
+           <div class="on-success">
+             Thank You. The message was sent. 
+           </div> 
+           <div class="on-error">
+             A technical error occured. Message was not delivered. Please contact me over e-mail. 
+           </div> </td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </form> 
+     </div> 
+    </article> 
+   </div> 
+   <!--
+    <div class="row row-skills">
+      <article>
+
+        <h2 class="section-title">John’s Hierarchy of skills</h2>
+
+        <div class="skills">
+          <p>
+            PHP<br />
+            jQuery, HTML<br />
+            JavaScript, Magento, CSS<br />
+            <b class="caption">My top skills.</b>
+            WordPress, good taste for design/UX
+          </p>
+          <p>
+            Web Design, Photoshop, Wireframing, Prototyping<br />
+            Linux, OS X, Bash, MySQL, Apache Webserver, Amazon AWS<br />
+            <b class="caption">Some experience.</b>
+            Illustrator, InDesign, Ruby On Rails, Design Patterns, ActionScript 3, SEO
+          </p>
+          <p>
+            Agile development, Ubuntu, Microsoft IIS, Flash, Django, Usabiliy testing, Facebook API<br />
+            Microsoft Office, Color theory, UX, HCI, Python, iOS, Android, Mobile application development<br />
+            <b class="caption">Familiarity & hobbies.</b>
+            German, Spanish, Drawing, Copywriting, Filmmaking, Acoustic Guitar, Table Football, Snowboarding
+          </p>
+        </div>
+
+      </article>
+    </div>
+	--> 
+   <div class="row row-profile row-inversed"> 
+    <article> 
+     <h2 class="section-title">Personal info</h2> 
+     <table class="info"> 
+      <tbody>
+       <tr> 
+        <th>Name</th> 
+        <td>Moloud &nbsp; &nbsp;Shahbazi</td> 
+       </tr> 
+       <tr> 
+        <th>Address</th> 
+        <td>EBU-2, &nbsp;Room 363 <br> University Of California Riverside, <br>CA 92521, &nbsp;US</td> 
+       </tr> 
+       <tr> 
+        <th>E-Mail</th> 
+        <td>mshah008@cs.ucr.edu</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <div class="profile-pic"> 
+      <img src="img/demo/moloud.jpg" alt=""> 
+     </div> 
+    </article> 
+   </div> 
+   <div class="row row-icon row-inversed"> 
+    <article> 
+    </article> 
+   </div> 
+  </div> 
+  <footer class="wrap-footer"> 
+   <div class="fl">
+    © Moloud Shahbazi, 2012.
+   </div>  
+  </footer> 
+  <div id="resize">
+   Resize
+  </div> 
+  <!-- jQuery 1.6.2 --> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script> 
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script> 
+  <!-- jQuery Fancybox plugin === http://fancybox.net/howto --> 
+  <script src="js/libs/fancybox/jquery.fancybox-1.3.4.pack.js"></script> 
+  <script defer src="js/plugins.js"></script> 
+  <script defer src="js/script.js"></script> 
+  <!-- <script defer src="customize/customize.js"></script>--> 
+  <script>
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3428741-16']);
+    _gaq.push(['_setDomainName', 'inthe.me']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script> 
+  <!-- Twitter Button JavaScript Code === https://twitter.com/about/resources/buttons --> 
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+  <!-- Google +1 JavaScript code === http://www.google.com/intl/en/webmasters/+1/button/index.html --> 
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+
+  </script> 
+  <!-- Start of StatCounter Code for Default Guide --> 
+  <script type="text/javascript">
+var sc_project=9735313; 
+var sc_invisible=1; 
+var sc_security="0e3ec3cc"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script> 
+  <noscript>
+   <div class="statcounter">
+    <a title="site stats" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/9735313/0/0e3ec3cc/1/" alt="site stats"></a>
+   </div>
+  </noscript> 
+  <!-- End of StatCounter Code for Default Guide -->   
+ </body>
+</html>

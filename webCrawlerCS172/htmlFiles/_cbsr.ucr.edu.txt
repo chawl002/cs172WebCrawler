@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <!-- InstanceBegin template="/Templates/cbsr_home.dwt" codeOutsideHTMLIsLocked="false" -->
+ <!-- BEGIN HEAD -->
+ <head> 
+  <!-- document title --> 
+  <!-- InstanceBeginEditable name="doctitle" --> 
+  <title>Center for Bibliographical Studies and Research</title> 
+  <!-- InstanceEndEditable --> 
+  <!-- link to external stylesheet --> 
+  <link href="css/home.css" rel="stylesheet" type="text/css"> 
+  <!-- meta elements ( keywords - description - refresh - expiration - author ) --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+  <meta name="copyright" content="Copyright © 2006 The Regents of the University of California. All Rights Reserved."> 
+  <!-- InstanceBeginEditable name="head" --> 
+  <!-- edit / add additional meta elements if necessary --> 
+  <meta name="Keywords" content="uc riverside, ucr, riverside, university of california, center for bibliographical studies and research, cbsr, estc, cnp, cdnc, ccila, cnma, english short title catalog, california newspaper project, california digital newspaper collection, catalogo colectivo de impresos latinoamericanos, california newspaper microfilm archive, bibliographic studies, neh, national endowment for the humanities"> 
+  <meta name="Description" content="The Center for Bibliographical Studies and Research is currently involved in five major bibliographical projects: the California Newspaper Project, the English Short-Title Catalog, the Latin American Short-Title Catalog, the California Digital Newspaper Collection and the California Newspaper Microfilm Archive."> 
+  <meta name="verify-v1" content="km+4drIoZ+4IAZVCPiEzBJBIS94+k2CwWgyaG/cDlXM="> 
+  <!-- InstanceEndEditable --> 
+  <!-- display favicon --> 
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+  <link rel="icon" href="favicon.ico" type="image/x-icon"> 
+  <!-- scripts --> 
+  <!-- InstanceBeginEditable name="scripts" --> 
+  <!-- InstanceEndEditable --> 
+ </head> 
+ <!-- END HEAD --> 
+ <!-- BEGIN BODY --> 
+ <body> 
+  <div align="center"> 
+   <table width="740" border="0" cellspacing="0" cellpadding="0"> 
+    <!-- logo --> 
+    <tbody>
+     <tr> 
+      <td colspan="5">
+       <div align="center">
+        <a href="index.html"><img src="images/logotype.gif" alt="Center for Bibliographical Studies and Research" width="453" height="120"></a>
+       </div></td> 
+     </tr> 
+     <tr> 
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="20" height="15"></td> 
+     </tr> 
+     <!-- highlight bar --> 
+     <tr class="highlight"> 
+      <td colspan="5" class="highlight">
+       <!-- InstanceBeginEditable name="highlight_title" -->Current Projects
+       <!-- InstanceEndEditable --></td> 
+     </tr> 
+     <!-- prjects --> 
+     <tr class="projectarea"> 
+      <td width="25%" valign="top" class="projectarea">
+       <!-- InstanceBeginEditable name="project1" --> 
+       <div align="center"> 
+        <p><a href="http://estc.ucr.edu/"><img src="images/estc.jpg" alt="English Short-Title Catalog (1473-1800)" width="150" height="137" border="0"></a></p> 
+        <p><a class="project" href="http://estc.ucr.edu/">English Short-Title Catalog <br> (1473-1800) </a></p> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+      <td width="25%" valign="top" class="projectarea">
+       <!-- InstanceBeginEditable name="project2" --> 
+       <div align="center"> 
+        <p><a href="http://cnp.ucr.edu/"><img src="images/cnp.jpg" alt="California Newspaper Project" width="150" height="137" border="0"></a></p> 
+        <p><a class="project" href="http://cnp.ucr.edu/">California Newspaper Project</a></p> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+      <td width="25%" valign="top" class="projectarea">
+       <!-- InstanceBeginEditable name="project3" --> 
+       <div align="center"> 
+        <p><a href="http://cdnc.ucr.edu/"><img src="images/cdnc.jpg" alt="California Digital Newspaper Collection" width="150" height="137" border="0"></a></p> 
+        <p><a class="project" href="http://cdnc.ucr.edu/">California Digital Newspaper Collection</a></p> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+      <td width="25%" valign="top" class="projectarea">
+       <!-- InstanceBeginEditable name="project4" --> 
+       <div align="center"> 
+        <p><a href="http://ccila.ucr.edu/"><img src="images/ccila.jpg" alt="Catálogo Colectivo de Impresos Latinoamericanos hasta 1851" width="150" height="137" border="0"></a></p> 
+        <p><a class="project" href="http://ccila.ucr.edu/">Cat�logo Colectivo de Impresos Latinoamericanos hasta 1851</a></p> 
+       </div>
+       <!-- InstanceEndEditable --></td> 
+      <td width="25%" valign="top" class="projectarea">
+       <!-- InstanceBeginEditable name="project5" --> 
+       <div align="center"> 
+        <p><a href="http://cnma.ucr.edu/"><img src="images/cnma.jpg" alt="California Newspaper Microfilm Archive" width="150" height="137" border="0"></a></p> 
+        <p><a class="project" href="http://cnma.ucr.edu/">California Newspaper Microfilm Archive</a></p> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+     </tr> 
+     <tr> 
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="20" height="6"></td> 
+     </tr> 
+     <!-- begin footer --> 
+     <tr class="projectareafooter"> 
+      <td colspan="5" class="projectareafooter">
+       <!-- InstanceBeginEditable name="footer" --> 
+       <div align="center"> 
+        <a class="project" href="http://www.neh.gov/">The CBSR is funded in part by the National Endowment for the Humanities</a>. 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+     </tr> 
+     <tr> 
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="20" height="6"></td> 
+     </tr> 
+     <tr class="projectareafooter"> 
+      <td colspan="5" class="projectareafooter">
+       <!-- InstanceBeginEditable name="footer2" --> 
+       <div align="center"> 
+        <a class="project" href="http://www.ucr.edu/">The CBSR is a research center located at the University of California, Riverside</a>.
+        <br> 
+        <a href="http://www.ucr.edu/"><img src="images/ucr_logo_h.png" alt="UC Riverside logo" width="180" height="45" border="0"></a> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+     </tr> 
+     <!-- other links --> 
+     <tr class="projectareaother"> 
+      <td colspan="5" class="projectareaother">
+       <!-- InstanceBeginEditable name="links" --> 
+       <div align="center">
+        <a class="foot" href="cbsrcontacts.html">Contact the CBSR</a> | 
+        <a class="foot" href="about.html">About the CBSR</a> 
+       </div> 
+       <!-- InstanceEndEditable --></td> 
+     </tr> 
+     <tr> 
+      <td colspan="5"> 
+       <div class="center"> 
+        <!-- Google CSE Search Box Begins --> 
+        <form id="searchbox_006389841071508821376:ihgtjqf6fqk" action="http://www.google.com/cse"> 
+         <img src="images/spacer.gif" alt=" " height="1" width="50"> 
+         <input type="hidden" name="cx" value="006389841071508821376:ihgtjqf6fqk"> 
+         <input name="q" type="text" size="25"> 
+         <input type="submit" name="sa" value="Search"> 
+         <input type="hidden" name="cof" value="FORID:0"> 
+        </form> 
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_006389841071508821376%3Aihgtjqf6fqk"></script> 
+        <!-- Google CSE Search Box Ends --> 
+       </div> </td> 
+     </tr> 
+     <tr> 
+      <td colspan="5"><img src="images/spacer.gif" alt="" width="20" height="20"></td> 
+     </tr> 
+    </tbody>
+   </table> 
+  </div> 
+  <!-- GOOGLE ANALYTICS --> 
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script> 
+  <script type="text/javascript">
+_uacct = "UA-1066373-1";
+urchinTracker();
+</script>  
+  <!-- END BODY --> 
+  <!-- InstanceEnd --> 
+ </body>
+</html>

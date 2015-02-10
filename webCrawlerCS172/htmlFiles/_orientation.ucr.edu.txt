@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Expires" content="0"> 
+  <title>Highlander Orientation - Highlander Orientation&nbsp;</title> 
+  <link rel="stylesheet" type="text/css" href="http://orientation.ucr.edu/css/_global.import.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://orientation.ucr.edu/css/masthead.css"> 
+  <link type="text/css" rel="stylesheet" media="all" href="http://orientation.ucr.edu/css/default.local.css"> 
+  <link type="text/css" rel="stylesheet" media="all" href="http://orientation.ucr.edu/css/_jscripts.ui.css"> 
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://orientation.ucr.edu/scripts/jquery.controls.local.js"></script>
+  <style type="text/css">
+                                .watermark
+                                {
+                                   background-image: url('../images/google_custom_search_watermark.gif');
+                                   background-repeat: no-repeat;
+                                }
+
+                                .normal
+                                {
+                                }
+                                
+                                #height21 > * 
+                                {
+                                        margin: 2px;
+                                }
+        </style>
+  <script type="text/javascript">
+        function Search() {
+            window.location = "http://www.ucr.edu/search.php?q=" + document.getElementById("search-textbox").value; return false;
+        }
+
+                function OnFocus()
+                { 
+                        document.getElementById("search-textbox").className = "normal";   
+                }
+
+                function OnBlur()
+                {
+                        var textValue = document.getElementById("search-textbox").value;
+                        if (textValue.length == 0)
+                        {
+                                document.getElementById("search-textbox").className = "watermark";
+                        }
+                        else
+                        {
+                                document.getElementById("search-textbox").className = "normal";
+                        }
+                }
+      </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-503078-46', 'ucr.edu');
+  ga('require', 'displayfeatures');	
+  ga('send', 'pageview');
+
+</script>
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <div id="brandingbar">
+    <img class="overlay" src="http://orientation.ucr.edu/images/mastheadoverlay.png" alt="overlay" border="0">
+    <h2 style="left: 0px; top: 0px"><span class="accessibility">University of California, Riverside</span><a title="UCR Home Page" href="http://www.ucr.edu/"><img width="150" height="53" title="UCR Home page" alt="UCR" src="http://orientation.ucr.edu/images/ucr_logo.gif"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" class="mastheadbg">
+   <a href="http://orientation.ucr.edu/index.html"></a>
+  </div> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="bcinnerwrapper"><a title="UCR Home" href="http://www.ucr.edu/">UCR Home</a> &gt; <a title="UCR Card" href="http://vcsa.ucr.edu/">VCSA</a> &gt; <a title="Highlander Orientation" href="http://orientation.ucr.edu/">Highlander Orientation</a> &gt; Highlander Orientation&nbsp; </p> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <div class="valign" id="height21">
+     <label>Search for:</label>
+     <input id="search-textbox" type="text" class="watermark" onfocus="OnFocus()" onblur="OnBlur()" title="search">
+     <input type="button" value="Go" onclick="Search()">
+    </div> 
+   </div> 
+   <hr> 
+   <div id="content"> 
+    <h2 id="pagetitleman">Highlander Orientation&nbsp;&nbsp; </h2> 
+    <hr> 
+    <div id="main"> 
+     <style>
+      a.findOutMore:link,a.findOutMore:visited,a.findOutMore:hover,a.findOutMore:active {color:orange;font-weight:bold}
+    </style> 
+     <script>
+      function toggle_visibility(id) {
+      var e = document.getElementById(id);
+      if(e.style.display == 'block')
+      e.style.display = 'none';
+      else
+      e.style.display = 'block';
+      }
+    </script> 
+     <!-- ouc:div label="maincontent" group="Everyone" button="700" --> 
+     <br> 
+     <div id="ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichImageField" style="display: inline"> 
+      <span dir=""></span>&nbsp; 
+     </div> 
+     <h3>Welcome to UCR... Let Us Show You Around!</h3> 
+     <p>Jump right in to college life here at UC Riverside with one of our specially-designed Orientations. These power-packed sessions will help on your way to becoming a successful Highlander. </p> 
+     <div class="nota-bene center" style="background-color: #2d6cc0 !important; color: #fff !important"> 
+      <h4 style="color: #fff !important">Attention International Students</h4> 
+      <p> Your visa status may prevent you from attending Highlander Orientation. <a class="findOutMore" href="#" onclick="toggle_visibility('popup');">Find out more</a> </p> 
+      <div id="popup" class="nota-bene" style="background-color: white !important; display: none; text-align: left;"> 
+       <h3>Do I need to attend Highlander Orientation?</h3> 
+       <h4 style="color: #CD853F;">I am an F-1/J-1 international student admitted to UCR and currently located outside of the United States. Do I need to attend Highlander Orientation? </h4> 
+       <p> No, Highlander Orientation is not mandatory for F-1/J-1 international students currently located outside of the United States. According to United States visa regulations you may not enter the United States until 30 days before the start date on your I-20 or DS-2019, so it will not be possible for you to attend Highlander Orientation. For more information, please contact Undergraduate Admissions no later than July 1 at 951-827-3411 or <a href="mailto:internationalinfo@ucr.edu">internationalinfo@ucr.edu</a>. </p> 
+       <p> Your attendance is required at our Mandatory International Student Orientation event in September. Please be aware that International Student Orientation is a separate and mandatory event for all F-1 and J-1 visa holders. A detailed message about our Mandatory International Student Orientation Program will be sent to your UCR R'mail account in May. Learn more about&nbsp;<a href="http://internationalcenter.ucr.edu/InternationalStudents/Pages/NewStudentOrientationandArrivalInformation.aspx">Mandatory International Student Orientation</a>.&nbsp;Contact the International Student Resource Center at&nbsp;<a href="mailto:internationalcenter@ucr.edu">internationalcenter@ucr.edu</a>&nbsp;or 951-827-4113. 
+        <!--    For more information on International Student Orientation, please contact the International Student Resource Center at <a href="mailto:internationalcenter@ucr.edu">internationalcenter@ucr.edu</a> or 951-827-4113--> </p> 
+       <h4 style="color: #CD853F;">I am an international student currently in the United States. Do I need to attend Highlander Orientation? </h4> 
+       <p> Yes, you are required to attend Highlander Orientation in addition to the Mandatory International Student Orientation in September. For more information, please contact Undergraduate Admissions no later than July 1 at 951-827-3411 or <a href="mailto:internationalinfo@ucr.edu">internationalinfo@ucr.edu</a>. </p> 
+       <p> Your attendance is expected at both Orientation Programs. Please be aware that International Student Orientation is a separate and mandatory event for all F-1 and J-1 visa holders. A detailed message about our Mandatory International Student Orientation Program will be sent to your UCR R'mail account in May. Learn more about&nbsp;<a href="http://internationalcenter.ucr.edu/InternationalStudents/Pages/NewStudentOrientationandArrivalInformation.aspx">Mandatory International Student Orientation</a>.&nbsp;Contact the International Student Resource Center at&nbsp;<a href="mailto:internationalcenter@ucr.edu">internationalcenter@ucr.edu</a>&nbsp;or 951-827-4113. 
+        <!--For more information on International Student Orientation, please contact the International Student Resource Center at <a href="mailto:internationalcenter@ucr.edu">internationalcenter@ucr.edu</a> or 951-827-4113.--> </p> 
+       <p> <a class="" href="#" onclick="toggle_visibility('popup');">Close [x]</a> </p> 
+      </div> 
+     </div> 
+     <div class="boxA"> 
+      <div class="column-l"> 
+       <img class="img_L" style="margin-bottom: 59px;" src="images/smiling-girl-left.jpg" alt=""> 
+       <h3>Freshman Students </h3> 
+       <p> <a class=" findOutMore" href="index.html">LEARN MORE</a> </p> 
+       <p>Although mandatory, our Highlander Orientation for UCR first-year students is a must-experience event. It will give you the head start you need for a successful college experience. Meet staff from your academic college, receive academic advising, register for Fall quarter classes and catch the Highlander spirit. We offer nine two-day sessions throughout July and August. <a style="font-size: 10px;" href="index.html">Reserve your place now!</a></p> 
+      </div> 
+      <div class="column2R related-a"> 
+       <h5>Related Links</h5> 
+       <ul class="tight"> 
+        <li> <a href="http://rweb.ucr.edu/">R'Web</a> </li> 
+        <li> <a href="http://www.ucr.edu/academics/undergradmajors.html"> Undergraduate Majors </a> </li> 
+        <li> <a href="http://studentlife.ucr.edu/index.html">Life at UCR</a> </li> 
+        <li> <a href="http://placementtest.ucr.edu/">Placement Exams</a> </li> 
+       </ul> 
+      </div> 
+      <br class="clear"> 
+     </div> 
+     <div class="boxC"> 
+      <div class="column-l"> 
+       <img class="img_L" style="margin-bottom: 57px;" src="images/smirking-guy-left.jpg"> 
+       <h3>Transfer Students</h3> 
+       <p> <a href="http://transferorientation.ucr.edu/" class="findOutMore">LEARN MORE</a> </p> 
+       <p>As a college student transferring to UCR, we have a Highlander Orientation program just for you. Enroll in fall classes, familiarize yourself with the campus, meet new students in your major and connect with University staff and faculty. It is the perfect opportunity to get a jump start on your UCR adventure.&nbsp;<a style="font-size: 10px;" href="http://transferorientation.ucr.edu/"><span class="s1">Sign up today!</span></a></p> 
+      </div> 
+      <div class="column2R related-b"> 
+       <h5>Related Links</h5> 
+       <ul class="tight"> 
+        <li> <a href="http://rweb.ucr.edu/">R'Web</a> </li> 
+        <li> <a href="http://visit.ucr.edu">Visit UCR</a> </li> 
+        <li> <a href="http://trc.ucr.edu/index.html">Transfer Admission</a> </li> 
+       </ul> 
+      </div> 
+      <br class="clear"> 
+     </div> 
+     <div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" style="display: inline"></div> 
+     <div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" style="display: inline"></div> 
+     <!-- /ouc:div --> 
+    </div>
+    <br class="clear">
+   </div> 
+  </div>
+  <br class="clear">
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address><span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br><span class="adr"><span class="street-address">900 University Ave.</span><br><span class="locality">Riverside</span>, <span class="region">CA</span>&nbsp;<span class="postal-code">92521</span><br></span> Tel: <span class="tel">(951) 827-1012</span><br><br></span></address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody>
+        <tr> 
+         <td valign="top"> 
+          <div> 
+           <address><strong>Highlander Orientation</strong><br><a href="http://www.campusmap.ucr.edu/campusMap.php?loc=HUB" title="Campus Map">229 Highlander Union Building</a><br><br> Tel:(951) 827-2789 or (951) 827-2785<br> Fax: (951) 827-2439<br> E-mail: <a href="mailto:orientation@ucr.edu">orientation@ucr.edu</a><br><br><strong>Highlander Orientation for Transfers Program</strong><br><a href="http://campusmap.ucr.edu/imap/index.html?loc=SSB" title="Campus Map">3106 Student Services Building</a><br><br> Tel:(951) 827-4531<br> Fax: (951) 827-6346<br> E-mail: <a href="mailto:lisa.tyson@ucr.edu">lisa.tyson@ucr.edu</a></address> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://my.ucr.edu/">MyUCR</a></li> 
+       <li><a href="http://success.ucr.edu/">First Year Success Series</a></li> 
+       <li><a href="http://chass.ucr.edu/">College of Humanities, Arts, and Social Sciences (CHASS)</a></li> 
+       <li><a href="http://cnas.ucr.edu/">College of Natural and Agricultural Sciences (CNAS)</a></li> 
+       <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering (BCOE)</a></li> 
+       <li><a href="http://honors.ucr.edu/">University Honors Program</a></li> 
+      </ul> 
+     </div>
+     <br class="clear">
+    </div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+      <li><a id="nav_footer_admissions" href="http://admissions.ucr.edu"><span>Admissions</span></a></li> 
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© <script language="JavaScript" type="text/javascript">
+					  	var now = new Date();
+						var currentYear = now.getFullYear();
+						document.write(currentYear);
+					</script> Regents of the University of California</li> 
+      <li> 
+       <!-- com.omniupdate.ob --><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01287&amp;site=vcsa-orientation&amp;path=%2Fchooseyourpath.pcf" target="_top">Last Modified: 1/14/15</a>
+       <!-- /com.omniupdate.ob --> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

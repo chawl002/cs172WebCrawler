@@ -1,0 +1,222 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Student Business Services / Main Cashiers : Welcome to Student Business Services / Main Cashiers</title> 
+  <meta http-equiv="last-modified" content="2009-12-08"> 
+  <meta name="version" content="1.204 1.233 "> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/templates/ucr_midblue/styles.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.sbs.ucr.edu" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/templates/ucr_midblue/images/masthead.jpg);"> 
+   <h1><a href="http://www.sbs.ucr.edu"><span class="printonly">Student Business Services / Main Cashiers</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Student Business Services / Main Cashiers</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Welcome to Student Business Services / Main Cashiers</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3>Home</h3></li> 
+       <li><a href="/news.html" target="_self">Latest News</a></li> 
+       <li><a href="/student_services.html" target="_self">Student &amp; Staff Services</a>
+        <ul>
+         <li><a href="/loan_debt_counseling.html" target="_self">Loan / Debt Counseling</a></li> 
+        </ul> </li> 
+       <li><a href="/departmental_services.html" target="_self">Departmental Services</a>
+        <ul>
+         <li><a href="/campus_merchant_resources.html" target="_self">Campus Merchant Resources</a></li> 
+        </ul> </li> 
+       <li><a href="/surveys.html" target="_self">Surveys</a></li> 
+       <li><a href="/contacts.html" target="_self">Contacts</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <hr> 
+   <!-- End Sidebar --> 
+   <!-- Start Content Area --> 
+   <div id="main"> 
+    <h3 style="text-align: center"><span style="font-family: Tahoma"><span style="font-size: large">Welcome to Student Business Services and Main Cashiers&nbsp;&nbsp;</span></span></h3> 
+    <p>&nbsp;</p> 
+    <p style="text-align: center"><span style="font-size: medium">Our highly trained staff strives to provide excellent customer service in the areas of cashiering operations, billing receivables, disbursement of student aid, maintenance and collection of student loans and campus receivables.&nbsp; Please take advantage of this web environment providing information encompassing all of our services.&nbsp; Student Business Services and Main Cashiers will strive to meet your continuing needs and look forward to being of service to everyone in the campus community.</span></p> 
+    <p>&nbsp;</p> 
+    <p style="text-align: left; margin-left: 40px">&nbsp;&nbsp;&nbsp;<img width="500" height="250" src="/UCR1.jpg" alt=""></p> 
+    <p style="text-align: center">&nbsp;</p> 
+    <table width="100%" cellpadding="5" border="0"> 
+     <tbody> 
+      <tr> 
+       <td width="50%" valign="top" style="text-align: center" colspan="2"> <p style="text-align: left"><span style="font-size: medium">Student Business Services&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Main Cashiers Office<br> Student Services Bldg, HOSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Services Bldg, Rm 1111<br> Monday - Friday: 9 am&nbsp;- 5 pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday - Friday: 9 am&nbsp;- 12 pm &amp; 1 pm&nbsp;- 3 pm<br> Phone: (951) 827-3204&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: (951) 827-3208<br> Fax: (951) 827-3576&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fax: (951) 827-7976</span></p> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium">Email: </span><a href="mailto:sbsofc@ucr.edu"><span style="font-size: medium">sbsofc@ucr.edu</span></a><span style="font-size: medium">&nbsp;</span></p> </td> 
+      </tr> 
+      <tr> 
+       <td align="center" colspan="2"> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium"><u>Main Cashiers Mailing Address</u>:</span></p> <p style="text-align: left; margin-left: 160px"><span style="font-size: medium">UCR Main Cashiers Office<br> 900 University Avenue<br> Student Services Bldg, Rm 1111<br> Riverside, CA&nbsp; 92521</span></p> </td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <p style="text-align: left">&nbsp;</p> 
+    <div style="text-align: left; margin: 0in 0in 0pt 80px">
+     <span style="font-size: 12pt">The Main Cashiers Office walk-up window service is available:</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">Monday through Friday</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">9 am - 12 pm AND 1 pm&nbsp;- 3 pm</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 200px">
+     <span style="font-size: 12pt">Closed from Noon - 1 pm</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 120px">
+     <span style="font-size: 12pt">All <em>in-person</em> payments are due by 3 pm PST.</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="margin-bottom: 0pt; text-align: left; margin-top: 0in; margin-right: 0in">
+     <span style="font-size: 12pt">Payments may be made via&nbsp;GROWL or check/money order left in the Cashiers drop box <em><u>until 4pm</u></em>.</span>&nbsp; 
+     <span style="font-size: 12pt">(Drop box is located on the outside of the Student Services Building.)&nbsp;</span>
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 40px">
+     &nbsp;
+    </div> 
+    <div style="text-align: left; margin: 0in 0in 0pt 80px">
+     <span style="font-size: 12pt">Departments please plan the timing of your deposits accordingly.</span>
+    </div> 
+    <p>&nbsp;</p> 
+   </div> 
+   <!-- End Content Area --> 
+   <div class="clear"></div> 
+  </div> 
+  <!-- End Content --> 
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Student Business Services / Main Cashiers</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">Student Business Services<br>900 University Avenue<br>Riverside, CA 92521</a><br><br> Tel: (951) 827-3204<br> Fax: (951) 827-3576<br>E-mail: <a href="mailto:sbsofc@ucr.edu">sbsofc@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul>
+       <li><a href="http://my.ucr.edu/admissions/" target="_blank">Admissions</a></li>
+       <li><a href="http://www.campushealth.ucr.edu" target="_blank">Campus Health Center</a></li>
+       <li><a href="http://www.finaid.ucr.edu" target="_blank">Financial Aid</a></li>
+       <li><a href="http://ucribm.ucr.edu/Paws/PAWS.html" target="_blank">GROWL</a></li>
+       <li><a href="http://www.housing.ucr.edu" target="_blank">Housing Services</a></li>
+       <li><a href="http://www.registrar.ucr.edu" target="_blank">Registrar Office</a></li>
+       <li><a href="http://www.ucrcard.ucr.ed" target="_blank">UCR Card</a></li>
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="mailto:sbsofc@ucr.edu" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2009 Regents of the University of California</li> 
+      <li><a href="http://www.sbs.ucr.edu/zencms/section.php?sec=page&amp;sub=edit&amp;dir=0&amp;id=1">Last Update On: Sep 26, 2014</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

@@ -1,0 +1,1135 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>UCR Today</title> 
+    <atom:link href="http://ucrtoday.ucr.edu/feed" rel="self" type="application/rss+xml" /> 
+    <link>http://ucrtoday.ucr.edu 
+    <description>
+     UC Riverside News and Happenings
+    </description> 
+    <lastbuilddate>
+     Mon, 09 Feb 2015 17:35:14 +0000
+    </lastbuilddate> 
+    <language>
+     en-US
+    </language> 
+    <sy:updateperiod>
+     hourly
+    </sy:updateperiod> 
+    <sy:updatefrequency>
+     1
+    </sy:updatefrequency> 
+    <generator>
+     http://wordpress.org/?v=4.1
+    </generator> 
+    <img> 
+    <title>UCR Today</title> 
+    <url>
+     http://ucrtoday.ucr.edu/UCRmonogram.png
+    </url> 
+    <link>http://ucrtoday.ucr.edu 
+    <width>
+     115
+    </width> 
+    <height>
+     83
+    </height> 
+    <description>
+     UC Riverside News and Happenings
+    </description>  
+    <item> 
+     <title>Budding K-12 Scientists Present Their Research on Campus This Week</title> 
+     <link>http://ucrtoday.ucr.edu/27086 
+     <comments>
+      http://ucrtoday.ucr.edu/27086#comments
+     </comments> 
+     <pubdate>
+      Mon, 09 Feb 2015 16:58:55 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      BCOE
+     </category> 
+     <category>
+      Bourns College of Engineering
+     </category> 
+     <category>
+      CNAS
+     </category> 
+     <category>
+      College of Natural and Agricultural Sciences
+     </category> 
+     <category>
+      competition
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      RUSD
+     </category> 
+     <category>
+      Science and Engineering Fair
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27086
+     </guid> 
+     <description>
+      RIVERSIDE, Calif. — More than 300 K-12 students from 30 schools in the Riverside Unified School District (RUSD) will present their science and engineering projects to the community this week at the University of California, Riverside. The students will participate &amp;#8230; &lt;a href="http://ucrtoday.ucr.edu/27086"&gt;Continue reading &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27086/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2012/02/Fair1-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2012/02/Fair1.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Getting to the Heart of Oil Spill Impacts on Gulf Fish</title> 
+     <link>http://ucrtoday.ucr.edu/27067 
+     <comments>
+      http://ucrtoday.ucr.edu/27067#comments
+     </comments> 
+     <pubdate>
+      Fri, 06 Feb 2015 20:12:03 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      CNAS
+     </category> 
+     <category>
+      College of Natural and Agricultural Sciences
+     </category> 
+     <category>
+      Daniel Schlenk
+     </category> 
+     <category>
+      Department of Environmental Sciences
+     </category> 
+     <category>
+      fish
+     </category> 
+     <category>
+      Gulf of Mexico Research Initiative
+     </category> 
+     <category>
+      heart
+     </category> 
+     <category>
+      oil
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27067
+     </guid> 
+     <description>
+      UC Riverside’s Daniel Schlenk is a co-principal investigator on first study to directly measure cardiac output of oil-exposed fish in the Gulf of Mexico.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27067/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Mahi-Juveniles-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Mahi-Juveniles.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>UC Riverside to Host Annual Noche Cultural</title> 
+     <link>http://ucrtoday.ucr.edu/27055 
+     <comments>
+      http://ucrtoday.ucr.edu/27055#comments
+     </comments> 
+     <pubdate>
+      Fri, 06 Feb 2015 02:22:52 +0000
+     </pubdate> 
+     <dc:creator>
+      Kris Lovekin
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Chicano Student Programs
+     </category> 
+     <category>
+      noche cultural
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27055
+     </guid> 
+     <description>
+       La Santa Cecilia, winners of the 2014 Grammy for “Best Latin Rock Album," will be featured at the 21st Annual Noche Cultural at 7 p.m. Friday, Feb. 13 at the University Theatre. This is an evening of variety entertainment geared to the entire family, presented by Chicano Student Programs, UCR Cultural Events and the Associated Students Programming Board. Doors open at 6:30 p.m. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27055/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Noche-21st-annual_2015-2-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Noche-21st-annual_2015-2.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Rivera Conference to Address Latino Health</title> 
+     <link>http://ucrtoday.ucr.edu/27046 
+     <comments>
+      http://ucrtoday.ucr.edu/27046#comments
+     </comments> 
+     <pubdate>
+      Thu, 05 Feb 2015 18:34:02 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Health
+     </category> 
+     <category>
+      addiction
+     </category> 
+     <category>
+      aging
+     </category> 
+     <category>
+      anthropology
+     </category> 
+     <category>
+      art
+     </category> 
+     <category>
+      Center for Healthy Communities
+     </category> 
+     <category>
+      Department of Theatre
+     </category> 
+     <category>
+      health
+     </category> 
+     <category>
+      latino
+     </category> 
+     <category>
+      mental health
+     </category> 
+     <category>
+      music
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      School of Medicine
+     </category> 
+     <category>
+      Theater
+     </category> 
+     <category>
+      Theatre
+     </category> 
+     <category>
+      tomas rivera
+     </category> 
+     <category>
+      Tomás Rivera Conference
+     </category> 
+     <category>
+      writing
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27046
+     </guid> 
+     <description>
+      Artists, scholars, activists, and health professionals will address Latino health at the 27th annual Tomás Rivera Conference at the University of California, Riverside on Friday, Feb. 20.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27046/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/rivera-2015-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/rivera-2015.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Let There Be Light</title> 
+     <link>http://ucrtoday.ucr.edu/27011 
+     <comments>
+      http://ucrtoday.ucr.edu/27011#comments
+     </comments> 
+     <pubdate>
+      Thu, 05 Feb 2015 16:30:40 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      astronomy
+     </category> 
+     <category>
+      Bahram Mobasher
+     </category> 
+     <category>
+      CNAS
+     </category> 
+     <category>
+      College of Natural and Agricultural Sciences
+     </category> 
+     <category>
+      Department of Physics and Astronomy
+     </category> 
+     <category>
+      galaxies
+     </category> 
+     <category>
+      galaxy evolution
+     </category> 
+     <category>
+      galaxy formation
+     </category> 
+     <category>
+      planets
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      public talk
+     </category> 
+     <category>
+      stars
+     </category> 
+     <category>
+      universe
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27011
+     </guid> 
+     <description>
+      In free talk at UC Riverside on Feb. 12, observational astronomer Bahram Mobasher will take the public on an intellectual journey to the depth of space and beginning of time.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27011/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Age-of-universe-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Age-of-universe.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Researchers to Report Progress on Video Game Aimed at Veterans with Hearing Loss</title> 
+     <link>http://ucrtoday.ucr.edu/27020 
+     <comments>
+      http://ucrtoday.ucr.edu/27020#comments
+     </comments> 
+     <pubdate>
+      Wed, 04 Feb 2015 18:34:04 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Health
+     </category> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      Aaron Seitz
+     </category> 
+     <category>
+      brain
+     </category> 
+     <category>
+      Brain Game Center
+     </category> 
+     <category>
+      computer science
+     </category> 
+     <category>
+      crowdfunding
+     </category> 
+     <category>
+      disabled veterans
+     </category> 
+     <category>
+      gift
+     </category> 
+     <category>
+      graduate student
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      psychology
+     </category> 
+     <category>
+      sound
+     </category> 
+     <category>
+      speech perception
+     </category> 
+     <category>
+      victor zordan
+     </category> 
+     <category>
+      video
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27020
+     </guid> 
+     <description>
+      UCR researchers will update potential donors on their progress in developing a brain-training game to help veterans suffering combat-related hearing loss at a pizza party on Monday, Feb. 9, from 6 to 8 p.m. at The Getaway.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27020/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Alison_Smith-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Alison_Smith.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>UCR’s CAFÉ Launch Features Two Esteemed Food Writers</title> 
+     <link>http://ucrtoday.ucr.edu/27017 
+     <comments>
+      http://ucrtoday.ucr.edu/27017#comments
+     </comments> 
+     <pubdate>
+      Wed, 04 Feb 2015 18:19:26 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      #GlobalFood
+     </category> 
+     <category>
+      CAFE
+     </category> 
+     <category>
+      David Karp
+     </category> 
+     <category>
+      Gustavo Arellano
+     </category> 
+     <category>
+      Norman Ellstrand
+     </category> 
+     <category>
+      press release
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=27017
+     </guid> 
+     <description>
+      On Wednesday, Jan. 28, UCR officially launched the California Agriculture and Food Enterprise (CAFÉ) by way of a lecture hosted by the Global Food Initiative and the Global Studies program. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/27017/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/gustavo_david-130x78.jpeg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/gustavo_david.jpeg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Scientists Reprogram Plants for Drought Tolerance</title> 
+     <link>http://ucrtoday.ucr.edu/26996 
+     <comments>
+      http://ucrtoday.ucr.edu/26996#comments
+     </comments> 
+     <pubdate>
+      Wed, 04 Feb 2015 18:00:55 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Science/Technology
+     </category> 
+     <category>
+      agrochemical
+     </category> 
+     <category>
+      CNAS
+     </category> 
+     <category>
+      College of Natural and Agricultural Sciences
+     </category> 
+     <category>
+      Department of Botany and Plant Sciences
+     </category> 
+     <category>
+      drought
+     </category> 
+     <category>
+      drought tolerance
+     </category> 
+     <category>
+      National Science Foundation
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      Sean Cutler
+     </category> 
+     <category>
+      Syngenta
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26996
+     </guid> 
+     <description>
+      UC Riverside's Sean Cutler has led a research project that illustrates the power of synthetic biological approaches for manipulating crops and opens new doors for crop improvement that could benefit a growing world population.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26996/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/wildtype_vs_transgenic_arabidopsis_plus_chem-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/wildtype_vs_transgenic_arabidopsis_plus_chem.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Graduate Student Receives Switzer Environmental Fellowship</title> 
+     <link>http://ucrtoday.ucr.edu/26985 
+     <comments>
+      http://ucrtoday.ucr.edu/26985#comments
+     </comments> 
+     <pubdate>
+      Mon, 02 Feb 2015 19:27:47 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      center for Conservation Biology
+     </category> 
+     <category>
+      Department of Environmental Sciences
+     </category> 
+     <category>
+      ecosystems
+     </category> 
+     <category>
+      fellowship
+     </category> 
+     <category>
+      graduate student
+     </category> 
+     <category>
+      Heather Hulton VanTassel
+     </category> 
+     <category>
+      Kurt Anderson
+     </category> 
+     <category>
+      Robert and Patricia Switzer Foundation
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26985
+     </guid> 
+     <description>
+      UC Riverside's Heather Hulton VanTassel, a current Ph.D. candidate, has been selected a 2014 Switzer Environmental Fellow.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26985/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Heather-Hulton-VanTassel-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Heather-Hulton-VanTassel.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Doubling Down on American Idol</title> 
+     <link>http://ucrtoday.ucr.edu/26974 
+     <comments>
+      http://ucrtoday.ucr.edu/26974#comments
+     </comments> 
+     <pubdate>
+      Sat, 31 Jan 2015 02:16:04 +0000
+     </pubdate> 
+     <dc:creator>
+      Kris Lovekin
+     </dc:creator> 
+     <category>
+      Arts/Culture
+     </category> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Adanna Duru
+     </category> 
+     <category>
+      American Idol
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      Rocky Peter Ajoku
+     </category> 
+     <category>
+      singing
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26974
+     </guid> 
+     <description>
+      Viewers of "American Idol" on Fox Thursday, Jan. 29, saw not one, but two members of the UC Riverside community. And both made it through to the next round. 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26974/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/y7CGIa4-m88-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/y7CGIa4-m88.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Sociologist to Discuss “Jalos USA” Feb. 17</title> 
+     <link>http://ucrtoday.ucr.edu/26970 
+     <comments>
+      http://ucrtoday.ucr.edu/26970#comments
+     </comments> 
+     <pubdate>
+      Fri, 30 Jan 2015 21:50:46 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      author
+     </category> 
+     <category>
+      Chicano Student Programs
+     </category> 
+     <category>
+      ethnic studies
+     </category> 
+     <category>
+      immigrants
+     </category> 
+     <category>
+      mexico
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      sociology
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26970
+     </guid> 
+     <description>
+      Alfredo Mirandé, professor of sociology and ethnic studies, will discuss his book “Jalos USA: Transnational Community and Identity” (University of Notre Dame Press, 2014) on Feb. 17 at 6 p.m.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26970/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Alfredo-Mirande1-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Alfredo-Mirande1.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Sustainability Fellowships Available to UC Riverside Students</title> 
+     <link>http://ucrtoday.ucr.edu/26965 
+     <comments>
+      http://ucrtoday.ucr.edu/26965#comments
+     </comments> 
+     <pubdate>
+      Fri, 30 Jan 2015 21:06:42 +0000
+     </pubdate> 
+     <dc:creator>
+      Kris Lovekin
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      fellowship
+     </category> 
+     <category>
+      graduate student
+     </category> 
+     <category>
+      John Cook
+     </category> 
+     <category>
+      office of sustainability
+     </category> 
+     <category>
+      sustainability
+     </category> 
+     <category>
+      undergraduates
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26965
+     </guid> 
+     <description>
+      The UC Riverside Sustainability office is soliciting applications for UCR Sustainability Fellowships.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26965/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/th_ucr_today.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/th_ucr_today.png" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Three Undergraduates Receive Fellowships to Work in Top Labs This Summer</title> 
+     <link>http://ucrtoday.ucr.edu/26960 
+     <comments>
+      http://ucrtoday.ucr.edu/26960#comments
+     </comments> 
+     <pubdate>
+      Thu, 29 Jan 2015 18:56:57 +0000
+     </pubdate> 
+     <dc:creator>
+      Iqbal Pittalwala
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Alberto Corona
+     </category> 
+     <category>
+      bioengineering
+     </category> 
+     <category>
+      CNAS
+     </category> 
+     <category>
+      College of Natural and Agricultural Sciences
+     </category> 
+     <category>
+      Dynamic Genome
+     </category> 
+     <category>
+      fellowship
+     </category> 
+     <category>
+      HHMI
+     </category> 
+     <category>
+      howard hughes medical institute
+     </category> 
+     <category>
+      Jack Wang
+     </category> 
+     <category>
+      Jenna Roper
+     </category> 
+     <category>
+      Susan Wessler
+     </category> 
+     <category>
+      undergraduate education
+     </category> 
+     <category>
+      undergraduate research
+     </category> 
+     <category>
+      University Honors Program
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26960
+     </guid> 
+     <description>
+      Three UC Riverside undergraduates have won prestigious fellowships from the Howard Hughes Medical Institute, enabling them to do cutting-edge research this summer for ten weeks in top laboratories in the country.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26960/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/JennaRoperAlbertoCoronaJackWang-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/JennaRoperAlbertoCoronaJackWang.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Korean Consul General to Speak at UCR Feb. 5</title> 
+     <link>http://ucrtoday.ucr.edu/26951 
+     <comments>
+      http://ucrtoday.ucr.edu/26951#comments
+     </comments> 
+     <pubdate>
+      Thu, 29 Jan 2015 18:36:16 +0000
+     </pubdate> 
+     <dc:creator>
+      Bettye Miller
+     </dc:creator> 
+     <category>
+      Politics/Society
+     </category> 
+     <category>
+      history
+     </category> 
+     <category>
+      Korean American studies
+     </category> 
+     <category>
+      korean americans
+     </category> 
+     <category>
+      lecture series
+     </category> 
+     <category>
+      press release
+     </category> 
+     <category>
+      World War II
+     </category> 
+     <category>
+      Young Oak Kim Center
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26951
+     </guid> 
+     <description>
+      A lecture by Korean Consul General Hyun-myung Kim on Thursday, Feb. 5, leads a series of events presented in February by the Young Oak Kim Center for Korean American Studies.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26951/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/YOK-logo-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/YOK-logo.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>UCR Winter in Photos</title> 
+     <link>http://ucrtoday.ucr.edu/26845 
+     <comments>
+      http://ucrtoday.ucr.edu/26845#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 17:38:22 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      China
+     </category> 
+     <category>
+      e-cigarette
+     </category> 
+     <category>
+      Food and Drug Administration
+     </category> 
+     <category>
+      janet napolitano
+     </category> 
+     <category>
+      Kim A. Wilcox
+     </category> 
+     <category>
+      martin luther king
+     </category> 
+     <category>
+      month in photos
+     </category> 
+     <category>
+      Orbach Science Library
+     </category> 
+     <category>
+      slideshow
+     </category> 
+     <category>
+      Undergraduate Completions Conference
+     </category> 
+     <category>
+      Vietnam
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26845
+     </guid> 
+     <description>
+      Although UCR's winter season does not include snow, it does have wasps, cookies, Vietnamese politicians, a Martin Luther King Jr. Walk and much more! Check out some of December's and January's best moments! 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26845/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/bell-tower-pano-fixed-5--130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/bell-tower-pano-fixed-5-.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>The Top: Our Favorite Photos with Scotty!</title> 
+     <link>http://ucrtoday.ucr.edu/26782 
+     <comments>
+      http://ucrtoday.ucr.edu/26782#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 17:36:48 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Instagram
+     </category> 
+     <category>
+      Scotty Bear
+     </category> 
+     <category>
+      the Top
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26782
+     </guid> 
+     <description>
+      This week, we feature UCR's beloved mascot, Scotty Highlander, and his top photos on social media.&lt;/em&gt;
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26782/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/lifeatucr-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/lifeatucr.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Awards and Honors</title> 
+     <link>http://ucrtoday.ucr.edu/26898 
+     <comments>
+      http://ucrtoday.ucr.edu/26898#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 15:52:25 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Awards &amp; Honors
+     </category> 
+     <category>
+      Amanda Lucia
+     </category> 
+     <category>
+      Cliff Trafzer
+     </category> 
+     <category>
+      Lan Duong
+     </category> 
+     <category>
+      mariam lam
+     </category> 
+     <category>
+      steven clark
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26898
+     </guid> 
+     <description>
+      The director of UC Riverside’s Presley Center for Crime and Justice Studies will lead a UC systemwide effort to advance social science and law research in a project designed to foster collaboration and multidisciplinary research across the UC’s 10 campuses.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26898/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Steven-E.-Clark-128x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Steven-E.-Clark.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Application Period for Next Staff Advisor to the Regents is Open</title> 
+     <link>http://ucrtoday.ucr.edu/26863 
+     <comments>
+      http://ucrtoday.ucr.edu/26863#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 15:44:12 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Board of Regents
+     </category> 
+     <category>
+      Staff Advisor
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26863
+     </guid> 
+     <description>
+      The University of California Office of the President on Jan. 20 announced the opening of the application period for the next staff advisor-designate to the Regents. The position’s term runs July 2015 through June 2017.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26863/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/550_acker-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/550_acker.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Food Justice at the Forefront</title> 
+     <link>http://ucrtoday.ucr.edu/26869 
+     <comments>
+      http://ucrtoday.ucr.edu/26869#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 15:37:55 +0000
+     </pubdate> 
+     <dc:creator>
+      Lilledeshan Bose
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      fortino morales
+     </category> 
+     <category>
+      Global Food
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26869
+     </guid> 
+     <description>
+      With a central theme of food justice, such subjects were explored during the three-day, inaugural California Higher Education Food Summit held Jan. 16-18 at UC Santa Barbara. Founded by a multicampus team of University of California staff and students, the first-of-its-kind conference is part of the ongoing UC Global Food Initiative.
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26869/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/UCR-Community-Garden-2014-35-130x78.jpg" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/UCR-Community-Garden-2014-35.jpg" medium="image" /> 
+    </item> 
+    <item> 
+     <title>Who Says?</title> 
+     <link>http://ucrtoday.ucr.edu/26719 
+     <comments>
+      http://ucrtoday.ucr.edu/26719#comments
+     </comments> 
+     <pubdate>
+      Wed, 28 Jan 2015 15:37:01 +0000
+     </pubdate> 
+     <dc:creator>
+      Bethanie Le
+     </dc:creator> 
+     <category>
+      Inside UCR
+     </category> 
+     <category>
+      Who Says?
+     </category> 
+     <category>
+      Benjamin Bishin
+     </category> 
+     <category>
+      David Funder
+     </category> 
+     <category>
+      Meera Nair
+     </category> 
+     <category>
+      Richard Vetter
+     </category> 
+     <category>
+      sara mednick
+     </category> 
+     <category>
+      Timothy Higham
+     </category> 
+     <category>
+      Wilfred Elders
+     </category> 
+     <category>
+      Ye Li
+     </category> 
+     <guid ispermalink="false">
+      http://ucrtoday.ucr.edu/?p=26719
+     </guid> 
+     <description>
+       "We discovered that we had developed the hottest wellhead in the world...We knew we had this very high energy heat source, but we didn't know how to deal with the temperatures and pressures." Wilfred Elders, emeritus professor of geology, about his work with a global team of academic scientists to harness the heat from magma and how volcanoes could become an abundant source of energy in the future -CNBC 
+     </description> 
+     <wfw:commentrss>
+      http://ucrtoday.ucr.edu/26719/feed
+     </wfw:commentrss> 
+     <slash:comments>
+      0
+     </slash:comments> 
+     <media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/th_ucr_today.png" /> 
+     <media:content url="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/th_ucr_today.png" medium="image" /> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

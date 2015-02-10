@@ -1,0 +1,3520 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+  <meta name="ProgId" content="Word.Document"> 
+  <meta name="Generator" content="Microsoft Word 9"> 
+  <meta name="Originator" content="Microsoft Word 9"> 
+  <link rel="Edit-Time-Data" href="./index_files/editdata.mso"> 
+  <title> Ramakrishna Varadarajan's Home Page </title> 
+  <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>UW Madison Computer Sciences</o:Author>
+  <o:LastAuthor>UW Madison Computer Sciences</o:LastAuthor>
+  <o:Revision>44</o:Revision>
+  <o:TotalTime>43</o:TotalTime>
+  <o:Created>2009-05-11T02:07:00Z</o:Created>
+  <o:LastSaved>2010-09-02T18:20:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>418</o:Words>
+  <o:Characters>2388</o:Characters>
+  <o:Company>CSL</o:Company>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2932</o:CharactersWithSpaces>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+  <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>110</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]--> 
+  <link rel="Stylesheet" type="text/css" media="all" href="web07.css"> 
+  <style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:transparent;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bodywhite, li.bodywhite, div.bodywhite
+	{mso-style-name:bodywhite;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:black;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:white;}
+p.bgwhite, li.bgwhite, div.bgwhite
+	{mso-style-name:bgwhite;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bggreyc, li.bggreyc, div.bggreyc
+	{mso-style-name:bggreyc;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#CCCCCC;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bgred, li.bgred, div.bgred
+	{mso-style-name:bgred;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#990000;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bgblack, li.bgblack, div.bgblack
+	{mso-style-name:bgblack;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:black;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bggold, li.bggold, div.bggold
+	{mso-style-name:bggold;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#CC9900;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bgred-crest, li.bgred-crest, div.bgred-crest
+	{mso-style-name:bgred-crest;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#990000;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bg-vert-shadow, li.bg-vert-shadow, div.bg-vert-shadow
+	{mso-style-name:bg-vert-shadow;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.bg-hor-shadow, li.bg-hor-shadow, div.bg-hor-shadow
+	{mso-style-name:bg-hor-shadow;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.copyright, li.copyright, div.copyright
+	{mso-style-name:copyright;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:9.5pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.navhead, li.navhead, div.navhead
+	{mso-style-name:navhead;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:#990000;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#CCCCCC;}
+p.navbodyblack, li.navbodyblack, div.navbodyblack
+	{mso-style-name:navbodyblack;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:#990000;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:white;}
+p.searchbox, li.searchbox, div.searchbox
+	{mso-style-name:searchbox;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.breadcrumbs, li.breadcrumbs, div.breadcrumbs
+	{mso-style-name:breadcrumbs;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:#990000;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#CCCCCC;}
+p.breadcrumbsblack, li.breadcrumbsblack, div.breadcrumbsblack
+	{mso-style-name:breadcrumbsblack;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:black;
+	font-size:12.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#CCCCCC;}
+p.search, li.search, div.search
+	{mso-style-name:search;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	background:white;
+	font-size:1.0pt;
+	font-family:Verdana;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#990000;}
+span.Hyperlink1
+	{mso-style-name:Hyperlink1;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink1
+	{mso-style-name:FollowedHyperlink1;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink2
+	{mso-style-name:Hyperlink2;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink2
+	{mso-style-name:FollowedHyperlink2;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink3
+	{mso-style-name:Hyperlink3;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink3
+	{mso-style-name:FollowedHyperlink3;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink4
+	{mso-style-name:Hyperlink4;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink4
+	{mso-style-name:FollowedHyperlink4;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink5
+	{mso-style-name:Hyperlink5;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink5
+	{mso-style-name:FollowedHyperlink5;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.bodywhite1
+	{mso-style-name:bodywhite1;
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;
+	color:white;
+	background:black;}
+span.Hyperlink6
+	{mso-style-name:Hyperlink6;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink6
+	{mso-style-name:FollowedHyperlink6;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink7
+	{mso-style-name:Hyperlink7;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink7
+	{mso-style-name:FollowedHyperlink7;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink8
+	{mso-style-name:Hyperlink8;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink8
+	{mso-style-name:FollowedHyperlink8;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink9
+	{mso-style-name:Hyperlink9;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink9
+	{mso-style-name:FollowedHyperlink9;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink10
+	{mso-style-name:Hyperlink10;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink10
+	{mso-style-name:FollowedHyperlink10;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink11
+	{mso-style-name:Hyperlink11;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink11
+	{mso-style-name:FollowedHyperlink11;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink12
+	{mso-style-name:Hyperlink12;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink12
+	{mso-style-name:FollowedHyperlink12;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink13
+	{mso-style-name:Hyperlink13;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink13
+	{mso-style-name:FollowedHyperlink13;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink14
+	{mso-style-name:Hyperlink14;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink14
+	{mso-style-name:FollowedHyperlink14;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink15
+	{mso-style-name:Hyperlink15;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink15
+	{mso-style-name:FollowedHyperlink15;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink16
+	{mso-style-name:Hyperlink16;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink16
+	{mso-style-name:FollowedHyperlink16;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink17
+	{mso-style-name:Hyperlink17;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink17
+	{mso-style-name:FollowedHyperlink17;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink18
+	{mso-style-name:Hyperlink18;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink18
+	{mso-style-name:FollowedHyperlink18;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink19
+	{mso-style-name:Hyperlink19;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink19
+	{mso-style-name:FollowedHyperlink19;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink20
+	{mso-style-name:Hyperlink20;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink20
+	{mso-style-name:FollowedHyperlink20;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink21
+	{mso-style-name:Hyperlink21;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink21
+	{mso-style-name:FollowedHyperlink21;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink22
+	{mso-style-name:Hyperlink22;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink22
+	{mso-style-name:FollowedHyperlink22;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink23
+	{mso-style-name:Hyperlink23;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink23
+	{mso-style-name:FollowedHyperlink23;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink24
+	{mso-style-name:Hyperlink24;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink24
+	{mso-style-name:FollowedHyperlink24;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink25
+	{mso-style-name:Hyperlink25;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink25
+	{mso-style-name:FollowedHyperlink25;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink26
+	{mso-style-name:Hyperlink26;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink26
+	{mso-style-name:FollowedHyperlink26;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink27
+	{mso-style-name:Hyperlink27;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink27
+	{mso-style-name:FollowedHyperlink27;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink28
+	{mso-style-name:Hyperlink28;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink28
+	{mso-style-name:FollowedHyperlink28;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink29
+	{mso-style-name:Hyperlink29;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink29
+	{mso-style-name:FollowedHyperlink29;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink30
+	{mso-style-name:Hyperlink30;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink30
+	{mso-style-name:FollowedHyperlink30;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink31
+	{mso-style-name:Hyperlink31;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink31
+	{mso-style-name:FollowedHyperlink31;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink32
+	{mso-style-name:Hyperlink32;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink32
+	{mso-style-name:FollowedHyperlink32;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink33
+	{mso-style-name:Hyperlink33;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink33
+	{mso-style-name:FollowedHyperlink33;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink34
+	{mso-style-name:Hyperlink34;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink34
+	{mso-style-name:FollowedHyperlink34;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink35
+	{mso-style-name:Hyperlink35;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink35
+	{mso-style-name:FollowedHyperlink35;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink36
+	{mso-style-name:Hyperlink36;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink36
+	{mso-style-name:FollowedHyperlink36;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink37
+	{mso-style-name:Hyperlink37;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink37
+	{mso-style-name:FollowedHyperlink37;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink38
+	{mso-style-name:Hyperlink38;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink38
+	{mso-style-name:FollowedHyperlink38;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink39
+	{mso-style-name:Hyperlink39;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink39
+	{mso-style-name:FollowedHyperlink39;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink40
+	{mso-style-name:Hyperlink40;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink40
+	{mso-style-name:FollowedHyperlink40;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink41
+	{mso-style-name:Hyperlink41;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink41
+	{mso-style-name:FollowedHyperlink41;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink42
+	{mso-style-name:Hyperlink42;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink42
+	{mso-style-name:FollowedHyperlink42;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink43
+	{mso-style-name:Hyperlink43;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink43
+	{mso-style-name:FollowedHyperlink43;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink44
+	{mso-style-name:Hyperlink44;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink44
+	{mso-style-name:FollowedHyperlink44;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink45
+	{mso-style-name:Hyperlink45;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink45
+	{mso-style-name:FollowedHyperlink45;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink46
+	{mso-style-name:Hyperlink46;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink46
+	{mso-style-name:FollowedHyperlink46;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink47
+	{mso-style-name:Hyperlink47;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink47
+	{mso-style-name:FollowedHyperlink47;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink48
+	{mso-style-name:Hyperlink48;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink48
+	{mso-style-name:FollowedHyperlink48;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink49
+	{mso-style-name:Hyperlink49;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink49
+	{mso-style-name:FollowedHyperlink49;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink50
+	{mso-style-name:Hyperlink50;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink50
+	{mso-style-name:FollowedHyperlink50;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink51
+	{mso-style-name:Hyperlink51;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink51
+	{mso-style-name:FollowedHyperlink51;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink52
+	{mso-style-name:Hyperlink52;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink52
+	{mso-style-name:FollowedHyperlink52;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink53
+	{mso-style-name:Hyperlink53;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink53
+	{mso-style-name:FollowedHyperlink53;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink54
+	{mso-style-name:Hyperlink54;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink54
+	{mso-style-name:FollowedHyperlink54;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink55
+	{mso-style-name:Hyperlink55;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink55
+	{mso-style-name:FollowedHyperlink55;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink56
+	{mso-style-name:Hyperlink56;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink56
+	{mso-style-name:FollowedHyperlink56;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink57
+	{mso-style-name:Hyperlink57;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink57
+	{mso-style-name:FollowedHyperlink57;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink58
+	{mso-style-name:Hyperlink58;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink58
+	{mso-style-name:FollowedHyperlink58;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink59
+	{mso-style-name:Hyperlink59;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink59
+	{mso-style-name:FollowedHyperlink59;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink60
+	{mso-style-name:Hyperlink60;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink60
+	{mso-style-name:FollowedHyperlink60;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink61
+	{mso-style-name:Hyperlink61;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink61
+	{mso-style-name:FollowedHyperlink61;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink62
+	{mso-style-name:Hyperlink62;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink62
+	{mso-style-name:FollowedHyperlink62;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink63
+	{mso-style-name:Hyperlink63;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink63
+	{mso-style-name:FollowedHyperlink63;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink64
+	{mso-style-name:Hyperlink64;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink64
+	{mso-style-name:FollowedHyperlink64;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink65
+	{mso-style-name:Hyperlink65;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink65
+	{mso-style-name:FollowedHyperlink65;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink66
+	{mso-style-name:Hyperlink66;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink66
+	{mso-style-name:FollowedHyperlink66;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink67
+	{mso-style-name:Hyperlink67;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink67
+	{mso-style-name:FollowedHyperlink67;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink68
+	{mso-style-name:Hyperlink68;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink68
+	{mso-style-name:FollowedHyperlink68;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink69
+	{mso-style-name:Hyperlink69;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink69
+	{mso-style-name:FollowedHyperlink69;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink70
+	{mso-style-name:Hyperlink70;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink70
+	{mso-style-name:FollowedHyperlink70;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink71
+	{mso-style-name:Hyperlink71;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink71
+	{mso-style-name:FollowedHyperlink71;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink72
+	{mso-style-name:Hyperlink72;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink72
+	{mso-style-name:FollowedHyperlink72;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink73
+	{mso-style-name:Hyperlink73;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink73
+	{mso-style-name:FollowedHyperlink73;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink74
+	{mso-style-name:Hyperlink74;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink74
+	{mso-style-name:FollowedHyperlink74;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink75
+	{mso-style-name:Hyperlink75;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink75
+	{mso-style-name:FollowedHyperlink75;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink76
+	{mso-style-name:Hyperlink76;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink76
+	{mso-style-name:FollowedHyperlink76;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink77
+	{mso-style-name:Hyperlink77;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink77
+	{mso-style-name:FollowedHyperlink77;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink78
+	{mso-style-name:Hyperlink78;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink78
+	{mso-style-name:FollowedHyperlink78;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink79
+	{mso-style-name:Hyperlink79;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink79
+	{mso-style-name:FollowedHyperlink79;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink80
+	{mso-style-name:Hyperlink80;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink80
+	{mso-style-name:FollowedHyperlink80;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink81
+	{mso-style-name:Hyperlink81;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink81
+	{mso-style-name:FollowedHyperlink81;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink82
+	{mso-style-name:Hyperlink82;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink82
+	{mso-style-name:FollowedHyperlink82;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink83
+	{mso-style-name:Hyperlink83;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink83
+	{mso-style-name:FollowedHyperlink83;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink84
+	{mso-style-name:Hyperlink84;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink84
+	{mso-style-name:FollowedHyperlink84;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink85
+	{mso-style-name:Hyperlink85;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink85
+	{mso-style-name:FollowedHyperlink85;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink86
+	{mso-style-name:Hyperlink86;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink86
+	{mso-style-name:FollowedHyperlink86;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink87
+	{mso-style-name:Hyperlink87;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink87
+	{mso-style-name:FollowedHyperlink87;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink88
+	{mso-style-name:Hyperlink88;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink88
+	{mso-style-name:FollowedHyperlink88;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink89
+	{mso-style-name:Hyperlink89;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink89
+	{mso-style-name:FollowedHyperlink89;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink90
+	{mso-style-name:Hyperlink90;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink90
+	{mso-style-name:FollowedHyperlink90;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink91
+	{mso-style-name:Hyperlink91;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink91
+	{mso-style-name:FollowedHyperlink91;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink92
+	{mso-style-name:Hyperlink92;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink92
+	{mso-style-name:FollowedHyperlink92;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink93
+	{mso-style-name:Hyperlink93;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink93
+	{mso-style-name:FollowedHyperlink93;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink94
+	{mso-style-name:Hyperlink94;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink94
+	{mso-style-name:FollowedHyperlink94;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink95
+	{mso-style-name:Hyperlink95;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink95
+	{mso-style-name:FollowedHyperlink95;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink96
+	{mso-style-name:Hyperlink96;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink96
+	{mso-style-name:FollowedHyperlink96;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink97
+	{mso-style-name:Hyperlink97;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink97
+	{mso-style-name:FollowedHyperlink97;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink98
+	{mso-style-name:Hyperlink98;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink98
+	{mso-style-name:FollowedHyperlink98;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink99
+	{mso-style-name:Hyperlink99;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink99
+	{mso-style-name:FollowedHyperlink99;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink100
+	{mso-style-name:Hyperlink100;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink100
+	{mso-style-name:FollowedHyperlink100;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink101
+	{mso-style-name:Hyperlink101;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink101
+	{mso-style-name:FollowedHyperlink101;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink102
+	{mso-style-name:Hyperlink102;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink102
+	{mso-style-name:FollowedHyperlink102;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink103
+	{mso-style-name:Hyperlink103;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink103
+	{mso-style-name:FollowedHyperlink103;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink104
+	{mso-style-name:Hyperlink104;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink104
+	{mso-style-name:FollowedHyperlink104;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink105
+	{mso-style-name:Hyperlink105;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink105
+	{mso-style-name:FollowedHyperlink105;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink106
+	{mso-style-name:Hyperlink106;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink106
+	{mso-style-name:FollowedHyperlink106;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink107
+	{mso-style-name:Hyperlink107;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink107
+	{mso-style-name:FollowedHyperlink107;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink108
+	{mso-style-name:Hyperlink108;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink108
+	{mso-style-name:FollowedHyperlink108;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink109
+	{mso-style-name:Hyperlink109;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink109
+	{mso-style-name:FollowedHyperlink109;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink110
+	{mso-style-name:Hyperlink110;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink110
+	{mso-style-name:FollowedHyperlink110;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink111
+	{mso-style-name:Hyperlink111;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink111
+	{mso-style-name:FollowedHyperlink111;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink112
+	{mso-style-name:Hyperlink112;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink112
+	{mso-style-name:FollowedHyperlink112;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink113
+	{mso-style-name:Hyperlink113;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink113
+	{mso-style-name:FollowedHyperlink113;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink114
+	{mso-style-name:Hyperlink114;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink114
+	{mso-style-name:FollowedHyperlink114;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink115
+	{mso-style-name:Hyperlink115;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink115
+	{mso-style-name:FollowedHyperlink115;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink116
+	{mso-style-name:Hyperlink116;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink116
+	{mso-style-name:FollowedHyperlink116;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink117
+	{mso-style-name:Hyperlink117;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink117
+	{mso-style-name:FollowedHyperlink117;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink118
+	{mso-style-name:Hyperlink118;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink118
+	{mso-style-name:FollowedHyperlink118;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink119
+	{mso-style-name:Hyperlink119;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink119
+	{mso-style-name:FollowedHyperlink119;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink120
+	{mso-style-name:Hyperlink120;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink120
+	{mso-style-name:FollowedHyperlink120;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink121
+	{mso-style-name:Hyperlink121;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink121
+	{mso-style-name:FollowedHyperlink121;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink122
+	{mso-style-name:Hyperlink122;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink122
+	{mso-style-name:FollowedHyperlink122;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink123
+	{mso-style-name:Hyperlink123;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink123
+	{mso-style-name:FollowedHyperlink123;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink124
+	{mso-style-name:Hyperlink124;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink124
+	{mso-style-name:FollowedHyperlink124;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink125
+	{mso-style-name:Hyperlink125;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink125
+	{mso-style-name:FollowedHyperlink125;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink126
+	{mso-style-name:Hyperlink126;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink126
+	{mso-style-name:FollowedHyperlink126;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink127
+	{mso-style-name:Hyperlink127;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink127
+	{mso-style-name:FollowedHyperlink127;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink128
+	{mso-style-name:Hyperlink128;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink128
+	{mso-style-name:FollowedHyperlink128;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink129
+	{mso-style-name:Hyperlink129;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink129
+	{mso-style-name:FollowedHyperlink129;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink130
+	{mso-style-name:Hyperlink130;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink130
+	{mso-style-name:FollowedHyperlink130;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink131
+	{mso-style-name:Hyperlink131;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink131
+	{mso-style-name:FollowedHyperlink131;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink132
+	{mso-style-name:Hyperlink132;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink132
+	{mso-style-name:FollowedHyperlink132;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink133
+	{mso-style-name:Hyperlink133;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink133
+	{mso-style-name:FollowedHyperlink133;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink134
+	{mso-style-name:Hyperlink134;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink134
+	{mso-style-name:FollowedHyperlink134;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink135
+	{mso-style-name:Hyperlink135;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink135
+	{mso-style-name:FollowedHyperlink135;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink136
+	{mso-style-name:Hyperlink136;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink136
+	{mso-style-name:FollowedHyperlink136;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink137
+	{mso-style-name:Hyperlink137;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink137
+	{mso-style-name:FollowedHyperlink137;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink138
+	{mso-style-name:Hyperlink138;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink138
+	{mso-style-name:FollowedHyperlink138;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink139
+	{mso-style-name:Hyperlink139;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink139
+	{mso-style-name:FollowedHyperlink139;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink140
+	{mso-style-name:Hyperlink140;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink140
+	{mso-style-name:FollowedHyperlink140;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink141
+	{mso-style-name:Hyperlink141;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink141
+	{mso-style-name:FollowedHyperlink141;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink142
+	{mso-style-name:Hyperlink142;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink142
+	{mso-style-name:FollowedHyperlink142;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink143
+	{mso-style-name:Hyperlink143;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink143
+	{mso-style-name:FollowedHyperlink143;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink144
+	{mso-style-name:Hyperlink144;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink144
+	{mso-style-name:FollowedHyperlink144;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink145
+	{mso-style-name:Hyperlink145;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink145
+	{mso-style-name:FollowedHyperlink145;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink146
+	{mso-style-name:Hyperlink146;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink146
+	{mso-style-name:FollowedHyperlink146;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink147
+	{mso-style-name:Hyperlink147;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink147
+	{mso-style-name:FollowedHyperlink147;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink148
+	{mso-style-name:Hyperlink148;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink148
+	{mso-style-name:FollowedHyperlink148;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink149
+	{mso-style-name:Hyperlink149;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink149
+	{mso-style-name:FollowedHyperlink149;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink150
+	{mso-style-name:Hyperlink150;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink150
+	{mso-style-name:FollowedHyperlink150;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink151
+	{mso-style-name:Hyperlink151;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink151
+	{mso-style-name:FollowedHyperlink151;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink152
+	{mso-style-name:Hyperlink152;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink152
+	{mso-style-name:FollowedHyperlink152;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink153
+	{mso-style-name:Hyperlink153;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink153
+	{mso-style-name:FollowedHyperlink153;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink154
+	{mso-style-name:Hyperlink154;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink154
+	{mso-style-name:FollowedHyperlink154;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink155
+	{mso-style-name:Hyperlink155;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink155
+	{mso-style-name:FollowedHyperlink155;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink156
+	{mso-style-name:Hyperlink156;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink156
+	{mso-style-name:FollowedHyperlink156;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink157
+	{mso-style-name:Hyperlink157;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink157
+	{mso-style-name:FollowedHyperlink157;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink158
+	{mso-style-name:Hyperlink158;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink158
+	{mso-style-name:FollowedHyperlink158;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink159
+	{mso-style-name:Hyperlink159;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink159
+	{mso-style-name:FollowedHyperlink159;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink160
+	{mso-style-name:Hyperlink160;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink160
+	{mso-style-name:FollowedHyperlink160;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink161
+	{mso-style-name:Hyperlink161;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink161
+	{mso-style-name:FollowedHyperlink161;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink162
+	{mso-style-name:Hyperlink162;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink162
+	{mso-style-name:FollowedHyperlink162;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink163
+	{mso-style-name:Hyperlink163;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink163
+	{mso-style-name:FollowedHyperlink163;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink164
+	{mso-style-name:Hyperlink164;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink164
+	{mso-style-name:FollowedHyperlink164;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink165
+	{mso-style-name:Hyperlink165;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink165
+	{mso-style-name:FollowedHyperlink165;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink166
+	{mso-style-name:Hyperlink166;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink166
+	{mso-style-name:FollowedHyperlink166;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink167
+	{mso-style-name:Hyperlink167;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink167
+	{mso-style-name:FollowedHyperlink167;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink168
+	{mso-style-name:Hyperlink168;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink168
+	{mso-style-name:FollowedHyperlink168;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink169
+	{mso-style-name:Hyperlink169;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink169
+	{mso-style-name:FollowedHyperlink169;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink170
+	{mso-style-name:Hyperlink170;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink170
+	{mso-style-name:FollowedHyperlink170;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink171
+	{mso-style-name:Hyperlink171;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink171
+	{mso-style-name:FollowedHyperlink171;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink172
+	{mso-style-name:Hyperlink172;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink172
+	{mso-style-name:FollowedHyperlink172;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink173
+	{mso-style-name:Hyperlink173;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink173
+	{mso-style-name:FollowedHyperlink173;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink174
+	{mso-style-name:Hyperlink174;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink174
+	{mso-style-name:FollowedHyperlink174;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink175
+	{mso-style-name:Hyperlink175;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink175
+	{mso-style-name:FollowedHyperlink175;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink176
+	{mso-style-name:Hyperlink176;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink176
+	{mso-style-name:FollowedHyperlink176;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink177
+	{mso-style-name:Hyperlink177;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink177
+	{mso-style-name:FollowedHyperlink177;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink178
+	{mso-style-name:Hyperlink178;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink178
+	{mso-style-name:FollowedHyperlink178;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink179
+	{mso-style-name:Hyperlink179;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink179
+	{mso-style-name:FollowedHyperlink179;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink180
+	{mso-style-name:Hyperlink180;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink180
+	{mso-style-name:FollowedHyperlink180;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink181
+	{mso-style-name:Hyperlink181;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink181
+	{mso-style-name:FollowedHyperlink181;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink182
+	{mso-style-name:Hyperlink182;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink182
+	{mso-style-name:FollowedHyperlink182;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink183
+	{mso-style-name:Hyperlink183;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink183
+	{mso-style-name:FollowedHyperlink183;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink184
+	{mso-style-name:Hyperlink184;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink184
+	{mso-style-name:FollowedHyperlink184;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink185
+	{mso-style-name:Hyperlink185;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink185
+	{mso-style-name:FollowedHyperlink185;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink186
+	{mso-style-name:Hyperlink186;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink186
+	{mso-style-name:FollowedHyperlink186;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink187
+	{mso-style-name:Hyperlink187;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink187
+	{mso-style-name:FollowedHyperlink187;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink188
+	{mso-style-name:Hyperlink188;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink188
+	{mso-style-name:FollowedHyperlink188;
+	color:black;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink189
+	{mso-style-name:Hyperlink189;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink189
+	{mso-style-name:FollowedHyperlink189;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.Hyperlink190
+	{mso-style-name:Hyperlink190;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+span.FollowedHyperlink190
+	{mso-style-name:FollowedHyperlink190;
+	color:white;
+	mso-text-animation:none;
+	text-decoration:none;
+	text-underline:none;
+	text-decoration:none;
+	text-line-through:none;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style> 
+  <!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--> 
+ </head> 
+ <body bgcolor="white" lang="EN-US" link="blue" vlink="blue" style="tab-interval:.5in" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"> 
+  <div class="Section1"> 
+   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in"> 
+    <tbody>
+     <tr> 
+      <td width="14%" valign="top" style="width:14.3%;background:#990000;padding:
+  0in 0in 0in 0in"> <p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:Verdana">&nbsp;
+         <o:p></o:p></span></p> 
+       <div align="center"> 
+        <table border="0" cellspacing="0" cellpadding="0" width="1%" style="width:1.0%;
+   mso-cellspacing:0in;mso-padding-alt:11.25pt 11.25pt 11.25pt 11.25pt"> 
+         <tbody>
+          <tr> 
+           <td style="padding:11.25pt 11.25pt 11.25pt 11.25pt"> <p class="MsoNormal"><span style="font-family:Verdana"><a href="http://www.wisc.edu/"><span style="text-decoration:none;text-underline:
+    none"><img border="0" width="125" height="46" id="_x0000_i1025" src="logo-wordmark.gif"></span></a>
+              <o:p></o:p></span></p> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+       </div> <p class="navbodyblack" align="center" style="text-align:center"><span style="font-size:7.5pt"><a href="http://my.wisc.edu/portal/">My UW | </a><a href="http://www.wisc.edu/wiscinfo/search/google.html">UW Search </a></span>
+        <o:p></o:p></p> <p class="MsoNormal"><span style="font-size:7.5pt;font-family:Verdana">
+         <!-- need some space below the UW logo -->&nbsp; &nbsp;<br> &nbsp; &nbsp;<br style="mso-special-character:line-break"> 
+         <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break"> 
+         <!--[endif]--></span><span style="font-family:Verdana">
+         <o:p></o:p></span></p> 
+       <!-- *******  "Breadcrumb" links showing the position of the page in the overall context of the site can be placed here   ****--> <p class="navbodyblack" align="center" style="text-align:center"><span style="font-size:10.0pt;mso-bidi-font-size:7.5pt"><a href="http://www.cs.wisc.edu/">Computer Science Home Page</a><br style="mso-special-character:line-break"> 
+         <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break"> 
+         <!--[endif]-->
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt">
+         <!--[if !supportEmptyParas]-->&nbsp;
+         <!--[endif]-->
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="margin-top:12.0pt;text-align:center"><span style="mso-bidi-font-size:7.5pt"><a href="http://pages.cs.wisc.edu/~ramkris/">Home Page</a>
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt">
+         <!--[if !supportEmptyParas]-->&nbsp;
+         <!--[endif]-->
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt"><a href="http://pages.cs.wisc.edu/~ramkris/Research.html">Research</a></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt">
+         <!--[if !supportEmptyParas]-->&nbsp;
+         <!--[endif]-->
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt"><a href="http://pages.cs.wisc.edu/~ramkris/awards.html">Awards</a>
+         <o:p></o:p></span></p> 
+       <!-- ************* End of Editable Region for Hyperlinks **************************** --> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt">
+         <!--[if !supportEmptyParas]-->&nbsp;
+         <!--[endif]-->
+         <o:p></o:p></span></p> <p class="navbodyblack" align="center" style="text-align:center"><span style="mso-bidi-font-size:7.5pt"><a href="http://pages.cs.wisc.edu/~ramkris/Teaching.html">Teaching</a></span></p> </td> 
+      <td width="1%" valign="top" style="width:1.96%;padding:0in 0in 0in 0in"> <p class="MsoNormal"><span style="font-family:Verdana"><img border="0" width="20" height="1" id="_x0000_i1027" src="trans.gif">
+         <o:p></o:p></span></p> </td> 
+      <td width="81%" valign="top" style="width:81.8%;padding:0in 0in 0in 0in"> <p class="MsoNormal">
+        <!--[if !supportEmptyParas]-->&nbsp;
+        <!--[endif]-->
+        <o:p></o:p></p> 
+       <table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;
+   mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in"> 
+        <tbody>
+         <tr> 
+          <td width="100%" valign="top" style="width:100.0%;padding:0in 0in 0in 0in"> <p class="MsoNormal"><span style="font-family:Verdana"><img border="0" width="101" height="11" id="_x0000_i1028" src="uw-m_black.gif" vspace="4" alt="UW-Madison"><br> <a href="http://www.cs.wisc.edu/"><span style="text-decoration:none;
+    text-underline:none"><img border="0" width="252" height="22" id="_x0000_i1029" src="banner.gif" alt="Computer Sciences Dept."></span></a>
+             <o:p></o:p></span></p> <p class="MsoNormal">
+            <!--[if !supportEmptyParas]-->&nbsp;
+            <!--[endif]--><span style="font-family:Verdana">
+             <o:p></o:p></span></p> </td> 
+         </tr> 
+         <tr style="height:300.0pt"> 
+          <td width="100%" valign="top" style="width:100.0%;padding:0in 0in 0in 0in;
+    height:300.0pt"> 
+           <table border="0" cellpadding="0" width="100%" style="width:100.0%;mso-cellspacing:
+     1.5pt;mso-padding-alt:0in 0in 0in 0in"> 
+            <tbody>
+             <tr> 
+              <td style="padding:.75pt .75pt .75pt .75pt"> <h1 valign="center">
+                <!-- ************Editable Region for Page Content- Enter
+              Content Here  ************************ -->
+                <!-- Top of Body -->Ramakrishna Varadarajan<a name="body"></a></h1> <p class="MsoNormal"><strong><span style="font-family:Verdana">Postdoctoral Research Associate</span></strong><span style="font-family:Verdana">
+                 <o:p></o:p></span></p> <p style="margin:0in;margin-bottom:.0001pt">4378, Department of Computer Sciences,</p> <p style="margin:0in;margin-bottom:.0001pt">1210 West Dayton Street, </p> <p style="margin:0in;margin-bottom:.0001pt">University of Wisconsin-Madison, </p> <p style="margin:0in;margin-bottom:.0001pt">WI 53706-1685.</p> <p style="margin:0in;margin-bottom:.0001pt">Office tel: 608-890-0015.</p> <p style="margin:0in;margin-bottom:.0001pt">Email: ramkris(at)cs.wisc.edu</p> </td> 
+              <td nowrap style="padding:.75pt .75pt .75pt .75pt"> <p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:Verdana"><img border="0" width="190" height="180" id="_x0000_i1038" src="Ramakrishnan2x3.jpg" alt="Picture of Ramakrishna Varadarajan" align="center">
+                 <o:p></o:p></span></p> </td> 
+             </tr> 
+            </tbody>
+           </table> <p class="MsoNormal">
+            <!-- BEGIN the body of the web page here --><span style="font-size:10.0pt">
+             <!--[if !supportEmptyParas]-->&nbsp;
+             <!--[endif]-->
+             <o:p></o:p></span></p> <p style="text-align:justify">I am currently working as a Postdoctoral Research Associate with Professor <a href="http://pages.cs.wisc.edu/~jignesh">Jignesh Patel</a>. I received my Ph.D. and M.S. degrees in <a href="http://www.cs.fiu.edu/">Computer Science</a> from <a href="http://www.fiu.edu/">Florida International University</a>, Miami, Florida in 2009 and 2006 respectively. Before that, I received my B.E. degree in Computer Science &amp; Engineering from <a href="http://www.unom.ac.in/">University of Madras</a>, Chennai, India in 2004.</p> <p style="text-align:justify; margin-top:0; margin-bottom:0">I am currently looking for teaching and/or research-oriented academic or industry positions. 
+            <!--[if !supportEmptyParas]--> 
+            <!--[endif]--></p> <p style="text-align:justify; margin-top:5px; margin-bottom:0">
+            <!--[if !supportEmptyParas]--> <a href="http://pages.cs.wisc.edu/~ramkris/CV.pdf">Curriculum Vitae</a>&nbsp;
+            <!--[endif]-->
+            <o:p> 
+            </o:p>
+            <!--[if !supportEmptyParas]--> <a href="http://pages.cs.wisc.edu/~ramkris/RS.pdf">Research Statement</a>&nbsp; 
+            <!--[endif]-->
+            <!--[if !supportEmptyParas]--> <a href="http://pages.cs.wisc.edu/~ramkris/TS.pdf">Teaching Statement</a>
+            <!--[endif]-->
+            <!--[if !supportEmptyParas]-->
+            <!--[endif]--></p> <p style="text-align:justify"><strong>EDUCATION</strong><span style="font-size:11.0pt;mso-bidi-font-size:12.0pt">
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">Ph.D.</span></b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt"> in <b>Computer Science</b> (August 2004 &#x2013; April 2009) 
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">School of Computing and Information Sciences, 
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">Florida International University, Miami, Florida.
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><i><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">Dissertation</span></i></b><span style="font-size:11.0pt;
+    mso-bidi-font-size:12.0pt">: <a href="http://pages.cs.wisc.edu/~ramkris/Dissertation.pdf">Ranked Search on Data Graphs</a> (<a href="http://pages.cs.wisc.edu/~ramkris/fulltext.pdf">formal copy</a>) (<a href="http://pages.cs.wisc.edu/~ramkris/RamDissertation.pdf">PPT</a>) (<a href="http://digitalcommons.fiu.edu/etd/220/">digital commons @ FIU</a>)
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><i><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">Research Advisor</span></i></b><span style="font-size:11.0pt;
+    mso-bidi-font-size:12.0pt">: Prof. <a href="http://www.cs.fiu.edu/~vagelis">Vagelis Hristidis</a>
+             <o:p></o:p></span></p> <p style="text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">
+             <!--[if !supportEmptyParas]-->&nbsp;
+             <!--[endif]-->
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">M.S.</span></b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt"> in <b>Computer Science</b> (August 2004 - April 2006) 
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">School of Computing and Information Sciences,
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span lang="ES-TRAD" style="font-size:11.0pt;
+    mso-bidi-font-size:12.0pt;mso-ansi-language:ES-TRAD">Florida International University, Miami, Florida.
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><i><span lang="ES-TRAD" style="font-size:11.0pt;
+    mso-bidi-font-size:12.0pt;mso-ansi-language:ES-TRAD">CGPA</span></i></b><span lang="ES-TRAD" style="font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+    ES-TRAD">: 3.95/4.0
+             <o:p></o:p></span></p> <p style="text-align:justify"><span lang="ES-TRAD" style="font-size:11.0pt;
+    mso-bidi-font-size:12.0pt;mso-ansi-language:ES-TRAD">
+             <!--[if !supportEmptyParas]-->&nbsp;
+             <!--[endif]-->
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">B.E.</span></b><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt"> in <b>Computer Science and Engineering</b> (June 2000 - June 2004)
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">University of Madras, Chennai, India.
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt">First class Honors (Ranked 5<sup>th</sup> - University Gold Medalist)
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify"><span style="font-size:11.0pt;mso-bidi-font-size:
+    12.0pt;display:none;mso-hide:all">
+             <!--[if !supportEmptyParas]-->&nbsp;
+             <!--[endif]-->
+             <o:p></o:p></span></p> <p style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;text-align:justify">
+            <!--[if !supportEmptyParas]-->&nbsp;
+            <!--[endif]--><span style="font-size:11.0pt;mso-bidi-font-size:12.0pt">
+             <o:p></o:p></span></p> </td> 
+         </tr> 
+        </tbody>
+       </table> <p class="MsoNormal"><span style="font-family:Verdana">
+         <o:p></o:p></span></p> </td> 
+      <td width="1%" style="width:1.96%;padding:0in 0in 0in 0in"> <p class="MsoNormal"><span style="font-family:Verdana"><img border="0" width="20" height="1" id="_x0000_i1031" src="trans.gif">
+         <o:p></o:p></span></p> </td> 
+     </tr> 
+     <tr style="height:15.0pt"> 
+      <td colspan="4" style="background:black;padding:0in 0in 0in 0in;height:15.0pt"> <p class="MsoNormal" align="center" style="text-align:center"><span class="bodywhite1"><span style="font-size:7.5pt;font-family:Verdana"><a href="http://www.cs.wisc.edu/">Computer Sciences</a> | <a href="http://www.wisc.edu/">UW Home</a> 
+          <!-- ****************End of Editable Region for bottom navigation bar *************************** --></span></span><span style="font-family:Verdana">
+         <o:p></o:p></span></p> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <p class="MsoNormal"><span style="font-family:Verdana;display:none;mso-hide:all">
+     <!--[if !supportEmptyParas]-->&nbsp;
+     <!--[endif]-->
+     <o:p></o:p></span></p> 
+   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;
+ mso-cellspacing:0in;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt"> 
+    <tbody>
+     <tr> 
+      <td width="100%" style="width:100.0%;padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="copyright" align="center" style="text-align:center">
+        <!-- *******************Start of Editable Region to Change Date Last Updated ***************** -->
+        <!--	  
+	  File last updated: <br>
+-->
+        <!-- ******************End of Editable Region to Change Date Last Updated ******************* -->
+        <!-- ************Start of Editable Region to Modify Contact Email Address ******************** -->Feedback or content questions: send email to ramkris at the cs.wisc.edu server</p> </td> 
+     </tr> 
+    </tbody>
+   </table> 
+   <p class="MsoNormal">
+    <!--[if !supportEmptyParas]-->&nbsp;
+    <!--[endif]-->
+    <o:p></o:p></p> 
+  </div>   
+ </body>
+</html>

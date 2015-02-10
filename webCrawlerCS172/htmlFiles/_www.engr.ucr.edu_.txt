@@ -1,0 +1,348 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Bourns College of Engineering: Home</title> 
+  <meta http-equiv="last-modified" content="2015-02-03"> 
+  <meta name="version" content="2.62 2.123 "> 
+  <!-- 02/09/15 17:31:39 02/09/15 18:17:46 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="https://fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to BCOE news via RSS" href="http://www.engr.ucr.edu/rss/news.xml"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www.engr.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/masthead_overlay.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead"> 
+   <h1><a href="http://www.engr.ucr.edu/"><span class="printonly">Bourns College of Engineering</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">Social Media Links:</p> 
+   <ul class="l_breadcrumb_links"> 
+    <li><a id="footer_link_flickr" href="http://www.flickr.com/photos/bournscollege/" title="Visit BCOE’s Flickr gallery (external site: Flickr)"><span class="accessibility">Visit BCOE’s Flickr gallery</span></a></li> 
+    <li><a id="footer_link_facebook" href="http://www.facebook.com/pages/Riverside-CA/Bourns-College-of-Engineering/118503574842498" title="Visit BCOE’s Facebook page (external site: Facebook)"><span class="accessibility">Visit BCOE’s Facebook page</span></a></li> 
+    <li><a id="footer_link_twitter" href="http://twitter.com/bournscollege" title="Follow BCOE on Twitter (external site: Twitter)"><span class="accessibility">Follow BCOE on Twitter</span></a></li> 
+    <li><a id="footer_link_youtube" href="http://www.youtube.com/BournsCollege" title="Visit BCOE’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit BCOE’s YouTube channel</span></a></li> 
+    <li><a id="footer_link_linkedin" href="http://www.linkedin.com/groups?gid=3185912" title="Join the Linkedin alumni group (external site: Linkedin)"><span class="accessibility">Join the Linkedin alumni group</span></a></li> 
+    <li><a id="footer_link_rss" href="http://www.engr.ucr.edu/rss/news.xml" title="Subscribe to BCOE news via RSS"><span class="accessibility">Subscribe to BCOE news via RSS</span></a></li> 
+   </ul> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Bourns College of Engineering</li> 
+   </ul> 
+  </div> 
+  <div class="l_contentwrapper">
+   <div class="pagewrapper"> 
+    <hr> 
+    <!-- Start Content (Navigation and Content columns) --> 
+    <div id="content"> 
+     <h2 class="accessibility">Home</h2> 
+     <!-- Start Sidebar --> 
+     <div id="sidebar"> 
+      <div class="nav"> 
+       <h3 class="accessibility">Main Navigation</h3> 
+       <ul> 
+        <li class="currentpage"><h3><dfn>Current page is: </dfn>BCOE Home</h3></li>
+        <li><a href="/about/" title="The Bourns Difference">The Bourns Difference</a></li>
+        <li><a href="/academics/" title="Academic Programs">Academic Programs</a></li>
+        <li><a href="/research/" title="Research">Research</a></li>
+        <li><a href="/employment.html" title="Employment">Employment</a></li>
+        <li><a href="/faculty/" title="The Faculty">The Faculty</a></li>
+        <li><a href="/undergrads/" title="Prospective Undergraduate Students">Prospective Undergraduate Students</a></li>
+        <li><a href="http://student.engr.ucr.edu/" title="Current Undergraduate Students">Current Undergraduate Students</a></li>
+        <li><a href="/grad/" title="Graduate Programs">Graduate Programs</a></li>
+        <li><a href="/alumni/" title="Bourns Alumni">Bourns Alumni</a></li>
+        <li><a href="/giving/" title="Giving">Giving</a></li>
+        <li><a href="/industry/" title="Corporate Partners Program">Corporate Partners Program</a></li>
+        <li><a href="/news/" title="News">News</a></li> 
+       </ul> 
+      </div> 
+      <div class="l_info_box" id="l_events_box"> 
+       <h4>Upcoming Events</h4> 
+       <p>No Events.</p> 
+       <p><a class="img_button" id="l_more_info" href="/news/events.html"><span class="accessibility">More Information</span></a></p> 
+      </div> 
+     </div> 
+     <hr> 
+     <!-- End Sidebar --> 
+     <!-- Start Content Area --> 
+     <div id="main"> 
+      <div class="l_column23_sp"> 
+       <div class="l_glider" id="my-glider"> 
+        <div class="scroller"> 
+         <div class="content"> 
+          <div class="slide" id="slide1"> 
+           <img title="NSBE leadership team" src="/images/home/NSBE_slide_show.jpg" alt="NSBE leadership team" width="306" height="249"> 
+           <p>More than 1,000 BCOE students belong to 24 campus organizations, including the National Society of Black Engineers, whose student leadership team is shown here at the NSBE national convention.</p> 
+           <p><a href="http://student.engr.ucr.edu/lead/storgs.html">Learn more</a></p>
+          </div> 
+          <div class="slide" id="slide2"> 
+           <img src="/images/home/atmospheric_chamber.jpg" alt="Researchers inside the atmospheric chamber at CE-CERT." width="306" height="249"> 
+           <p>The Center for Environmental Research and Technology is one of eight research centers at BCOE and the site of the world’s largest atmospheric chamber.</p> 
+           <p><a href="/research/centers.html">More on Centers</a></p>
+          </div> 
+          <div class="slide" id="slide3"> 
+           <img title="Dean Reza Abbaschian and Winston Chung" src="/images/home/WinstonChungHomePage2.jpg" alt="Dean Reza Abbaschian and Winston Chung" width="306" height="249"> 
+           <p>Chinese technology innovator Winston Chung's $10 million gift to the college established the Winston Chung Global Energy Center and two endowed professorships.</p> 
+           <p><a href="http://newsroom.ucr.edu/2532">More on Winston Chung's Gift</a></p>
+          </div> 
+          <div class="slide" id="slide4"> 
+           <img src="/images/home/gradstudent.jpg" alt="Grad student Desalegne Teweldebrhan." width="306" height="249"> 
+           <p>Seventy percent of BCOE grads have jobs within six months of graduation. Desalegne Teweldebrhan, M.S. MSE ’11, Ph.D. EE ’11, is now employed at Intel.</p> 
+           <p><a href="/news/2014/2014-07-28.html">More on Student Awards</a></p>
+          </div> 
+          <div class="slide" id="slide5"> 
+           <img src="/images/home/Bourns_Engineering_Day_2013.jpg" alt="Children participating in Space Science and Engineering Day." width="306" height="249"> 
+           <p>Organized by BCOE’s chapter of the Society of Women Engineers (SWE), Bourns Engineering Day draws more than 600 local children and their families to campus.</p> 
+           <p><a href="http://ucrtoday.ucr.edu/13495">More about Bourns Engineering Day</a></p>
+          </div> 
+          <div class="slide" id="slide6"> 
+           <img src="/images/home/laserstudentslab.jpg" alt="Students in laser lab." width="306" height="249"> 
+           <p>The National Research Council ranked BCOE’s doctorate programs in the top quartile in the nation. Undergraduate research opportunities abound at the college as well.</p> 
+           <p><a href="/news/2010news.html#NRC">More on NRC Assessment</a></p>
+          </div> 
+          <div class="slide" id="slide7"> 
+           <img src="/images/home/MarcoPrincevac.jpg" alt="Researchers in lab." width="306" height="249"> 
+           <p>Research and teaching excellence are hallmarks of the BCOE faculty. The average extramural research funding per faculty is more than $400,000.</p> 
+           <p><a href="/faculty/">More on Faculty</a></p>
+          </div> 
+         </div> 
+        </div> 
+        <ul class="controls"> 
+         <li><a class="active" href="#slide1">1</a></li> 
+         <li><a href="#slide2">2</a></li> 
+         <li><a href="#slide3">3</a></li> 
+         <li><a href="#slide4">4</a></li> 
+         <li><a href="#slide5">5</a></li> 
+         <li><a href="#slide6">6</a></li> 
+         <li><a href="#slide7">7</a></li> 
+        </ul> 
+       </div> 
+       <script type="text/javascript">
+var my_glider;
+
+$LAB.script("http://www.ucr.edu/min/f=js/glider.js").wait(function(){
+	my_glider = new Glider('my-glider', {duration:0.5, autoGlide: true, frequency:6});
+});
+</script> 
+       <h3 id="l_news_ttl">College News</h3> 
+       <!-- Feed accessed 2015-02-09T17:31:39-08:00--> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2015/2015-02-03.html"><img alt="Claire Tran" src="http://www.engr.ucr.edu/images/news/Claire Tran58px.jpg">Undergraduate STEM researchers earn top national awards</a></h4> 
+        <p>Engineering seniors Joel Sanchez and Claire Tran recently received top awards for their research presented at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in San Antonio, Texas. The Bourns College of Engineering undergraduates were among 17 students nationwide whose work was honored as outstanding in their disciplines of engineering, physics, and mathematics.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2015/2015-02-02.html"><img alt="Dr. Ge NSF" src="http://www.engr.ucr.edu/images/news/ge_thumb.jpg">Bourns chemical engineer earns prestigious NSF CAREER Award</a></h4> 
+        <p>Xin Ge, assistant professor of Chemical and Environmental Engineering at UCR's Bourns College of Engineering, has been awarded a five-year Faculty Early Career Development Program (CAREER) grant from the National Science Foundation. The $500,000Â&nbsp;CAREER Award will support Ge's research on developing therapeutic monoclonal antibodies, which have a broad range of applications in pharmaceutical and biotechnological industries.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2015/2015-01-28.html"><img alt="AIMBE logo mark" src="http://www.engr.ucr.edu/images/news/aimbe logo mark.jpg">Bhanu and Wu elected to prestigious College of Fellows of American Institute for Medical and Biological Engineering</a></h4> 
+        <p>Distinguished Professor Bir Bhanu and Professor of Chemical Engineering Jianzhong Wu have been named to the College of Fellows of the American Institute for Medical and Biological Engineering (AIMBE), a distinction that places the Bourns College of Engineering professors among 1,500 leaders in the field of bioengineering who have distinguished themselves through their contributions in research, industrial practice and/or education.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-12-22.html"><img alt="ANYSYS software demo" src="http://www.engr.ucr.edu/images/news/ANSYS screen 2.jpg">New ANSYS software makes 'real-world' simulation training possible for Bourns College of Engineering students</a></h4> 
+        <p>Thanks to a generous donation by leading global software company ANSYS, Inc., Bourns College of Engineering students will now be able to use simulation software that enables high-end solving of complex design challenges.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-12-09.html"><img alt="DPFs donation presented by Caterpillar, Inc.'s Jeff Jacobs" src="http://www.engr.ucr.edu/images/news/thumb Jeff Jacobs.jpg">Caterpillar, Inc. donates Diesel Particulate Filters for CE-CERT Research</a></h4> 
+        <p>Officials from UC Riverside's Bourns College of Engineering - Center for Environmental Research and Technology (CE-CERT) announced an in-kind donation by Caterpillar, Inc. of Diesel Particulate Filters (DPF) to be used for CE-CERT's research purposes.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2013-11-25.html"><img alt="2014 MESA California student participants from BCOE" src="http://www.engr.ucr.edu/images/news/2014 MESA thumb.jpg">BCOE student leaders participate in 2014 MESA conference</a></h4> 
+        <p>Eleven Bourns College of Engineering students honed their leadership skills at 11th Annual Mathematics, Engineering, Science Achievement (MESA) Student Leadership conference in San Diego in November.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-11-21.html"><img alt="Zordan at ExCITE" src="http://www.engr.ucr.edu/images/news/Zordan at ExCITE.jpg">Zordan is co-founder of tech start-up</a></h4> 
+        <p>Victor Zordan, associate professor of computer science and engineering at Bourns College of Engineering, will launch a technology start-up with UC Riverside psychology professor Aaron Seitz as one of the first tenants of the Riverside ExCITE Incubator in downtown Riverside. The venture, called Fundamentals, will develop and distribute the latest in evidence-based research knowledge in the area of brain fitness and training through game applications on smart devices.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-11-4.html"><img alt="Eamonn Keogh headshot" src="http://www.engr.ucr.edu/images/news/Eamonn Keogh headshot.jpg">Keogh team tests 'PEG' smartphone game invention that is designed to reinforce good health habits</a></h4> 
+        <p>With the support of his third Gates Foundation Challenge grant, Eamonn Keogh and a team of interdisciplinary researchers will test their creative method of encouraging healthy behavior by using smartphone technology, game theory, incentive models, and anthropology. Conducting initial experiments with volunteers in the developed world-- then moving to thornier problems in third world communities--the team will use the 'PEG' system affectionately named after Keogh's late mother, Peggy "Peg" Keogh.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-10-29a.html"><img alt="Shah Selbe distinguished alumni Oct 22 2014" src="http://www.engr.ucr.edu/images/news/Shah Selbe BCOE talk 2 Oct 22 2014 thumb.jpg">Shah Selbe '04 named UCR Alumni Association's Young Alumnus of the Year, headlines distinguished alumni event at BCOE</a></h4> 
+        <p>Bourns College of Engineering alumnus Shah Selbe '04 returned to campus recently to receive honors as Young Alumnus of the Year by the UCR Alumni Association and to speak to BCOE students about his role as a volunteer for Engineers Without Borders. Selbe works as a spacecraft propulsion scientist by day, but also was named by the National Geographic Society as one of their 2013 Emerging Explorers for his work as a conservation technologist. Selbe created FishNET, which helps monitor unregulated fishing worldwide.</p> 
+       </div> 
+       <div class="l_news_list"> 
+        <h4><a href="http://www.engr.ucr.edu/news/2014/2014-10-29.html"><img alt="Young Personal World Lecture" src="http://www.engr.ucr.edu/images/news/Young Persons World Lecture pic thumb.jpg">BCOE hosts 2014 IOM3 international student competition</a></h4> 
+        <p>BCOE increases international status as host for 2014 IOM3 Young Person's World Lecture Competition</p> 
+       </div> 
+      </div> 
+      <div class="l_column3R_sp"> 
+       <div id="l_announcements"> 
+        <img class="border_image_top" src="/images/design6/announcements_top.png" height="33" width="212"> 
+        <h3 class="accessibility">Announcements</h3> 
+        <h3><a href="https://advancementservices.ucr.edu/AdvanceOnlineGiving/Search?key=200748"><br></a>SEARCHES&nbsp;OPEN<br>FOR NEW FACULTY<br>POSITIONS<br><br><a href="/facultysearch/">2014/2015 Ladder<br>Rank Faculty Search&gt;&gt;</a><br><br><a href="/reception.html"><br></a></h3> 
+       </div> 
+       <div class="l_info_box" id="l_spotlight"> 
+        <img class="border_image_top" src="/images/design6/ttl_in_the_spotlight.png" height="63" width="200"> 
+        <h3 class="accessibility">In the Spotlight</h3> 
+        <p><a style="letter-spacing: 0.03em; line-height: 1.167em; display: inline !important; background-color: initial;" href="http://blogs.rsc.org/ay/category/hot-article/">"HOT ARTICLE" honors go to&nbsp;Lyubovitsky ARTICLE PUBLISHED BY ROYAL SOCIETY OF CHEMISTRY</a><img style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;" src="/images/Royal%20Society%20of%20Chemistry.jpg" alt="RSC" width="177" height="58"></p> 
+        <p><a href="http://ucrtoday.ucr.edu/26399">MATHAUDHU TO RECEIVE&nbsp; Norm Augustine Award for Outstanding Achievement in Engineering Communications&nbsp;<img src="/images/Suveen%20Mathadhu%20at%20ComicTanium%20Oct%202014%20rev.JPG" alt="Suveen" width="177" height="58"></a></p> 
+        <p><a href="https://www.flickr.com/photos/bournscollege/sets/72157644463836380/"><img src="/images/spotlight_SIGI.jpg" alt="APL" width="178" height="53">View the photos of the opening celebration of the Sustainable Integrated Grid Project at CE-CERT.</a></p> 
+        <p><img title="Bryan Wong article Nov 2014" src="/images/B%20Wong%20article%20image.JPG" alt="B Wong article image" width="178" height="53"><a href="http://onlinelibrary.wiley.com/doi/10.1002/marc.201470058/abstract">Bryan Wong Article on light-harvesting for energy conversion publishED</a></p> 
+        <p id="l_spotlights_last"><a class="img_button" id="l_more_spotlights" href="/news/spotlight.html"><span class="accessibility">More Spotlights</span></a></p> 
+       </div> 
+       <div class="l_info_box" id="l_headlines"> 
+        <img class="border_image_top" src="/images/design6/ttl_in_the_headlines.png" height="55" width="200"> 
+        <h3 class="accessibility">In the Headlines</h3> 
+        <p>The opening celebration of the Sustainable Integrated Grid Initiative at CE-CERT drew a lot of media attention, including a <a href="http://www.pe.com/articles/power-694994-riverside-solar.html">story</a> and <a href="http://www.pe.com/articles/ucr-695017-building-research.html">photo slide show</a>&nbsp;by the Riverside Press-Enterprise and stories in <a href="http://www.sbsun.com/environment-and-nature/20140522/uc-riverside-center-to-focus-on-renewable-energy-research">The Sun</a>, <a href="http://domesticfuel.com/2014/05/16/ucr-unveils-sustainable-grid-initiative/">Domestic Fuel</a>, <a href="http://earthtechling.com/2014/05/integrating-electric-vehicles-solar-energy-and-batteries/">Earth Techling</a>, <a href="http://www.powerpulse.net/story.php?storyID=29981">PowerPulse</a>, <a href="http://www.azocleantech.com/news.aspx?newsID=20133">AZoCleantech</a>, <a href="http://www.greencarcongress.com/2014/05/20140515-ucr.html">Green Car Congress</a>, <a href="http://www.fiercesmartgrid.com/story/ucr-test-bed-solar-ev-and-battery-integration/2014-05-21">FierceSmartGrid</a> and <a href="http://chargedevs.com/newswire/university-of-california-project-will-research-integration-of-evs-with-renewable-energy-storage-and-smart-grid-technology/">Charged Electric Vehicles Magazine</a>.</p> 
+        <p>The <a href="http://www.sbsun.com/environment-and-nature/20140206/inland-empire-leading-californias-solar-power-growth">San Bernardino Sun</a> newspaper and the public television station<a href="/%20http:/kvcr.org/News/Stories/2014/February/0207_Students_Projecets_Shine_at_UCR_Solar_Energy_Conference"> KVCR</a> covered the conference titled, Solar Energy in Inland Southern California: The Future is Now, hosted by the Southern California Research Initiative for Solar Energy (SC-RISE), along with other UCR centers and local company SolarMAX.</p> 
+        <p>Several media outlets covered the unveiling of the new Advanced Thermochemical Research Laboratory at CE-CERT November 19, 2013, including <a href="http://losangeles.cbslocal.com/2013/11/20/uc-riverside-engineers-reveal-technology-that-turns-human-waste-into-fuel/">CBS Los Angeles</a>,&nbsp;<a href="http://www.californiareport.org/archive/R201311200850/b">The California Report (KQED radio)</a>, <a href="http://www.kesq.com/news/uc-riverside-unveils-new-laboratory-celebrates-palm-desert-researcher/-/233092/23058816/-/1xrmy1/-/index.html">KESQ-TV</a>, <a href="http://www.scpr.org/news/2013/11/18/40456/uc-riverside-s-new-biomass-system-makes-energy-fro/">KPCC (Southern California Public Radio)</a>, <a href="http://www.mydesert.com/article/20131119/BUSINESS0302/311190008/UC-Riverside-test-plant-could-cut-greenhouse-gases-help-Salton-Sea">The Desert Sun</a> and the <a href="http://www.pe.com/local-news/local-news-headlines/20131119-uc-riverside-university-unveils-waste-to-energy-system.ece">Riverside&nbsp;Press-Enterprise</a>. The facility includes a steam hydrogasification reactor that converts carbonaceous materials like bio-waste into fuel.</p> 
+        <p id="l_headlines_last"><a class="img_button" id="l_more_headlines" href="/news/headlines.html"><span class="accessibility">More Headlines</span></a></p> 
+       </div> 
+      </div> 
+      <div class="clear"></div> 
+     </div> 
+     <!-- End Content Area --> 
+     <div class="clear"></div> 
+    </div> 
+    <!-- End Content --> 
+   </div>
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column3"> 
+      <h3>College Information</h3> 
+      <address><strong>Bourns College of Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">446 Winston Chung Hall</a><br> <br> Tel: (951) 827-5190<br> Fax: (951) 827-3188<br> E-mail: <a href="mailto:collegeinfo@engr.ucr.edu?subject=Website%20Inquiry">collegeinfo@engr.ucr.edu</a></address> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/research/licensing.html">License Bourns Technology</a></li> 
+       <li><a href="http://www.ucr.edu/giving/">Give to Bourns</a></li> 
+       <li><a href="/intranet/">Intranet</a></li> 
+       <li><a href="/inventthefuture.html">Invent the Future</a></li> 
+       <li><a href="http://systems.engr.ucr.edu">Systems</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/design6/footer_building.jpg" alt="" width="120" height="87"> <strong>Engineering Times Newsletter</strong><br> <br> <a href="/news/e-newsletter.html">Sign up to receive the college's e-newsletter <em>Engineering Times</em></a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.engr.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01002&amp;site=cmsengr&amp;path=%2Findex.html">Last modified: 2015-Feb-03</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.005093 seconds using 1.25 MiB of memory. -->   
+ </body>
+</html>

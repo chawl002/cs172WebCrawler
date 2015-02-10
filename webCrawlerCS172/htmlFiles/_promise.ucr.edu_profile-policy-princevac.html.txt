@@ -1,0 +1,273 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>UCR — Living the Promise: Marko Princevac</title> 
+  <meta http-equiv="last-modified" content="2014-10-09"> 
+  <meta name="version" content="2.34 1.6 "> 
+  <!-- 02/09/15 12:46:18 02/09/15 13:04:43 --> 
+  <link rel="stylesheet" type="text/css" href="/css/style.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/navigation.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/font-awesome.css" media="all"> 
+  <script type="text/javascript" src="//www.ucr.edu/js/jquery.min.js"></script> 
+  <script type="text/javascript" src="/scripts/navigation.js"></script> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js2"></script> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <link rel="stylesheet" type="text/css" href="/css/policy-profile.css" media="all"> 
+  <meta name="description" content=""> 
+  <!--
+<style type="text/css">
+.contentWrapperBG {background-image:url(../images/pagebackground/center-policy.jpg)}
+</style>
+--> 
+ </head> 
+ <body> 
+  <a name="top"></a> 
+  <div class="siteHeaderWrapper"> 
+   <div class="siteHeader"> 
+    <div class="siteLogo"> 
+     <a href="http://www.ucr.edu/" title="UCR Home Page"><img src="images/UCRiverside.gif" alt="University of California, Riverside" title="UCR Home page"></a> 
+    </div> 
+    <ul id="navigation"> 
+     <li class="highlight"><a href="/">Home</a></li> 
+     <li class="highlight"><a href="about-ucr.html">About UCR</a></li> 
+     <li class="highlight"><a href="featured-research.html">Featured Research</a></li> 
+     <li class="highlight"><a href="partner-with-us.html">Partner With Us</a></li> 
+     <li class="highlight"><a href="directory.html">Directory</a></li> 
+     <li class="highlight"><a href="featured-videos.html">Featured Videos</a></li> 
+    </ul> 
+   </div> 
+  </div> 
+  <div class="contentWrapperBGSpan"> 
+   <div class="contentWrapperBG"> 
+    <div class="contentWrapper"> 
+     <!-- Start Content (Navigation and Content columns) --> 
+     <div class="pageHeader"> 
+      <div class="logo">
+       <a href="/"><img src="images/logo-living-the-promise.png" alt="Living the Promise"></a>
+      </div> 
+      <div class="secondayMenu"> 
+       <!-- Start Sidebar --> 
+       <ul class="secondaryMenu"> 
+        <li><a href="/health.html" title="Health">Health</a></li>
+        <li><a href="/sustainability.html" title="Sustainability">Sustainability</a></li>
+        <li class="currentpage"><a href="/policy.html" title="Policy">Policy</a></li>
+        <li><a href="/technology.html" title="Technology">Technology</a></li> 
+       </ul> 
+       <!-- End Sidebar --> 
+      </div> 
+     </div> 
+     <div id="main"> 
+      <div class="hiddenH1"></div> 
+      <div id="omnicontent"> 
+       <div class="pageBanner withMag"> 
+        <a href="policy.html" class="backToLink">Back to Policy</a>&nbsp;&nbsp;
+        <span class="backToLink">|</span>&nbsp;&nbsp;
+        <a href="featured-research.html" class="backToLink">More Profiles</a>
+        <br> 
+        <div class="jwbox"> 
+         <a href="http://youtu.be/SoCdmhnDY7g"><img src="/images/bttn_watch_faculty_video2.png" alt="Watch faculty video" align="right"></a> 
+         <div class="jwbox_hidden"> 
+          <div class="jwbox_content"> 
+           <img class="jwbox_close" src="http://www.ucr.edu/images/design6/close.png" alt="Close" width="38" height="39"> 
+           <div class="flashcontent"> 
+            <div id="x1423515883a3a74"> 
+             <p>Loading the player…</p> 
+            </div> 
+           </div> 
+           <script type="text/javascript">
+// <![CDATA[
+	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
+		jwplayer('x1423515883a3a74').setup({
+			flashplayer: 'http://www.ucr.edu/player.swf',
+			controlbar: { margin: 0, position: 'over' },
+			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
+			file: 'http://youtu.be/SoCdmhnDY7g',
+			height: 360,
+			width: 640,
+			plugins: {
+				'gapro-2': {},
+				'hd-2': {}
+			}
+		});
+	});
+// ]]>
+</script> 
+          </div> 
+         </div> 
+         <script type="text/javascript">
+	// <![CDATA[
+		$LAB.script('http://www.ucr.edu/js/jquery.min.js').wait().script('http://www.ucr.edu/min/f=js/jlib/jwbox.js');
+	// ]]>
+	</script> 
+        </div>
+        <br> 
+        <a href="http://issuu.com/ucriverside/docs/ltp-2014?e=2768134/9662025"><img style="float: right; clear: right;" src="/images/button_read_magazine.png" alt="Explore More: Read Online Magazine"></a> 
+        <h2>Marko Princevac</h2> Associate Professor of Mechanical Engineering 
+       </div> 
+       <div class="pagePhoto"> 
+        <img src="/images/profile/policy/profile-Marko-Princevac-banner.jpg" alt="Marko Princevac" width="956" height="355">
+        <br> 
+       </div> 
+       <div class="pageContent"> 
+        <div class="profileLeft"> 
+         <div class="researchSpotlight"> 
+          <strong>Enhancing Fire Safety and Land Use Policies</strong>
+          <br> Fire has been with us forever, and it will always be with us. And while it can be a very useful tool, it can also scare us. Marko Princevac is working to understand how fire behaves—how it moves, where it moves and why it moves—so that we can control and fight fire more effectively and safely take advantage of its many benefits. 
+         </div> 
+         <h3>Areas of Expertise</h3> 
+         <div class="xpander"> 
+          <strong>Areas of Expertise:</strong> 
+          <ul> 
+           <li>Fluid mechanics</li> 
+           <li>Air quality</li> 
+          </ul> 
+          <strong>College:</strong> 
+          <ul> 
+           <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> (BCOE)</li> 
+          </ul> 
+          <strong>Press Releases/Articles:</strong> 
+          <ul> 
+           <li><a href="http://www.npr.org/2014/05/09/310466013/ahead-of-wildfire-season-scientists-study-what-fuels-fires?ft=1&amp;f=">Ahead Of Wildfire Season, Scientists Study What Fuels Fires</a> (NPR)</li> 
+           <li><a href="http://www.aljazeera.com/video/americas/2014/05/us-searches-firefighting-solutions-201451717555821234.html">US searches for firefighting solutions</a> (Al Jazeera)</li> 
+           <li><a href="http://ucrtoday.ucr.edu/12224">Two Vortex Trails With One Stroke</a> (UCR Today)</li> 
+           <li><a href="http://ucrtoday.ucr.edu/16522">UC Riverside Wildfire Experts</a> (UCR Today)</li> 
+           <li><a href="http://www.wallstreetdaily.com/2014/04/24/wildfire/">Why California is Playing With Fire</a> (Wall Street Daily)</li> 
+          </ul> 
+          <strong>Profiles:</strong> 
+          <ul> 
+           <li><a href="http://www.engr.ucr.edu/~marko/">Department Profile</a></li> 
+           <li><a href="http://www.me.ucr.edu/mepeople/faculty/princevac.html">Faculty Profile</a></li> 
+          </ul> 
+         </div> 
+         <h3>Select Honors and Distinctions</h3> 
+         <div class="xpander"> 
+          <ul> 
+           <li>European Meteorological Society, Kipp &amp; Zonen Award for Boundary Layer Meteorology (2009)</li> 
+           <li>UC Regents’ Fellowship (2007)</li> 
+           <li>UC Regents’ Faculty Development Award (2005)</li> 
+           <li>Arizona State University recognition for an exemplary job of serving students (2003)</li> 
+          </ul> 
+         </div> 
+         <h3>Research Summary</h3> 
+         <div class="xpander"> 
+          <p>Creating a predictive model for fire behavior to inform firefighting strategies and safely conduct controlled burns</p> 
+         </div> 
+         <h3>Q&amp;A</h3> 
+         <div class="null_xpander"> 
+          <p> <strong>Q: Why did you decide to start researching fire?</strong><br> When I moved to California, I was already specializing in fluid mechanics and environmental flows, and as there are a lot of fires in this area, it became a natural application of the research I was already doing at that time.<br><br><strong> Q: Why did you choose to do research at UCR?</strong><br> UCR already had a good program in air quality, which is what attracted me initially. After I arrived here, I expanded my research to fire behavior.<br><br><strong> Q: Why is it important to study fire?</strong><br> There are several potential applications. This research can help inform firefighting strategies, enabling firefighters to distribute their resources more efficiently. It can also be used by land managers when they are planning prescribed burns. In addition, air quality agencies can better estimate the impact of wild and prescribed burns.<br><br><strong> Q: What have you learned so far?</strong><br> We’re able to quantify the impact of moisture inside a fuel source on the smoke that fuel will produce—this is important when trying to determine how greatly visibility will be impaired by smoke. We can also quantify what the impact of wind will be on a fire spreading.<br><br><strong> Q: What are the challenges of studying fire?</strong><br> Essentially, all fires are alike in the sense that they all need oxygen and fuel. But all fires are also different. How a fire will behave depends on an array of different variables such as the terrain, environmental conditions and the fuel sources. It’s a complex phenomenon, which makes it very difficult to model and predict.<br><br><strong> Q: What role has the US Forest Service played in your research?</strong><br> There are several important elements to our research. Of course we have to look at the theory behind combustion and run laboratory experiments, but we also have to do field measurements. The latter would be impossible without our collaboration with the Forest Service. Through our partnership, we’re able to join in prescribed burns which we wouldn’t be permitted to conduct on our own.<br><br><strong> Q: Can you explain the use of the wind tunnel in your research?</strong><br> We can study live fires during controlled burns, but we can never replicate the exact conditions of these burns. This makes it difficult to quantify exactly how much various conditions will influence the behavior of a fire. We need controlled conditions under which we can repeat experiments. For this reason, we’ve built a fire wind tunnel which enables us to control conditions such as the fuel type, fuel moisture, wind speed, ambient temperature and ambient humidity. This allows us to repeat experiments and determine exactly how much each parameter is affecting the fire’s behavior.<br><br><strong> Q: Can you explain what Super Fog is?</strong><br> Significant visibility impairment is a major problem when there are fires in the southeast of the United States. When visibility drops below a distance of ten feet, we call that condition Super Fog. This poses a substantial risk for drivers and often leads to serious accidents. We’ve conducted a lot of experimental work here to determine what conditions lead to Super Fog, and as a result, we have new criteria that can help the Forest Service minimize the risk of creating it when conducting prescribed burns. If we can prevent burns under conditions that may lead to Super Fog, we will save lives.<br><br><strong> Q: What’s next for your research?</strong><br> Fire is really complex—it will keep me busy for years to come. Eventually, I hope to build a model that will predict where fire will propagate, how intense it will be and how much smoke it will release given any terrain configuration and environment conditions. But that’s still many years down the road. </p> 
+         </div> 
+        </div> 
+        <div class="profileRight"> 
+         <div class="boxArea"> 
+          <img alt="Marko Princevac" src="/images/profile/policy/profile-Marko-Princevac-thumb.jpg" class="img_R_border"> “If we can prevent burns under conditions that may lead to Super Fog, we will save lives.” 
+          <br>
+          <br>
+          <strong>—Marko Princevac</strong> 
+         </div> 
+         <div class="boxArea2"> 
+          <strong>Additional Links:</strong> 
+          <ul> 
+           <li><a href="http://www.engr.ucr.edu/~marko/laboratory.htm">Princevac’s Lab</a></li> 
+           <li><a href="http://video.foxnews.com/v/3657158956001/scientists-using-wind-tunnel-to-study-what-fuels-wildfires/#sp=show-clips">Scientists Using Wind Tunnel to Study What Fuels Wildfires (Fox News Video)</a></li> 
+          </ul> 
+         </div> 
+         <div class="boxArea2"> 
+          <img class="img_L" alt="Living The Promise Report" src="/images/magazine_cover_thumbnail.jpg"> 
+          <strong>Explore More:</strong> 
+          <a href="http://issuu.com/ucriverside/docs/livingthepromisereport?mode=window&amp;backgroundColor=%23222222">Read Online Magazine</a> 
+          <div style="clear:both"></div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- End Content --> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="siteFooterWrapper"> 
+   <div class="siteFooter"> 
+    <div class="socialLogo"> 
+     <a href="http://www.facebook.com/ucriverside"><img src="images/logo-facebook.gif" alt="Facebook"></a> &nbsp;&nbsp;&nbsp; 
+     <a href="http://www.youtube.com/ucriverside"><img src="images/logo-youtube.gif" alt="Youtube"></a> &nbsp;&nbsp;&nbsp; 
+     <a href="http://issuu.com/ucriverside/docs/ltp-2014?e=2768134/9662025" rel="nofollow"><img src="images/digital_mag_icon.png" alt="Explore More: Read Online Magazine"></a> 
+    </div> 
+   </div> 
+  </div>
+  <!--<div class="footerGradientBG">
+    <div class="footerGradient">&nbsp;</div>
+</div>--> 
+  <div class="ucrFooterBG"> 
+   <div class="ucrFooterDiv"> 
+    <div class="ucrFooter"> 
+     <div class="column1"> 
+      <h3>General Campus Information</h3> 
+      <strong><a href="http://www.ucr.edu/">University of California, Riverside</a></strong>
+      <br> 900 University Ave.
+      <br> Riverside, CA 92521
+      <br> Tel: 
+      <span class="tel">(951) 827-1012</span>
+      <br>
+      <br> 
+      <a href="http://library.ucr.edu/">UCR Libraries</a> • 
+      <a href="http://campusstatus.ucr.edu/">Campus Status</a>
+      <br> 
+      <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • 
+      <a href="http://diversity.ucr.edu/">Diversity</a>
+      <br> 
+      <a href="http://visit.ucr.edu">Visit UCR</a> • 
+      <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a> 
+     </div> 
+     <div class="column2"> 
+      <h3>Website Information</h3> 
+      <strong><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a></strong>
+      <br> 
+      <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a>
+      <br> 
+      <a href="mailto:margene.mastin@ucr.edu?subject=Living%20the%20Promise%20website%20feedback">Feedback</a>
+      <br> 
+      <a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=StratComm&amp;site=ltp-dev&amp;path=%2Fprofile-policy-princevac.html">Last modified: 2014-Oct-09</a> 
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>&nbsp; 
+     </div> 
+     <div class="column3"> 
+      <h3>Related Links</h3> 
+      <a href="https://ucr-csm.symplicity.com/employers/">Hire UCR Students</a>
+      <br> 
+      <a href="http://www.ucr.edu/academics/colleges.html">Colleges, Divisions and Schools</a>
+      <br> 
+      <a href="http://magazine.ucr.edu/">UCR Magazine</a>
+      <br> 
+      <a href="http://registrar.ucr.edu/">Office of the Registrar</a>
+      <br> 
+      <a href="http://ucop.edu/" class="external" title="external site: UCOP">UC Office of the President</a>
+      <br>
+      <br> 
+      <table cellpadding="0" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <td width="17"><img src="images/rss.png" alt="RSS 2.0"></td> 
+         <td><a href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.02331 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Expires" content="0"> 
+  <meta name="Description" content=""> 
+  <meta name="Author" content=""> 
+  <meta name="keywords" content=""> 
+  <meta name="copyright" content=""> 
+  <meta name="geo.country" content=""> 
+  <title>
+         
+         
+         
+         Student Conduct Home&nbsp;
+         
+         
+         
+      </title> 
+  <link rel="stylesheet" type="text/css" href="http://conduct.ucr.edu/css/_global.import.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://conduct.ucr.edu/css/masthead.css"> 
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://conduct.ucr.edu/css/plugins/bxslider/jquery.bxslider.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://conduct.ucr.edu/css/plugins/colorbox/colorbox.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://conduct.ucr.edu/css/plugins/ytv/ytv.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://conduct.ucr.edu/scripts/plugins/bxslider/jquery.bxslider.min.js"></script>
+  <script type="text/javascript" src="http://conduct.ucr.edu/scripts/plugins/colorbox/jquery.colorbox-min.js"></script>
+  <script type="text/javascript" src="http://conduct.ucr.edu/scripts/plugins/ytv/ytv.js"></script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-503078-9', 'ucr.edu');
+  ga('send', 'pageview');
+
+</script>
+  <link type="text/css" rel="stylesheet" media="all" href="http://conduct.ucr.edu/css/default.local.css">
+  <script type="text/javascript" src="http://conduct.ucr.edu/scripts/jquery.controls.local.js"></script>
+  <style type="text/css">
+                                .watermark
+                                {
+                                   background-image: url('../images/google_custom_search_watermark.gif');
+                                   background-repeat: no-repeat;
+                                }
+
+                                .normal
+                                {
+                                }
+                                
+                                #height21 > * 
+                                {
+                                        margin: 2px;
+                                }
+        </style>
+  <script type="text/javascript">
+        function Search() {
+            window.location = "http://www.ucr.edu/search.php?q=" + document.getElementById("search-textbox").value; return false;
+        }
+
+                function OnFocus()
+                { 
+                        document.getElementById("search-textbox").className = "normal";   
+                }
+
+                function OnBlur()
+                {
+                        var textValue = document.getElementById("search-textbox").value;
+                        if (textValue.length == 0)
+                        {
+                                document.getElementById("search-textbox").className = "watermark";
+                        }
+                        else
+                        {
+                                document.getElementById("search-textbox").className = "normal";
+                        }
+                }
+      </script>
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a accesskey="2" href="#main" tabindex="1">Skip Navigation</a></li> 
+    <li class="skip"><a accesskey="1" href="index.html" tabindex="2">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar">
+    <img class="overlay" src="http://conduct.ucr.edu/images/mastheadoverlay.png" alt="overlay" border="0">
+    <h2 style="left: 0px; top: 0px"><span class="accessibility">University of California, Riverside</span><a title="UCR Home Page" href="http://www.ucr.edu/"><img width="150" height="53" title="UCR Home page" alt="UCR" src="http://conduct.ucr.edu//images/ucr_logo.gif"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" class="mastheadbg"> 
+   <h1><a href="http://conduct.ucr.edu/index.html"></a></h1> 
+  </div> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="bcinnerwrapper"><a title="UCR Home" href="http://www.ucr.edu/">UCR Home</a> &gt; <a title="UCR Card" href="http://vcsa.ucr.edu/">VCSA</a> &gt; <a title="Home" href="http://conduct.ucr.edu/">Home</a> &gt; Student Conduct Home&nbsp; </p> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <div class="valign" id="height21">
+     <label>Search for:</label>
+     <input id="search-textbox" type="text" class="watermark" onfocus="OnFocus()" onblur="OnBlur()">
+     <input type="button" value="Go" onclick="Search()">
+    </div> 
+   </div> 
+   <hr> 
+   <div id="content"> 
+    <h2 id="pagetitleman"> Student Conduct Home&nbsp; &nbsp; </h2>
+    <style type="text/css">
+div#itsonusbadge h3 {
+	font-size: 1.45em;
+	font-weight: bold;
+	align: center;
+	margin-top: 0;
+	padding: 0;
+	text-align: center;
+	vertical-align: text-top;
+	text-decoration: none;
+}
+  </style>
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <ul> 
+       <li><a href="http://conduct.ucr.edu/index.html">Home</a></li> 
+      </ul> 
+      <ul> 
+       <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/studentrightsresponsibilities.html">Student Rights &amp; Responsibilities</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/standardsofconduct.html">Standards of Conduct</a></li> 
+         <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/conductprocess.html">Conduct Process</a></li> 
+         <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/studentrights.html">Student Rights in Conduct Process</a></li> 
+         <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/sanctioninformation.html">Sanction Information</a></li> 
+         <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/serving.html">Serving on the Conduct Committees</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/studentconductreadyadvisorprogram.html">Serving as a Student Conduct Advisor</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/facultyresources/index.html">Information for Faculty/Instructors</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/facultyresources/reportingmisconduct.html">Reporting Academic Misconduct</a></li> 
+         <li><a href="http://conduct.ucr.edu/facultyresources/handlingclassroomdisruption.html">Handling Classroom Disruption</a></li> 
+         <li><a href="http://conduct.ucr.edu/facultyresources/servingconductcommittees.html">Serving on the Conduct Committees</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/studentconductreadyadvisorprogram.html">Serving as a Student Conduct Advisor</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/informationstaff/informationforstaff.html">Information for Staff</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/informationstaff/workingwithstudentsofconcern.html">Working with Students of Concern</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/socialmisconduct.html">Reporting Student Misconduct</a></li> 
+         <li><a href="http://conduct.ucr.edu/informationstaff/servingontheconductcommittees.html">Serving on the Conduct Committees</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/studentconductreadyadvisorprogram.html">Serving as a Student Conduct Advisor</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/benefitsinvolvement/benefitslanding.html">Benefits of Involvement</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/benefitsinvolvement/servingconductcommittees/servingontheconductcommittees.html">Serving on the Conduct Committees</a>
+          <ul> 
+           <li><a href="http://conduct.ucr.edu/studentrightsresponsibilities/serving.html">Students</a></li> 
+           <li><a href="http://conduct.ucr.edu/facultyresources/servingconductcommittees.html">Faculty</a></li> 
+           <li><a href="http://conduct.ucr.edu/informationstaff/servingontheconductcommittees.html">Staff</a></li> 
+          </ul> 
+          <ul></ul> </li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/studentconductreadyadvisorprogram.html">Student Conduct Ready Advisor Program</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/outreachandresources/index.html">Outreach &amp; Resources</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/brochures.html">Brochures</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/hazinginfo.html">Hazing Information</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/presentationsworkshops.html">Presentations &amp; Workshops</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/studentconductreadyadvisorprogram.html">Student Conduct Ready Advisor Program</a></li> 
+         <li><a href="http://conduct.ucr.edu/outreachandresources/frequentlyaskedquestions.html">Frequently Asked Questions</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/learnpolicies/index.html">Learn the Policies</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/standardsofconduct.html">Standards of Conduct</a></li> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/sanctions.html">Sanctions</a></li> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/administrationofstandards.html">Administration of Standards of Conduct</a></li> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/academicintegrity.html">Academic Integrity Policy &amp; Procedures</a></li> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/goodneighborguidelines.html">Good Neighbor Guidelines</a></li> 
+         <li><a href="http://conduct.ucr.edu/learnpolicies/othercampuspolicies.html">Other Campus Policies</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/forms/index.html">Forms</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/forms/academicmisconduct.html">Academic Misconduct Report Form</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/socialmisconduct.html">Non-Academic (Social) Misconduct Report Form</a></li> 
+         <li><a href="http://deanofstudents.ucr.edu/webforms/GoodneighborForm.aspx" target="_blank">Good Neighbor Report Form</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/studentcommitteememberappform.html">Student Committee Member Application Form</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/ferpa.html">FERPA Waiver / Records Request Form</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/presentation.html">Presentation Request Form</a></li> 
+         <li><a href="http://conduct.ucr.edu/forms/workshopattendance.html">Student Organization Workshop Sanctions</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+       <li><a href="http://conduct.ucr.edu/aboutus/index.html">About Us</a>
+        <ul> 
+         <li><a href="http://conduct.ucr.edu/aboutus/mission.html">Mission</a></li> 
+        </ul> 
+        <ul></ul> </li> 
+      </ul> 
+     </div> 
+     <div id="leftcolumncallouts"> 
+      <div id="itsonusbadge"> 
+       <h3><a href="http://itsonus.org/#top" target="new"><img src="http://conduct.ucr.edu/images/itsonusbadge.jpg" class="img_L_borderless" alt="its on us logo"></a><br><br><a href="http://itsonus.org/#top" target="new" style="border-bottom:none;">Take the Pledge to Stop Sexual Assault</a></h3> 
+       <p>&nbsp;</p> 
+      </div> 
+     </div>
+     <br>
+     <br>
+    </div> 
+    <hr> 
+    <div id="main"> 
+     <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField" style="display: inline;"> 
+      <p><img style="width: 690px; border: 0px solid;" src="images/img_1548.jpg" border="0" alt="Student Conduct Home - Costo Hall"></p> 
+     </div> 
+     <div class="column23"> 
+      <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <p><img style="border: 0px solid;" usemap="#Map" src="images/conduct_home_welcomestudentconduct.gif" border="0" alt="Welcome to Student Conduct and Academic Integrity Programs" width="459" height="326"> <map id="Map" name="Map"> <area shape="rect" coords="297,72,412,102" href="http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/toc.html" alt="University of California Policies Applying to Campus Activities, Organizations and Students"> <area shape="rect" coords="-4,104,420,133" href="http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/toc.html" alt="University of California Policies Applying to Campus Activities, Organizations and Students"> <area shape="rect" coords="-9,137,240,164" href="http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/toc.html" alt="University of California Policies Applying to Campus Activities, Organizations and Students"> <area shape="rect" coords="94,170,325,200" href="studentrightsresponsibilities/studentrightsresponsibilities.html" alt="We teach students about their rights and responsibilities."> <area shape="rect" coords="20,202,105,228" href="benefitsInvolvement/benefitslanding.html" alt="We engage in outreach."> <area shape="rect" coords="-8,233,289,262" href="facultyResources/index.html" alt="We work with faculty and staff to encourage student accountability."> <area shape="rect" coords="-10,265,228,294" href="outreachandresources/educationalpresentations.html" alt="We offer educational presentations on everything from academic integrity to ethics."> </map> <span class="accessibility">Welcome to Student Conduct and Academic Integrity Programs. We are responsible for enforcing the University of California Policies Applying to Campus Activities, Organizations and Students. We teach students about their rights and responsibilities, we help faculty and staff enforce the standards of conduct, we form academic integrity committees, and we offer educational presentations on everything from anger management to assertive communication.&nbsp;</span></p> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <h3>Most Popular Links:</h3> 
+       <ul class="standout"> 
+        <li><strong> <a href="learnpolicies/standardsofconduct.html">Standards of Conduct</a> </strong></li> 
+        <li><strong> <a href="learnpolicies/academicintegrity.html">Academic Integrity</a> </strong></li> 
+        <li><strong> <a href="learnpolicies/index.html">Introduction to Policies</a> </strong></li> 
+        <li><strong> <a href="outreachandresources/hazinginfo.html">Hazing</a> </strong></li> 
+        <li><strong> <a href="aboutus/index.html">About Us</a> </strong></li> 
+       </ul> 
+       <h3>Contact Us</h3> 
+       <h4>Student Conduct&nbsp;and Academic Integrity Programs</h4> 
+       <a title="" href="#"> 900 University Avenue<br>111 Costo Hall<br>Riverside, CA 92521 </a>
+       <br>Phone; 951-827-4208
+       <br>
+       <a title="" href="mailto:conduct@ucr.edu">conduct@ucr.edu </a>
+      </div> 
+     </div> 
+     <br class="clear"> 
+     <p>&nbsp;</p> 
+     <div class="column3"> 
+      <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <p><img style="border: 0px solid;" src="images/conduct_home_knowyourrights.jpg" border="0" alt="Know Your Student Rights"></p> 
+       <h3><a href="learnpolicies/standardsofconduct.html">Standards of Conduct</a></h3> 
+       <p>Learn how you or your student organization can become a positive, contributing member to UC Riverside and its surrounding community. </p> 
+       <p><a class="standout2" href="studentrightsresponsibilities/studentrightsresponsibilities.html" target="_blank">Read more</a></p> 
+      </div> 
+     </div> 
+     <div class="column3"> 
+      <div id="ctl00_ctl00_PlaceHolderMainBase_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <p><img style="border: 0px solid;" src="images/conduct_home_schedulepresentation.jpg" border="0" alt="Schedule a Presentation"></p> 
+       <h3><a href="outreachandresources/educationalpresentations.html">Schedule a Presentation</a></h3> 
+       <p>Our office is happy to present sessions to students, faculty or staff about a wide range of topics including ethics, academic integrity and "netiquette." </p> 
+       <p><a class="standout2" href="outreachandresources/educationalpresentations.html" target="_blank">Read more</a></p> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div> 
+       <p><img src="images/conduct_spot_report.jpg" alt="Never Sell Your Class Notes! " width="214" height="87"></p> 
+       <h3><a href="https://ucr-advocate.symplicity.com/public_report/index.php" target="_blank">Report Misconduct</a></h3> 
+       <p>Use this online form to report student academic or social misconduct, behavioral concerns, or incidents both on- and off-campus. </p> 
+       <p><a class="standout2" href="https://ucr-advocate.symplicity.com/public_report/index.php" target="_blank">Read more</a></p> 
+      </div> 
+     </div> 
+    </div>
+    <br class="clear">
+   </div> 
+  </div>
+  <br class="clear">
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address><span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br><span class="adr"><span class="street-address">900 University Ave.</span><br><span class="locality">Riverside</span>, <span class="region">CA</span><span class="postal-code">92521</span><br></span> Tel: <span class="tel">(951) 827-1012</span><br><br></span></address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody>
+        <tr> 
+         <td valign="top"> 
+          <div> 
+           <address><strong>Student Conduct and Academic Integrity Programs</strong><br><a href="http://www.campusmap.ucr.edu/campusMap.php?loc=COSTH" title="Campus Map">111 Costo Hall</a><br><br> Tel: (951) 827-4208<br> Fax: (951) 827-7849<br> E-mail: <a href="mailto:conduct@ucr.edu">conduct@ucr.edu</a><br></address> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://deanofstudents.ucr.edu/">Dean of Students</a></li> 
+       <li><a href="http://police.ucr.edu/">UCR Police Department</a></li> 
+       <li><a href="http://titleix.ucr.edu/">Title XI</a></li> 
+       <li><a href="http://studentlife.ucr.edu/">Student Life</a></li> 
+       <li><a href="http://ombuds.ucr.edu/">Ombuds Office</a></li> 
+      </ul> 
+     </div>
+     <br class="clear">
+    </div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+      <li><a id="nav_footer_admissions" href="http://admissions.ucr.edu"><span>Admissions</span></a></li> 
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© <script language="JavaScript" type="text/javascript">
+					  	var now = new Date();
+						var currentYear = now.getFullYear();
+						document.write(currentYear);
+					</script> Regents of the University of California</li> 
+      <li> <a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01287&amp;site=vcsa-conduct&amp;path=%2Findex.pcf" target="_top">Last Modified: 2/4/15</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

@@ -1,0 +1,494 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<html>
+ <head></head>
+ <body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"> 
+   <channel> 
+    <title>Bourns College of Engineering News</title> 
+    <link>http://www.engr.ucr.edu/ 
+    <description>
+     News from the UC Riverside Bourns College of Engineering
+    </description> 
+    <language>
+     en-us
+    </language> 
+    <copyright>
+     © Copyright 2011 Regents of the University of California
+    </copyright> 
+    <lastbuilddate>
+     Tue, 03 Feb 2015 08:35:25 -0800
+    </lastbuilddate> 
+    <docs>
+     http://blogs.law.harvard.edu/tech/rss
+    </docs> 
+    <generator>
+     OmniUpdate (OU Publish)
+    </generator> 
+    <ttl>
+     60
+    </ttl> 
+    <img> 
+    <url>
+     http://www.ucr.edu/images/design6/ucr_monogram.gif
+    </url> 
+    <width>
+     55
+    </width> 
+    <height>
+     53
+    </height> 
+    <link>http://www.ucr.edu/ 
+    <title>University of California, Riverside</title>  
+    <skipdays> 
+     <day>
+      Saturday
+     </day> 
+     <day>
+      Sunday
+     </day> 
+    </skipdays> 
+    <item> 
+     <title>Undergraduate STEM researchers earn top national awards</title> 
+     <link>http://www.engr.ucr.edu/news/2015/2015-02-03.html 
+     <description>
+      Engineering seniors Joel Sanchez and Claire Tran recently received top awards for their research presented at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in San Antonio, Texas. The Bourns College of Engineering undergraduates were among 17 students nationwide whose work was honored as outstanding in their disciplines of engineering, physics, and mathematics.
+     </description> 
+     <pubdate>
+      Tue, 03 Feb 2015 08:35:25 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Claire%20Tran58px.jpg"> 
+      <media:title>
+       Claire Tran
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Bourns chemical engineer earns prestigious NSF CAREER Award</title> 
+     <link>http://www.engr.ucr.edu/news/2015/2015-02-02.html 
+     <description>
+      Xin Ge, assistant professor of Chemical and Environmental Engineering at UCR's Bourns College of Engineering, has been awarded a five-year Faculty Early Career Development Program (CAREER) grant from the National Science Foundation. The $500,000Â&nbsp;CAREER Award will support Ge's research on developing therapeutic monoclonal antibodies, which have a broad range of applications in pharmaceutical and biotechnological industries.
+     </description> 
+     <pubdate>
+      Mon, 02 Feb 2015 16:13:46 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/ge_thumb.jpg"> 
+      <media:title>
+       Dr. Ge NSF
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Bhanu and Wu elected to prestigious  College of Fellows of American Institute for Medical and Biological Engineering</title> 
+     <link>http://www.engr.ucr.edu/news/2015/2015-01-28.html 
+     <description>
+      Distinguished Professor Bir Bhanu and Professor of Chemical Engineering Jianzhong Wu have been named to the College of Fellows of the American Institute for Medical and Biological Engineering (AIMBE), a distinction that places the Bourns College of Engineering professors among 1,500 leaders in the field of bioengineering who have distinguished themselves through their contributions in research, industrial practice and/or education.
+     </description> 
+     <pubdate>
+      Fri, 30 Jan 2015 14:48:04 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/aimbe%20logo%20mark.jpg"> 
+      <media:title>
+       AIMBE logo mark
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>New ANSYS software makes 'real-world' simulation training possible for Bourns College of Engineering students</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-12-22.html 
+     <description>
+      Thanks to a generous donation by leading global software company ANSYS, Inc., Bourns College of Engineering students will now be able to use simulation software that enables high-end solving of complex design challenges.
+     </description> 
+     <pubdate>
+      Mon, 22 Dec 2014 11:24:12 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/ANSYS%20screen%202.jpg"> 
+      <media:title>
+       ANYSYS software demo
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Caterpillar, Inc. donates Diesel Particulate Filters for CE-CERT Research</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-12-09.html 
+     <description>
+      Officials from UC Riverside's Bourns College of Engineering - Center for Environmental Research and Technology (CE-CERT) announced an in-kind donation by Caterpillar, Inc. of Diesel Particulate Filters (DPF) to be used for CE-CERT's research purposes.
+     </description> 
+     <pubdate>
+      Tue, 09 Dec 2014 16:16:35 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb%20Jeff%20Jacobs.jpg"> 
+      <media:title>
+       DPFs donation presented by Caterpillar, Inc.'s Jeff Jacobs
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE student leaders participate in 2014 MESA conference</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2013-11-25.html 
+     <description>
+      Eleven Bourns College of Engineering students honed their leadership skills at 11th Annual Mathematics, Engineering, Science Achievement (MESA) Student Leadership conference in San Diego in November.
+     </description> 
+     <pubdate>
+      Tue, 25 Nov 2014 13:39:01 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/2014%20MESA%20thumb.jpg"> 
+      <media:title>
+       2014 MESA California student participants from BCOE
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Zordan is co-founder of tech start-up</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-11-21.html 
+     <description>
+      Victor Zordan, associate professor of computer science and engineering at Bourns College of Engineering, will launch a technology start-up with UC Riverside psychology professor Aaron Seitz as one of the first tenants of the Riverside ExCITE Incubator in downtown Riverside. The venture, called Fundamentals, will develop and distribute the latest in evidence-based research knowledge in the area of brain fitness and training through game applications on smart devices.
+     </description> 
+     <pubdate>
+      Fri, 21 Nov 2014 11:29:39 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Zordan%20at%20ExCITE.jpg"> 
+      <media:title>
+       Zordan at ExCITE
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Keogh team tests 'PEG' smartphone game invention that is designed to reinforce good health habits</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-11-4.html 
+     <description>
+      With the support of his third Gates Foundation Challenge grant, Eamonn Keogh and a team of interdisciplinary researchers will test their creative method of encouraging healthy behavior by using smartphone technology, game theory, incentive models, and anthropology. Conducting initial experiments with volunteers in the developed world-- then moving to thornier problems in third world communities--the team will use the 'PEG' system affectionately named after Keogh's late mother, Peggy "Peg" Keogh. 
+     </description> 
+     <pubdate>
+      Tue, 04 Nov 2014 12:15:52 -0800
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Eamonn%20Keogh%20headshot.jpg"> 
+      <media:title>
+       Eamonn Keogh headshot
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Shah Selbe '04 named UCR Alumni Association's Young Alumnus of the Year, headlines distinguished alumni event at BCOE</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-10-29a.html 
+     <description>
+      Bourns College of Engineering alumnus Shah Selbe '04 returned to campus recently to receive honors as Young Alumnus of the Year by the UCR Alumni Association and to speak to BCOE students about his role as a volunteer for Engineers Without Borders. Selbe works as a spacecraft propulsion scientist by day, but also was named by the National Geographic Society as one of their 2013 Emerging Explorers for his work as a conservation technologist. Selbe created FishNET, which helps monitor unregulated fishing worldwide. 
+     </description> 
+     <pubdate>
+      Wed, 29 Oct 2014 11:44:42 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Shah%20Selbe%20BCOE%20talk%202%20Oct%2022%202014%20thumb.jpg"> 
+      <media:title>
+       Shah Selbe distinguished alumni Oct 22 2014
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE hosts 2014 IOM3 international student competition</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-10-29.html 
+     <description>
+      BCOE increases international status as host for 2014 IOM3 Young Person's World Lecture Competition 
+     </description> 
+     <pubdate>
+      Wed, 29 Oct 2014 09:43:28 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Young%20Persons%20World%20Lecture%20pic%20thumb.jpg"> 
+      <media:title>
+       Young Personal World Lecture
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Wong wins prestigious R&amp;D 100 Award for work with Sandia National Labs radiation detection development team</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-10-20.html 
+     <description>
+      BCOE's Wong invention with Sandia National Labs named among top 100 technologies of the year by R&amp;D Magazine
+     </description> 
+     <pubdate>
+      Mon, 20 Oct 2014 10:02:12 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/triplet%20thumb.jpg"> 
+      <media:title>
+       Triplet-harvesting plastic scintillator diagram
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>ECE lab equipment donation</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-10-07.html 
+     <description>
+      ECE lab updates its benches through generous gift by B&amp;K Precision.
+     </description> 
+     <pubdate>
+      Tue, 07 Oct 2014 15:01:39 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/BK%20Precision%20ECE%20gift%20thumb.png"> 
+      <media:title>
+       BK Precision ECE gift
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Welcome New Faculty!</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-10-06.html 
+     <description>
+      The Bourns College of Engineering (BCOE) has added two new Full professors, five Assistant Professors, and one Professor of Graduate Division. 
+     </description> 
+     <pubdate>
+      Mon, 06 Oct 2014 11:45:55 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/Nanpeng%20Yu_Sept%2029%202014_Thumbnail.jpg"> 
+      <media:title>
+       Nanpeng Yu
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE Students Develop Diaper Detective</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-09-12.html 
+     <description>
+      A team of engineering students has developed an inexpensive, versatile pad that can be inserted into diapers to detect dehydration and bacterial infections in infants. The product, which recently won an award that included a $10,000 prize at a national engineering design contest, operates much like a home pregnancy test or urine test strip. 
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Fri, 12 Sep 2014 13:19:52 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/diaper_thumb.jpg"> 
+      <media:title>
+       Student research team
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE Faculty Awarded $1.7-million Grant to Study New Class of Ultra-thin Film Materials</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-09-03.html 
+     <description>
+      A team led by Presidential Chair in Electrical and Computer Engineering Alexander Balandin and including Professor of Electrical Engineering Roger Lake and Alexander Khitun, a research professor, was awarded a nearly $1.7-million grant from the National Science Foundation to characterize, analyze and synthesize a new class of ultra-thin film materials that could improve the performance of personal electronics, optoelectronic devices and energy conversion systems.
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Wed, 03 Sep 2014 15:04:53 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_graphene_channels.jpg"> 
+      <media:title>
+       Prototype device
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Pazzani Chosen to Receive Classic Paper Award from AAAI</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-08-05.html 
+     <description>
+      Professor of Computer Science and Vice Chancellor for Research and Economic Development Michael J. Pazzani and two colleagues have been chosen to receive the 2014 Classic Paper Award from the Association for the Advancement of Artificial Intelligence. The award recognizes a paper they published in 1996 that made "significant contributions to the field of personalizing Internet content and learning user profiles."
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Tue, 05 Aug 2014 09:16:21 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_pazzani.jpg"> 
+      <media:title>
+       Michael J. Pazzani
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE Faculty and Students Garner Awards and Grants at End of Academic Year</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-07-28.html 
+     <description>
+      Bourns College of Engineering faculty and students ended the 2013-14 academic year with numerous grants, awards and honors that demonstrate the college's commitment to excellence in research and teaching. 
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Mon, 28 Jul 2014 17:16:02 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_dhall.jpg"> 
+      <media:title>
+       Sandeep Dhall
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>President Obama Briefed on Transportation Technologies Developed at CE-CERT</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-07-18.html 
+     <description>
+      During a tour the U.S. Department of Transportation's Turner-Fairbank Highway Research Center in McLean, Va., President Barack Obama saw first-hand how the Bourns College of Engineering's Center for Environmental Research and Technology (CE-CERT) is developing eco-friendly intelligent transportation system technologies. 
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Fri, 18 Jul 2014 14:51:36 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_obama_transportation_study.jpg"> 
+      <media:title>
+       President Obama reviews transportation research presentation
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>Record Number of Degrees Awarded at BCOE Commencement</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-06-25.html 
+     <description>
+      A record number of students were awarded B.S., M.S., and Ph.D. degrees at the Bourns College of Engineering's commencement ceremonies on Monday, June 16, 2014. This academic year, BCOE awarded 426 bachelor's, 52 master's and 97 Ph.D. degrees.
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Wed, 25 Jun 2014 16:07:44 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_mortarboard.jpg"> 
+      <media:title>
+       Mortarboard at commencement
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+    <item> 
+     <title>BCOE Students Design and Build Unmanned Aerial Vehicle for National Competition</title> 
+     <link>http://www.engr.ucr.edu/news/2014/2014-06-11.html 
+     <description>
+      After raising money on their own for the project, a team of BCOE students has designed and built an unmanned aerial vehicle and will head to Maryland next week to compete in the Association for Unmanned Vehicle Systems International's 12th Annual Student Unmanned Air Systems Competition. 
+     </description> 
+     <author>
+      Don Davidson &lt;don.davidson@ucr.edu&gt;
+     </author> 
+     <pubdate>
+      Wed, 11 Jun 2014 11:41:21 -0700
+     </pubdate> 
+     <media:content url="http://www.engr.ucr.edu/images/news/thumb_uav.jpg"> 
+      <media:title>
+       Students with unmanned aerial vehicle
+      </media:title> 
+      <media:description> 
+      </media:description> 
+      <media:thumbnail url=" "></media:thumbnail> 
+      <media:keywords>
+       BCOE
+      </media:keywords> 
+     </media:content> 
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>

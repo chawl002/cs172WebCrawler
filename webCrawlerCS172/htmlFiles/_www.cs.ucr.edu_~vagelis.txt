@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta content="text/html; charset=windows-1252" http-equiv="Content-Type"> 
+  <title>Vagelis Hristidis</title> 
+  <style type="text/css">
+.style2 {
+	font-family: "Times New Roman", Times, serif;
+}
+.style3 {
+	font-size: medium;
+	color: windowtext;
+	font-family: "Times New Roman", Times, serif;
+}
+.style4 {
+	font-size: medium;
+}
+.style5 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+}
+.style6 {
+	color: windowtext;
+	font-family: "Times New Roman", Times, serif;
+}
+.style7 {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: medium;
+}
+.style8 {
+	color: #666633;
+	text-decoration: underline;
+}
+.style10 {
+	color: #666633;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+}
+.style11 {
+	font-size: large;
+}
+.style13 {
+	font-family: Arial;
+	font-size: medium;
+}
+.style15 {
+	font-weight: normal;
+}
+.style16 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+</style> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10595732-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+ </head> 
+ <body style="background-color: #D8D8D6"> 
+  <p><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; font-weight: normal; mso-bidi-font-weight: bold; background-image: none; background-repeat: repeat; background-attachment: scroll;" class="style11"> Vagelis Hristidis (official name: Evangelos Christidis), Associate Professor</span></strong></p> 
+  <table style="width: 100%"> 
+   <tbody>
+    <tr> 
+     <td style="width: 142px"> <img alt="" height="151" src="photo.jpg" width="175" class="style4"></td> 
+     <td style="width: 292px" class="style4"><a href="http://www.cs.ucr.edu">Computer Science &amp; Engineering</a><br> <a href="http://www.ucr.edu">University of California, Riverside</a><br> 900 University Ave.<br> Riverside, CA 92521<br class="style5"> </td> 
+     <td style="width: 258px"><span class="style5">office: <a href="http://campusmap.ucr.edu/imap/index.html?loc=CHUNG">Winston Chung Hall</a> 317</span><br class="style5"> <span class="style5">office tel.: (951) 827-2478</span><br class="style5"> <span class="style5">fax: (951) 827-4643<br> </span><br class="style5"> <img alt="" height="18" src="vagelisemail.gif" width="141" class="style5"></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <p><a name="Biographical_Sketch"><strong> <span style="background-position: 0% 0%; font-size: 12.0pt; mso-bidi-font-size: 13.5pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; background-image: none; background-repeat: repeat; background-attachment: scroll;"> BIOGRAPHICAL SKETCH</span></strong></a></p> 
+  <p class="style6" style="mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"> <span class="style4">My key areas of expertise are Databases, Information Retrieval, and particularly the intersection of these two areas. My long-term vision is to make the information in databases easily accessible and useful, in various application domains. My research has strong emphasis on interdisciplinary topics, mainly Health Informatics (where I have published a book) and Social Networks. My key achievements include the NSF CAREER award, a Google Research Award, an IBM Scalable Data Analytics for A Smarter Planet Innovation Award, the FIU SCIS Excellence in Research Award (twice), the FIU University Faculty Award and the Kauffmann Entrepreneurship Award. My work has been funded by NSF, IARPA, DHS, DTRA, Samsung, Google and IBM. Our work on correlating Twitter and financial data in 2012 was featured by many mainstream media like The New York Times, Forbes and Yahoo!.</span>
+   <o:p></o:p></p> 
+  <p class="style3" style="mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"> <a href="resume.htm"> Curriculum Vitae</a>&nbsp;&nbsp;&nbsp; <a href="http://scholar.google.com/citations?user=nKR2tGvMLFMC&amp;hl=en">Google Scholar Profile</a></p> 
+  <p class="MsoNormal"><a name="Research_Interests"><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; color: windowtext; text-transform: uppercase; background-image: none; background-repeat: repeat; background-attachment: scroll;" class="style4"> RECENT Research INTERESTS</span></strong></a><span style="font-size:10.0pt;
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+color:windowtext;display:none;mso-hide:all">
+    <o:p></o:p></span></p> 
+  <ul> 
+   <li class="style5">information discovery in various domains including intellectual property, bibliographic, clinical and biological databases</li> 
+   <li class="style5">big data analytics</li> 
+   <li class="style5">presentation and navigation of query results, web search</li> 
+   <li class="style5">search relational and semi-structured databases </li> 
+   <li class="style5">social networks</li> 
+  </ul> 
+  <p><a href="http://dblab.cs.ucr.edu">UCR Database Lab</a></p> 
+  <p><a name="classes"><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; background-image: none; background-repeat: repeat; background-attachment: scroll;" class="style4"> RECENT CLASSES</span></strong></a></p> 
+  <ul> 
+   <li> <a href="classes/CS172/index.htm">CS 172: Introduction to Information Retrieval</a>, Spring 2012, Spring 2013, Spring 2014, Winter 2015 (MW 5:10-6:30 pm)</li> 
+   <li> <a href="classes/CS242/index.htm">CS 242: Information Retrieval &amp; Web Search</a>, Winter 2014</li> 
+   <li> <a href="classes/CS179G">CS 179G: Project in Computer Science</a>, Fall 2013</li> 
+   <li> <a href="classes/CS260">CS 260: Computer Science Seminar</a>, Spring 2012, Spring 2013, Fall 2013, Fall 2014 </li> 
+   <li> <a href="classes/CS14/index.htm">CS 014 Introduction to Data Structures and Algorithms</a>, Winter 2013</li> 
+   <li> <a href="classes/CS235">CS 235: Data Mining Techniques</a>, Winter 2012, Fall 2012 </li> 
+  </ul> 
+  <strong> <span style="background-position: 0% 0%; font-size: 12.0pt; mso-bidi-font-size: 13.5pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; background-image: none; background-repeat: repeat; background-attachment: scroll;"> STUDENTS</span></strong> 
+  <table style="width: 100%"> 
+   <tbody>
+    <tr> 
+     <td> Current:
+      <o:p></o:p> 
+      <ol> 
+       <li> <span class="style5"> 
+         <o:p>
+          <a href="http://www.cs.ucr.edu/~schen064/">Shiwen Cheng</a>
+         </o:p></span>
+        <o:p>
+         <o:p>
+          <o:p>
+           <o:p>
+            <span class="style5">, PhD student</span>
+           </o:p>
+          </o:p>
+         </o:p>
+        </o:p> </li> 
+       <li> <a href="http://www.cs.ucr.edu/~mabdu002/">Mohiuddin Abdul Qader</a>
+        <o:p>
+         <o:p>
+          <o:p>
+           <o:p>
+            <span class="style5">, PhD student</span>
+           </o:p>
+          </o:p>
+         </o:p>
+        </o:p> </li> 
+       <li> Shouq Sadah
+        <o:p>
+         <o:p>
+          <span class="style2"><span class="style4">, PhD student</span>
+           <o:p></o:p></span>
+         </o:p>
+        </o:p></li> 
+       <li> <a href="http://www.cs.ucr.edu/~mshah008/">Moloud 
+         <o:p> 
+          <o:p> 
+           <o:p>
+            Shahbazi
+           </o:p>
+          </o:p>
+         </o:p></a>
+        <o:p>
+         <o:p>
+          <span class="style2"><span class="style4">, PhD student</span>
+           <o:p></o:p></span>
+         </o:p>
+        </o:p></li> 
+       <li> <a href="http://www.cs.ucr.edu/~mwile001/">Matthew Wiley</a>
+        <o:p>
+         <o:p>
+          <o:p>
+           <o:p>
+            <span class="style5">, PhD student</span>
+           </o:p>
+          </o:p>
+         </o:p>
+        </o:p> </li> 
+      </ol> </td> 
+     <td> <p class="style5">Alumni:</p> 
+      <ol> 
+       <li> Eduardo Ruiz, PhD 2013, at Amazon </li> 
+       <li> Abhijith Kashyap, PhD 2013</li> 
+       <li> <a href="http://www.eecs.umich.edu/~ffarfan/">Fernando Farfan</a>, PhD 2010, PostDoc at University of Michigan, Ann Arbor</li> 
+       <li> <a href="http://pages.cs.wisc.edu/~ramkris/">Ramakrishna Varadarajan</a>, PhD 2009, HP (formerly: PostDoc at University of Wisconsin, Madison)</li> 
+      </ol> <p>MS: Jie Yu, MS 2012; Amanda M. Crick, MS 2011; Oscar Valdivia, MS 2010</p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <p><a name="Projects"><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background-image: none; background-repeat: repeat; background-attachment: scroll;"> PROJECTS</span></strong></a></p> 
+  <ul> 
+   <li><a href="http://healthsocialytics.com">Social Health Analytics</a>, <a href="http://sociadictor.com/">Social and News Analytics</a>, <a href="http://search.sociadictor.com/">Twitter Geospatial Search</a></li> 
+   <li class="style5"> <a href="http://dblab.cs.ucr.edu/projects/CADS/">Collaborative Adaptive Data Sharing</a>, supported by NSF, Google</li> 
+   <li><a href="http://patentssearcher.com/">S
+     <o:p>
+      <span class="style2">earch patent</span>
+     </o:p></a>,<span class="style2"><span style="mso-bidi-font-weight:normal"><span class="style4"> <a href="http://patentssearcher.com/PatentAnalytics/">Patent Analytics</a>, <a href="http://patentssearcher.com/FindExperts.jsp">Find Experts</a>, supported by the Kauffmann Entrepreneurship Center</span>
+      <o:p></o:p></span></span></li> 
+   <li><a href="http://homecaredashboard.com/">Homecare Dashboard</a>
+    <o:p></o:p></li> 
+  </ul> 
+  <p class="style5">Past Projects</p> 
+  <ul> 
+   <li class="style7"><span class="style15"><a href="projects/hs-outreach">High-School Outreach</a>, supported by NSF</span>
+    <o:p></o:p></li> 
+   <li><span style="mso-bidi-font-weight:normal"><span class="style5"> <a href="http://dblab.cs.ucr.edu/projects/DGID/">Domain Graph Information Discovery</a></span></span><span class="style5">, supported by NSF</span>
+    <o:p></o:p></li> 
+   <li><span style="mso-bidi-font-weight:normal"> <a href="http://bizrecovery.org/"><span class="style4">Disaster Information Management</span></a></span><span class="style4">, supported by DHS, IBM</span>
+    <o:p></o:p>
+    <o:p></o:p></li> 
+  </ul> 
+  <p><a name="Projects0"><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; background-image: none; background-repeat: repeat; background-attachment: scroll;"> PUBLICATIONS</span></strong></a></p> 
+  <p class="style3" style="mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"> <a href="Publications.htm">List of Publications</a>
+   <o:p></o:p></p> 
+  <p class="style5"> <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hristidis:Vagelis.html"> Publications from DBLP</a>
+   <o:p></o:p></p> 
+  <table style="width: 100%"> 
+   <tbody>
+    <tr> 
+     <td style="width: 101px"><a href="EHRbook/index.htm"> <img alt="" class="style5" height="162" src="EHRbook/book.jpg" width="97"></a></td> 
+     <td> <p><span class="style2"><span class="style4">Vagelis Hristidis. </span> <span style="mso-bidi-font-weight:normal"><span class="style4"><em>Information Discovery on Electronic Health Records</em></span></span><span class="style4">. CRC - Taylor &amp; Francis, December 2009 (also co-authored 4 chapters), </span></span> <span class="style5" style="mso-bidi-font-size: 6.0pt;">ISBN:</span><span class="style2" style="mso-bidi-font-size: 6.0pt;"><span class="style4">&nbsp;&nbsp;9781420090383, ISBN 10:&nbsp;&nbsp;1420090380</span><strong><span class="style4">, </span></strong><span class="style4">December 22, 2009 </span> 
+        <o:p></o:p> </span></p> <p><span class="style2" style="mso-bidi-font-size: 6.0pt;"> <a href="http://www.crcpress.com/product/isbn/9781420090383"> <span class="style4">CRC Press Link</span></a><span class="style4">, </span> <a href="http://www.amazon.com/Information-Discovery-Electronic-Records-Knowledge/dp/1420090380/"> <span class="style4">Buy at Amazon</span></a></span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+         <o:p></o:p></span></b></p> <p class="style10" style="text-underline: single; mso-bidi-font-size: 6.0pt;"> <a href="EHRbook/index.htm">Support Material</a>
+       <o:p></o:p></p> <span class="style8" style="text-underline: single;"> <span class="style5" style="mso-bidi-font-size: 6.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"> <a href="http://jama.ama-assn.org/cgi/content/full/304/12/1385">Review by the Journal of the American Medical Association</a></span></span><span class="style5" style="mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"> </span> <span class="style5" style="mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"> (JAMA), Vol. 304 No. 12, September 22/29, 2010</span></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <p><strong> <span style="background-position: 0% 0%; mso-bidi-font-size: 13.5pt; mso-fareast-font-family: &quot;Times New Roman&quot;; color: black; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; background-image: none; background-repeat: repeat; background-attachment: scroll;" class="style13"> RECENT PROFESSIONAL ACTIVITIES</span></strong></p> 
+  <ul> 
+   <li> <span style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:windowtext" class="style5"> Steering Committee, Ranking in Databases Workshop (DBRank) 2008-present</span></li> 
+   <li> "Text, Graphs, and Search" Track Chair for <span class="style2"> <span class="style4">IEEE</span><span style="mso-bidi-font-weight:bold" class="style4"> International Conference on Data Engineering (</span><span class="style4">ICDE)</span></span> 2013</li> 
+   <li> Senior Program Committee Member: ACM International Conference on Information and Knowledge Management (CIKM) 2012</li> 
+   <li class="style3" style="mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin;"> Finance Chair, ACM International Health Informatics Symposium (IHI) 2011
+    <o:p></o:p></li> 
+   <li class="style5"> Co-Chair, Keyword Search on Structured Data (KEYS) Workshop 2010, at SIGMOD 2010
+    <o:p></o:p></li> 
+   <li> <span class="style2"><span class="style4">Finance Chair, IEEE</span><span style="mso-bidi-font-weight:bold" class="style4"> International Conference on Data Mining (ICDM) 2009</span>
+     <o:p></o:p></span>
+    <o:p></o:p></li> 
+   <li> <span class="style2"><span class="style4">Proceedings Co-Chair, IEEE</span><span style="mso-bidi-font-weight:bold" class="style4"> International Conference on Data Engineering (</span><span class="style4">ICDE) 2009</span>
+     <o:p></o:p></span>
+    <o:p></o:p></li> 
+   <li class="style2"> <span class="style4">Recent Program Committee Member:</span><span style="mso-spacerun:yes" class="style4">&nbsp; <span class="style4"> SIGKDD 2015, WSDM 2015, SIGMOD 2015, VLDB 2015, AMIA 2014 (reviewer), SIGKDD 2014, WSDM 2014, EDBT 2014, ICDE&nbsp; 2014, SIGKDD 2013, SIGMOD 2013, WSDM 2013</span></span></li> 
+  </ul> 
+  <p class="style16"><a name="Presentations"><strong> SELECTED PRESENTATIONS</strong></a></p> 
+  <ol> 
+   <li> <a href="http://research.microsoft.com/apps/video/default.aspx?id=158957&amp;l=i"> Collaborative Tagging for Web Item Design and Health Data Management Research</a>, Microsoft Research, Redmond, 2012</li> 
+   <li> <span style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:windowtext" class="style5"> <a href="presentations/patentssearcher%20pair%202010.pptx"> PatentsSearcher: A Novel Portal to Search and Explore Patents</a>. 3rd International Workshop on Patent Information Retrieval, at ACM CIKM 2010, Toronto</span><span class="style5"> </span> </li> 
+   <li> <span class="style2"> <a href="presentations/costAwareTopkVLDB2010%202010.pptx"> <span class="style4">An Access Cost-Aware Approach for Object Retrieval over Multiple Sources</span></a><span class="style4">, VLDB 2010, Singapore</span></span>
+    <!--[if !supportLists]--><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Arial"><span style="mso-list:Ignore"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;" class="style5"> </span></span></span>
+    <!--[endif]--> </li> 
+   <li class="style2"> <a href="presentations/InformationDiscoveryonVerticalDomains.pptx"> <span class="style4">Information Discovery on Vertical Domains</span></a><span class="style4">, Invited talk, University of Waterloo, Canada, June 2010. Variants of this talk also given at Free University of Bolzano, Roma University Tre, University of Athens, Yahoo! Research Barcelona, and other places. </span> </li> 
+   <li> <span class="style2"> <a href="presentations/SearchingandExploringBiomedicalData.pptx"> <span class="style4">Searching and Exploring Biomedical Data</span></a><span class="style4">, Invited talk, Indiana University Medical School, June 2010</span></span>
+    <!--[if !supportLists]--><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Arial"><span style="mso-list:Ignore"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;" class="style5">&nbsp;&nbsp;&nbsp; </span></span></span>
+    <!--[endif]--> </li> 
+   <li> <span class="style2"> <a href="presentations/CADS%20PersDB09.pptx"> <span class="style4">CADS: A Collaborative Adaptive Data Sharing Platform</span></a><span class="style4">. VLDB Workshop on Personalized Access, Profile Management, and Context Awareness in Databases (PersDB 2009), Lyon, France, August 2009</span></span>
+    <!--[if !supportLists]--><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Arial"><span style="mso-list:Ignore"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;" class="style5">&nbsp;&nbsp;&nbsp; </span></span></span>
+    <!--[endif]--> </li> 
+   <li> <span class="style2"> <a href="presentations/Spatial%20MapReduce%20SSDBM09.pptx"> <span class="style4">Experiences on Processing Spatial Data with MapReduce</span></a><span class="style4">. 21st International Conference on Scientific and Statistical Database Management (SSDBM), New Orleans, 2009</span></span>
+    <!--[if !supportLists]--><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Arial"><span style="mso-list:Ignore"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;" class="style5">&nbsp;&nbsp;&nbsp; </span></span></span>
+    <!--[endif]--> </li> 
+  </ol> 
+  <p><strong>IN THE NEWS</strong></p> 
+  <ul> 
+   <li>August 2014: Interesting Twitter aggregate findings on the 2014 Brazil World Cup: <a href="http://phys.org/news/2014-08-argentina-germany-world-cup-twitter.html"> Phys.Org</a></li> 
+   <li>June 2014: Our <a href="http://healthsocialytics.com/">Health Social Analytics</a> and <a href="http://sociadictor.com/">Social Predictor</a> sites are up and running, and are extensively described in several online media: <a href="http://nsf.gov/news/news_summ.jsp?cntn_id=131725&amp;org=NSF&amp;from=news"> NSF News</a>, <a href="http://cacm.acm.org/news/175778-using-twitter-to-track-flu-lady-"> Communications of the ACM</a>,&nbsp; <a href="http://phys.org/news/2014-06-twitter-track-flu-lady-gaga.html"> Science X</a>, <a href="http://www.healthcanal.com/infections/flu/51780-using-twitter-to-track-flu-lady-gaga.html"> HealthCanal</a>, <a href="http://www.themarysue.com/twitter-flu-outbreak/"> The Mary Sue</a>, <a href="http://www.science20.com/news_articles/using_twitter_to_track_lady_gaga_oh_and_flu-140910"> Science 2.0</a></li> 
+   <li>May 2014: Our work on analyzing drugs-related chatter on social media: <a href="http://press-news.org/126703-where-to-get-viagra-news-really-this-isn-t-spam.html"> Press-News</a>, <a href="http://medicalxpress.com/news/2014-03-prescription-drug-social-networks.html"> Medical Express</a>, <a href="http://www.redorbit.com/news/health/1113109425/social-networks-for-medications-040114/"> Redorbit</a>, <a href="http://www.accessrx.com/blog/erectile-dysfunction/ed-news-0331/"> AccessRX</a>, <a href="http://timesofindia.indiatimes.com/tech/tech-news/People-throng-Twitter-Pinterest-to-find-Viagra-news-Research/articleshow/33131918.cms"> Times of India</a>, <a href="http://scienceblog.com/71387/where-to-get-viagra-news-really-this-isnt-spam/"> Science Blog</a></li> 
+   <li>March 2012: Our research on the relationship between Twitter and financial data: <a href="http://www.forbes.com/sites/jeffbercovici/2012/03/22/twitter-chatter-can-predict-stock-prices-study-finds/"> Forbes</a>, <a href="http://www.washingtonpost.com/business/economy/big-data-from-social-media-elsewhere-online-take-trend-watching-to-new-level/2012/06/06/gJQArWWpJV_story_2.html"> The Washington Post</a>, <a href="http://bucks.blogs.nytimes.com/2012/03/26/beware-of-market-predictors/"> The NY Times</a>, <a href="http://news.yahoo.com/blogs/technology-blog/study-twitter-help-predict-winners-losers-stock-market-213800175.html"> Yahoo!</a>, <a href="http://www.pe.com/business/business-headlines/20120407-riverside-ucr-research-picks-stocks-using-twitter.ece"> Press-Enterprise</a>, <a href="http://www.thetimes.co.uk/tto/public/sitesearch.do?querystring=hristidis&amp;p=tto&amp;pf=all&amp;bl=on"> The Times,</a> <a href="http://www.telegraph.co.uk/technology/twitter/9168665/Twitter-helps-investors-play-the-stock-market.html"> The Telegraph,</a> <a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/want-to-check-the-markets-see-whats-trending-7586375.html"> The Independent,</a> <a href="http://www.dailymail.co.uk/sciencetech/article-2120416/Twitter-predicts-stock-prices-accurately-investment-tactic-say-scientists.html"> Daily Mail</a> (UK), <a href="http://www.repubblica.it/tecnologia/2012/03/26/news/twitter_predice_aziende-32232684/">La Republicca</a> (Italy), Univision TV, NewsTalk 92.5 FM and AM 1530 KFBK, Univision TV, NewsTalk 92.5 FM and AM 1530 KFBK, <a href="http://www.cra.org/ccc/rh-tweetfinance.php">Computing Research Association</a></li> 
+  </ul>   
+ </body>
+</html>

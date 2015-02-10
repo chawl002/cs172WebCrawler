@@ -1,0 +1,217 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Graduate Division: Academic Integrity</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2014-08-15"> 
+  <meta name="version" content="2.64 2.150 "> 
+  <!-- 02/09/15 12:21:09 02/09/15 13:05:12 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js"></script> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://graduate.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay.png" alt=""> 
+    <h1><a href="//www.ucr.edu/" title="UCR Home Page"><img src="//www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://graduate.ucr.edu/"><span class="printonly">Graduate Division</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://graduate.ucr.edu/">Graduate Division</a> &gt;</li> 
+    <li class="lastitem">Academic Integrity</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="//www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="//www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="//www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Academic Integrity</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li class="nav_inline_last"><h3>For</h3>
+        <ul>
+         <li><a href="/current_students.html" title="Current Graduate Students">Current Graduate Students</a></li>
+         <li>&nbsp;| <a href="/future_students.html" title="Future Graduate Students">Future Graduate Students</a></li>
+        </ul></li>
+       <li><a href="/grad_admissions.html" title="Apply for Admission!">Apply for Admission!</a></li>
+       <li><a href="/grad_programs.html" title="Graduate Programs at UCR">Graduate Programs at UCR</a></li>
+       <li><a href="/about.html" title="About UCR Graduate Division">About UCR Graduate Division</a></li>
+       <li><a href="/academic_affairs.html" title="Academic Affairs Rules and Regulations">Academic Affairs Rules and Regulations</a>
+        <ul>
+         <li><a href="/requirements.html" title="General University Requirements">General University Requirements</a></li>
+         <li><a href="/registration.html" title="Registraton, Enrollment, and Transfer of Credit">Registraton, Enrollment, and Transfer of Credit</a></li>
+         <li><a href="/masters.html" title="Master's Degree">Master's Degree</a></li>
+         <li><a href="/doctoral.html" title="Doctoral Degree">Doctoral Degree</a></li>
+         <li><a href="/normativetime2.html" title="Normative Time">Normative Time</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Academic Integrity &amp; Misconduct</h3></li>
+         <li><a href="/Appeal_Procedures_Campus.html" title="Appeal Procedures (University)">Appeal Procedures (University)</a></li>
+         <li><a href="/Appeal_Procedures_Program.html" title="Appeal Procedures (Program)">Appeal Procedures (Program)</a></li>
+         <li><a href="/dispute_resolution.html" title="Dispute Resolution">Dispute Resolution</a></li>
+         <li><a href="/family_friendly.html" title="Family Friendly Benefits">Family Friendly Benefits</a></li>
+         <li><a href="http://www.ilearn.ucr.edu" title="Graduate Community on iLearn">Graduate Community on iLearn</a></li>
+        </ul></li>
+       <li><a href="/dissertation.html" title="Dissertation/Thesis Submission">Dissertation/Thesis Submission</a></li>
+       <li><a href="/TA_GSR.html" title="Employment (TAs/GSRs)">Employment (TAs/GSRs)</a></li>
+       <li><a href="/pub_forms.html" title="Forms &amp; Handbooks for Current Students">Forms &amp; Handbooks for Current Students</a></li>
+       <li><a href="/success.html" title="GradSuccess">GradSuccess</a></li>
+       <li><a href="/Postdocs.html" title="Postdoctoral Scholars">Postdoctoral Scholars</a></li>
+       <li><a href="/academic_prep.html" title="Academic Preparation and Outreach Program">Academic Preparation and Outreach Program</a></li>
+       <li><a href="/fin_aid.html" title="Funding Opportunities">Funding Opportunities</a></li>
+       <li><a href="/awards.html" title="Awards">Awards</a></li>
+       <li><a href="/commencement.html" title="Commencement 2015">Commencement 2015</a></li>
+       <li><a href="/Completion.html" title="Masters &amp; PhD Completion Rates">Masters &amp; PhD Completion Rates</a></li>
+       <li><a href="/News.html" title="News and Announcements">News and Announcements</a></li>
+       <li><a href="http://www.GSA.ucr.edu/" title="Graduate Student Association">Graduate Student Association</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <h3>Principles of Academic Integrity</h3> 
+     <p>At the University of California, Riverside (UCR) honesty and integrity are fundamental values that guide and inform us as individuals and as a community. The culture of academia requires that each student take responsibility for learning and for products that reflect their intellectual potential, curiosity, and capability. Students must represent themselves truthfully, claim only work that is their own, acknowledge their use of others' words, research results, and ideas, using the methods accepted by the appropriate academic disciplines and engage honestly in all academic assignments. Anything less than total commitment to honesty circumvents the contract for intellectual enrichment that students have with the University to become and educated person, undermines the efforts of the entire academic community, and diminishes the value of an education for everyone, especially for the person who cheats. Both students and faculty are responsible for ensuring the academic integrity of the University.  </p> 
+     <p>Misunderstanding of appropriate academic conduct will not be accepted as an excuse for academic misconduct. If a student is in doubt about appropriate academic conduct in a particular situation, he or she should consult with the instructor in the course to avoid the serious charge of academic misconduct.</p> 
+     <h4>Types of Academic Misconduct</h4> 
+     <p>The following provides definitions of academic misconduct to assist students in developing an understanding of the University's expectations, recognizing that no set of written guidelines can anticipate all types and degrees of violations of academic integrity. To the extent that these definitions are not exhaustive, duly appointed representatives of the University will judge each case according to its merits.  </p> 
+     <p>&nbsp;Academic misconduct is any act that does or could improperly distort student grades or other student academic records.  </p> 
+     <p>&nbsp;Cheating. Fraud, deceit, or dishonesty in an academic assignment, or using or attempting to use materials, or assisting others in using materials that are prohibited or inappropriate in the context of the academic assignment in question.   &nbsp;Submitting for academic advancement an item of academic work that you have previously published or submitted for academic advancement without prior authorization from the faculty member supervising the work is also considered a fraudulent act.</p> 
+     <p>&nbsp;Fabrication. Making up data or results and recording or reporting them, including laboratory or field research results. In the context of student academic integrity, this also includes falsifying academic or university documents and providing false information or testimony in connection with any investigation or hearing under this policy.  </p> 
+     <p>&nbsp;Plagiarism. The appropriation of another person's ideas, processes, results, or words without giving appropriate credit. This includes the copying of language, structure, or ideas of another and attributing (explicitly or implicitly) the work to one's own efforts. Plagiarism means using another's work without giving credit.  </p> 
+     <p>&nbsp;Facilitating academic dishonesty. Assisting another in violating the policy of Academic Integrity, such as taking an exam for another student or providing coursework for another student to turn in as his or her own effort.  </p> 
+     <p>&nbsp;Unauthorized collaboration. Working with others without the specific permission of the instructor on assignments that will be submitted for a grade. This applies to in-class or take-home tests, papers, labs, or homework assignments. Students may not collaborate without faculty authorization.  </p> 
+     <p>&nbsp;Interference or sabotage. Damaging, removing, or otherwise harming another student's work or University materials and systems to affect the academic performance of others.  </p> 
+     <p>&nbsp;Failure to comply with research regulations such as those applying to human subjects, laboratory animals, and standards of safety.   Retaliation of any kind against a person who reported or provided information about suspected or alleged misconduct and who has not acted in bad faith.</p> 
+     <p>For more on the types of academic integrity, please see the <a href="/CEP_STUDENTINTEGRITYDEFINITIONS.pdf">academic senate's definitions.</a></p> 
+     <h4>Procedures to be Used in Cases of Suspected Academic Misconduct</h4> 
+     <p>If a Faculty member suspects that an act of academic misconduct has occurred in a course, he or she must promptly communicate with the student regarding the alleged misconduct and the information upon which the allegation is based; the notification process must occur within 30 calendar days from the discovery of the alleged act. The Faculty member may make a request for an extension of time through the Associate Dean for Graduate Academic Affairs. If the discovery is made by a student, teaching assistant, reader, grader or tutor he or she should immediately communicate to the Faculty member in charge of the course, so that the Faculty member in charge can proceed with the investigation. Once the Faculty member has spoken to the student a <em><strong><a href="/forms/Graduate_Integrity%20Violation_Form.pdf">Graduate Academic Integrity Referral Form</a></strong></em> should be filled out and turned into the Graduate Division.</p> 
+     <p>The Associate Dean of Graduate Academic Affairs assesses whether a student may have made the violation. &nbsp;If the answer is yes, the student is contacted to meet with the Dean to discuss the alleged violation. &nbsp;If the Associate dean determines that the student more likely than not violated University policy, and that the student is eligible for a probation and training sanction, the case will be referred to the Director of Graduate Professional Development for probation review. &nbsp;</p> 
+     <p>While each probation agreement is individualized, the two-quarter probation will likely include:</p> 
+     <ul> 
+      <li>an intake meeting with the Director and the Graduate Writing Coordinator to discuss the violation and probation agreement.</li> 
+      <li>an assignment in which the student must demonstrate that s/he understands the policy of which they were in violation and how to academic misconduct in the future.</li> 
+      <li>completion of an Academic Integrity training via a workshop and</li> 
+      <li>four individual consultations in the Writing Center. &nbsp;The student is responsible for making his/her appointments in the Graduate Writing Center.</li> 
+     </ul> 
+     <p><a class="standout2" href="http://senate.ucr.edu/bylaws/?action=read_bylaws&amp;code=app&amp;section=06">Further information on Senate regulations</a></p> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links footer-links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Flibrary.ucr.edu%2F');">UCR Library</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstatus.ucr.edu%2F');">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstore.ucr.edu%2F');">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Femployment.html');">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fdiversity.ucr.edu%2F');">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.039271 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Contact Information</h3> 
+      <address><strong>Graduate Division</strong><br> <a href="http://campusmap.ucr.edu/?loc=UOB" title="Campus Map">University Office Building</a><br> <br> Tel: (951) 827-4302<br> Fax: (951) 827-2238<br> E-mail: <a href="mailto:graddiv@ucr.edu?subject=Website%20Inquiry">graddiv@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://tadp.ucr.edu">Teaching Assistant Development Program (TADP)</a></li> 
+       <li><a href="/pub_forms.html">Publications and Forms</a></li> 
+       <li><a href="/TA_GSR.html">Info for TAs and GSRs</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="//www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="//www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="//www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="//www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="//www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="//www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="//www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="//www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://graduate.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="//www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="//www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01144&amp;site=grad_dev&amp;path=%2Facademic_integrity.html">Last modified: 2014-Aug-15</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.0321 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

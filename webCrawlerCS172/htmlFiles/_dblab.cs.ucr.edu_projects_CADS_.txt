@@ -1,0 +1,120 @@
+<html>
+ <!-- begin header -->
+ <head> 
+  <!-- begin metas --> 
+  <meta http-equiv="content-Type" content="text/html; charset=ISO-8859-1"> 
+  <meta name="content-language" content="en-us"> 
+  <meta http-equiv="pragma" content="no-cache"> 
+  <meta http-equiv="expires" content="0"> 
+  <meta name="audience" content="All"> 
+  <meta name="webmaster" content="UCR Database Lab"> 
+  <meta name="publisher" content="University of California, Riverside"> 
+  <meta name="copyright" content="The University of California, 2009"> 
+  <meta name="reply-to" content="dblab@cs.ucr.edu"> 
+  <meta name="ROBOTS" content="ALL"> 
+  <meta name="revisit-after" content="3 days"> 
+  <meta name="Keywords" content=""> 
+  <meta name="Description" content=""> 
+  <!-- end metas --> 
+  <title>UCR Database Lab : A Collaborative Adaptive Data Sharing Platform</title> 
+  <link href="../../stylesheets/scaffold.css%3F1242762403" media="screen" rel="stylesheet" type="text/css"> 
+ </head> 
+ <!-- end header --> 
+ <!-- begin header --> 
+ <body> 
+  <table class="bounding_table"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="middle"> 
+      <table border="0" cellpadding="1" cellspacing="0" class="center_content"> 
+       <tbody> 
+        <tr> 
+         <td colspan="9"> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="9"> <img class="top1" src="../../images/top+1.gif"></td> 
+        </tr> 
+        <tr> 
+         <td rowspan="2"> <img class="image3" src="../../images/index_03.gif"></td> 
+         <td> <a href="../../publications/index.html"> <img class="publications" name="publications" src="../../images/publications.jpg"></a></td> 
+         <td rowspan="2"> <img class="image5" src="../../images/index_05.gif"></td> 
+         <td> <a href="../../people/index.html"> <img class="people" name="people" src="../../images/people.jpg"></a></td> 
+         <td rowspan="2"> <img class="image7" src="../../images/index_07.gif"></td> 
+         <td> <a href="../index.html"> <img class="projects" name="projects" src="../../images/projects.jpg"></a></td> 
+         <td rowspan="2"> <img class="image9" src="../../images/index_09.gif"></td> 
+         <td> <a href="../../links/index.html"> <img class="links" name="links" src="../../images/links.jpg"></a></td> 
+         <td rowspan="2"> <img class="image11" src="../../images/index_11.gif"></td> 
+        </tr> 
+        <tr> 
+         <td> <img class="image12" src="../../images/index_12.gif"></td> 
+         <td> <img class="image13" src="../../images/index_13.gif"></td> 
+         <td> <img class="image14" src="../../images/index_14.gif"></td> 
+         <td> <img class="image15" src="../../images/index_15.gif"></td> 
+        </tr> 
+        <tr> 
+         <td colspan="9"> 
+          <div style="text-align:right">
+           <a href="../index.html">[Back to Projects]</a>
+          </div> <h1>A Collaborative Adaptive Data Sharing Platform</h1><p>The increased popularity of domain social networking and blogs is creating a huge amount of shared data. Properly annotating this data would allow its effective searching and analysis. Consider as a specific motivating application a disaster mitigation collaboration network for businesses. Using keyword search to find open child care locations after a hurricane would require sifting through hundreds of shared documents. Current data sharing platforms provide little help to the users to effectively and effortlessly annotate their data in a way that will benefit the information demand of other users. The long term goal of this project is to leverage the collective knowledge of communities to increase the utility of shared information.</p><p>The objective of this project is to create the knowledge and techniques to allow the users of an application domain to effectively and effortlessly annotate, share and query data, by exploiting the past user interactions -- i.e., data annotations, query workload and user query relevance feedback. A key novelty of the proposed Collaborative Adaptive Data Sharing Platform (CADS) is that the past user interactions are leveraged to effectively annotate the data at insertion-time.</p><h3>Acknowledgements</h3><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0952347">IIS 0952347</a><h2>People</h2>
+          <ul> 
+           <li><a href="http://www.cs.ucr.edu/~vagelis"> Vagelis Hristidis</a>, PI, Associate Professor, UCR.</li> 
+           <li><a> Michael Brevard</a>, undergradate student.</li> 
+           <li><a href="http://www.cs.ucr.edu/~schen064"> Shiwen Cheng</a>, PhD student.</li> 
+           <li><a> Ryan Rivas</a>, undergradate student.</li> 
+           <li><a href="http://www.cs.ucr.edu/~mwile001"> Matthew Wiley</a>, PhD student.</li> 
+          </ul><h3>Collaborators</h3>
+          <ul> 
+           <li><a href="http://www.cs.uwaterloo.ca/~ilyas"> Ihab Ihab Francis Ilyas</a>, (Associate Professor, University of Waterloo)</li> 
+           <li><a href="http://pages.stern.nyu.edu/~panos"> Panagiotis G. Ipeirotis</a>, (Assistant Professor, New York University)</li> 
+          </ul><h3>Alumni</h3>
+          <ul> 
+           <li>Amanda Crick, FIU.</li> 
+           <li><a href="http://www.cs.ucr.edu/~akash001"> Abhijith Kashyap</a>, PhD.</li> 
+           <li><a href="http://www.cs.ucr.edu/~eruiz009"> Eduardo Ruiz</a>, PhD.</li> 
+          </ul><h2>Publications</h2>
+          <ul> 
+           <li> Shiwen Cheng, Anastasios Arvanitis, Marek Chrobak, Vagelis Hristidis. <i>Multi-Query Diversification in Microblogging Posts</i>. International Conference on Extending Database Technology (EDBT) 2014. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/MicroblogDiversificationEDBT14.pdf">[Download]</a> </li> 
+           <li> Anastasios Arvanitis, Matthew Wiley, Vagelis Hristidis. Efficient Concept-based Document Ranking. International Conference on Extending Database Technology (EDBT) 2014. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/ConceptSearchEDBT14.pdf">[Download]</a> </li> 
+           <li> Eduardo J. Ruiz, Vagelis Hristidis, Panagiotis G. Ipeirotis. <i>Facilitating Document Annotation using Content and Querying Value</i>. IEEE Transactions on Knowledge and Data Engineering (TKDE), Volume 26, Issue 2, 2014. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/CADS-AnnotatingTKDE2013.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis, Yao Wu, Louiqa Raschid. <i>Efficient Ranking on Entity Graphs with Personalized Relationships</i>. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2014. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/Ranking%20Entity%20Graphs%20TKDE%202013.pdf">[Download]</a> </li> 
+           <li> X. Luo, W. Najjar, and V. Hristidis. <i>Efficient Near-Duplicate Document Detection using FPGAs</i>. Workshop on Benchmarks, Performance Optimization, and Emerging hardware of Big Data Systems and Applications (BPOE), in conjunction with IEEE International Conference on Big Data, 2013. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/FPGA%20simhash%20BPOE%202013.pdf">[Download]</a> </li> 
+           <li> Shiwen Cheng, Vagelis Hristidis, Michael Weiner. <i>Leveraging User Query Sessions to Improve Searching of Medical Literature</i>. American Medical Informatics Association (AMIA) Annual Symposium 2013. <br><a href="http://www.ncbi.nlm.nih.gov/pubmed/24551332">[Download]</a> </li> 
+           <li> Shiwen Cheng, Anastasios Arvanitis, Vagelis Hristidis. <i>How Fresh Do You Want Your Search Results?</i> ACM Conference on Information and Knowledge Management (CIKM) 2013. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/timelyqueriesCIKM2013.pdf">[Download]</a> </li> 
+           <li> Mahashweta Das, Habibur Rahman, Gautam Das, Vagelis Hristidis. <i>Generating Informative Snippet to Maximize Item Visibility</i>. ACM Conference on Information and Knowledge Management (CIKM) 2013. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/snippets%20CIKM2013.pdf">[Download]</a> </li> 
+           <li> Eduardo Ruiz, Vagelis Hristidis, Carlos Castillo and Aristides Gionis. <i>Measuring and Summarizing Movement in Microblog Postings</i>. AAAI Conference on Weblogs and Social Media (ICWSM 2013). <br><a href="http://www.cs.ucr.edu/~vagelis/publications/HashTagMovement-ICWSM2013.pdf">[Download]</a> </li> 
+           <li> Michael Butkiewicz, Zhe Wu, Shunan Li, Pavithra Murali, Vagelis Hristidis, Harsha V. Madhyastha, Vyas Sekar. <i>Enabling the Transition to the Mobile Web with WebSieve</i>. ACM HotMobile 2013. <br><a>[Download]</a> </li> 
+           <li> Shiwen Cheng, Arash Termehchy, Vagelis Hristidis. <i>Efficient Prediction of Difficult Keyword Queries over Databases</i>. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2013. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/QueryPerformance%20TKDE2013.pdf">[Download]</a> </li> 
+           <li> Ramakrishna Varadarajan, Fernando Farfan, Vagelis Hristidis. <i>Comparing Top-k XML Lists</i>. Elsevier Information Systems,&nbsp;Volume 38 Issue 6, September, Pages 820-834, 2013. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/XMLTopK%20Eval%20IS%202013.pdf">[Download]</a> </li> 
+           <li> Nicole Ruggiano, Ellen Brown, Vagelis Hristidis, Timothy F. Page. <i>Adding home health care to the discussion on health information technology policy</i>. Home Health Care Services Quarterly, Volume 32, Issue 3, 2013. <br><a href="http://www.tandfonline.com/doi/full/10.1080/01621424.2013.813884">[Download]</a> </li> 
+           <li> Shiwen Cheng, Arash Termehchy, Vagelis Hristidis. <a href="publications/QueryPerformance%20CIKM12.pdf">Predicting the Effectiveness of Keyword Queries on Databases</a>. ACM Conference on Information and Knowledge Management (CIKM) 2012. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/QueryPerformance%20CIKM12.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis. <a href="publications/snippets%20CIKM12.pdf">Comprehension-Based Result Snippets</a>. ACM Conference on Information and Knowledge Management (CIKM) 2012. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/snippets%20CIKM12.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Reza Amini, Vagelis Hristidis. <i>SonetRank: Leveraging Social Networks to Personalize Search</i>. ACM Conference on Information and Knowledge Management (CIKM) 2012. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/PersonalizedWebSearch%20CIKM12.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis. <i>LogRank: Summarizing Social Activity Logs</i>. 15th SIGMOD International Workshop on the Web and Databases (WebDB) 2012. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/LogRankWebDB2012.pdf">[Download]</a> </li> 
+           <li> Eduardo J. Ruiz, Vagelis Hristidis, Carlos Castillo, Aristides Gionis, Alejandro Jaimes. <i>Correlating Financial Time Series with Micro-Blogging Activity</i>. ACM International Conference on Web Search and Data Mining (WSDM) 2012. <br><a href="http://www.cs.ucr.edu/~vagelis/publications/wsdm2012-microblog-financial.pdf">[Download]</a> </li> 
+           <li> Mahashweta Das, Gautam Das and Vagelis Hristidis. <i>Leveraging Collaborative Tagging for Web Item Design</i>, ACM SIGKDD (International Conference on Knowledge Discovery and Data Mining) 2011<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/tag-based%20design%20SIGKDD%202011.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos, and Sotiria Tavoulari. <i>Effective Navigation of Query Results Based on Concept Hierarchies</i>, IEEE Transactions on Knowledge and Data Engineering (TKDE) 2011<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/BioNav%20TKDE2009.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis and Michalis Petropoulos. <i>FACeTOR: Cost-Driven Exploration of Faceted Query Results</i>, ACM Conference on Information and Knowledge Management (CIKM) 2010. <font color="red"><b>*Best Interdisciplinary Paper Award*</b></font> <br> <a href="http://www.cs.ucr.edu/~vagelis/publications/FACeTOR-CIKM2010.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis and Eduardo Ruiz. <i>CADS: A Collaborative Adaptive Data Sharing Platform</i>, VLDB Workshop on Personalized Access, Profile Management, and Context Awareness in Databases (PersDB 2009)<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/CADS-PersDB09.pdf">[Download]</a> </li> 
+          </ul>
+          <table class="bottom" background="../images/bottom-1.gif" cellspacing="0" height="0"> 
+           <tbody> 
+            <!-- end header --> 
+            <!-- begin body -->     This project is sponsored by NSF ( , 2010-2015 ).         
+            <!-- end body --> 
+            <!-- begin header --> 
+           </tbody>   
+           <tbody>
+            <tr> 
+             <td colspan="9"> <a href="http://www.cs.ucr.edu" target="_top"> <img src="../../images/bottom.gif" usemap="#bottom_Map" border="0"></a></td> 
+            </tr> 
+           </tbody> 
+          </table> <map name="bottom_Map"> <area shape="rect" alt="" coords="197,1,594,20" href="http://www.cs.ucr.edu"> <area shape="rect" alt="" coords="0,0,800,20" href="http://www.cs.ucr.edu" target="_blank"> </map> </td> 
+        </tr> 
+       </tbody> 
+      </table>  
+      <!-- end header -->  </td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>

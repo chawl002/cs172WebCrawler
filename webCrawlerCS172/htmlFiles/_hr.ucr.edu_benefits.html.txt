@@ -1,0 +1,287 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Human Resources: Benefits</title> 
+  <meta http-equiv="last-modified" content="2015-01-23"> 
+  <meta name="version" content="2.45 2.62 "> 
+  <!-- 02/09/15 13:05:12 02/09/15 13:05:19 --> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-medblue-wide" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link type="text/css" rel="stylesheet" href="/css/local.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js2"></script> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <script type="text/javascript" src="/highslide/highslide-with-html.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css"> 
+  <!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/highslide/highslide-ie6.css" />
+<![endif]--> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://hr.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlays/masthead_agsm.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt="University of California, Riverside" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://hr.ucr.edu/"><span class="printonly">Human Resources</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://hr.ucr.edu/">Human Resources</a> &gt;</li> 
+    <li class="lastitem">Benefits</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input type="hidden" id="sitesearch" name="sitesearch" value="hr.ucr.edu"> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Benefits</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li><a href="/jobs.html" title="Jobs">Jobs</a></li>
+       <li><a href="/salary.html" title="Salary Information">Salary Information</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Benefits</h3>
+        <ul>
+         <li><a href="/benefits/new_employee.html" title="New Faculty &amp; Staff">New Faculty &amp; Staff</a></li>
+         <li><a href="/benefits/health_care.html" title="Health Care Facilitator Program">Health Care Facilitator Program</a></li>
+         <li><a href="/benefits/disability_filing.html" title="UC Disability Benefits">UC Disability Benefits</a></li>
+         <li><a href="/benefits/retirement.html" title="Retirement Services">Retirement Services</a></li>
+         <li><a href="/benefits/dbr_resources.html" title="DBR Resources">DBR Resources</a></li>
+        </ul></li>
+       <li><a href="/education.html" title="Education &amp; Development">Education &amp; Development</a></li>
+       <li><a href="/recruitment/recruitment.html" title="Recruitment &amp; Selection">Recruitment &amp; Selection</a></li>
+       <li><a href="/policies.html" title="Policies &amp; Contracts">Policies &amp; Contracts</a></li>
+       <li><a href="/employee.html" title="Employee Resources">Employee Resources</a></li>
+       <li><a href="/supervisor.html" title="Supervisor Resources">Supervisor Resources</a></li>
+       <li><a href="/worklife.html" title="Work / Life &amp; Wellness">Work / Life &amp; Wellness</a></li>
+       <li><a href="/publicationsanddocuments.html" title="Forms and Documents">Forms and Documents</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+      <!-- com.omniupdate.editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <img src="/images/banners/06hr_benefits.png" alt="Benefits: Facilitate Planning for the Future" width="700" height="144">
+      <!-- /com.omniupdate.div -->
+      <p></p> 
+      <div class="column23"> 
+       <!-- com.omniupdate.div label="center_col" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="460"/ -->
+       <script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script> 
+       <h3>The Benefits of Belonging</h3> 
+       <p>UC&nbsp;Riverside offers a comprehensive and competitive array of benefit choices. Employment benefits are an important part of your compensation package. Below is an overview of the benefits the University provides, depending on your type of appointment.</p> 
+       <ul class="texttab-control"> 
+        <li><a href="#news">What's New</a></li> 
+        <li><a href="#health">Health &amp; Welfare Plans</a></li> 
+        <li><a href="#retirement">Retirement &amp; Savings Plans</a></li> 
+       </ul> 
+       <div id="news"> 
+        <div class="texttab-column"> 
+         <h4><strong>Bright Horizons Care Advantage - New Resource</strong></h4> 
+         <p>Bright Horizon Care Advantage is now offering an instructional presentation to get information and details about how to participate in <strong>Years Ahead</strong>.</p> 
+         <ul> 
+          <li><strong>Years Ahead</strong> provides access to senior care providers, including Certified Senior Care Advisers who can offer consultative Senior Care solutions. To view the Brainshark presentation, please <a href="https://www.brainshark.com/brighthorizons/vu?pi=zHIzCvE8az2weVz0">click here</a>.</li> 
+         </ul> 
+         <p>In addition to <strong>Years Ahead</strong>, Bright Horizons Care Advantage also offers <strong>Sittercity</strong>, providing access to a wide range of childcare providers including nannies, baby sitters and even care for your pets.</p> 
+         <p>For more information about the Bright Horizons Care Advantage benefit, visit UCR Human Resources &gt; <a href="/worklife/personal_balance.html">Personal Balance</a>.</p> 
+         <h4 class="section3"><strong>2015 New Employee Benefits Orientation<br></strong></h4> 
+         <p><span style="color: windowtext;">We are pleased to announce the 2015 dates for New Employee Benefits Orientation. If you have a colleague or team member who has yet to attend, this is a great opportunity for them to come and learn about their UC benefits.<br></span></p> 
+         <p><span style="color: windowtext;">The first 2015 New Employee Benefits Orientation will occur on Thursday, February 5th from 8:00 a.m. - 12:00 p.m.&nbsp; Please join us at the EDC (Employee Development Center) located at Human Resources, 1160 University Avenue adjacent to the UCR Extension Center.</span></p> 
+         <p><span style="color: windowtext;">To see a list of upcoming dates, please <a href="/2015newemployeeorientation.pdf">click here</a>.</span></p> 
+         <p><span style="color: windowtext;">Please send any questions to: <a href="mailto:benefits@ucr.edu" target="_blank">benefits@ucr.edu</a></span></p> 
+         <ul> 
+          <ul class="more_links"> 
+           <li><a href="http://ucnet.universityofcalifornia.edu/news/employment.html" target="_blank">More News</a></li> 
+          </ul> 
+         </ul> 
+        </div> 
+       </div> 
+       <div id="health"> 
+        <div class="texttab-column"> 
+         <ul class="striped alt1"> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/forms/pdf/complete-health-benefits-guide-for-employees.pdf" target="_blank"><strong>A Complete Guide to Your UC Health Benefits</strong></a></li> 
+          <li><a class="standout2" href="http://atyourservice.ucop.edu/employees/health_welfare/index.html" target="_blank"><strong>UCnet Compensation &amp; Benefits</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/health-plans/index.html" target="_blank"><strong>Medical Plans</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/health-plans/medical/optum.html" target="_blank"><strong>Behavioral Health Benefits</strong></a></li> 
+          <li><a class="standout2" href="http://atyourservice.ucop.edu/employees/health_welfare/dental/index.html" target="_blank"><strong>Dental Plans</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/health-plans/vision/index.html" target="_blank"><strong>Vision Plan</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/other-benefits/flexible-spending-accounts/index.html" target="_blank"><strong>Flexible Spending Accounts</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/other-benefits/legal-plan.html" target="_blank"><strong>Legal Plan</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/disability-life-accident/life-insurance/index.html" target="_blank"><strong>Life Insurance</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/disability-life-accident/disability/index.html" target="_blank"><strong>Disability Insurance</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/disability-life-accident/add/index.html" target="_blank"><strong>Accidental Death &amp; Dismemberment Insurance</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/other-benefits/family-care-resources.html" target="_blank"><strong>Family Care</strong></a></li> 
+          <li><a class="standout2" href="http://www.calcas.com/uc" target="_blank"><strong>Auto/Renter/Homeowner Insurance</strong></a></li> 
+          <li><a class="standout2" href="http://www.ucop.edu/risk-services/loss-prevention-control/travel-assistance/index.html"><strong>Business Travel Accident Insurance</strong></a></li> 
+          <li><a href="/medicareactiveemployees.pdf"><span class="standout"><span class="standout2"><strong>Medicare - Active Employees</strong></span></span></a></li> 
+          <li><a href="/medicareretirees.pdf"><span class="standout"><span class="standout2"><strong>Medicare - </strong></span><span class="standout2"><strong>R</strong></span><span class="standout2"><strong>etirees</strong></span></span></a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div id="retirement"> 
+        <div class="texttab-column"> 
+         <ul class="striped alt1"> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/forms/pdf/complete-retirement-benefits-guide-for-employees.pdf" target="_blank"><strong>A Complete Guide to UC Retirement Benefits</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/retirement-benefits/" target="_blank"><strong>UCnet Retirement and Savings Plans</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/retirement-benefits/ucrp/" target="_blank"><strong>The UC Retirement Plan</strong></a></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/retirement-benefits/ucrs/index.html" target="_blank"><strong>UC Retirement Savings Plan</strong></a></li> 
+          <li><a class="standout2" href="https://ucfocusonyourfuture.mysecurebenefitsportal.com/" target="_blank"><strong>UC Focus on Your Future</strong></a></li> 
+          <li><strong><a class="standout2" href="https://ucfocusonyourfuture.mysecurebenefitsportal.com/FinancialFitnessLibrary/ClassesLanding" target="_blank">UC Financial Education Classes</a><br></strong></li> 
+          <li><strong><a href="https://microsite.fidelity.com/public/content/ucfocusonyourfuture/pages/login" target="_blank">Fidelity NetBenefits</a><br></strong></li> 
+          <li><strong><a href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/retirement-benefits/health-welfare/index.html" target="_blank">Retiree health and welfare benefits</a></strong></li> 
+          <li><a class="standout2" href="http://ucnet.universityofcalifornia.edu/tools-and-services/administrators/retirement-savings-plans.html"><strong>UCRS Plan Documents</strong></a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <p>Email the Benefits Office at <a href="mailto:benefits@ucr.edu">benefits@ucr.edu</a>.</p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div class="column3R"> 
+       <div id="utility"> 
+        <h3><img src="/images/rightnav/quick_links_titlebox.gif " alt="Quick Links" width="220" height="35"></h3> 
+        <ul class="quicklinks"> 
+         <!-- com.omniupdate.div label="quicklinks" group="Everyone" button="707" -->
+         <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="220"/ -->
+         <ul> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/forms/pdf/which-medical-plan-is-right-for-you.pdf">2014 Medical Benefits Summary</a></li> 
+          <li><a href="https://atyourserviceonline.ucop.edu/ayso/" target="_blank">At Your Service Online</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/retirees/index.html" target="_blank">UCnet for Retirees</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/forms/index.html" target="_blank">UCnet Forms &amp; Publications</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/forms/pdf/upay-850.pdf" target="_blank">Benefit Changes Offline (UPAY850)</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/roadmaps/layoff.html" target="_blank">Benefits &amp; Indefinite Layoff </a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/forms/pdf/temporary-layoff.pdf" target="_blank">Benefits During a Temporary Layoff</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/roadmaps/loa.html" target="_blank">Benefits During a Leave of Absence</a></li> 
+          <li><a href="/benefits/recognition.html">Chancellor's Recognition of Staff &amp; Faculty Service Program</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/forms/pdf/uben-109.pdf" target="_blank">COBRA Request (UBEN109)</a></li> 
+          <li><a href="/benefits/eligibility.html" target="_blank">Expediting UC-sponsored Health Plan Eligibility</a></li> 
+          <li><a href="/docs/benefits/benefits_fidelity_contacts.pdf">Fidelity Contact Info</a></li> 
+          <li><a href="https://ucfocusonyourfuture.mysecurebenefitsportal.com/FinancialFitnessLibrary/Schedule/8">Fidelity Financial Education Classes @ UCR</a></li> 
+          <li><a href="https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices300.fidelity.com/NBHome.html" target="_blank">Fidelity NetBenefits</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/contacts/plan-contacts.html" target="_blank">Insurance Provider Contacts</a></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/compensation-and-benefits/roadmaps/leaving-uc-employment.html" target="_blank">Leaving UC Employment</a></li> 
+          <li><a href="http://graduate.ucr.edu/Postdocs.html" target="_blank">Post-Doctoral Scholars</a></li> 
+          <li><span class="banner_title"><a href="/docs/benefits/benefits_retiree_benefits_thefacts.pdf">Retiree Benefits Factsheet</a></span></li> 
+          <li><a href="http://ucnet.universityofcalifornia.edu/contacts/rasc.html"><span class="banner_title">Retirement Administration Service Center Customer Service</span></a></li> 
+          <li><a href="/benefits/retiregifts.html">Retirement Gift Program</a></li> 
+          <li><a href="http://www.thesimpledollar.com/retirement-guide/">Retirement Guide</a></li> 
+          <li><a href="/benefits/rascfaq.html">Retirement Services Transition FAQ</a></li> 
+          <li><a href="/benefits/smg.html">Senior Management Group (SMG) Benefits</a></li> 
+         </ul>
+         <!-- /com.omniupdate.div --> 
+        </ul> 
+       </div> 
+       <p style="text-align: center"><a class="img_link" href="http://wellness.ucr.edu/be_well_newsletters.html"><img src="/images/Be-Well-Logo_BUTTON.png" alt="BeWell Benefits &amp; Wellness"></a></p> 
+      </div> 
+      <div class="clear"></div> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Human Resources</strong><br> 1160 University Ave.<br> Riverside, CA 92521<br> 
+       <!--<a href="http://campusmap.ucr.edu/?loc=PRSNL" title="Campus Map">Human Resources</a><br /><br />
+Tel: (951) 827-2336--><br> Fax: (951) 827-2192
+       <!--<br />E-mail: <a href="mailto:hrquestions@ucr.edu?subject=Web Site Inquiry">hrquestions@ucr.edu</a>--></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/docs/hr_org_chart.pdf">HR/LR Organizational Chart</a></li> 
+       <li><a href="http://academicpersonnel.ucr.edu/" target="_blank">Academic Personnel</a></li> 
+       <li><a href="http://www.ucop.edu/local-human-resources/">UCOP Human Resources</a></li> 
+       <li><a href="http://bas.ucr.edu/" target="_blank">Business and Administrative Services</a></li> 
+       <li><a href="http://ucpath.ucr.edu/" target="_blank">UCPath @ UCR</a></li> 
+       <li><a href="http://retirementbenefits.ucr.edu/">UCR Post Employment Benefits</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://hr.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01103&amp;site=hrdev&amp;path=%2Fbenefits.html">Last modified: 2015-Jan-23</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.025873 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

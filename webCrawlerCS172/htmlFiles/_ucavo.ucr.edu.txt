@@ -1,0 +1,108 @@
+<html>
+ <head> 
+  <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1"> 
+  <meta name="generator" content="Adobe GoLive 5"> 
+  <title>Avocado Information Home Page</title> 
+ </head>
+ <body bgcolor="white" onload="CSScriptInit();" background="Images/Backgrounds/Paper-Light.jpg">
+  <csscriptdict> 
+   <script><!--CSInit = new Array;function CSScriptInit() {if(typeof(skipPage) != "undefined") { if(skipPage) return; }idxArray = new Array;for(var i=0;i<CSInit.length;i++)	idxArray[i] = i;CSAction2(CSInit, idxArray);}CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);CSIsW3CDOM = ((document.getElementById) && !(IsIE()&&CSBVers<6)) ? true : false;function IsIE() { return CSAg.indexOf("MSIE") > 0;}function CSIEStyl(s) { return document.all.tags("div")[s].style; }function CSNSStyl(s) { if (CSIsW3CDOM) return document.getElementById(s).style; else return CSFindElement(s,0);  }CSIImg=false;function CSInitImgID() {if (!CSIImg && document.images) { for (var i=0; i<document.images.length; i++) { if (!document.images[i].id) document.images[i].id=document.images[i].name; } CSIImg = true;}}function CSFindElement(n,ly) { if (CSBVers<4) return document[n];	if (CSIsW3CDOM) {CSInitImgID();return(document.getElementById(n));}	var curDoc = ly?ly.document:document; var elem = curDoc[n];	if (!elem) {for (var i=0;i<curDoc.layers.length;i++) {elem=CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}	return elem;}function CSGetImage(n) {if(document.images) {return ((!IsIE()&&CSBVers<5)?CSFindElement(n,0):document.images[n]);} else {return null;}}CSDInit=false;function CSIDOM() { if (CSDInit)return; CSDInit=true; if(document.getElementsByTagName) {var n = document.getElementsByTagName('DIV'); for (var i=0;i<n.length;i++) {CSICSS2Prop(n[i].id);}}}function CSICSS2Prop(id) { var n = document.getElementsByTagName('STYLE');for (var i=0;i<n.length;i++) { var cn = n[i].childNodes; for (var j=0;j<cn.length;j++) { CSSetCSS2Props(CSFetchStyle(cn[j].data, id),id); }}}function CSFetchStyle(sc, id) {	var s=sc; while(s.indexOf("#")!=-1) { s=s.substring(s.indexOf("#")+1,sc.length); if (s.substring(0,s.indexOf("{")).toUpperCase().indexOf(id.toUpperCase())!=-1) return(s.substring(s.indexOf("{")+1,s.indexOf("}")));}	return "";}function CSGetStyleAttrValue (si, id) {	var s=si.toUpperCase();	var myID=id.toUpperCase()+":";	var id1=s.indexOf(myID);	if (id1==-1) return "";	s=s.substring(id1+myID.length+1,si.length);	var id2=s.indexOf(";");	return ((id2==-1)?s:s.substring(0,id2));}function CSSetCSS2Props(si, id) {	var el=document.getElementById(id);	if (el==null) return;	var style=document.getElementById(id).style;	if (style) {		if (style.left=="") style.left=CSGetStyleAttrValue(si,"left");		if (style.top=="") style.top=CSGetStyleAttrValue(si,"top");		if (style.width=="") style.width=CSGetStyleAttrValue(si,"width");		if (style.height=="") style.height=CSGetStyleAttrValue(si,"height");		if (style.visibility=="") style.visibility=CSGetStyleAttrValue(si,"visibility");		if (style.zIndex=="") style.zIndex=CSGetStyleAttrValue(si,"z-index");	}}function CSClickReturn () {	var bAgent = window.navigator.userAgent; 	var bAppName = window.navigator.appName;	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))		return true; /* dont follow link */	else return false; /* dont follow link */}function CSButtonReturn () { return !CSClickReturn(); }CSIm=new Object();function CSIShow(n,i) {	if (document.images) {		if (CSIm[n]) {			var img=CSGetImage(n);			if (img&&typeof(CSIm[n][i].src)!="undefined") {img.src=CSIm[n][i].src;}			if(i!=0) self.status=CSIm[n][3]; else self.status=" ";			return true;		}	}	return false;}function CSILoad(action) {	im=action[1];	if (document.images) {		CSIm[im]=new Object();		for (var i=2;i<5;i++) {			if (action[i]!='') {CSIm[im][i-2]=new Image(); CSIm[im][i-2].src=action[i];}			else CSIm[im][i-2]=0;		}		CSIm[im][3] = action[5];	}}CSStopExecution=false;function CSAction(array) {return CSAction2(CSAct, array);}function CSAction2(fct, array) { 	var result;	for (var i=0;i<array.length;i++) {		if(CSStopExecution) return false; 		var aa = fct[array[i]];		if (aa == null) return false;		var ta = new Array;		for(var j=1;j<aa.length;j++) {			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}				else ta[j]=aa[j];}			} else ta[j]=aa[j];		}					result=aa[0](ta);	}	return result;}CSAct = new Object;// --></script> 
+  </csscriptdict> 
+  <csactiondict> 
+   <script><!--CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'General',/*URL*/'Images/Buttons/hpbGeneral.jpg',/*URL*/'Images/Buttons/hpbGeneralOver.jpg',/*URL*/'Images/Buttons/hpbGeneralOver.jpg','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Varieties',/*URL*/'Images/Buttons/hpbVarieties.jpg',/*URL*/'Images/Buttons/hpbVarietiesOver.jpg',/*URL*/'','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'Images/Buttons/hpbFlowering.jpg',/*URL*/'Images/Buttons/hpbFloweringOver.jpg',/*URL*/'','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Irrigation',/*URL*/'Images/Buttons/hpbIrrigation.jpg',/*URL*/'Images/Buttons/hpbIrrigationOver.jpg',/*URL*/'','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Phenology',/*URL*/'Images/Buttons/hpbPhenology.jpg',/*URL*/'Images/Buttons/hpbPhenologyOver.jpg',/*URL*/'','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Rootstocks',/*URL*/'Images/Buttons/hpbRootstocks.jpg',/*URL*/'Images/Buttons/hpbRootstocksOver.jpg',/*URL*/'','');CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'OtherLinks',/*URL*/'Images/Buttons/hpbOtherLinks.jpg',/*URL*/'Images/Buttons/hpbOtherLinksOver.jpg',/*URL*/'','');// --></script> 
+  </csactiondict>   
+  <table cool="" width="699" height="151" usegridx="" usegridy="" showgridx="" showgridy="" gridx="16" gridy="16" border="0" cellpadding="0" cellspacing="0"> 
+   <tbody>
+    <tr height="150"> 
+     <td width="698" height="150" valign="top" align="left" xpos="0"><img src="Images/Logos/HomePageLogo.jpg" border="0" width="658" height="150"></td> 
+     <td width="1" height="150">
+      <spacer type="block" width="1" height="150"></spacer></td> 
+    </tr> 
+    <tr height="1" cntrlrow=""> 
+     <td width="698" height="1">
+      <spacer type="block" width="698" height="1"></spacer></td> 
+     <td width="1" height="1"></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <hr size="3" width="660" align="left"> 
+  <table cool="" width="713" height="549" usegridx="" usegridy="" showgridx="" showgridy="" gridx="16" gridy="16" border="0" cellpadding="0" cellspacing="0"> 
+   <tbody>
+    <tr height="63"> 
+     <td width="176" height="63" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbGeneralOver.jpg" cl="Images/Buttons/hpbGeneralOver.jpg">
+       <a href="General/General.html" onmouseover="return CSIShow(/*CMP*/'General',1)" onmouseout="return CSIShow(/*CMP*/'General',0)" onclick="CSIShow(/*CMP*/'General',2);return CSButtonReturn()"><img src="Images/Buttons/hpbGeneral.jpg" width="160" height="48" name="General" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="55" width="480" height="63" valign="top" align="left" xpos="176">Contains a variety of information on avocados including type of fruit, growing conditions, as well as an "ANSWERS to QUESTIONS" section for the backyard grower.</td> 
+     <td width="56" height="548" rowspan="7"></td> 
+     <td width="1" height="63">
+      <spacer type="block" width="1" height="63"></spacer></td> 
+    </tr> 
+    <tr height="69"> 
+     <td width="176" height="69" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbVarietiesOver.jpg">
+       <a href="AvocadoVarieties/AvocadoVarieties.html#Anchor-49575" onmouseover="return CSIShow(/*CMP*/'Varieties',1)" onmouseout="return CSIShow(/*CMP*/'Varieties',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbVarieties.jpg" width="160" height="48" name="Varieties" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="55" width="480" height="69" valign="top" align="left" xpos="176">Want to know about various types of avocados? Want to look through a database of almost 1,000 avocado variety names? Want information on species related to avocados? This is the place.</td> 
+     <td width="1" height="69">
+      <spacer type="block" width="1" height="69"></spacer></td> 
+    </tr> 
+    <tr height="64"> 
+     <td width="176" height="64" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbFloweringOver.jpg">
+       <a href="Flowering/Flowering.html" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbFlowering.jpg" width="160" height="48" name="button" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="48" width="480" height="64" valign="top" align="left" xpos="176">The avocado flower is rather unique. Learn how it is unique and its effect on pollination. Watch a flowering video.</td> 
+     <td width="1" height="64">
+      <spacer type="block" width="1" height="64"></spacer></td> 
+    </tr> 
+    <tr height="64"> 
+     <td width="176" height="64" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbIrrigationOver.jpg">
+       <a href="Irrigation/Irrigation.html" onmouseover="return CSIShow(/*CMP*/'Irrigation',1)" onmouseout="return CSIShow(/*CMP*/'Irrigation',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbIrrigation.jpg" width="160" height="48" name="Irrigation" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="48" width="480" height="64" valign="top" align="left" xpos="176">Irrigation information.</td> 
+     <td width="1" height="64">
+      <spacer type="block" width="1" height="64"></spacer></td> 
+    </tr> 
+    <tr height="64"> 
+     <td width="176" height="64" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbPhenologyOver.jpg">
+       <a href="Phenology/Phenology.html" onmouseover="return CSIShow(/*CMP*/'Phenology',1)" onmouseout="return CSIShow(/*CMP*/'Phenology',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbPhenology.jpg" width="160" height="48" name="Phenology" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="48" width="480" height="64" valign="top" align="left" xpos="176">This has to do with the timing of plant growth and flowering.</td> 
+     <td width="1" height="64">
+      <spacer type="block" width="1" height="64"></spacer></td> 
+    </tr> 
+    <tr height="64"> 
+     <td width="176" height="64" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbRootstocksOver.jpg">
+       <a href="Rootstocks/Rootstocks.html" onmouseover="return CSIShow(/*CMP*/'Rootstocks',1)" onmouseout="return CSIShow(/*CMP*/'Rootstocks',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbRootstocks.jpg" width="160" height="48" name="Rootstocks" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="48" width="480" height="64" valign="top" align="left" xpos="176">Rootstock information</td> 
+     <td width="1" height="64">
+      <spacer type="block" width="1" height="64"></spacer></td> 
+    </tr> 
+    <tr height="160"> 
+     <td width="176" height="160" valign="top" align="left" xpos="0">
+      <csobj w="160" h="48" t="Button" ht="Images/Buttons/hpbOtherLinksOver.jpg">
+       <a href="OtherLinks/OtherLinks.html" onmouseover="return CSIShow(/*CMP*/'OtherLinks',1)" onmouseout="return CSIShow(/*CMP*/'OtherLinks',0)" onclick="return CSButtonReturn()"><img src="Images/Buttons/hpbOtherLinks.jpg" width="160" height="48" name="OtherLinks" border="0"></a>
+      </csobj></td> 
+     <td content="" csheight="48" width="480" height="160" valign="top" align="left" xpos="176">Useful links to other web sites.</td> 
+     <td width="1" height="160">
+      <spacer type="block" width="1" height="160"></spacer></td> 
+    </tr> 
+    <tr height="1" cntrlrow=""> 
+     <td width="176" height="1">
+      <spacer type="block" width="176" height="1"></spacer></td> 
+     <td width="480" height="1">
+      <spacer type="block" width="480" height="1"></spacer></td> 
+     <td width="56" height="1">
+      <spacer type="block" width="56" height="1"></spacer></td> 
+     <td width="1" height="1"></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <p></p>  
+ </body>
+</html>

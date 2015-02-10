@@ -1,0 +1,326 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+ <head> 
+  <title>UCR Today:   Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10</title> 
+  <meta http-equiv="last-modified" content="2015-01-30"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta property="og:site_name" content="UCR Today"> 
+  <meta property="og:title" content="  Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="http://ucrtoday.ucr.edu/26785"> 
+  <meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Robert-Reich.jpg"> 
+  <meta property="article:section" content="Politics/Society"> 
+  <meta name="description" content="January 22, 2015: School of Public Policy event will include a screening of “Inequality for All”."> 
+  <meta property="og:description" content="January 22, 2015: School of Public Policy event will include a screening of “Inequality for All”."> 
+  <link rel="profile" href="http://gmpg.org/xfn/11"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/style.css"> 
+  <link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php"> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today » Feed" href="http://ucrtoday.ucr.edu/feed"> 
+  <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','bettye-miller',3],['_setCustomVar',2,'tags','author documentary press-release public-policy robert-reich ',3],['_setCustomVar',3,'year','2015',3],['_setCustomVar',4,'categories','politics-society',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script> 
+  <link rel="stylesheet" id="yarppWidgetCss-css" href="http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.1" type="text/css" media="all"> 
+  <link rel="stylesheet" id="tn3-css" href="http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=4.1" type="text/css" media="all"> 
+  <script type="text/javascript" src="https://platform.twitter.com/anywhere.js?id=pM8hgGenShE3535u4xgxeg&amp;v=1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/js/global.js?ver=1"></script> 
+  <link rel="prev" title="How Malaria-Spreading Mosquitoes Can Tell You’re Home" href="http://ucrtoday.ucr.edu/26771"> 
+  <link rel="next" title="Novel Focuses on Witches in the Basque Country" href="http://ucrtoday.ucr.edu/25888"> 
+  <link rel="canonical" href="http://ucrtoday.ucr.edu/26785"> 
+  <link rel="shortlink" href="http://atu.cr/1BioYg7"> 
+  <link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/print6.css" media="print"> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie8.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie10.css" media="all" />
+<![endif]--> 
+ </head> 
+ <body class="single single-post postid-26785 single-format-standard singular"> 
+  <div id="brandingbar_wrapper"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr> 
+    <div id="brandingbar"> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+     <div id="branding_overlay"> 
+      <!-- Last Updated on Feb 9 2015, 11:58 am PST from Riverside / March Air Force Base, CA --> 
+      <p id="l_weather" title="Fair, 73.0 °F (22.6 °C), winds Northwest at 9.2 MPH (8 KT), 43% relative humidity."><img alt="Fair" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/weather/skc.png" height="64" width="100"> <strong>73°</strong> on campus</p> 
+      <p>Follow Us:&nbsp;</p> 
+      <ul class="social_links">
+       <li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li>
+       <li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li>
+       <li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li>
+       <li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li>
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="masthead"> 
+    <h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/masthead_news.png"><span class="accessibility">UCR Today</span></a></h1> 
+    <div id="search"> 
+     <form method="get" id="searchform-x1423515885de372b" action="http://ucrtoday.ucr.edu/"> 
+      <label for="s-x1423515885de372b">Search:</label> 
+      <input type="text" class="s field" name="s" id="s-x1423515885de372b"> 
+      <input type="submit" class="search submit" name="submit" value="Search"> 
+     </form> 
+    </div> 
+   </div> 
+   <ul id="cat_nav">
+    <li><a href="/" id="cat_nav_first">Home</a></li>
+    <li><a href="/category/arts-culture">Arts/​Culture</a></li>
+    <li><a href="/category/politics-society">Politics/​Society</a></li>
+    <li><a href="/category/science-technology">Science/​Technology</a></li>
+    <li><a href="/category/business">Business</a></li>
+    <li><a href="/category/health" id="cat_nav_last">Health</a></li>
+    <li id="cat_nav_inside_ucr"><a href="/inside-ucr"><span class="accessibility">Inside UCR</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="pagewrapper"> 
+   <!-- Start Content --> 
+   <div id="content"> 
+    <a name="main"></a> 
+    <div class="column23"> 
+     <div class="boxed content" role="main"> 
+      <h2>Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10</h2> 
+      <p class="deck">School of Public Policy event will include a screening of “Inequality for All”</p> 
+      <p class="byline">By <a href="http://ucrtoday.ucr.edu/author/bettyem" title="View all posts by Bettye Miller" rel="author">Bettye Miller</a> on <em>January 22, 2015</em></p> 
+      <div class="share"> 
+       <p>Share this article: </p> 
+       <ul class="share_links"> 
+        <li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20this%20article%20on%20UCR%20Today%3A%0A%0AFormer%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010%0A%0ASchool%20of%20Public%20Policy%20event%20will%20include%20a%20screening%20of%20%E2%80%9CInequality%20for%20All%E2%80%9D%0A%0Ahttp%3A%2F%2Fatu.cr%2F1BioYg7&amp;subject=UCR%20Today%3A%20Former%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010" title="E-mail this page to a friend" onclick="javascript:_gaq.push(['_trackEvent','Share','E-mail','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);"><img src="http://www.ucr.edu/images/icons/mail.png" height="16" width="16" alt="E-mail this page to a friend"></a></li> 
+        <li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F1BioYg7&amp;t=UCR%20Today%3A%20Former%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010" title="Share this page on Facebook!" onclick="javascript:_gaq.push(['_trackEvent','Share','Facebook','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);" target="_blank"><img src="http://www.ucr.edu/images/icons/facebook.png" height="16" width="16" alt="Share this page on Facebook!"></a></li> 
+        <li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fatu.cr%2F1BioYg7&amp;title=UCR%20Today%3A%20Former%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010" title="Publicly recommend on Google!" onclick="javascript:_gaq.push(['_trackEvent','Share','Google +1','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);" target="_blank"><img src="http://www.ucr.edu/images/icons/google-plus.png" height="16" width="16" alt="Publicly recommend on Google!"></a></li> 
+        <li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F1BioYg7&amp;title=UCR%20Today%3A%20Former%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010" title="Add this page to LinkedIn!" onclick="javascript:_gaq.push(['_trackEvent','Share','LinkedIn','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);" target="_blank"><img src="http://www.ucr.edu/images/icons/linkedin.png" height="16" width="16" alt="Add this page to LinkedIn!"></a></li> 
+        <li><a rel="nofollow" href="http://twitter.com/home?status=UCR%20Today%3A%20Former%20Secretary%20of%20Labor%2C%20Political%20Commentator%20Robert%20Reich%20to%20Speak%20Feb.%2010%20http%3A%2F%2Fatu.cr%2F1BioYg7%20%23UCRiverside" title="Share on Twitter!" onclick="javascript:_gaq.push(['_trackEvent','Share','Twitter','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);" target="_blank"><img src="http://www.ucr.edu/images/icons/twitter.png" height="16" width="16" alt="Share on Twitter!"></a></li> 
+        <li><a rel="nofollow" href="javascript:window.print()" title="Print this page" onclick="javascript:_gaq.push(['_trackEvent','Share','Print','26785: Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10']);"><img src="http://www.ucr.edu/images/icons/printer.png" height="16" width="16" alt="Print this page"></a></li> 
+       </ul> 
+      </div>
+      <div class="figure_main vert"> 
+       <a href="http://ucrtoday.ucr.edu/26785/robert-reich"><img width="374" height="277" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Robert-Reich-374x277.jpg" class="attachment-feature-vert" alt="robert reich"></a>
+       <p>"An Evening with Robert Reich" on Feb. 10 will include a screening of "Inequality for All" and a Q&amp;A with the former U.S. labor secretary.</p> 
+      </div> 
+      <p>RIVERSIDE, Calif. – Former U.S. Secretary of Labor Robert Reich, who is widely regarded as a leading expert on inequality, work and the economy, will speak at UC Riverside on Tuesday, Feb. 10, as part of the School of Public Policy Seminar Series.</p> 
+      <p>“An Evening with Robert Reich” will begin at 4:30 p.m. with refreshments on the University Theatre patio. The documentary film “Inequality for All,” which examines widening income inequality in the United States, will screen in the theater from 5:30 to 7 p.m. Reich, who narrates the film, will answer questions about themes addressed in the documentary from 7 to 7:30 p.m.</p> 
+      <p>The <a title="An Evening with Robert Reich" href="http://spp.ucr.edu/media/2014_seminar_reich.html" target="_blank">event</a> is free and open to the public, but reservations are requested as seating is limited. Free parking will be available in Lot 6. RSVP <a title="RSVP Robert Reich" href="https://ucrspp.wufoo.com/forms/rsvp-robert-reich/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://ucrspp.wufoo.com/forms/rsvp-robert-reich/']);" target="_blank">online</a> or by contacting Mark Manalang at (951) 827-5656 or <a href="mailto:markma@ucr.edu">markma@ucr.edu</a>.</p> 
+      <p><a title="Robert Reich" href="http://robertreich.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://robertreich.org/']);" target="_blank">Reich</a> is Chancellor’s Professor of Public Policy at UC Berkeley and senior fellow at the Blum Center for Developing Economies. He served as labor secretary in the Clinton administration, and was named one of the 10 most effective Cabinet secretaries of the 20th century by Time Magazine.</p> 
+      <p>He is the author of numerous books, including best sellers “Aftershock” and “The Work of Nations,” and “Beyond Outrage: What has gone wrong with our economy and our democracy and how to fix it.” He is a founding editor of American Prospect magazine, chairman of Common Cause, and a political commentator on programs such as “Hardball with Chris Matthews,” “This Week with George Stephanopoulos,” and “Marketplace.”</p> 
+      <p><a title="Inequality for All" href="http://inequalityforall.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://inequalityforall.com/']);" target="_blank">“Inequality for All”</a> premiered at the 2013 Sundance Film Festival, where it won a U.S. Documentary Special Jury Award for Achievement in Filmmaking. Directed by Jacob Kornbluth, the film examines widening income inequality and the effect of the growing gap on the U.S. economy and American democracy.</p> 
+      <div class="clear"></div> 
+      <div class="contact_box">
+       <div class="cb_wrapper"> 
+        <div class="left"> 
+         <h3>Media Contact</h3> 
+         <p><strong><a href="http://ucrtoday.ucr.edu/author/bettyem" rel="author">Bettye Miller</a></strong><br> Tel: (951) 827-7847<br> E-mail: <a href="mailto:bettye.miller@ucr.edu">bettye.miller@ucr.edu</a> <br>Twitter: <a href="http://twitter.com/#!/bettyemiller">bettyemiller</a> </p> 
+         <h3>Additional Contacts</h3> 
+         <p><strong>Mark Manalang </strong> <br>Tel: (951) 827-5656 <br>E-mail: <a href="mailto:markma@ucr.edu">markma@ucr.edu</a> </p> 
+        </div> 
+        <div class="right"> 
+         <h3>Related Links</h3> 
+         <ul> 
+          <li><a href="http://spp.ucr.edu/media/2014_seminar_reich.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://spp.ucr.edu/media/2014_seminar_reich.html']);">An Evening with Robert Reich</a></li>
+          <li><a href="https://ucrspp.wufoo.com/forms/rsvp-robert-reich/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','https://ucrspp.wufoo.com/forms/rsvp-robert-reich/']);">RSVP </a></li>
+          <li><a href="http://robertreich.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://robertreich.org/']);">Robert Reich </a></li>
+          <li><a href="http://inequalityforall.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://inequalityforall.com/']);">“Inequality for All” </a></li>
+          <li><a href="http://spp.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://spp.ucr.edu/']);">School of Public Policy </a></li> 
+         </ul> 
+        </div> 
+        <div class="clear"></div> 
+       </div>
+      </div> 
+      <p class="archived"><em>Archived under:</em> <a href="http://ucrtoday.ucr.edu/category/politics-society" rel="category tag">Politics/Society</a>, <a href="http://ucrtoday.ucr.edu/tag/author" rel="tag">author</a>, <a href="http://ucrtoday.ucr.edu/tag/documentary" rel="tag">documentary</a>, <a href="http://ucrtoday.ucr.edu/tag/press-release" rel="tag">press release</a>, <a href="http://ucrtoday.ucr.edu/tag/public-policy" rel="tag">public policy</a>, <a href="http://ucrtoday.ucr.edu/tag/robert-reich" rel="tag">Robert Reich</a>, <a href="http://ucrtoday.ucr.edu/tag/school-of-public-policy" rel="tag">School of Public Policy</a></p> 
+      <p class="top_page"><a href="#main">Top of Page</a></p> 
+     </div> 
+    </div> 
+    <div class="column3R"> 
+     <div id="yarpp_widget-2" class="boxed widget widget_yarpp_widget">
+      <div class="yarpp-related-widget"> 
+       <h3>Related News</h3> 
+       <ol> 
+        <li><a href="http://ucrtoday.ucr.edu/26821" rel="bookmark" title="UCR Psychologist to Lead UC Consortium on Social Science and Law"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Steven-Clark-2013-130x78.jpg" alt="Steven E. Clark" class="landscape thumbnail" width="130" height="78" itemprop="image">UCR Psychologist to Lead UC Consortium on Social Science and Law<br><strong>[Jan 23, 2015]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/25430" rel="bookmark" title="Immunologist to Discuss Ebola Nov. 4"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/10/Ilhem-Messaoudi-130x78.jpg" alt="Ilhem Messaoudi" class="landscape thumbnail" width="130" height="78" itemprop="image">Immunologist to Discuss Ebola Nov. 4<br><strong>[Oct 24, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/24551" rel="bookmark" title="Walk Riverside Research Results Reviewed"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/09/walkriverside1-130x78.jpg" alt="feet walking on a sidewalk" class="landscape thumbnail" width="130" height="78" itemprop="image">Walk Riverside Research Results Reviewed<br><strong>[Sep 16, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/22214" rel="bookmark" title="Physician to Discuss Medicaid in May 8 Lecture"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/05/Darcy-Nikol-Bryan-130x78.jpg" alt="Darcy Nikol Bryan, M.D." class="landscape thumbnail" width="130" height="78" itemprop="image">Physician to Discuss Medicaid in May 8 Lecture<br><strong>[May 2, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/21225" rel="bookmark" title="Law School Dean to Discuss Future of Civil Rights"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/03/Frank_Wu-130x78.jpg" alt="Frank Wu" class="landscape thumbnail" width="130" height="78" itemprop="image">Law School Dean to Discuss Future of Civil Rights<br><strong>[Mar 21, 2014]</strong></a></li> 
+       </ol> 
+      </div> 
+     </div> 
+     <div id="popular-widget-3" class="boxed widget popular-widget"> 
+      <ul id="pop_widget_tabs_3" class="pop_widget_tabs">
+       <li><a href="#latest" rel="nofollow">Latest</a></li>
+       <li><a href="#viewed" rel="nofollow"><span>Most</span> Viewed</a></li>
+      </ul> 
+      <div class="pop_inside_3 pop_inside"> 
+       <ul id="pop_widget_latest_3" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/27086">Budding K-12 Scientists Present Their Research on Campus This Week <strong>[Feb&nbsp;9,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27067">Getting to the Heart of Oil Spill Impacts on Gulf Fish <strong>[Feb&nbsp;6,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27055">UC Riverside to Host Annual Noche Cultural <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27046">Rivera Conference to Address Latino Health <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27011">Let There Be Light <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27020">Researchers to Report Progress on Video Game Aimed at Veterans with Hearing Loss <strong>[Feb&nbsp;4,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <ul id="pop_widget_viewed_3" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/26810">Researchers Make Magnetic Graphene <strong>[Jan&nbsp;26,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26685">Seismic Experiment in Alaska Could Shed Light on Slow Earthquakes <strong>[Jan&nbsp;14,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26738">Graduate Students Participate in Workshop on Electronic Cigarettes and Public Health <strong>[Jan&nbsp;16,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26996">Scientists Reprogram Plants for Drought Tolerance <strong>[Feb&nbsp;4,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26785">Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10 <strong>[Jan&nbsp;22,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26974">Doubling Down on American Idol <strong>[Jan&nbsp;30,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <div class="clear"></div> 
+      </div> 
+     </div> 
+     <div id="text-8" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <h3 id="ttl_email">E-Mail Subscription</h3> 
+       <p><strong>Don't miss the news!</strong> Receive an e-mail once a day with every new story straight to your inbox.</p>
+       <form class="form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=UCRToday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> 
+        <label for="fb_email">Enter your e-mail address:</label> 
+        <input type="text" style="width:170px" id="fb_email" name="email"> 
+        <input type="hidden" value="UCRToday" name="uri">
+        <input type="hidden" name="loc" value="en_US"> 
+        <input type="submit" value="Subscribe"> 
+        <p class="credit">Delivered by <a href="http://feedburner.google.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://feedburner.google.com']);" target="_blank">FeedBurner</a></p> 
+       </form>
+      </div> 
+     </div>
+     <div id="text-3" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <div class="shaded"> 
+        <h3><img src="/wp-content/uploads/2012/08/ttl_expertsondemand.png" alt="" height="17" width="242"><span class="accessibility">Experts on Demand</span></h3> 
+        <p class="kicker">UC Riverside has dozens of experts in virtually every field you can imagine.</p> 
+        <p> Whether it's the latest fad in Hollywood, the latest must-have gadget or the latest row in Washington, UCR has a vast pool of staff and faculty who can present a unique view right now. </p> 
+        <p> These interactions can take place in person, electronically, through a campus ISDN line, or even via video through our Digital Production Studio, which can put a UCR expert on the air anywhere in the world through AT&amp;T's regional fiber network hub. </p> 
+        <p> UCR is ready to help you find the expertise you need to get the story. </p> 
+        <p> <a class="final_link" href="http://mediasources.ucr.edu/">Check out our Experts on Demand</a> </p> 
+       </div>
+      </div> 
+     </div>
+     <div id="text-11" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <div id="rss_sidebar" class="shaded"> 
+        <h3>RSS Feeds</h3> 
+        <p><img class="size-full alignright wp-image-1067" title="Big RSS Icon" src="../wp-content/uploads/2012/01/icon_rss_big.png" alt="Standard white on orange RSS icon." width="49" height="49">Subscribe to any of our RSS feeds.</p> 
+        <p><a class="final_link" href="../available-feeds">Available RSS feeds</a></p> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div>
+   <!-- #content --> 
+  </div>
+  <!-- #pagewrapper --> 
+  <div class="btf_wrapper"> 
+   <div class="pagewrapper"> 
+    <div id="btf"> 
+     <h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/ttl_below_the_fold.png" height="16" width="222"></h2> 
+     <div class="column23"> 
+      <div id="widget_ucrnewsroom_faculty_profile-55" class="widget widget_faculty_profile">
+       <h3>Faculty Profile | <strong>Politics/Society</strong></h3> 
+       <div class="figure_fac_profile"> 
+        <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/profile-David-Eastmond-banner.jpg" alt="David Eastmond"> 
+        <p><a href="http://promise.ucr.edu/profile-policy-eastmond.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','David Eastmond']);"><strong>David Eastmond</strong><br>Professor of Cell Biology and Toxicologist</a></p> 
+       </div> 
+      </div>
+      <div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings">
+       <h3>Events and Happenings</h3> 
+       <p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p> 
+       <ul> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41969" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Measure for Measure']);"> <img src="http://www.ucr.edu/images/happening/2645.jpg" width="124" height="57" alt=""> <strong>Measure for Measure</strong> <span class="date">Thursday–Saturday, February 12–14 &amp; 19–21<br>8–10 p.m.</span> <span class="location">Arts Building Studio Theatre, ARTS 113</span> A play by William Shakespeare</a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42201:20150218180000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Living Green Lecture and Film Series']);"> <img src="http://www.ucr.edu/images/happening/2660.jpg" width="124" height="57" alt=""> <strong>Living Green Lecture and Film Series</strong> <span class="date">Wednesday, February 18<br>6–7:30 p.m.</span> <span class="location">UCR Palm Desert 75080 Frank Sinatra Drive</span> Learn how strong local food systems can build healthy communities.</a></li> 
+        <li><a href="https://tkt.xosn.com/tickets/TicketHome.dbml?DB_LANG=C&amp;DB_OEM_ID=25000&amp;_MODE_=EVENTSELECT&amp;SALE_TKT_EVENT_ID=582723&amp;IN_PARKING=" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Men's Basketball v. UC Irvine']);"> <img src="http://www.ucr.edu/images/happening/2658.jpg" width="124" height="57" alt=""> <strong>Men's Basketball v. UC Irvine</strong> <span class="date">Saturday, February 14<br>5 p.m.</span> <span class="location">SRC Arena</span> </a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42519:20150213173000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Valentine's Day Partner Yoga']);"> <img src="http://www.ucr.edu/images/happening/2668.jpg" width="124" height="57" alt=""> <strong>Valentine's Day Partner Yoga</strong> <span class="date">Friday, February 13<br>5:30–6:30 p.m.</span> <span class="location">Student Recreation Center</span> Come with a partner or friend for a heart-opening, spirit-connecting session!</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="widget_ucrnewsroom_related_links-2" class="widget widget_links">
+       <h3>Related Sites</h3> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li> 
+        <li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Información en Español</a></li> 
+        <li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Español</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li> 
+       </ul> 
+      </div>
+      <div id="rss-5" class="widget widget_rss">
+       <h3><a class="rsswidget" href="http://meltwaternews.com/magenta/xml/html/10/31/rss/v2_460435_hitsentence.rss.XML"><img style="border:0" width="14" height="14" src="http://ucrtoday.ucr.edu/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://meltwaternews.com/">UCR in the News</a></h3>
+       <ul>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894309&amp;userId=374422&amp;cId=103137&amp;agentId=529135&amp;type=3&amp;etype=USER_CREATED&amp;t=Happy+Birthday%21&amp;cdt=1423262160000&amp;sn=LA+Times&amp;cc=United+States&amp;surl=&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=">Happy Birthday!</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3864036188&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=95358&amp;url=http%3A%2F%2Fwww.kcentv.com%2Fstory%2F28046877%2Fbaylor-wbbs-niya-johnson-on-lieberman-award-watch-list">Baylor WBB's Niya Johnson on Lieberman Award Watch List</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3864005236&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=84712&amp;url=http%3A%2F%2Fwww.wkyt.com%2Fwymt%2Fsports%2Fheadlines%2FMakayla-Epps-named-to-Nancy-Lieberman-Award-Watch-List-291093251.html">Makayla Epps named to Nancy Lieberman Award Watch List</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894269&amp;userId=374422&amp;cId=103137&amp;agentId=529127&amp;type=3&amp;etype=FACEBOOK&amp;t=Riverside+International+Automotive+Museum&amp;cdt=1423257796000&amp;sn=www.facebook.com&amp;cc=null&amp;surl=http%3A%2F%2Fwww.facebook.com&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=http%3A%2F%2Fwww.facebook.com%2F553382249%2Fposts%2F10153067984457250">Riverside International Automotive Museum</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894049&amp;userId=374422&amp;cId=103137&amp;agentId=529127&amp;type=3&amp;etype=FACEBOOK&amp;t=Same-Sex+Behavior+in+the+Animal+Kingdom&amp;cdt=1423257530000&amp;sn=www.facebook.com&amp;cc=null&amp;surl=http%3A%2F%2Fwww.facebook.com&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=http%3A%2F%2Fwww.facebook.com%2F100008593279056%2Fposts%2F1410415395921556">Same-Sex Behavior in the Animal Kingdom</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863989513&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=99435&amp;url=http%3A%2F%2Fromesentinel.com%2Fsports-agate%2Fsports-agate-feb-6-2015%2FQBqobe%21ujLNcI428gW1qYSYiowrpw%2F">Sports agate — Feb. 6, 2015</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863930270&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=203397&amp;url=http%3A%2F%2Fucrtoday.ucr.edu%2F27067">Getting to the Heart of Oil Spill Impacts on Gulf Fish</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863847815&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=664&amp;url=http%3A%2F%2Fwww.financialexpress.com%2Farticle%2Ffe-columnist%2Fno-sweat%2F39924%2F">No Sweat</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863665073&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=258460&amp;url=http%3A%2F%2Fwww.aocs.org%2FMembership%2FFreeCover.cfm%3Fitemnumber%3D40811">Biotechnology: Using living systems to solve problems- Inform - Membership - AOCS</a> <span class="rss-date">February 6, 2015</span></li>
+       </ul>
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <h3 class="accessibility">Footer</h3> 
+   <div id="colophon">
+     The University of California, Riverside (
+    <a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. 
+   </div> 
+   <div id="footer"> 
+    <ul> 
+     <li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+     <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+     <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+     <li>© 2015 Regents of the University of California</li> 
+     <li>Last modified: 2015-Jan-30</li> 
+    </ul> 
+   </div> 
+  </div> 
+  <link rel="stylesheet" id="yarppRelatedCss-css" href="http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.1" type="text/css" media="all"> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab6"></script>   
+ </body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
+  <title>Matthew Wiley</title> 
+  <script type="text/javascript" src="tabber.js"></script> 
+  <link rel="stylesheet" href="example.css" type="text/css"> 
+  <link rel="StyleSheet" href="style.css" type="text/css"> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27633076-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+ </head> 
+ <body> 
+  <div class="header"> 
+   <table style="width: 100%"> 
+    <tbody>
+     <tr> 
+      <td width="30%"> <img alt="" src="./wiley_pic.jpg" width="80%"></td> 
+      <td align="center"> <h2> Matthew Wiley</h2> <p class="header_subtext"> PhD Student<br> <a href="http://www.cs.ucr.edu">Computer Science and Engineering </a><br> <a href="http://www.ucr.edu">University of California, Riverside</a> </p> <p class="header_subtext"> Office: Winston Chung Hall 363<br> Phone: (951) 827-2838<br> Fax: (951) 827-4643<br> <img alt="" src="./wileymail.png"> </p> </td> 
+      <td width="30%">&nbsp; </td> 
+     </tr> 
+     <tr> 
+     </tr>
+    </tbody>
+   </table> 
+  </div> 
+  <div class="tabber"> 
+   <div class="tabbertab"> 
+    <h2>Biography</h2> 
+    <br> 
+    <strong><font size="+1">Background</font></strong> 
+    <p> I am a third year Ph.D. student studying <a href="http://www.cs.ucr.edu">Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a> (UCR). I work in the <a href="http://dblab.cs.ucr.edu">Database Lab</a> advised by </p> 
+    <p><a href="http://scholar.google.com/citations?hl=en&amp;user=8y_pdBEAAAAJ">Google Scholar Profile</a></p> 
+    <p>Some of my recent projects include:</p> 
+    <ul> 
+     <li>Mining doctor search portals for attributes of top doctors </li> 
+     <li> Studying the demographics of Social Media</li> 
+     <li>Learning predictors of a patient's future medical concepts using a database of electronic health records (EHRs), where each EHR is represented as a set of medical concepts <a target="_blank" href="timeline.jpg">discretized over time</a>. </li> 
+     <li>Efficient query processing across a database of EHRs, where each EHR and the query are represented as set of medical concepts from the <a href="http://www.nlm.nih.gov/research/umls/" target="_blank">UMLS</a> -- a compilation of several medical ontologies.</li> 
+     <li>Analyzing the <a target="_blank" href="OSN drug popularity.png"></a>content of online social networks in the context of healthcare. This includes general social networks such as Twitter, and specialized health social networks such as WebMD.</li> 
+     <li>MedNa -- a web application for recording clinical notes. This application does not require any downloads or installation and the GUI is <a href="CNA UI.png" target="_blank">simple</a> (a single textbox). Important medical concepts -- as defined by the healthcare professional -- are processed and visualized in real-time. Potential benefits include less data-entry errors and an increased understanding of a patient's EHR by machines. </li> 
+    </ul> 
+    <p> Over the summer of 2011, I completed a Master's thesis in <a href="http://www.ohio.edu/eecs">Computer Science</a> and received my M.S. degree. The thesis titled <i>Machine Learning for Diabetes Decision Support</i> was completed under the guidance of Professor <a href="http://ace.cs.ohiou.edu/~marling">Cindy Marling</a> and Professor <a href="http://ace.cs.ohiou.edu/~razvan">Razvan Bunescu</a>. More details are provided on the Publications tab. </p> 
+    <hr> 
+    <strong><font size="+1">Education</font></strong> 
+    <ul> 
+     <li> Ph.D. expected in <a href="http://www.cs.ucr.edu">Computer Science</a>, <a href="http://www.ucr.edu">University of California, Riverside</a>, 2016 </li>
+     <li> M.S. in <a href="http://www.ohio.edu/eecs/">Computer Science</a>, <a href="http://www.ohio.edu">Ohio University</a>, 2011 </li>
+     <li> B.S. in <a href="http://www.ohio.edu/eecs/">Computer Science</a>, <a href="http://www.ohio.edu">Ohio University</a>, 2009 </li>
+    </ul> 
+    <hr> 
+    <strong><font size="+1">Research Interests</font></strong> 
+    <ul> 
+     <li> <a href="http://en.wikipedia.org/wiki/Health_informatics">Health Informatics</a> </li>
+     <li> <a href="http://en.wikipedia.org/wiki/Electronic_health_record">Electronic Health Records</a> </li>
+     <li> <a href="http://en.wikipedia.org/wiki/Data_Mining">Data Mining</a> </li>
+     <li> <a href="http://en.wikipedia.org/wiki/Machine_Learning">Machine Learning</a> </li>
+     <li><a href="http://en.wikipedia.org/wiki/Information_retrieval">Information Retrieval</a> </li>
+     <li> <a href="http://en.wikipedia.org/wiki/Social_media">Social Media</a></li> 
+    </ul> 
+   </div> 
+   <div class="tabbertab"> 
+    <h2>Publications</h2> 
+    <br> 
+    <strong><font size="+1">Conferences</font></strong> 
+    <ul> 
+     <li>Efficient Concept-based Document Ranking<br> Tasos Arvanitis, Matthew Wiley, Vagelis Hristidis<br> <i>International Conference on Extending Database Technology (EDBT 2014)</i><br> [<a href="papers/ConceptSearch.pdf">pdf</a>] <br> <br> </li>
+     <li> Automatic Detection of Excessive Glycemic Variablity for Diabetes Management<br> Matthew Wiley, Razvan Bunescu, Cindy Marling, Jay Shubrook and Frank Schwartz<br> <i>Proceedings of the 10th International Conference on Machine Learning and Applications (ICMLA)</i>, Honolulu, Hawaii, December 2011<br> &nbsp;[<a href="papers/icmla11.pdf">pdf</a>]&nbsp;[<a href="papers/icmla-11.pptx">Slides</a>]<br> <br> </li>
+     <li>The 4 Diasbetes Support System: A Case Study in CBR Research and Development<br> Cindy Marling, Matthew Wiley, Tessa Cooper, Razvan Bunescu, Jay Shubrook and Frank Schwartz<br> <i>Proceedings of the 19th International Conference on Case-Based Reasoning (ICCBR)</i> September, 2011<br> <br> </li>
+     <li> Emerging Applications for Intelligent Diabetes Management<br> Cindy Marling, Matthew Wiley, Razvan Bunescu, Jay Shubrook and Frank Schwartz<br> <i>Proceedings of the 23rd Annual Conference on Innovative Applications of Artificial Intelligence (IAAI)</i>, San Francisco, CA, August 2011<br> [<a href="papers/iaai-11.pdf">pdf</a>]<br> </li>
+    </ul> 
+    <hr> 
+    <strong><font size="+1">Journals</font></strong> 
+    <ul> 
+     <li>Pharmaceutical Drugs Chatter on Online Social Networks<br> Matthew Wiley, Canghong Jin, Vagelis Hristidis, Kevin Esterling<br> <i>Journal of Biomedical Informatics</i> Accepted for April, 2014<br> [<a href="papers/DrugReviews.pdf">pdf</a>] <br> <br> </li>
+     <li>Emerging Applications for Intelligent Diabetes Management<br> Cindy Marling, Matthew Wiley, Razvan Bunescu, Jay Shubrook, Frank Schwartz<br> <i>AI Magazine</i> 33, no. 2 (2012): 67<br> [<a href="papers/iaai-11.pdf">pdf</a>] <br> <br> </li>
+     <li>Characterizing Blood Glucuose Variability Using New Metrics with Continuous Glucose Monitoring Data<br> Cindy Marling, Jay Shubrook, Stan Vernier, Matthew Wiley and Frank Schwartz<br> <i>Journal of Diabetes Science and Technology</i> July, 2011<br> [<a href="http://journalofdst.org/July2011/PDF/Abstract/VOL-5-4-ORG3-MARLING-ABSTRACT.pdf">Abstract</a>] </li>
+    </ul> 
+    <hr> 
+    <strong><font size="+1">Posters</font></strong> 
+    <ul> 
+     <li>Automated Screen for Excessive Glycemic Variability using CGM Data<br> Cindy Marling, Matthew Wiley, Razvan Bunescu, Jay Shubrook and Frank Schwartz<br> <i>Eleventh Annual Diabetes Technology Meeting, Diabetes Technology Society</i> San Francisco, CA, October, 2011<br> <br> </li>
+     <li>New Metrics for Glucose Variability Using CGM Data<br> Cindy Marling, Jay Shubrook, Stan Vernier, Matthew Wiley and Frank Schwartz<br> <i>Tenth Annual Diabetes Technology Meeting, Diabetes Technology Society</i> Bethesda, MD, October, 2010<br> </li>
+    </ul> 
+    <hr> 
+    <strong><font size="+1">Thesis</font></strong> 
+    <ul> 
+     <li>Machine Learning for Diabetes Decision Support<br> Matthew Wiley<br> <i>M.S. thesis, School of Computer Science and Eletrical Engineering, Ohio University</i>, August, 2011<br> [<a href="papers/thesis.pdf">pdf</a>] <p> There are three main contributions to this thesis: (1) preprocessing noisy data, preparatory to applying machine learning algorithms; (2) enhancing the automated detection of glycemic variability, a serious problem for patients with diabetes; and (3) predicting patient blood glucose levels, in order to preemptively detect and avoid potential health problems.</p><br> </li>
+    </ul> 
+   </div> 
+   <!--div class="tabbertab">
+	<h2>CS234 Bioinformatics Project (Deprecated)</h2>
+	<br/>
+<h4>Accomplishments</h4>
+<ul>
+<li>Downloaded MEDLINE (100G of XML files)
+<li>Subsetted MEDLINE to these <a href="list.html">journals</a>.
+<li>Loaded this subset into a mysql database and Lucene index.  In total, 626,385 citations have abstract text from this subset.
+<li>Obtained a list of <a href="keywords.html">Keywords</a> from an expert.
+<li>Obtained a list of <a href="semantic_types.html">Semantic Types</a> pertinent to protein-RNA interaction.
+<li>Built software for expert annotations.  770 documents were annotated, 170 of these documents were relevant.
+<li>Ran MetaMap on these annotations.
+<li>Extracted parse trees for each sentence in these annotations.
+<li>Visualized these annotations, along with the MetaMap and parse tree output.
+<li>Created examples from each sentence of the abstract.  For a sentence to be a positive example, it must have the protein, RNA, and keyword in the same sentence.  
+<li>Out of the 170 positive examples, 139 had this structure.  All other examples are negative.  In total, there are 5,985 negative examples.
+<li>Analyze which semantic types appear as protein/RNA/keyword. 
+<li>Filtered out sentences based on these semantic types.  This still needs improvement, too many negative examples are still present making classification difficult.  The recall for this filter was 97% (127 of 139), and precision of 2.4% (5479 negative examples, and 127 positive examples).  This only filtered out 9% of the negative examples.
+<li>Built a WEKA file of training examples, based on the count of relevant semantic types in the sentences.  The results were poor due to the high number of negative examples.  The filter needs more work.
+</ul>
+	<h3>Detecting protein-RNA interaction in MEDLINE</h3>
+	<h4>Overview:</h4>
+	<p> The goal of this project is to automatically detect <a target="_blank" href="http://en.wikipedia.org/wiki/RNA-binding_protein">protein RNA interactions</a> mentioned in the abstracts of citations in <a target="_blank" href="http://www.nlm.nih.gov/bsd/pmresources.html">MEDLINE</a>, with an objective to build a <a target="_blank" href="http://en.wikipedia.org/wiki/Protein-RNA_interface_database">protein-RNA interaction database</a>.  MEDLINE is a large corpus of approximately <a target="_blank" href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=journals&Cmd=DetailsSearch&Term=currentlyindexed[All]">5,592</a> journals.  Most of these journals are out of the scope of protein RNA interactions; a biochemist who studies these types of interactions has provided me with the following <a target="_blank" href="list.html">list of journals</a>, which will be used to subset the MEDLINE corpus.</p>
+<h4>Motivation</h4>
+<p>
+In 2010, nearly <a target="_blank" href="http://www.nlm.nih.gov/bsd/index_stats_comp.html">700,000</a> citations were added to MEDLINE, with over 18 million citations in total.  While many of these citations are not concerned with protein-RNA interactions, keeping up with current protein-RNA interactions is still an <a href="list.html" target="_blank">intractable problem</a> without any type of indexing scheme associated with the MEDLINE citations.  Furthermore, current protein RNA interaction databases only look at biological properties of proteins and RNA for identifying these interactions.  This motivates the need for an automated database of protein-RNA interactions based on the literature published in MEDLINE.  
+</p>
+<h4>Related Work</h4>
+<p>There are two types of related work, NLP techniques for identifying semantic relations and databases of protein RNA interaction.  In Biodmedical text analysis, identifying protein-protein interactions has been a focused point of research for over <a target="_blank" href="http://scholar.google.com/scholar?q=protein+protein+interaction+NLP&hl=en&btnG=Search&as_sdt=1%2C5&as_sdtp=on">10 years</a>. 
+</p>
+<p>
+To my current knowledge, there are only 2 other protein-RNA interaction databases currently available: <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/19357098">BIPA</a> and <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3013700/">PRIDB</a>.
+</p>
+	<hr/>
+     </div--> 
+   <div class="tabbertab"> 
+    <h2>Quotes</h2> 
+    <ul> 
+     <li> "My interest is in the future because I am going to spend the rest of my life there" -- Chrales F. Kettering </li>
+    </ul> 
+   </div> 
+  </div>   
+ </body>
+</html>

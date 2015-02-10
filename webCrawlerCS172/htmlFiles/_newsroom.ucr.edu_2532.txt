@@ -1,0 +1,268 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>UCR Newsroom: Donor Commits to Fund Clean Energy Research</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2011-05-02"> 
+  <meta name="version" content="2.67 2.161 "> 
+  <!-- 02/05/15 01:50:39 02/09/15 13:04:59 --> 
+  <meta name="description" content="January 24, 2011: Prominent Chinese businessman provides an endowment supporting UC Riverside’s Bourns College of Engineering"> 
+  <link rel="canonical" href="http://newsroom.ucr.edu/2532"> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide2" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js2"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="//www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="//www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="//newsroom.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="//www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="//newsroom.ucr.edu/"><span class="printonly">UCR Newsroom</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://strategiccommunications.ucr.edu/">Office of Strategic Communications</a> &gt;</li> 
+    <li><a href="//newsroom.ucr.edu/">UCR Newsroom</a> &gt;</li> 
+    <li class="lastitem">Donor Commits to Fund Clean Energy Research</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="https://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="https://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="accessibility">Donor Commits to Fund Clean Energy Research</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span>Newsroom</span></a></li>
+       <li><a href="/news_archive.html" title="Archive">Archive</a></li> 
+      </ul> 
+     </div> 
+     <p><a class="img_link" href="http://ucrtoday.ucr.edu/"><img alt="" src="/images/UCRToday_bttn.jpg" width="220" height="107"><span class="accessibility">UCR Today: New News, New Look. Go!</span></a></p> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="column23 set_top_margin"> 
+      <h3 class="news_head">Winston Chung Commits to a $10 Million Gift to UC Riverside</h3> 
+      <p class="news_subhead">Prominent Chinese businessman provides an endowment supporting UC Riverside’s Bourns College of Engineering</p> 
+      <p class="news_date">(January 24, 2011)</p> 
+     </div> 
+     <div class="column3R set_top_margin"> 
+      <div class="newsbox"> 
+       <h4>NEWS MEDIA CONTACT</h4> 
+       <address> <span class="vcard"> Name: <strong><span class="fn n">Kris Lovekin</span></strong><br> Tel: <span class="tel">(951) 827-2495</span><br> E-mail: <a href="mailto:kris.lovekin@ucr.edu"><span class="email">kris.lovekin@ucr.edu</span></a> </span> </address> 
+      </div> 
+      <ul class="share_links"> 
+       <li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20this%20Web%20page%20on%20ucr.edu%3A%0A%0Ahttp%3A%2F%2Fatu.cr%2F1p875KH&amp;subject=UC%20Riverside%20Web%20Page%3A%20UCR%20Newsroom%3A%20Donor%20Commits%20to%20Fund%20Clean%20Energy%20Research" title="E-mail this page to a friend" onclick="javascript:ga('send','event','Share','E-Mail', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');"><span class="fa fa-envelope-o fa-lg"><span class="accessibility">E-mail this page to a friend</span></span></a></li> 
+       <li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F1p875KH&amp;t=UCR%20Newsroom%3A%20Donor%20Commits%20to%20Fund%20Clean%20Energy%20Research" title="Share this page on Facebook!" onclick="javascript:ga('send','event','Share','Facebook', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');" target="_blank"><span class="fa fa-facebook-square fa-lg"><span class="accessibility">Share this page on Facebook!</span></span></a></li> 
+       <li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;urlk=http%3A%2F%2Fatu.cr%2F1p875KH&amp;title=UCR%20Newsroom%3A%20Donor%20Commits%20to%20Fund%20Clean%20Energy%20Research" title="Publicly recommend on Google!" onclick="javascript:ga('send','event','Share','Google +1', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');" target="_blank"><span class="fa fa-google-plus-square fa-lg"><span class="accessibility">Publicly recommend on Google!</span></span></a></li> 
+       <li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F1p875KH&amp;title=UCR%20Newsroom%3A%20Donor%20Commits%20to%20Fund%20Clean%20Energy%20Research" title="Add this page to LinkedIn!" onclick="javascript:ga('send','event','Share','LinkedIn', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');" target="_blank"><span class="fa fa-linkedin-square fa-lg"><span class="accessibility">Add this page to LinkedIn!</span></span></a></li> 
+       <li><a rel="nofollow" href="http://twitter.com/home?status=UCR%20Newsroom%3A%20Donor%20Commits%20to%20Fund%20Clean%20Energy%20Research%20http%3A%2F%2Fatu.cr%2F1p875KH%20via%20%40UCRiverside" title="Share on Twitter!" onclick="javascript:ga('send','event','Share','Twitter', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');" target="_blank"><span class="fa fa-twitter fa-lg"><span class="accessibility">Share on Twitter!</span></span></a></li> 
+       <li><a rel="nofollow" href="javascript:window.print()" title="Print this page!" onclick="javascript:ga('send','event','Share','Print', 'UCR Newsroom: Donor Commits to Fund Clean Energy Research');"><span class="fa fa-print fa-lg"><span class="accessibility">Print this page!</span></span></a></li> 
+      </ul> 
+     </div> 
+     <div class="clear section"></div> 
+     <div class="newsbox floatR"> 
+      <div class="news_photos" style="width:200px;">
+       <img src="/images/releases/2532_0.jpg" alt="After signing a memorandum of understanding that will lead to a $10 million gift to UC Riverside, Chinese inventor and businessman Winston Chung and UC Riverside Chancellor Timothy P. White shake hands as Reza Abbaschian, dean of the Bourns College of Engineering, looks on. Photo credit: Peter Phun" height="141" width="200">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_0hi.jpg">Enlarge</a>
+       <p>After signing a memorandum of understanding that will lead to a $10 million gift to UC Riverside, Chinese inventor and businessman Winston Chung and UC Riverside Chancellor Timothy P. White shake hands as Reza Abbaschian, dean of the Bourns College of Engineering, looks on. Photo credit: Peter Phun</p>
+      </div> 
+     </div> RIVERSIDE, Calif. (www.ucr.edu) -- The University of California, Riverside announced Monday that Winston Chung, a Chinese battery technology scientist, inventor and entrepreneur, has expressed his intent to give $10 million to support clean battery power, solar energy and sustainable transportation research at the Bourns College of Engineering.
+     <br> 
+     <br> Chung and UC Riverside Chancellor Timothy P. White in January signed a memorandum of understanding that will lead to the gift, which will make Chung the largest individual donor to the campus in UC Riverside history.
+     <br> 
+     <br> The campus received the gift on Friday, April 29, 2011.
+     <br> 
+     <br> Chung is the founder of Winston Global Energy Limited and inventor of the rare earth lithium yttrium battery. 
+     <br> 
+     <br> 
+     <iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="390" src="http://www.youtube.com/embed/I4CbTuNwfcw" frameborder="0" allowfullscreen></iframe>
+     <br> 
+     <br> “The University of California, Riverside welcomes Mr. Winston Chung as an integral partner in our educational and research mission,” White said. “His investment in this university will result in generations of students and faculty sharing their knowledge with local and global communities, and in new materials and new energy sources for an energy-hungry world. This gift is a wonderful testimony to the current strengths and aspirational future of the UCR Bourns College of Engineering.”
+     <br> 
+     <br> Reza Abbaschian, dean of the Bourns College of Engineering, said Chung’s work on electric vehicles is a perfect match with the Bourns College of Engineering-Center for Environmental Research &amp; Technology (CE-CERT) and the Southern California Research Initiative for Solar Energy (SC-RISE) at UC Riverside.
+     <br> 
+     <br> “Mr. Chung has created a clean and efficient energy storage that is an expression of a sustainable future,” Abbaschian said. “We are talking about vehicles that go for 180 miles on a single charge and can be recharged in the time it takes to stop and drink a cup of coffee.” He said he is excited by the prospect of future research collaborations, and by the opportunities the gift would mean for engineering students.
+     <br> 
+     <br> When an endowed fund is created in Chung’s name, UC Riverside will:
+     <br> • Name the building currently known as Engineering Building II as Winston Chung Hall.
+     <br> • Support two named professorships in the Bourns College of Engineering: the Winston Chung Professorship in Energy Innovation and the Winston Chung Professorship in Sustainability.
+     <br> • Establish the Winston Chung Global Energy Center within CE-CERT. The center will initially focus on Life Source Rare Earth Lithium batteries, which Chung invented, bio-inspired technology and the development of clean energy and energy storage.
+     <br> 
+     <br> Since arriving in the United States, Winston Global Energy Ltd. announced it will provide $310 million to MVP RV, which is based in Riverside, to promote motorhome exports to China. Additional money will fund development of all-electric RVs and fast-charging electrical systems.
+     <br> 
+     <br> The deal was one of about 70 between the U.S. and China announced in connection with the official state visit by Chinese President Hu Jintao, in what was called a demonstration of cooperation between the two countries.
+     <br> 
+     <br> MVP RV expects to export more than 30,000 motorhomes, valued at approximately $5 billion, to China over the next three to four years. The joint venture will push the number jobs at MVP RV from 130 to more than 1,400.
+     <br> 
+     <br> In November, Balqon Corporation, a California developer and manufacturer of zero-emission heavy-duty electric vehicles and drive systems, and Winston Battery jointly showcased their drive systems and battery technologies at The World Electric Vehicle Symposium and Exposition in China. The companies demonstrated the world’s first all-electric recreational vehicle, with a range of 200 km on a single charge. The 45-foot RV can be fully charged within 20 minutes, as compared to 8 hours using traditional methods.
+     <br> 
+     <div class="clear"></div> 
+     <div class="column23"> 
+      <div class="news_photos" style="width:400px;">
+       <img src="/images/releases/2532_1.jpg" alt="Chinese inventor and businessman Winston Chung at a lab in the College of Engineering-Center for Environmental Research and Technology." height="257" width="400">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_1hi.jpg">Enlarge</a>
+       <p>Chinese inventor and businessman Winston Chung at a lab in the College of Engineering-Center for Environmental Research and Technology.</p>
+      </div> 
+      <div class="news_photos" style="width:400px;">
+       <img src="/images/releases/2532_2.jpg" alt="Chinese inventor and businessman Winston Chung with Reza Abbaschian, dean of the Bourns College of Engineering, looking on." height="267" width="400">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_2hi.jpg">Enlarge</a>
+       <p>Chinese inventor and businessman Winston Chung with Reza Abbaschian, dean of the Bourns College of Engineering, looking on.</p>
+      </div> 
+      <div class="news_photos" style="width:400px;">
+       <img src="/images/releases/2532_3.jpg" alt="UC Riverside Chancellor Timothy B. White and Chinese inventor and businessman Winston Chung talk with students on campus." height="267" width="400">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_3hi.jpg">Enlarge</a>
+       <p>UC Riverside Chancellor Timothy B. White and Chinese inventor and businessman Winston Chung talk with students on campus.</p>
+      </div> 
+      <div class="news_photos" style="width:400px;">
+       <img src="/images/releases/2532_4.jpg" alt="Reza Abbaschian, dean of the Bourns College of Engineering, left, and Chinese inventor and businessman Winston Chung, stand in front of Engineering Building II, which will be renamed Winston Chung Hall." height="600" width="400">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_4hi.jpg">Enlarge</a>
+       <p>Reza Abbaschian, dean of the Bourns College of Engineering, left, and Chinese inventor and businessman Winston Chung, stand in front of Engineering Building II, which will be renamed Winston Chung Hall.</p>
+      </div> 
+      <div class="news_photos" style="width:400px;">
+       <img src="/images/releases/2532_5.jpg" alt="UC Riverside Chancellor Timothy B. White and Chinese inventor and businessman Winston Chung lead a group walking across campus." height="264" width="400">
+       <a class="magnify" target="_blank" title="Enlarge" href="/images/releases/2532_5hi.jpg">Enlarge</a>
+       <p>UC Riverside Chancellor Timothy B. White and Chinese inventor and businessman Winston Chung lead a group walking across campus.</p>
+      </div> 
+      <div class="newsbox set_top_margin"> 
+       <h4>RELATED LINKS</h4> 
+       <ul> 
+        <li><a href="http://www.latimes.com/business/la-fi-china-rv-20110121,0,4399875.story">LA Times story on the electric recreational vehicles:</a></li> 
+        <li><a href="http://www.engr.ucr.edu/"> Bourns College of Engineering</a></li> 
+        <li><a href="http://www.cert.ucr.edu/"> CE-CERT</a></li> 
+        <li><a href="http://www.balqon.com/">Balqon Corporation:</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+     <p class="news_boilerplate section_heavy"> The University of California, Riverside (<a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. </p> 
+     <p class="news_boilerplate"> A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. </p> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter alt-1-1-3"> 
+     <div class="column3"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links footer-links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Flibrary.ucr.edu%2F');">UCR Library</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstatus.ucr.edu%2F');">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstore.ucr.edu%2F');">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Femployment.html');">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fdiversity.ucr.edu%2F');">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.073928 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column3"> 
+      <h3>Department Information</h3> 
+      <address><strong>Media Relations</strong><br> 900 University Avenue<br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">1156 Hinderaker Hall</a><br> Riverside, CA 92521<br><br> Tel: (951) 827-6397 (951) UCR-NEWS<br> Fax: (951) 827-5008 <br></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR’s Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR’s YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column23R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a class="external" title="external site: UCOP Science Today" href="http://www.ucop.edu/sciencetoday/">Science Today</a></li> 
+       <li><a class="external" title="external site: UC Newsroom" href="http://www.universityofcalifornia.edu/news/">UC Newsroom</a></li> 
+       <li><a class="external" title="external site: UC Newsroom (in Spanish)" href="http://www.universityofcalifornia.edu/news/spanish/">UC en Español</a></li> 
+       <li><a class="external" title="external site: UC Ag and Natural Resources news" href="http://news.ucanr.org/">UC Agricultural and Natural Resources news</a></li> 
+       <li><a class="external" title="external site: UC Ag and Natural Resources news (in Spanish)" href="http://espanol.ucanr.org/">Servicio de Información en Español</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/images/ucr_footer.jpg" alt="" width="120" height="60"> UC Riverside has dozens of experts in virtually every field you can imagine. Whether it's the latest fad in Hollywood, the latest must-have gadget or the latest row in Washington, UCR has a vast pool of staff and faculty who can present a unique view right now. <br> <br> These interactions can take place in person, electronically, through a campus ISDN line, or even via video through our Digital Production Studio, which can put a UCR expert on the air anywhere in the world through AT&amp;T's regional fiber network hub. <br> <br> UCR is ready to help you find the expertise you need to get the story. Check out our <a href="http://mediasources.ucr.edu/">Experts on Demand</a>. </p> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="//newsroom.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=newsroom&amp;path=%2Fnews_item.html">Last modified: 2011-May-02</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.436398 seconds using 4.25 MiB of memory. -->   
+ </body>
+</html>

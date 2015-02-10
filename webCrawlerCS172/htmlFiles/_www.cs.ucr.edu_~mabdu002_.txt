@@ -1,0 +1,31 @@
+<html>
+ <head></head>
+ <body>
+  <div dir="ltr"> 
+   <div style="display:block;margin-right:auto;margin-left:auto;text-align:center"> 
+    <table> 
+     <tbody> 
+      <tr> 
+       <td style="width:200px;height:189px"> 
+        <div style="display:block;text-align:left">
+         <img src="https://sites.google.com/site/mohiuddinaqader/home/378395_10150505865717313_829022185_n.jpg?height=127&amp;width=200" border="0" height="127" width="200">
+        </div> &nbsp; 
+        <div style="display:block;margin-right:auto;margin-left:auto;text-align:center">
+         <a href="https://sites.google.com/site/mohiuddinaqader/home/picture.png?attredirects=0" imageanchor="1"><img src="https://sites.google.com/site/mohiuddinaqader/home/picture.png" border="0"></a>
+        </div> </td> 
+       <td style="width:349px;height:189px"><b><br> Mohiuddin Abdul Qader</b> <br> PhD Student &amp;&amp; <br> Graduate Student Researcher<br> <i><a href="http://www.cs.ucr.edu/" target="_blank">Department of Computer Science</a><br> </i> <i><a href="http://www.ucr.edu/" target="_blank">University of California Riverside</a><br> </i><font size="2"><a href="mailto:mabdu002@ucr.edu"><i>mabdu002</i>@ucr<font size="2">.edu</font></a><br> <br> </font><br> Office: Winston Chung Hall 363<br> Phone: (951) 827-2838<br> Fax: (951) 827-4643</td> 
+      </tr> 
+     </tbody> 
+    </table> 
+    <br> 
+   </div> 
+   <div align="justify"> 
+    <p> I am a first year Ph.D. student studying <a href="http://www.cs.ucr.edu">Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a> (UCR). I work in the <a href="http://dblab.cs.ucr.edu">Database Lab</a> advised by Professor <a href="http://www.cs.ucr.edu/~vagelis/">Vagelis Hristidis</a>.<br> </p> This is Mohiuddin Abdul Qader. My nickname is Shuvo. I have completed my Undergraduate studies from 
+    <a href="http://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a> in Computer Science and Engineering (CSE) in 
+    <i>April 2012</i>. After graduation, I joined one of the leading Software companies of the world in the field of IP Telephony, 
+    <a href="http://www.revesoft.com/home/index.php">Reve System Ltd.</a> as a Software Engineer.
+    <br> 
+   </div> 
+  </div> 
+ </body>
+</html>

@@ -1,0 +1,328 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+ <head> 
+  <title>UCR Today:   UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8</title> 
+  <meta http-equiv="last-modified" content="2015-01-23"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta property="og:site_name" content="UCR Today"> 
+  <meta property="og:title" content="  UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8"> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:url" content="http://ucrtoday.ucr.edu/26824"> 
+  <meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Ruth_Charloff-585x398.jpg"> 
+  <meta property="article:section" content="Arts/Culture"> 
+  <meta name="description" content="January 23, 2015: Specially featured is Aaron Copland’s “Lincoln Portrait” with narration by UCR Chancellor Kim A. Wilcox."> 
+  <meta property="og:description" content="January 23, 2015: Specially featured is Aaron Copland’s “Lincoln Portrait” with narration by UCR Chancellor Kim A. Wilcox."> 
+  <link rel="profile" href="http://gmpg.org/xfn/11"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/style.css"> 
+  <link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php"> 
+  <link rel="alternate" type="application/rss+xml" title="UCR Today » Feed" href="http://ucrtoday.ucr.edu/feed"> 
+  <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','bettye-miller',3],['_setCustomVar',2,'tags','concert kim-a-wilcox lincoln music press-release ruth-charlo',3],['_setCustomVar',3,'year','2015',3],['_setCustomVar',4,'categories','arts-culture',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script> 
+  <link rel="stylesheet" id="yarppWidgetCss-css" href="http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.1" type="text/css" media="all"> 
+  <link rel="stylesheet" id="tn3-css" href="http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=4.1" type="text/css" media="all"> 
+  <script type="text/javascript" src="https://platform.twitter.com/anywhere.js?id=pM8hgGenShE3535u4xgxeg&amp;v=1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.2"></script> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/js/global.js?ver=1"></script> 
+  <link rel="prev" title="UCR Psychologist to Lead UC Consortium on Social Science and Law" href="http://ucrtoday.ucr.edu/26821"> 
+  <link rel="next" title="Researchers Make Magnetic Graphene" href="http://ucrtoday.ucr.edu/26810"> 
+  <link rel="canonical" href="http://ucrtoday.ucr.edu/26824"> 
+  <link rel="shortlink" href="http://atu.cr/1yEdL9K"> 
+  <link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/print6.css" media="print"> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie8.css" media="all" />
+<![endif]--> 
+  <!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/ie10.css" media="all" />
+<![endif]--> 
+ </head> 
+ <body class="single single-post postid-26824 single-format-standard singular"> 
+  <div id="brandingbar_wrapper"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr> 
+    <div id="brandingbar"> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+     <div id="branding_overlay"> 
+      <!-- Last Updated on Feb 9 2015, 11:58 am PST from Riverside / March Air Force Base, CA --> 
+      <p id="l_weather" title="Fair, 73.0 °F (22.6 °C), winds Northwest at 9.2 MPH (8 KT), 43% relative humidity."><img alt="Fair" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/weather/skc.png" height="64" width="100"> <strong>73°</strong> on campus</p> 
+      <p>Follow Us:&nbsp;</p> 
+      <ul class="social_links">
+       <li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li>
+       <li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li>
+       <li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li>
+       <li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li>
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="masthead"> 
+    <h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/design6/masthead_news.png"><span class="accessibility">UCR Today</span></a></h1> 
+    <div id="search"> 
+     <form method="get" id="searchform-x1423515888b76afa0" action="http://ucrtoday.ucr.edu/"> 
+      <label for="s-x1423515888b76afa0">Search:</label> 
+      <input type="text" class="s field" name="s" id="s-x1423515888b76afa0"> 
+      <input type="submit" class="search submit" name="submit" value="Search"> 
+     </form> 
+    </div> 
+   </div> 
+   <ul id="cat_nav">
+    <li><a href="/" id="cat_nav_first">Home</a></li>
+    <li><a href="/category/arts-culture">Arts/​Culture</a></li>
+    <li><a href="/category/politics-society">Politics/​Society</a></li>
+    <li><a href="/category/science-technology">Science/​Technology</a></li>
+    <li><a href="/category/business">Business</a></li>
+    <li><a href="/category/health" id="cat_nav_last">Health</a></li>
+    <li id="cat_nav_inside_ucr"><a href="/inside-ucr"><span class="accessibility">Inside UCR</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="pagewrapper"> 
+   <!-- Start Content --> 
+   <div id="content"> 
+    <a name="main"></a> 
+    <div class="column23"> 
+     <div class="boxed content" role="main"> 
+      <h2>UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8</h2> 
+      <p class="deck">Specially featured is Aaron Copland’s “Lincoln Portrait” with narration by UCR Chancellor Kim A. Wilcox</p> 
+      <p class="byline">By <a href="http://ucrtoday.ucr.edu/author/bettyem" title="View all posts by Bettye Miller" rel="author">Bettye Miller</a> on <em>January 23, 2015</em></p> 
+      <div class="share"> 
+       <p>Share this article: </p> 
+       <ul class="share_links"> 
+        <li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20this%20article%20on%20UCR%20Today%3A%0A%0AUCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938%0A%0ASpecially%20featured%20is%20Aaron%20Copland%E2%80%99s%20%E2%80%9CLincoln%20Portrait%E2%80%9D%20with%20narration%20by%20UCR%20Chancellor%20Kim%20A.%20Wilcox%0A%0Ahttp%3A%2F%2Fatu.cr%2F1yEdL9K&amp;subject=UCR%20Today%3A%20UCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938" title="E-mail this page to a friend" onclick="javascript:_gaq.push(['_trackEvent','Share','E-mail','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);"><img src="http://www.ucr.edu/images/icons/mail.png" height="16" width="16" alt="E-mail this page to a friend"></a></li> 
+        <li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F1yEdL9K&amp;t=UCR%20Today%3A%20UCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938" title="Share this page on Facebook!" onclick="javascript:_gaq.push(['_trackEvent','Share','Facebook','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);" target="_blank"><img src="http://www.ucr.edu/images/icons/facebook.png" height="16" width="16" alt="Share this page on Facebook!"></a></li> 
+        <li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fatu.cr%2F1yEdL9K&amp;title=UCR%20Today%3A%20UCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938" title="Publicly recommend on Google!" onclick="javascript:_gaq.push(['_trackEvent','Share','Google +1','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);" target="_blank"><img src="http://www.ucr.edu/images/icons/google-plus.png" height="16" width="16" alt="Publicly recommend on Google!"></a></li> 
+        <li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F1yEdL9K&amp;title=UCR%20Today%3A%20UCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938" title="Add this page to LinkedIn!" onclick="javascript:_gaq.push(['_trackEvent','Share','LinkedIn','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);" target="_blank"><img src="http://www.ucr.edu/images/icons/linkedin.png" height="16" width="16" alt="Add this page to LinkedIn!"></a></li> 
+        <li><a rel="nofollow" href="http://twitter.com/home?status=UCR%20Today%3A%20UCR%20Orchestra%20Presents%20%E2%80%98Heroes%20and%20Anti-Heroes%E2%80%99%20Concerts%20Feb.%207%E2%80%938%20http%3A%2F%2Fatu.cr%2F1yEdL9K%20%23UCRiverside" title="Share on Twitter!" onclick="javascript:_gaq.push(['_trackEvent','Share','Twitter','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);" target="_blank"><img src="http://www.ucr.edu/images/icons/twitter.png" height="16" width="16" alt="Share on Twitter!"></a></li> 
+        <li><a rel="nofollow" href="javascript:window.print()" title="Print this page" onclick="javascript:_gaq.push(['_trackEvent','Share','Print','26824: UCR Orchestra Presents ‘Heroes and Anti-Heroes’ Concerts Feb. 7–8']);"><img src="http://www.ucr.edu/images/icons/printer.png" height="16" width="16" alt="Print this page"></a></li> 
+       </ul> 
+      </div>
+      <div class="figure_main vert"> 
+       <a href="http://ucrtoday.ucr.edu/26824/ruth_charloff"><img width="374" height="254" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Ruth_Charloff-374x254.jpg" class="attachment-feature-vert" alt="ruth charloff"></a>
+       <p>Ruth Charloff will conduct the UCR Orchestra in a concert with the theme “Heroes and Anti-Heroes.” </p> 
+      </div> 
+      <p>RIVERSIDE, Calif. — The UC Riverside Orchestra will present a concert, “Heroes and Anti-Heroes” on Saturday, Feb. 7, and Sunday, Feb. 8, that will feature a performance of Aaron Copland’s stirring “Lincoln Portrait” with narration by UCR Chancellor Kim A. Wilcox.</p> 
+      <p>Performance times are 8 p.m. on Feb. 7 and 3 p.m. Feb. 8 in the University Theatre. Tickets are $10 general, $8 for students and seniors, and $6 for children, and may be purchased at the University Theatre Fine Arts Ticket Office Monday through Friday from 10 a.m. to 2 p.m. and one hour before each concert, or online from Ticketmaster at <a href="http://www.ticketmaster.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.ticketmaster.com']);">www.ticketmaster.com</a>. Parking is $5.50 in Lot 6. Permits may be purchased at the kiosk on West Campus Drive at the University Avenue entrance to the campus.</p> 
+      <p>The concert features music portraying heroes and anti-heroes, both from real life and from&nbsp;film, ballet, opera and folklore, said conductor Ruth Charloff. The orchestra will perform Prokofiev’s&nbsp;witty “Lt. Kije Suite,”&nbsp; his film score from a 1930s Russian comedy about an imaginary&nbsp;military hero dreamed up by mistake; Copland’s vignette of African-American folk hero John Henry; Kodaly’s “Háry János,” about a would-be hero with an oversized imagination; and excerpts from Copland’s ballet “Billy the Kid” and Bizet’s sizzling “Carmen.”</p> 
+      <p>Specially featured is Copland’s “Lincoln Portrait,” a 15-minute composition that includes excerpts from speeches and letters of Abraham Lincoln, among them the Gettysburg Address.</p> 
+      <div id="attachment_26827" class="wp-caption alignright" style="width: 175px">
+       <a href="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Kim_A_Wilcox.jpg"><img class="wp-image-26827 size-full" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/01/Kim_A_Wilcox-e1422051176666.jpg" alt="Kim Wilcox" width="175" height="232"></a>
+       <p class="wp-caption-text">Chancellor Kim A. Wilcox</p>
+      </div> 
+      <p>Charloff said she invited Chancellor Wilcox to narrate the piece because of his special interests in both&nbsp;music and Lincoln, and because of his abilities as a speaker.&nbsp; “The narrator has to deliver&nbsp;Lincoln’s inspiring words and also be aware of the music, since Copland&nbsp;composed his musical portrait to coordinate with&nbsp;Lincoln’s words in such a moving way,” she said.<strong><br> </strong></p> 
+      <p>An impressive list of public figures and actors have narrated “Lincoln Portrait” over the years, including Coretta Scott King, astronaut Neil Armstrong, journalist Walter Cronkite, athlete Julius Irving, poet Carl Sandburg, Gen. Norman Schwarzkopf, and actors Henry Fonda, James Earl Jones and Tom Hanks.</p> 
+      <p>Copland composed “Lincoln Portrait” in 1942 at the request of conductor Andre Kostelanetz as part of a World War II patriotic war effort to create musical portraits of eminent Americans. The music was inspired by folk songs of the period, such as “Camptown Races” and “Springfield Mountain,” and words from the writings of the nation’s 16<sup>th</sup> president.</p> 
+      <p>The piece was first performed by the Cincinnati Symphony Orchestra on May 14, 1942, barely five months after the Japanese attack on Pearl Harbor.</p> 
+      <div class="clear"></div> 
+      <div class="contact_box">
+       <div class="cb_wrapper"> 
+        <div class="left"> 
+         <h3>Media Contact</h3> 
+         <p><strong><a href="http://ucrtoday.ucr.edu/author/bettyem" rel="author">Bettye Miller</a></strong><br> Tel: (951) 827-7847<br> E-mail: <a href="mailto:bettye.miller@ucr.edu">bettye.miller@ucr.edu</a> <br>Twitter: <a href="http://twitter.com/#!/bettyemiller">bettyemiller</a> </p> 
+         <h3>Additional Contacts</h3> 
+         <p><strong>Ruth Charloff </strong> <br>Tel: (951) 827-5412 <br>E-mail: <a href="mailto:ruth.charloff@ucr.edu">ruth.charloff@ucr.edu</a> </p> 
+        </div> 
+        <div class="right"> 
+         <h3>Related Links</h3> 
+         <ul> 
+          <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=42474" onclick="javascript:_gaq.push(['_trackEvent','outbound-related-link','http://events.ucr.edu/cgi-bin/display.cgi?event_id=42474']);">Concert information </a></li> 
+         </ul> 
+        </div> 
+        <div class="clear"></div> 
+       </div>
+      </div> 
+      <p class="archived"><em>Archived under:</em> <a href="http://ucrtoday.ucr.edu/category/arts-culture" rel="category tag">Arts/Culture</a>, <a href="http://ucrtoday.ucr.edu/tag/concert" rel="tag">concert</a>, <a href="http://ucrtoday.ucr.edu/tag/kim-a-wilcox" rel="tag">Kim A. Wilcox</a>, <a href="http://ucrtoday.ucr.edu/tag/lincoln" rel="tag">Lincoln</a>, <a href="http://ucrtoday.ucr.edu/tag/music" rel="tag">music</a>, <a href="http://ucrtoday.ucr.edu/tag/press-release" rel="tag">press release</a>, <a href="http://ucrtoday.ucr.edu/tag/ruth-charloff" rel="tag">ruth charloff</a>, <a href="http://ucrtoday.ucr.edu/tag/ucr-orchestra" rel="tag">UCR Orchestra</a></p> 
+      <p class="top_page"><a href="#main">Top of Page</a></p> 
+     </div> 
+    </div> 
+    <div class="column3R"> 
+     <div id="yarpp_widget-2" class="boxed widget widget_yarpp_widget">
+      <div class="yarpp-related-widget"> 
+       <h3>Related News</h3> 
+       <ol> 
+        <li><a href="http://ucrtoday.ucr.edu/21443" rel="bookmark" title="Orchestra Celebrates “The Wonderful Wizard of Oz”"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/04/Oz-concert-130x78.jpg" alt="photos of 3 principals in concert" class="landscape thumbnail" width="130" height="78" itemprop="image">Orchestra Celebrates “The Wonderful Wizard of Oz”<br><strong>[Apr 4, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20716" rel="bookmark" title="UCR Medical School and Music Department Present “Music as Medicine” Series"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/MusicScore_Page_2-130x78.jpg" alt="musical notes" class="landscape thumbnail" width="130" height="78" itemprop="image">UCR Medical School and Music Department Present “Music as Medicine” Series<br><strong>[Feb 20, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/20377" rel="bookmark" title="Concert, Conference Celebrate Music of Medieval Iberia"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/02/New-York-Andalus-Ensemble-130x78.jpg" alt="ensemble photo" class="landscape thumbnail" width="130" height="78" itemprop="image">Concert, Conference Celebrate Music of Medieval Iberia<br><strong>[Feb 7, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/19990" rel="bookmark" title="Duo Materiales to Perform at Culver Center"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/01/Duo-Materiales-130x78.jpg" alt="Performers Caroline de Comi and Joaquim Abreu" class="landscape thumbnail" width="130" height="78" itemprop="image">Duo Materiales to Perform at Culver Center<br><strong>[Jan 21, 2014]</strong></a></li> 
+        <li><a href="http://ucrtoday.ucr.edu/16488" rel="bookmark" title="Early Member of the UCR Faculty, Donald Johns, Has Died"> <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2013/07/Donald-Johns-e1374274976178-130x78.jpg" alt="composer and professor Donald Johns has died" class="landscape thumbnail" width="130" height="78" itemprop="image">Early Member of the UCR Faculty, Donald Johns, Has Died<br><strong>[Jul 19, 2013]</strong></a></li> 
+       </ol> 
+      </div> 
+     </div> 
+     <div id="popular-widget-3" class="boxed widget popular-widget"> 
+      <ul id="pop_widget_tabs_3" class="pop_widget_tabs">
+       <li><a href="#latest" rel="nofollow">Latest</a></li>
+       <li><a href="#viewed" rel="nofollow"><span>Most</span> Viewed</a></li>
+      </ul> 
+      <div class="pop_inside_3 pop_inside"> 
+       <ul id="pop_widget_latest_3" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/27086">Budding K-12 Scientists Present Their Research on Campus This Week <strong>[Feb&nbsp;9,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27067">Getting to the Heart of Oil Spill Impacts on Gulf Fish <strong>[Feb&nbsp;6,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27055">UC Riverside to Host Annual Noche Cultural <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27046">Rivera Conference to Address Latino Health <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27011">Let There Be Light <strong>[Feb&nbsp;5,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/27020">Researchers to Report Progress on Video Game Aimed at Veterans with Hearing Loss <strong>[Feb&nbsp;4,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <ul id="pop_widget_viewed_3" class="pop_widget_links">
+        <li><a href="http://ucrtoday.ucr.edu/26810">Researchers Make Magnetic Graphene <strong>[Jan&nbsp;26,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26685">Seismic Experiment in Alaska Could Shed Light on Slow Earthquakes <strong>[Jan&nbsp;14,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26738">Graduate Students Participate in Workshop on Electronic Cigarettes and Public Health <strong>[Jan&nbsp;16,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26996">Scientists Reprogram Plants for Drought Tolerance <strong>[Feb&nbsp;4,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26785">Former Secretary of Labor, Political Commentator Robert Reich to Speak Feb. 10 <strong>[Jan&nbsp;22,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+        <li><a href="http://ucrtoday.ucr.edu/26974">Doubling Down on American Idol <strong>[Jan&nbsp;30,&nbsp;2015]</strong></a>
+         <div class="clear"></div></li> 
+       </ul> 
+       <div class="clear"></div> 
+      </div> 
+     </div> 
+     <div id="text-8" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <h3 id="ttl_email">E-Mail Subscription</h3> 
+       <p><strong>Don't miss the news!</strong> Receive an e-mail once a day with every new story straight to your inbox.</p>
+       <form class="form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=UCRToday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> 
+        <label for="fb_email">Enter your e-mail address:</label> 
+        <input type="text" style="width:170px" id="fb_email" name="email"> 
+        <input type="hidden" value="UCRToday" name="uri">
+        <input type="hidden" name="loc" value="en_US"> 
+        <input type="submit" value="Subscribe"> 
+        <p class="credit">Delivered by <a href="http://feedburner.google.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://feedburner.google.com']);" target="_blank">FeedBurner</a></p> 
+       </form>
+      </div> 
+     </div>
+     <div id="text-3" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <div class="shaded"> 
+        <h3><img src="/wp-content/uploads/2012/08/ttl_expertsondemand.png" alt="" height="17" width="242"><span class="accessibility">Experts on Demand</span></h3> 
+        <p class="kicker">UC Riverside has dozens of experts in virtually every field you can imagine.</p> 
+        <p> Whether it's the latest fad in Hollywood, the latest must-have gadget or the latest row in Washington, UCR has a vast pool of staff and faculty who can present a unique view right now. </p> 
+        <p> These interactions can take place in person, electronically, through a campus ISDN line, or even via video through our Digital Production Studio, which can put a UCR expert on the air anywhere in the world through AT&amp;T's regional fiber network hub. </p> 
+        <p> UCR is ready to help you find the expertise you need to get the story. </p> 
+        <p> <a class="final_link" href="http://mediasources.ucr.edu/">Check out our Experts on Demand</a> </p> 
+       </div>
+      </div> 
+     </div>
+     <div id="text-11" class="boxed widget widget_text"> 
+      <div class="textwidget">
+       <div id="rss_sidebar" class="shaded"> 
+        <h3>RSS Feeds</h3> 
+        <p><img class="size-full alignright wp-image-1067" title="Big RSS Icon" src="../wp-content/uploads/2012/01/icon_rss_big.png" alt="Standard white on orange RSS icon." width="49" height="49">Subscribe to any of our RSS feeds.</p> 
+        <p><a class="final_link" href="../available-feeds">Available RSS feeds</a></p> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div class="clear"></div> 
+   </div>
+   <!-- #content --> 
+  </div>
+  <!-- #pagewrapper --> 
+  <div class="btf_wrapper"> 
+   <div class="pagewrapper"> 
+    <div id="btf"> 
+     <h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.24/images/ttl_below_the_fold.png" height="16" width="222"></h2> 
+     <div class="column23"> 
+      <div id="widget_ucrnewsroom_faculty_profile-55" class="widget widget_faculty_profile">
+       <h3>Faculty Profile | <strong>Politics/Society</strong></h3> 
+       <div class="figure_fac_profile"> 
+        <img src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/profile-David-Eastmond-banner.jpg" alt="David Eastmond"> 
+        <p><a href="http://promise.ucr.edu/profile-policy-eastmond.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','David Eastmond']);"><strong>David Eastmond</strong><br>Professor of Cell Biology and Toxicologist</a></p> 
+       </div> 
+      </div>
+      <div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings">
+       <h3>Events and Happenings</h3> 
+       <p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p> 
+       <ul> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?event_id=41969" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Measure for Measure']);"> <img src="http://www.ucr.edu/images/happening/2645.jpg" width="124" height="57" alt=""> <strong>Measure for Measure</strong> <span class="date">Thursday–Saturday, February 12–14 &amp; 19–21<br>8–10 p.m.</span> <span class="location">Arts Building Studio Theatre, ARTS 113</span> A play by William Shakespeare</a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42201:20150218180000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Living Green Lecture and Film Series']);"> <img src="http://www.ucr.edu/images/happening/2660.jpg" width="124" height="57" alt=""> <strong>Living Green Lecture and Film Series</strong> <span class="date">Wednesday, February 18<br>6–7:30 p.m.</span> <span class="location">UCR Palm Desert 75080 Frank Sinatra Drive</span> Learn how strong local food systems can build healthy communities.</a></li> 
+        <li><a href="https://tkt.xosn.com/tickets/TicketHome.dbml?DB_LANG=C&amp;DB_OEM_ID=25000&amp;_MODE_=EVENTSELECT&amp;SALE_TKT_EVENT_ID=582723&amp;IN_PARKING=" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Men's Basketball v. UC Irvine']);"> <img src="http://www.ucr.edu/images/happening/2658.jpg" width="124" height="57" alt=""> <strong>Men's Basketball v. UC Irvine</strong> <span class="date">Saturday, February 14<br>5 p.m.</span> <span class="location">SRC Arena</span> </a></li> 
+        <li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42519:20150213173000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Valentine's Day Partner Yoga']);"> <img src="http://www.ucr.edu/images/happening/2668.jpg" width="124" height="57" alt=""> <strong>Valentine's Day Partner Yoga</strong> <span class="date">Friday, February 13<br>5:30–6:30 p.m.</span> <span class="location">Student Recreation Center</span> Come with a partner or friend for a heart-opening, spirit-connecting session!</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="widget_ucrnewsroom_related_links-2" class="widget widget_links">
+       <h3>Related Sites</h3> 
+       <ul class="xoxo blogroll"> 
+        <li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li> 
+        <li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Información en Español</a></li> 
+        <li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Español</a></li> 
+        <li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li> 
+       </ul> 
+      </div>
+      <div id="rss-5" class="widget widget_rss">
+       <h3><a class="rsswidget" href="http://meltwaternews.com/magenta/xml/html/10/31/rss/v2_460435_hitsentence.rss.XML"><img style="border:0" width="14" height="14" src="http://ucrtoday.ucr.edu/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://meltwaternews.com/">UCR in the News</a></h3>
+       <ul>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894309&amp;userId=374422&amp;cId=103137&amp;agentId=529135&amp;type=3&amp;etype=USER_CREATED&amp;t=Happy+Birthday%21&amp;cdt=1423262160000&amp;sn=LA+Times&amp;cc=United+States&amp;surl=&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=">Happy Birthday!</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3864036188&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=95358&amp;url=http%3A%2F%2Fwww.kcentv.com%2Fstory%2F28046877%2Fbaylor-wbbs-niya-johnson-on-lieberman-award-watch-list">Baylor WBB's Niya Johnson on Lieberman Award Watch List</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3864005236&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=84712&amp;url=http%3A%2F%2Fwww.wkyt.com%2Fwymt%2Fsports%2Fheadlines%2FMakayla-Epps-named-to-Nancy-Lieberman-Award-Watch-List-291093251.html">Makayla Epps named to Nancy Lieberman Award Watch List</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894269&amp;userId=374422&amp;cId=103137&amp;agentId=529127&amp;type=3&amp;etype=FACEBOOK&amp;t=Riverside+International+Automotive+Museum&amp;cdt=1423257796000&amp;sn=www.facebook.com&amp;cc=null&amp;surl=http%3A%2F%2Fwww.facebook.com&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=http%3A%2F%2Fwww.facebook.com%2F553382249%2Fposts%2F10153067984457250">Riverside International Automotive Museum</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=4894049&amp;userId=374422&amp;cId=103137&amp;agentId=529127&amp;type=3&amp;etype=FACEBOOK&amp;t=Same-Sex+Behavior+in+the+Animal+Kingdom&amp;cdt=1423257530000&amp;sn=www.facebook.com&amp;cc=null&amp;surl=http%3A%2F%2Fwww.facebook.com&amp;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&amp;ue=kris.lovekin@ucr.edu&amp;url=http%3A%2F%2Fwww.facebook.com%2F100008593279056%2Fposts%2F1410415395921556">Same-Sex Behavior in the Animal Kingdom</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863989513&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=99435&amp;url=http%3A%2F%2Fromesentinel.com%2Fsports-agate%2Fsports-agate-feb-6-2015%2FQBqobe%21ujLNcI428gW1qYSYiowrpw%2F">Sports agate — Feb. 6, 2015</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863930270&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=203397&amp;url=http%3A%2F%2Fucrtoday.ucr.edu%2F27067">Getting to the Heart of Oil Spill Impacts on Gulf Fish</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863847815&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=664&amp;url=http%3A%2F%2Fwww.financialexpress.com%2Farticle%2Ffe-columnist%2Fno-sweat%2F39924%2F">No Sweat</a> <span class="rss-date">February 6, 2015</span></li>
+        <li><a class="rsswidget" href="http://service.meltwaternews.com/mnews/redirect.html?docId=3863665073&amp;userId=374422&amp;cId=103137&amp;agentId=900955&amp;type=2&amp;s=258460&amp;url=http%3A%2F%2Fwww.aocs.org%2FMembership%2FFreeCover.cfm%3Fitemnumber%3D40811">Biotechnology: Using living systems to solve problems- Inform - Membership - AOCS</a> <span class="rss-date">February 6, 2015</span></li>
+       </ul>
+      </div> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="pagewrapper"> 
+   <h3 class="accessibility">Footer</h3> 
+   <div id="colophon">
+     The University of California, Riverside (
+    <a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion. A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS. 
+   </div> 
+   <div id="footer"> 
+    <ul> 
+     <li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+     <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+     <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+     <li>© 2015 Regents of the University of California</li> 
+     <li>Last modified: 2015-Jan-23</li> 
+    </ul> 
+   </div> 
+  </div> 
+  <link rel="stylesheet" id="yarppRelatedCss-css" href="http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.1" type="text/css" media="all"> 
+  <script type="text/javascript" src="http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab6"></script>   
+ </body>
+</html>

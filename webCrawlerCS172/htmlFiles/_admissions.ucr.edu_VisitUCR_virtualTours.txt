@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <title>Virtual Tours</title> 
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
+  <link rel="stylesheet" href="/Content/css/plugins/bxSlider.css"> 
+  <link rel="stylesheet" href="/Content/css/plugins/colorbox.css"> 
+  <link rel="stylesheet" href="/Content/css/plugins/calendarEvents/calendarEvents.css"> 
+  <link href="/Content/css/960Framwork/reset.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/960Framwork/typographyBluePrint.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/960Framwork/960.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/nav.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/local.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/genericBody.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/iconSections.min.css?432431" rel="stylesheet"> 
+  <link href="/Content/css/footer.min.css?43319a" rel="stylesheet"> 
+  <!--[if lte IE 8]>
+        <link rel="stylesheet" href="/Content/css/ie7_8.css" />
+    <![endif]--> 
+  <style type="text/css">
+        img {
+            -moz-opacity: 0.82;
+            -webkit-opacity: 0.82;
+            opacity: 0.82;
+            filter: alpha(opacity=82); /* For IE8 and earlier */
+        }
+
+            img.hover {
+                -moz-opacity: 1;
+                -webkit-opacity: 1;
+                opacity: 1;
+                filter: alpha(opacity=100); /* For IE8 and earlier */
+            }
+
+        h3.orange.verd {
+            font-size: 1.8em;
+        }
+
+        a.btnSeeTour {
+            font-size: 8px;
+            color: #2d6cc0;
+            font-weight:bold;
+            border: 1px solid #808080;
+            border-radius:3px;
+            padding: 2px;
+            text-decoration: none;
+            text-transform:uppercase;
+        }
+
+            a.btnSeeTour:hover {
+                background-color: #2d6cc0;
+                color: #fff;
+            }
+        div.housingDiningTourHeader span{             
+            content:"";
+            display:block;
+            border-bottom:1px solid black;
+            width:100%;            
+            top:50%;
+            height:20px;
+            z-index:1;            
+            /*background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));*/
+        }
+        
+    </style> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script> 
+  <!-- Below is used to link to reserouces in external JS files --> 
+  <script type="text/javascript">
+        var baseURL = "/";
+    </script> 
+  <script src="/Scripts/app.min.js?43859e" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/jquery.bxSlider.min.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/selectiveLoad_plugins.js" type="text/javascript"></script> 
+  <script src="/Scripts/Custom_New/functionCalls.js" type="text/javascript"></script> 
+  <script src="/Scripts/calendarEvents/CalendarEvents.js" type="text/javascript"></script> 
+  <script src="/Scripts/colorbox/jquery.colorbox.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('img').hover(function () {
+                $(this).addClass('hover');
+
+            },
+            function () {
+                $(this).removeClass('hover');
+            });
+            // Instantiate the ColorBox
+            $(".iframe").colorbox({
+                iframe: true,
+                fixed:true,
+                top: -10,
+                width:"100%",
+                height:"100%"
+                //innerWidth: 1100,
+                //innerHeight: 900
+            });
+        });
+
+    </script> 
+  <!--Google Analytics Tracking Code --> 
+  <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-503078-52', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+</script> 
+  <style type="text/css">
+        #translateContainer {
+            border:none;            
+            text-align:center;            
+        }
+            #translateContainer h3 {
+                line-height:30px;
+                background-color:#2d6cc0;
+                color:#fff;
+                font-family: Verdana,Arial,Helvetica,sans-serif;
+                font-size:15px;
+            }
+    </style> 
+  <!-- Google Translate Customization Code --> 
+  <meta name="google-translate-customization" content="40b506c3c9978d85-07cd07d0d7fc1236-gd88b6ab26a0907c6-12"> 
+ </head> 
+ <body> 
+  <div id="headerWrapper"> 
+   <div class="container_16"> 
+    <div id="masthead" class="clearfix"> 
+     <div class="grid_16"> 
+      <img alt="UCRMonogram" class="UCRMonogram" src="/Images/ucrSealOverlay.png" width="346" height="145"> 
+      <div id="mastHeadTop"> 
+       <h1> <a href="/" class="h1Link"> <img alt="UCR Logo" src="/Images/ucrSeal.png"> <span class="hideText">University of California - UC Riverside</span><br> <span class="spanHeaderUA">Undergraduate Admissions</span> </a> </h1> 
+      </div> 
+      <div id="mastHeadBottom"> 
+       <div id="button"> 
+        <img alt="th" class="menu_class" src="/Images/quicklinks.png"> 
+        <ul class="the_menu" style="display: none;"> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">MyUCR</a></li> 
+         <li><a href="/Admissions/pathsAdmissions">Paths to Admission</a> </li> 
+         <li><a href="/Admissions/meetCounselor">Find a Counselor</a></li> 
+         <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+         <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+         <li><a href="/CampusLife/housing">Housing</a></li> 
+         <li><a href="/VisitUCR/tourOptions">Tour Options</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="grid_16 clearfix"> 
+      <div id="search"> 
+       <div class="breadcrumbs"> 
+        <a href="/">Home</a> &gt; 
+        <a href="/VisitUCR">Visit UCR</a> &gt; Virtual Tours 
+       </div> 
+       <div id="nav_utility"> 
+        <ul> 
+         <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+         <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+         <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+        </ul> 
+       </div> 
+       <form action="http://www.ucr.edu/search.php" id="searchbox"> 
+        <p> <label accesskey="4" for="SearchText" style="visibility: hidden;"> Search for:</label> <input type="text" value="" name="q" id="SearchText" maxlength="255" size="19" style="border: 1px solid rgb(126, 157, 185);
+                                padding: 2px; background: url(http://www.ucr.edu/images/design6/search_watermark.gif) no-repeat scroll left center rgb(255, 255, 255);"> <input type="submit" value="Go" name="sa" id="go"> </p> 
+       </form> 
+       <script src="http://www.ucr.edu/js/watermark.js" type="text/javascript"></script> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- end Header Wrapper --> 
+  </div> 
+  <!-- end Header Wrapper --> 
+  <div id="mainContent"> 
+   <div id="box"> 
+    <a href="http://vcsaweb.ucr.edu/MyUCR/">MyUCR</a> 
+    <a href="/Home/FAQ">FAQs</a> 
+    <a href="/VisitUCR/virtualTours">Virtual Tours</a> 
+    <a href="https://www.facebook.com/ucradmissions?bcode=q099X" class="facebook">Facebook</a> 
+    <a href="http://twitter.com/ucradmissions" class="twitter">Twitter</a> 
+    <a href="http://lifeatucr.tumblr.com/" class="tumblr">Tumblr</a> 
+    <a href="http://instagram.com/lifeatucr" class="instagram">Instagram</a> 
+   </div> 
+   <!-- Floating box stops here --> 
+   <div class="container_16 clearfix"> 
+    <div class="grid_4 alpha"> 
+     <div id="navigation" class="clearfix"> 
+      <div id="sidebar"> 
+       <div class="nav"> 
+        <ul> 
+         <li class="home"><a href="/">Home</a></li> 
+        </ul> 
+        <ul class="audienceNav"> 
+         <li>Who Are You?</li> 
+         <li><a href="/Home/freshmen">Freshmen</a></li> 
+         <li><a href="/Home/transfer">Transfers</a></li> 
+         <li><a href="http://international.ucr.edu">International</a></li> 
+         <li><a href="/Home/outofstate">Out-of-State</a></li> 
+         <li><a href="/Home/military">Military/Veterans</a></li> 
+         <li><a href="/Home/parents">Parents</a></li> 
+         <li><a href="/Home/counselors">Counselors</a></li> 
+        </ul> 
+        <ul> 
+         <li><a href="/WhyUCR">Why UC Riverside?</a> 
+          <ul> 
+           <li><a href="/WhyUCR/ourStudents">Our Students</a></li> 
+           <li><a href="/WhyUCR/ourRankings">Our Rankings</a></li> 
+           <li><a href="/WhyUCR/ourResearch">Our Research</a></li> 
+           <li><a href="/WhyUCR/ourGuarantee">Our Guarantee</a></li> 
+          </ul> </li> 
+         <li><a href="/Academics">Academics</a> 
+          <ul> 
+           <li><a href="/Academics/collegesSchoolsMajors">Colleges, Schools &amp; Majors</a></li> 
+           <li><a href="/Academics/honorsPrograms">Honors Programs</a></li> 
+           <li><a href="/Academics/faculty">Faculty</a></li> 
+           <li><a href="/Academics/supportServices">Support Services</a></li> 
+           <li><a href="/Academics/studyAwayHome">Study Away from Home</a></li> 
+           <li><a href="/Academics/transferprep">Special Transfer Programs</a></li> 
+          </ul> </li> 
+         <li><a href="/CampusLife">Campus Life</a> 
+          <ul> 
+           <li><a href="/CampusLife/housing">Housing</a></li> 
+           <li><a href="/CampusLife/gettingInvolved">Getting Involved</a></li> 
+           <li><a href="/CampusLife/artsEvents">Arts &amp; Events</a></li> 
+           <li><a href="/CampusLife/athleticsRecreation">Athletics &amp; Recreation</a></li> 
+           <li><a href="/CampusLife/safetyWellness">Safety &amp; Wellness</a></li> 
+          </ul> </li> 
+         <li><a href="/Admissions">Admission</a> 
+          <ul> 
+           <li><a href="/Admissions/datesDeadlines">Dates &amp; Deadlines</a></li> 
+           <li><a href="/Admissions/pathsAdmissions">Freshman/Transfer Admission</a></li> 
+           <li><a href="/Admissions/meetCounselor">Meet Your Counselor</a></li> 
+          </ul> </li> 
+         <li><a href="/PayingForCollege">Paying for College</a> 
+          <ul> 
+           <li><a href="/PayingForCollege/financialAidScholarships">Financial Aid &amp; Scholarships</a></li> 
+           <li><a href="/PayingForCollege/costEstimator">Cost Estimator</a></li> 
+          </ul> </li> 
+         <li><a href="/VisitUCR">Visit UCR</a> 
+          <ul> 
+           <li><a href="/VisitUCR/tourOptions">Tour Options</a> 
+            <ul> 
+             <li><a class="current" href="/VisitUCR/virtualTours">Virtual Tours</a></li> 
+             <li><a href="/VisitUCR/selfGuided">Self-Guided</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/planVisit">Plan Your Visit</a> 
+            <ul> 
+             <li><a href="/VisitUCR/hotelsDining">Hotels &amp; Dining</a></li> 
+             <li><a href="/VisitUCR/attractions">Attractions</a></li> 
+             <li><a href="/VisitUCR/gettingHere">Getting Here</a></li> 
+            </ul> </li> 
+           <li><a href="/VisitUCR/faq">Tour FAQs</a></li> 
+           <li><a href="/VisitUCR/aboutUs">About Us</a></li> 
+           <li><a href="/VisitUCR/campusTourGuide">Be a Campus Tour Guide</a></li> 
+          </ul> </li> 
+         <li><a href="/Apply">Apply Now</a></li> 
+         <li><a href="/Home/FAQ">FAQs</a></li> 
+         <li><a href="/Home/printableResources">Printable Resources</a></li> 
+         <li><a href="/Admissions/meetCounselor">Contact Us</a></li> 
+        </ul> 
+        <ul class="audienceNav" style="margin-top: 20px;"> 
+         <li>MyUCR Account</li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Open a New Account</a></li> 
+         <li><a href="http://vcsaweb.ucr.edu/MyUCR/">Log in Now</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- Begin Google Translate --> 
+      <div id="translateContainer"> 
+       <h3> Translate&nbsp; <img alt="Translate" src="/Images/icons/flagChinese_18.png"> <img alt="Translate" src="/Images/icons/flagKorea_18.png"> <img alt="Translate" src="/Images/icons/flagHindu_18.png"> <img alt="Translate" src="/Images/icons/flagArab_18.png"> </h3> 
+       <div id="google_translate_element"></div> 
+       <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+                            }
+                        </script> 
+       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+      </div> 
+      <!-- End Google Translate --> 
+     </div> 
+     <div> 
+      <a style="margin-top: 35px; display: block; color: #362F2D; font-weight: 700; text-align: center;
+                        width: 200px;" href="http://itunes.apple.com/nz/app/myucr-mobile/id417130774?mt=8&amp;ls=1"> <img alt="Get the MyUCR Mobile Application" src="/Images/myUCRMobilIcon.png" style="margin-bottom: 10px;"><br> Download MyUCR Mobile to your iPhone or iPod Touch!</a> 
+     </div> 
+     <div> 
+      <a style="margin-top: 35px; display: block; color: #362F2D; font-weight: 700; text-align: center;
+                        width: 200px;" href="/VisitUCR/virtualTours"> <img alt="Virtual Tours" src="/Images/virtual-tour.png" style="margin-bottom: 10px;"><br> Take a UCR Campus Virtual Tour!</a> 
+     </div> 
+     <script type="text/javascript" src="https://www.intelliworkschat.com/a/Hello?ti=0ef230ec-7b18-4dc1-9d65-e9fb13ca9e9c;cid=d6a605ab-c97a-4a87-a2c7-e3f8a0be192f;v=2"></script> 
+    </div> 
+    <div class="grid_12 omega"> 
+     <div class="innerPagebxsliderWrapper clearfix"> 
+      <div class="bxsliderMarkerLeft checkbox"> 
+       <p class="verd"> Admissions<br> <span>Check Box</span> </p> 
+      </div> 
+      <div class="demo-wrap" id="innerPagebxslider"> 
+       <ul id="slider1" class="multiple"> 
+        <li><a href="http://vcsaweb.ucr.edu/MyUCR/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/create-myucr.png" width="63" height="52"> <strong>Create a MyUCR Account</strong> <span>Get updates and<br> track your admission status.</span></a> </li> 
+        <li><a href="/WhyUCR"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/50-reasons.png" width="63" height="52"> <strong>Why UC Riverside?</strong> <span>50 good reasons to choose us.</span></a> </li> 
+        <li><a href="http://admissions.ucr.edu/WhyUCR/ourRankings"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/ranking.png" width="63" height="52"> <strong>We Rank High</strong><span>See how we rank in what matters.</span> </a></li> 
+        <li><a href="http://student08.ucr.edu/em/visitUCR/default.aspx"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/tours.png" width="63" height="52"> <strong>Take a Tour</strong> <span>Visit UCR, see housing and explore the campus.</span> </a></li> 
+        <li><a href="mailto:admit@ucr.edu"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/contact-counselor.png" width="63" height="52"> <strong>Talk to Us</strong> <span>Contact an admissions counselor.</span> </a></li> 
+        <li><a href="http://international.ucr.edu/HowToApply.aspx"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/international-students.png" width="63" height="52"> <strong>International Students</strong> <span>See admissions requirements just<br> for you.</span> </a></li> 
+        <li><a href="http://admissions.ucr.edu/Home/transfer"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/transfer-students.png" width="63" height="52"> <strong>Transfer Students</strong> <span>Learn about transferring<br> to UCR.</span> </a></li> 
+        <li><a href="http://instagram.com/lifeatucr"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/instagram.png" width="63" height="52"> <strong>Follow us on Instagram</strong> <span>You'll love what you see.</span> </a> </li> 
+        <li><a href="http://www.facebook.com/ucradmissions"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_4F.png" width="63" height="52"> <strong>Like us on Facebook</strong> <span>Stay connected to UCR.</span></a></li> 
+        <li><a href="http://twitter.com/UCRiverside"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_5T.png" width="63" height="52"> <strong>Follow us on Twitter</strong> <span>Don’t miss a single update.</span></a></li> 
+        <li><a href="http://lifeatucr.tumblr.com/"> <img alt="" src="/Images/AdmissionsCheckboxThumbs/N30_6T.png" width="63" height="52"> <strong>Follow us on Tumblr</strong> <span>See what’s happening at UCR right now.</span></a> </li> 
+       </ul> 
+      </div> 
+      <div class="bxsliderMarkerRight">
+        &nbsp; 
+      </div> 
+     </div> 
+     <h2 class="intro" style="font-size: 3em;"> Select a Virtual Tour</h2> 
+     <!-- First Row --> 
+     <div class="grid_4 alpha"> 
+      <!-- Student Life --> 
+      <a href="https://www.vpix.net/index.php?tour=443872" target="_blank"> <img alt="Take a virtual Student Life tour." class="spaceBottom1" src="/Images/virtualTours/vt-student-life.jpg"> </a> 
+      <div> 
+       <h4 class="orange verd"> <strong>Student Life</strong></h4> 
+       <p>See where UCR students relax, explore the athletic stadiums where they cheer and discover the iconic spots they love, such as the 161-foot Bell Tower.</p> 
+      </div> 
+     </div> 
+     <div class="grid_4"> 
+      <!-- BCOE --> 
+      <a href="https://www.vpix.net/index.php?tour=443870" target="_blank"> <img alt="Take a virtual BCOE tour." class="spaceBottom1" src="/Images/virtualTours/vt-bcoe.jpg"></a> 
+      <div> 
+       <h4 class="orange verd"> <strong>Bourns College of <br>Engineering (BCOE)</strong></h4> 
+       <p>Discover the groundbreaking tools, distinctive laboratories and cutting-edge workspaces that make Bourns one of the leading engineering schools in the nation.</p> 
+      </div> 
+     </div> 
+     <div class="grid_4 omega"> 
+      <!-- CHASS --> 
+      <a href="https://www.vpix.net/index.php?tour=443869" target="_blank"> <img alt="Take a virtual CHASS tour." class="spaceBottom1" src="/Images/virtualTours/vt-chass.jpg"></a> 
+      <div> 
+       <h4 class="orange verd"> <strong>College of Humanities,<br>Arts and Social<br>Sciences (CHASS)</strong></h4> 
+       <p>Visit the historic libraries, lively lecture halls and inspiring studios where CHASS students dive into the arts, humanities and social sciences and how they intersect.</p> 
+      </div> 
+     </div> 
+     <div class="clear"> 
+      <br> 
+     </div> 
+     <!-- Row for SEE TOUR buttons for Row 1 --> 
+     <div class="grid_4 alpha"> 
+      <p> 
+       <!-- Student Life --> <a href="https://www.vpix.net/index.php?tour=443872" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+     <div class="grid_4"> 
+      <p> 
+       <!-- BCOE --> <a href="https://www.vpix.net/index.php?tour=443870" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+     <div class="grid_4 omega"> 
+      <p> 
+       <!-- CHASS --> <a href="https://www.vpix.net/index.php?tour=443869" target="_blank" class="btnSeeTour"> SEE TOUR </a> </p> 
+     </div> 
+     <div class="clear"> 
+      <br> 
+     </div> 
+     <!-- Second Row --> 
+     <div class="grid_4 alpha"> 
+      <!-- CNAS --> 
+      <a href="https://www.vpix.net/index.php?tour=443868" target="_blank"> <img alt="Take a virtual CNAS tour." class="spaceBottom1" src="/Images/virtualTours/vt-cnas.jpg"> </a> 
+      <div> 
+       <h4 class="orange verd"> <strong>College of Natural,<br>and Agricultural<br>Sciences (CNAS)</strong></h4> 
+       <p>Survey the incredible laboratories, exceptional research tools and the world-renowned Citrus Variety Collection that help CNAS students change the world.</p> 
+      </div> 
+     </div> 
+     <div class="grid_4"> 
+      <!-- SoBA --> 
+      <a href="https://www.vpix.net/index.php?tour=443871" target="_blank"> <img alt="Take a virtual SOBA tour." class="spaceBottom1" src="/Images/virtualTours/vt-soba.jpg"></a> 
+      <div> 
+       <h4 class="orange verd"> <strong>School of Business<br>Administration (SoBA)</strong></h4> 
+       <p>Get a sneak peek at the research-driven study labs, entrepreneurial workspaces and high-impact research facilities that make SoBA a world-class business school.</p> 
+      </div> 
+     </div> 
+     <div class="grid_4 omega"> 
+      <!-- SoM --> 
+      <a href="https://www.vpix.net/index.php?tour=443873" target="_blank"> <img alt="Take a virtual Med School tour." class="spaceBottom1" src="/Images/virtualTours/vt-med.jpg"></a> 
+      <div> 
+       <h4 class="orange verd"> <strong>School of Medicine (SOM)</strong></h4> 
+       <p>Examine the simulation labs and collaborative learning spaces that set our new School of Medicine apart. </p> 
+      </div> 
+     </div> 
+     <div class="clear"> 
+      <br> 
+     </div> 
+     <!-- Row for SEE TOUR buttons for Row 1 --> 
+     <div class="grid_4 alpha"> 
+      <p> 
+       <!-- CNAS --> <a href="https://www.vpix.net/index.php?tour=443868" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+     <div class="grid_4"> 
+      <p> <a href="https://www.vpix.net/index.php?tour=443871" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+     <div class="grid_4 omega"> 
+      <p> <a href="https://www.vpix.net/index.php?tour=443873" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+     <div class="clear"></div> 
+     <div class="housingDiningTourHeader"> 
+      <span class="grid_2 alpha"></span> 
+      <h2 class="intro grid_8" style="font-size: 3em;"> Housing Tour </h2> 
+      <span class="grid_2 omega"></span> 
+     </div> 
+     <!-- Third Row (Housing and Dining) --> 
+     <div class="grid_4 alpha"> 
+      <!-- Housing --> 
+      <a href="https://www.vpix.net/index.php?tour=103925" target="_blank"> <img alt="Take a virtual Campus Housing tour." class="spaceBottom1" src="/Images/virtualTours/vt-housing.jpg"> </a> 
+      <div> 
+       <h4 class="orange verd"> <strong>UCR Campus Housing</strong></h4> 
+       <p>Take a closer look at the comfortable rooms in our residence halls, campus apartments and family housing communities.</p> 
+      </div> 
+     </div> 
+     <div class="clear"> 
+      <br> 
+     </div> 
+     <!-- Row for SEE TOUR buttons for Row 3 --> 
+     <div class="grid_4 alpha"> 
+      <p> 
+       <!-- Housing --> <a href="https://www.vpix.net/index.php?tour=103925" target="_blank" class="btnSeeTour">SEE TOUR </a> </p> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footerwrapper"> 
+   <div class="container_16"> 
+    <div class="prefooter alt-1-1-3 clearfix"> 
+     <div class="grid_5"> 
+      <h3> General Campus Information</h3> 
+      <address> <span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"><span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code"> 92521</span><br> </span>Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_5"> 
+      <h3> Department Information</h3> 
+      <address> <strong>UCR Admissions</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">3106 Student Services Building</a><br> <br> Tel: (951) 827-3411<br> Fax: (951) 827-6344<br> E-mail: <a href="mailto:admissions@ucr.edu?subject=Website%20Inquiry">admissions@ucr.edu</a></address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="https://www.facebook.com/ucradmissions?bcode=q099X" title="external site: Facebook">Visit UCR Admissions Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/ucradmissions" title="external site: Twitter">Follow UCR Admissions on Twitter</a></li> 
+       <li><a id="footer_link_tumblr" class="footer_link_icon" href="http://lifeatucr.tumblr.com"> Read about UCR Student Life on Tumblr</a></li> 
+       <li><a id="footer_link_instagram" class="footer_link_icon" href="http://instagram.com/lifeatucr">Follow UCR Admissions on Instagram</a></li> 
+      </ul> 
+     </div> 
+     <div class="grid_6"> 
+      <h3> Related Links</h3> 
+      <ul class="relatedLinks"> 
+       <li><a href="http://www.universityofcalifornia.edu/admissions/how-to-apply/apply-online/index.html"> Apply to UC Riverside </a></li> 
+       <li><a href="http://vcsaweb.ucr.edu/MyUCR/CreateAccount.aspx">Create a MyUCR Account</a></li> 
+       <li><a href="http://international.ucr.edu">International Admissions</a></li> 
+       <li><a href="http://finaid.ucr.edu/Pages/default.aspx">Financial Aid </a></li> 
+       <li><a href="http://promise.ucr.edu/">Living the Promise </a></li> 
+       <li><a href="http://rside.ucr.edu/">R'Side </a></li> 
+       <li><a href="http://tartansoul.ucr.edu/">Tartan Soul</a></li> 
+       <li><a href="http://gohighlanders.com/splash.aspx?id=splash_226">Go Highlanders</a></li> 
+       <li><a href="http://rdream.ucr.edu">R'Dream</a></li> 
+      </ul> 
+      <p class="footer_info"> <img src="/Images/footer.jpg" alt="" width="120" height="103"> <strong>UCR Undergraduate Admissions</strong> is committed to providing you with the highest level of service. We serve prospective students, their families, and educators, and enroll a highly diverse and academically accomplished student body. </p> 
+     </div> 
+    </div> 
+    <div id="nav_footer" class="clearfix"> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li> <a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li> <a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li> <a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li> <a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li> <a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li> <a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li> <a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/#sliderTriggerAnchor" class="footerFeedbackLink" accesskey="9" title="Send Feedback E-mail"> Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions"> Terms and Conditions</a></li> 
+      <li>@ 2015 Regents of the University of California</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

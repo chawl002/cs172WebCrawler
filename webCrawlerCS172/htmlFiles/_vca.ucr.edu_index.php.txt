@@ -1,0 +1,284 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Business and Administrative Services: BAS Home</title> 
+  <!--[if IE]><![endif]-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta http-equiv="last-modified" content="2015-01-14"> 
+  <meta name="version" content="2.63 2.138 "> 
+  <!-- 02/09/15 13:05:26 02/09/15 13:05:26 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-medblue-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="//www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="//www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="//bas.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="//bas.ucr.edu/"><span class="printonly">Business and Administrative Services</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Business and Administrative Services</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>BAS Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/about-bas.html" title="About the BAS Unit">About the BAS Unit</a></li>
+       <li><a href="/resources.html" title="BAS Unit Resources">BAS Unit Resources</a></li>
+       <li><a href="http://www.ucr.edu/services.html" title="Guide to Campus Services">Guide to Campus Services</a></li>
+       <li><a href="/rfbo_upload_update.html" title="R'FBO Uploads &amp; Updates">R'FBO Uploads &amp; Updates</a></li>
+       <li><a href="/rfbo_insight.html" title="R'FBO Insights">R'FBO Insights</a></li>
+       <li><a href="/news_archive.html" title="News Archive">News Archive</a></li> 
+      </ul> 
+     </div> 
+     <ul class="quicklinks"> 
+      <ul> 
+       <li><a href="http://basapps.ucr.edu/delegations/delegations.php" target="_blank">Delegations of Authority</a></li> 
+       <li><a href="http://basapps.ucr.edu/policies/" target="_blank">UCR Policies and Procedures</a></li> 
+       <li><a href="http://www.ucop.edu/ucophome/coordrev/ucpolicies" target="_blank">UCOP Policies and Procedures</a></li> 
+      </ul> 
+     </ul> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div id="omnicontent"> 
+      <p style="text-align: center;"><img src="/images/fbo_banner.png" alt="Alt" width="690" height="200"></p> 
+      <p>Welcome to Business and Administrative Services' web site.</p> 
+      <ul class="texttab-control"> 
+       <li><a href="#news" onfocus="if(this.blur)this.blur()">What's New</a></li> 
+       <li><a href="#contact" onfocus="if(this.blur)this.blur()">Contact Us</a></li> 
+       <li><a href="#units" onfocus="if(this.blur)this.blur()">BAS Units</a></li> 
+       <li><a href="#employ" onfocus="if(this.blur)this.blur()">BAS Employment Opportunities</a></li> 
+      </ul> 
+      <div id="news" class="texttab-column">
+       <table style="width: 100%;" border="0"> 
+        <tbody> 
+         <tr> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/bas_fy1415_recharge_rate_announcement.pdf" target="_blank"><img src="/newsletter/thumbs/fy_13-14_approved_cossa_rates_announcement.jpg" alt="FY 2013-2014 Rate Adjustments for Sales &amp; Services Activities and TAPS" width="160" height="208"></a></p> <p>FY 2014-2015 Rate Adjustment for Sales &amp; Services Activities</p> </td> 
+          <td style="width: 50%;" align="center" valign="top"> <p>&nbsp;</p> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+      <div id="contact" class="texttab-column"> 
+       <table class="timeline" style="width: 100%; border-spacing: 0px;" border="0" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+         <tr> 
+          <td style="width: 25%;"><strong>Name</strong></td> 
+          <td style="width: 25%;"><strong>Title</strong></td> 
+          <td style="width: 25%;"><strong>Phone</strong></td> 
+          <td style="width: 25%;"><strong>Email</strong></td> 
+         </tr> 
+         <tr> 
+          <td>Ron T. Coley</td> 
+          <td>Vice Chancellor</td> 
+          <td> <p>(951) 827-3268</p> </td> 
+          <td><a href="mailto:ron.coley@ucr.edu">ron.coley@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Georgianne Carlson</td> 
+          <td>Associate Vice Chancellor - Business &amp; Administrative Services</td> 
+          <td>(951) 827-8222</td> 
+          <td><a href="mailto:georgianne.carlson@ucr.edu">georgianne.carlson@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Tomika Davis</td> 
+          <td>Interim Director -<br>BAS Service Center</td> 
+          <td>(951) 827-8238</td> 
+          <td><a href="mailto:tomika.davis@ucr.edu">tomika.davis@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Karen Springer</td> 
+          <td>Executive Assistant</td> 
+          <td>(951) 827-3268</td> 
+          <td><a href="mailto:karen.springer@ucr.edu">karen.springer@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Tim Willette</td> 
+          <td>Manager, Administrative Policies &amp; Delegations/ Conflict of Interest Coordinator</td> 
+          <td>(951) 827-8246</td> 
+          <td><a href="mailto:tim.willette@ucr.edu">tim.willette@ucr.edu</a></td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+      <div id="units" class="texttab-column">
+       <ul> 
+        <li><a href="http://www.accounting.ucr.edu">Accounting</a></li> 
+        <li><a href="http://cpp.ucr.edu/" target="_blank">Capital Resource Management</a></li> 
+        <li><a href="http://odc.ucr.edu">Design &amp; Construction</a></li> 
+        <li><a href="http://www.ehs.ucr.edu">Environmental Health &amp; Safety</a></li> 
+        <li><a href="http://basit.ucr.edu">BAS IT Services</a></li> 
+        <li><a href="http://fleet.ucr.edu/">Fleet Services</a></li> 
+        <li><a href="http://www.humanresources.ucr.edu/">Human Resources</a></li> 
+        <li><a href="http://ucrmail.ucr.edu/">Mail Services</a></li> 
+        <li><a href="http://www.matmgmt.ucr.edu/">Materiel Management</a></li> 
+        <li><a href="http://accounting.ucr.edu/payroll.htm">Payroll</a></li> 
+        <li><a href="http://www.pplant.ucr.edu/">Physical Plant</a></li> 
+        <li><a href="http://www.police.ucr.edu/">Police</a></li> 
+        <li><a href="http://printing.ucr.edu/">Printing &amp; Reprographics</a></li> 
+        <li><a href="http://res.ucr.edu/">Real Estate Services</a></li> 
+        <li><a href="http://apb.ucr.edu">Resource Planning and Budget</a></li> 
+        <li><a href="http://risk.ucr.edu">Risk Management</a></li> 
+        <li><a href="http://www.sbs.ucr.edu/">Student Business Services</a></li> 
+        <li><a href="http://www.parking.ucr.edu/">Transportation &amp; Parking Services</a></li> 
+       </ul> 
+      </div> 
+      <div id="employ" class="texttab-column">
+       <table style="width: 100%;" border="0"> 
+        <tbody> 
+         <tr> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/job_flier-emergency_manager.pdf" target="_blank"><img src="/newsletter/thumbs/job_flier-police_officer.jpg" alt="Assistant Accountant" width="160" height="203"></a></p> <p>Emergency Manager</p> </td> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/job_flier-police_officer_5_positions.pdf" target="_blank"><img src="/newsletter/thumbs/job_flier-police_officer.jpg" alt="Police Officer" width="160" height="203"></a></p> <p>Police Officer (5 Positions)</p> </td> 
+         </tr> 
+         <tr> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/job_flier-occupational_wellness_specialist_2.pdf" target="_blank"><img src="/newsletter/thumbs/job_flier-police_officer.jpg" alt="Assistant Accountant" width="160" height="203"></a></p> <p>Occupational Wellness Specialist</p> </td> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/job_flier-principal_hr_training_and_organizational_development_analyst.pdf" target="_blank"><img src="/newsletter/thumbs/job_flier-police_officer.jpg" alt="Assistant Accountant" width="160" height="203"></a></p> <p>Principal HR Training &amp; Organizational Development Analyst</p> </td> 
+         </tr> 
+         <tr> 
+          <td style="width: 50%;" align="center" valign="top"> <p><a href="/newsletter/job_flier-executive_administrative_specialist_2.pdf" target="_blank"><img src="/newsletter/thumbs/job_flier-police_officer.jpg" alt="Executive Administrative Specialist" width="160" height="203"></a></p> <p>Executive Administrative Specialist</p> </td> 
+          <td style="width: 50%;" align="center" valign="top"> <p>&nbsp;</p> </td> 
+         </tr> 
+         <tr> 
+          <td style="width: 50%;" colspan="2" align="center" valign="top"> <h3><a href="http://hr.ucr.edu/jobs/" target="_blank">Visit HR JOBS to apply</a></h3> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://vcsaweb.ucr.edu/Admissions/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Business and Administrative Services</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=HINHL" title="Campus Map">3125 Hinderaker Hall</a><br> <br> Tel: (951) 827-3268<br> Fax: (951) 827-3271<br> E-mail: <a href="mailto:UCRPolicy@ucr.edu">UCRPolicy@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.ucop.edu/finance/" target="_blank">UCOP</a></li> 
+       <li><a href="http://chancellor.ucr.edu" target="_blank">Chancellor</a></li> 
+       <li><a href="http://provost.ucr.edu/" target="_blank">Executive Vice Chancellor &amp; Provost</a></li> 
+       <li><a href="http://advancement.ucr.edu/" target="_blank">Vice Chancellor for University Advancement</a></li> 
+       <li><a href="http://or.ucr.edu/VCR/" target="_blank">Vice Chancellor for Research</a></li> 
+       <li><a href="http://vcsa.ucr.edu/" target="_blank">Vice Chancellor of Student Affairs </a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="//bas.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01094&amp;site=fbo&amp;path=%2Findex.html">Last modified: 2015-Jan-14</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.023971 seconds using 768 KiB of memory. -->   
+ </body>
+</html>

@@ -1,0 +1,124 @@
+<html>
+ <!-- begin header -->
+ <head> 
+  <!-- begin metas --> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <meta name="content-language" content="en-us"> 
+  <meta http-equiv="pragma" content="no-cache"> 
+  <meta http-equiv="expires" content="0"> 
+  <meta name="audience" content="All"> 
+  <meta name="webmaster" content="UCR Database Lab"> 
+  <meta name="publisher" content="University of California, Riverside"> 
+  <meta name="copyright" content="The University of California, 2009"> 
+  <meta name="reply-to" content="dblab@cs.ucr.edu"> 
+  <meta name="ROBOTS" content="ALL"> 
+  <meta name="revisit-after" content="3 days"> 
+  <meta name="Keywords" content=""> 
+  <meta name="Description" content=""> 
+  <!-- end metas --> 
+  <title>UCR Database Lab : Information Discovery on Domain Data Graphs</title> 
+  <link href="../../stylesheets/scaffold.css%3F1242762403" media="screen" rel="stylesheet" type="text/css"> 
+ </head> 
+ <!-- end header --> 
+ <!-- begin header --> 
+ <body> 
+  <table class="bounding_table"> 
+   <tbody> 
+    <tr> 
+     <td align="center" valign="middle"> 
+      <table border="0" cellpadding="1" cellspacing="0" class="center_content"> 
+       <tbody> 
+        <tr> 
+         <td colspan="9"> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="9"> <img class="top1" src="../../images/top+1.gif"></td> 
+        </tr> 
+        <tr> 
+         <td rowspan="2"> <img class="image3" src="../../images/index_03.gif"></td> 
+         <td> <a href="../../publications/index.html"> <img class="publications" name="publications" src="../../images/publications.jpg"></a></td> 
+         <td rowspan="2"> <img class="image5" src="../../images/index_05.gif"></td> 
+         <td> <a href="../../people/index.html"> <img class="people" name="people" src="../../images/people.jpg"></a></td> 
+         <td rowspan="2"> <img class="image7" src="../../images/index_07.gif"></td> 
+         <td> <a href="../index.html"> <img class="projects" name="projects" src="../../images/projects.jpg"></a></td> 
+         <td rowspan="2"> <img class="image9" src="../../images/index_09.gif"></td> 
+         <td> <a href="../../links/index.html"> <img class="links" name="links" src="../../images/links.jpg"></a></td> 
+         <td rowspan="2"> <img class="image11" src="../../images/index_11.gif"></td> 
+        </tr> 
+        <tr> 
+         <td> <img class="image12" src="../../images/index_12.gif"></td> 
+         <td> <img class="image13" src="../../images/index_13.gif"></td> 
+         <td> <img class="image14" src="../../images/index_14.gif"></td> 
+         <td> <img class="image15" src="../../images/index_15.gif"></td> 
+        </tr> 
+        <tr> 
+         <td colspan="9"> 
+          <div style="text-align:right">
+           <a href="../index.html">[Back to Projects]</a>
+          </div> <h1>Information Discovery on Domain Data Graphs</h1><p>An increasing amount of data is stored in an interconnected manner. Such data range from the Web – hyperlinked pages – to bibliographical data – graph of citations – to biological data – associations between proteins, genes, publications – to clinical data – associations between patients, hospitalizations, exams and diagnoses. </p><p> A critical need in order to leverage the available data is the enablement of information discovery, i.e., given a question (query) find pieces of data or associations between them in the data graph that are “good” (relevant, authoritative and specific) for the query, and rank them according to their “goodness”. Submitting such queries should not require knowledge of a complex query language (e.g., SQL) or of the details of the data (e.g., schema). Unfortunately, little has been done to provide high-quality information discovery on data graphs in domains other than the Web, where search engines have been successful. </p><p> This project will facilitate effective information discovery on domain –biological, clinical, patents, e-commerce, spatial– data, which can lead to cost savings, and increased research productivity in these domains. </p><h3>Acknowledgements</h3><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1216032">IIS 1216032</a><a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0811922">IIS 0811922)</a><h2>People</h2>
+          <ul> 
+           <li><a href="http://www.cs.ucr.edu/~vagelis"> Vagelis Hristidis</a>, PI, Associate Professor, UCR.</li> 
+           <li>Anastasios Arvanitis, PostDoc</li> 
+           <li><a href="http://www.cs.ucr.edu/~akash001"> Abhijith Kashyap</a>, PhD student.</li> 
+           <li><a href="http://www.cs.ucr.edu/~eruiz009"> Eduardo Ruiz</a>, PhD student.</li> 
+           <li><a href="http://www.cs.ucr.edu/~schen064"> Shiwen Cheng</a>, PhD student.</li> 
+           <li><a href="http://www.cs.ucr.edu/~mwile001/">Matthew Wiley</a>, PhD student.</li> 
+           <li>William Ibekwe, ugrad student</li> 
+          </ul><h3>Alumni</h3>
+          <ul> 
+           <li><a href="http://pages.cs.wisc.edu/~ramkris/">Ramakrishna Varadarajan</a> (PostDoc, University of Wisconsin, Madison)</li> 
+           <li>Alejandro Hernandez, FIU B.S. graduate</li> 
+           <li><a href="http://www.eecs.umich.edu/~ffarfan/">Fernando Farfán</a>, (PostDoc, University of Michigan, Ann Arbor) </li> 
+          </ul><h2>Publications</h2><h3>Book</h3>
+          <ul> 
+           <li>Vagelis Hristidis. <i>Information Discovery on Electronic Health Records</i>. Published by CRC - Taylor &amp; Francis, 2009<br> <a href="http://www.cs.ucr.edu/~vagelis/EHRbook/">[Link]</a> </li> 
+          </ul><h3>Conferences/Workshops/Journals</h3>
+          <ul> 
+           <li> Shiwen Cheng, Arash Termehchy, Vagelis Hristidis. <i>Predicting the Effectiveness of Keyword Queries on Databases.</i> ACM Conference on Information and Knowledge Management (CIKM) 2012 </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis. <i>Comprehension-Based Result Snippets.</i> ACM Conference on Information and Knowledge Management (CIKM) 2012 </li> 
+           <li> Abhijith Kashyap, Reza Amini, Vagelis Hristidis. <i>SonetRank: Leveraging Social Networks to Personalize Search.</i> ACM Conference on Information and Knowledge Management (CIKM) 2012 </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis. <i>LogRank: Summarizing Social Activity Logs.</i> 15th SIGMOD International Workshop on the Web and Databases (WebDB) 2012 </li> 
+           <li> Eduardo J. Ruiz, Vagelis Hristidis, Carlos Castillo, Aristides Gionis, Alejandro Jaimes. <i>Correlating Financial Time Series with Micro-Blogging Activity.</i> ACM International Conference on Web Search and Data Mining (WSDM) 2012 </li> 
+           <li> Mahashweta Das, Gautam Das, Vagelis Hristidis. <i>Leveraging Collaborative Tagging for Web Item Design.</i> ACM SIGKDD (International Conference on Knowledge Discovery and Data Mining) 2011 </li> 
+           <li> Vagelis Hristidis, Louiqa Raschid and Yao Wu. <i> Scalable Link-based Personalization for Ranking in Entity-Relationship Graphs</i>, 14th SIGMOD International Workshop on the Web and Databases (WebDB) 2011 <br> <a href="http://www.cs.ucr.edu/~vagelis/publications/LinkPersonalization-WebDB2011.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos, and Sotiria Tavoulari. <i>Effective Navigation of Query Results Based on Concept Hierarchies</i>, IEEE Transactions on Knowledge and Data Engineering (TKDE) 2011<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/BioNav%20TKDE2009.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis and Michalis Petropoulos. <i>FACeTOR: Cost-Driven Exploration of Faceted Query Results</i>, ACM Conference on Information and Knowledge Management (CIKM) 2010. <font color="red"><b>*Best Interdisciplinary Paper Award*</b></font> <br> <a href="http://www.cs.ucr.edu/~vagelis/publications/FACeTOR-CIKM2010.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis, Eduardo Ruiz, Alejandro Hernández, Fernando Farfán, Ramakrishna VaradarajanVagelis Hristidis and Eduardo Ruiz. <i>PatentsSearcher: A Novel Portal to Search and Explore Patents</i>, 3rd International Workshop on Patent Information Retrieval, at ACM CIKM 2010<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/PatentsSearcher-PaIR-2010.pdf">[Download]</a> </li> 
+           <li> Louiqa Raschid, Vagelis Hristidis, John Edmond and Hassan Sayyadi. <i> Challenges in Personalized Authority Flow Based Ranking of Social Media</i>, ACM Conference on Information and Knowledge Management (CIKM) 2010<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/BlogsRankingCIKM2010.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis, Ramakrishna Varadarajan, Paul Biondich and Michael Weiner. <i> Information Discovery on Electronic Medical Records Using Authority-Flow Techniques</i>, BMC Medical Informatics and Decision Making, 2010<br> <a href="http://www.biomedcentral.com/1472-6947/10/64">[Link]</a> </li> 
+           <li> Vagelis Hristidis, Yuheng Hu and Panagiotis G. Ipeirotis. <i> Relevance-based Retrieval on Hidden-Web Text Databases without Ranking Support</i>, IEEE Transactions on Knowledge and Data Engineering (TKDE) 2010<br> <a href="http://www.cs.ucr.edu/~vagelis/publications/HiddenWebTKDE2010.pdf">[Download]</a> </li> 
+           <li> Benjamin Arai, Gautam Das, Dimitrios Gunopulos, Vagelis Hristidis and Nick Koudas. <i>An Access Cost-Aware Approach for Object Retrieval over Multiple Sources</i>. Proceedings of the VLDB Endowment (PVLDB) and VLDB Conference 2010. <br><a href="http://users.cis.fiu.edu/~vagelis/publications/CostAwareRetrieval-PVLDB2010.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis, Yuheng Hu and Panagiotis G.Ipeirotis. <i>Ranked Queries over Sources with Boolean Query Interfaces without Ranking Support</i>. IEEE ICDE 2010, short paper (acceptance rate 20%) <br><a href="http://users.cis.fiu.edu/~vagelis/publications/BooleanSourcesICDE2010.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos, and Sotiria Tavoulari. <i>Effective Navigation of Query Results Based on Concept Hierarchies</i>. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2010 <br><a href="http://users.cis.fiu.edu/~vagelis/publications/BioNav%20TKDE2009.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos and Sotiria Tavoulari. <i>Exploring Biomedical Databases with BioNav</i>. Demo Paper, ACM SIGMOD Conference 2009 <i>(acceptance rate 37%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/sigmod%20demo%202009-bionav_CR.pdf">[Download]</a> </li> 
+           <li> Ramakrishna Varadarajan, Vagelis Hristidis, Louiqa Raschid, Maria-Esther Vidal, Luis lbanez and Hector Rodriguez-Drumond: <i>Flexible and Efficient Querying and Ranking on Hyperlinked Data Sources</i>, EDBT 2009 <i>(full paper, acceptance rate 33%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/GID-EDBT09.pdf">[Download]</a> </li> 
+           <li> Vagelis Hristidis, Yannis Papakonstantinou, Ramakrishna Varadarajan. <i> Using Proximity Search to Estimate Authority Flow</i>. IEEE TKDE 2009 <br><a href="http://users.cis.fiu.edu/~vagelis/publications/AuthorityApproxTKDE2009.pdf">[Download]</a> </li> 
+           <li> Fernando Farfán, Vagelis Hristidis, Anand Ranganathan, and Michael Weiner. <i>XOntoRank: Ontology-Aware Search of Electronic Medical Records</i>. IEEE International Conference on Data Engineering (ICDE) 2009 <i>(long paper, acceptance rate 17%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/XOntoRankICDE09.pdf">[Download]</a> </li> 
+           <li> Abhijith Kashyap, Vagelis Hristidis, Michalis Petropoulos, and Sotiria Tavoulari. <i>BioNav: Effective Navigation on Query Results of Biomedical Databases</i>. IEEE International Conference on Data Engineering, ICDE 2009<i> (short paper, acceptance rate 27%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/BioNavICDE09.pdf">[Download]</a> </li> 
+           <li>Vagelis Hristidis, Oscar Valdivia, Michail Vlachos, Philip S Yu. <i>Information Discovery across Multiple Streams</i>. Elsevier Information Sciences, 2009 <br><a href="http://www.cis.fiu.edu/~vagelis/publications/Discovery%20across%20Multiple%20Streams%20IS2009.pdf">[Download]</a> </li> 
+           <li> Ian De Felipe, Vagelis Hristidis, Naphtali Rishe. <i>Keyword Search on Spatial Databases</i>. IEEE ICDE 2008 <i>(full paper, long presentation, acceptance rate 12%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/Keyword%20Search%20on%20Spatial%20Databases%20icde08.pdf">[Download]</a> </li> 
+           <li> Ramakrishna Varadarajan, Vagelis Hristidis, Louiqa Raschid. <i>Explaining and Reformulating Authority Flow Queries</i>. IEEE ICDE 2008 <i>(full paper, short presentation, acceptance rate 19%)</i> <br><a href="http://www.cis.fiu.edu/~vagelis/publications/ObjectRankReformulation_ICDE08.pdf">[Download]</a> </li> 
+           <li> Fernando Farfán, Vagelis Hristidis, Anand Ranganathan, Redmond P. Burke. <i>Ontology-Aware Search on XML-based Electronic Medical Records</i>. Poster Paper, IEEE ICDE 2008 <i>(acceptance rate 31%)</i> <br> <a href="http://www.cis.fiu.edu/~vagelis/publications/OntologySearch_ICDE08_poster.pdf">[Download]</a> </li> 
+          </ul>
+          <table class="bottom" background="../images/bottom-1.gif" cellspacing="0" height="0"> 
+           <tbody> 
+            <!-- end header --> 
+            <!-- begin body -->      This project is sponsored by NSF ( (was , 2008-2013).          
+            <!-- end body --> 
+            <!-- begin header --> 
+           </tbody>   
+           <tbody>
+            <tr> 
+             <td colspan="9"> <a href="http://www.cs.ucr.edu" target="_top"> <img src="../../images/bottom.gif" usemap="#bottom_Map" border="0"></a></td> 
+            </tr> 
+           </tbody> 
+          </table> <map name="bottom_Map"> <area shape="rect" alt="" coords="197,1,594,20" href="http://www.cs.ucr.edu"> <area shape="rect" alt="" coords="0,0,800,20" href="http://www.cs.ucr.edu" target="_blank"> </map> </td> 
+        </tr> 
+       </tbody> 
+      </table>  
+      <!-- end header -->  </td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>

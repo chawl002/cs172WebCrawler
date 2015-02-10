@@ -1,0 +1,235 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Computing &amp; Communications: Administrative Computing</title> 
+  <meta http-equiv="last-modified" content="2015-01-28"> 
+  <meta name="version" content="2.62 2.122 "> 
+  <!-- 02/09/15 13:05:11 02/09/15 13:05:11 --> 
+  <!--link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/cncmod.css" media="all"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css"> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to C&amp;C news via RSS" href="http://feeds.feedburner.com/cnc-ucr-edu_news"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/design6/overlay_home.png" alt=""> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="http://cnc.ucr.edu/"><span class="printonly">Computing &amp; Communications</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li class="lastitem">Administrative Computing</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Administrative Computing</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li class="nav_inline_last"><h3>Help &amp; Support</h3>
+        <ul>
+         <li><a href="/faculty.html" title="Faculty">Faculty</a></li>
+         <li>&nbsp;| <a href="/staff.html" title="Staff">Staff</a></li>
+         <li>&nbsp;| <a href="/students.html" title="Students">Students</a></li>
+        </ul></li>
+       <li><a href="/diversity.html" title="Commitment to Diversity">Commitment to Diversity</a></li>
+       <li><a href="/about_us.html" title="About Us">About Us</a>
+        <ul>
+         <li><a href="/about_management.html" title="Management &amp; Leadership">Management &amp; Leadership</a></li>
+         <li><a href="/instruc_tech_group.html" title="Instructional Technology Group">Instructional Technology Group</a></li>
+         <li><a href="/mt.html" title="Multimedia Technologies">Multimedia Technologies</a></li>
+         <li><a href="/amd.html" title="Application &amp; Multimedia Development">Application &amp; Multimedia Development</a></li>
+         <li><a href="/msg.html" title="Computer Support Group">Computer Support Group</a></li>
+         <li><a href="/comm.html" title="Communications">Communications</a></li>
+         <li><a href="/ead.html" title="Enterprise Application Development">Enterprise Application Development</a></li>
+         <li><a href="/cis.html" title="Computing Infrastructure &amp; Security">Computing Infrastructure &amp; Security</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Academic Information Systems</h3></li>
+         <li><a href="/finance.html" title="Finance &amp; Administration">Finance &amp; Administration</a></li>
+         <li><a href="/scs_home.html" title="Student Computing Services">Student Computing Services</a></li>
+        </ul></li>
+       <li><a href="/policies.html" title="Policies, Forms, &amp; Downloads">Policies, Forms, &amp; Downloads</a></li>
+       <li><a href="/career.html" title="Career Opportunities">Career Opportunities</a></li>
+       <li><a href="/contactus.html" title="Contact Us">Contact Us</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <div class="header"> 
+     </div> 
+     <div id="omnicontent"> 
+      <p>Also known as Institutional Computing, Administrative Computing supports the computing functions running on the IBM mainframe and consults with the Institutional Computing Advisory Committee concerning:</p> 
+      <ul> 
+       <li>Administrative Computing service rates</li> 
+       <li>Priorities for allocation of institutional computing resources</li> 
+       <li>Long range institutional computing planning</li> 
+      </ul> 
+      <h3>Mission Statement</h3> 
+      <p>Administrative Computing provides UCR with the highest quality programming and technical services possible, supporting campus instruction, research, and public service. Administrative Computing fulfils its mission primarily via the support of the campus Payroll Personnel System (PPS) and the Student Information System (SIS) and other applications/services as required by the campus and the University of California Office of the President (UCOP). In all its endeavors, the Administrative Computing team will abide by UCR's policies and procedures and will strive to operate within budget and per approved campus recharge rates.</p> 
+      <h3>Services</h3> 
+      <ul class="big_links"> 
+       <li><a href="/ac_data_control_service.html"><img src="/images/datacontrol.jpg" alt="Data control" width="131" height="68"><strong>Data Control Service </strong>The Data Control service is designed to provide special handling for the administrative user who needs individual attention for production runs. Data Control personnel will provide the following: schedule and monitor job processing, coordinate delays, verify job output, and arrange for the distribution of the output.</a></li> 
+       <li><a href="https://ucribm.ucr.edu/storehouse/eqwebrecv.html"><img src="/images/shipping.jpg" alt="Shipping" width="131" height="68"><strong>Equipment Shipping, Pickups, &amp; Surplus </strong></a></li> 
+       <li><a href="/ac_mainframe_security.html"><img src="/images/security.jpg" alt="Security" width="131" height="68"><strong>Mainframe Security </strong>IBM's RACF security package operates on the IBM mainframe. RACF access to data is granted on a need-to-know basis; requests for data access must be made in writing to Administrative Computing. RACF utilizes a combination of userid and password to control who can access what resources and how and when those resources can be accessed. </a></li> 
+       <li><a href="https://ucribm.ucr.edu/storehouse/sthsucr.html"><img src="/images/sale.jpg" alt="Storehouse" width="131" height="68"><strong>Storehouse Requisitions </strong>Storehouse now uses CAS authentication.&nbsp; You may browse storehouse products without signing on, but if you wish to place an order, press here to authenticate.&nbsp; If you are not authorized to place storehouse orders please see your departmental SAA for authorization.</a></li> 
+       <li><a href="/ac_trouble_reporting.html"><img src="/images/report.jpg" alt="Reporting" width="131" height="68"><strong>Trouble Reporting </strong>Any problem reported should be supported with a listing and output, or in the case of an online system problem a list of exactly the steps you were doing leading up to the problem. Suspected software problems should be brought to the attention of the programmer in charge of the application.</a></li> 
+      </ul> 
+      <h3>Staff</h3> 
+      <div class="spotlight"> 
+       <h3>Academic Information Systems</h3> 
+       <p><a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" target="_blank">Computing &amp; Communications Building</a><br> Office Hours: M-F 8:00a-5:00p</p> 
+      </div> 
+      <div class="contact-us"> 
+       <h3>Director</h3> 
+       <p>Mary Livaudais<br> E-mail: <a href="mailto:mary.livaudais@ucr.edu">mary.livaudais@ucr.edu</a></p> 
+       <h3>Managers</h3> 
+       <p>Byron Yates, Systems Programming Manager<br> E-mail: <a href="mailto:byron.yates@ucr.edu">byron.yates@ucr.edu</a></p> 
+       <h3>Programmers/Analysts</h3> 
+       <p>Bill Eade<br> E-mail: <a href="mailto:bill.eade@ucr.edu">bill.eade@ucr.edu</a></p> 
+       <p>Jack Luther<br>Email:&nbsp;<a href="mailto:jack.luther@ucr.edu"> jack.luther@ucr.edu</a></p> 
+       <p>Ron Ortega<br> Email: <a href="mailto:ron.ortega@ucr.edu">ron.ortega@ucr.edu</a></p> 
+       <p>Olivia Salinas<br> E-mail: <a href="mailto:olivia.salinas@ucr.edu">olivia.salinas@ucr.edu</a></p> 
+       <p>Francisco Sola<br> E-mail: <a href="mailto:francisco.sola@ucr.edu">francisco.sola@ucr.edu</a></p> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Computing &amp; Communications</strong><br> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=CCCTR" title="Campus Map">Computing &amp; Communications Bldg.</a><br><br> Tel: (951) 827-4741<br> Fax: (951) 827-4541<br>E-mail: <a href="mailto:helpdesk@ucr.edu?subject=Web Site Inquiry">helpdesk@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://cnc.ucr.edu/security/">Security @ UCR</a></li> 
+       <li><a href="http://rspace.ucr.edu/">R'Space Administrative Portal</a></li> 
+       <li><a href="http://rweb.ucr.edu/">R'Web Student Portal</a></li> 
+       <li><a href="http://iteach.ucr.edu/">iTeach Instructional Resources</a></li> 
+       <li><a href="http://scs.ucr.edu/">Student Computing Services</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://feeds.feedburner.com/cnc-ucr-edu_news">Subscribe to C&amp;C news via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fadmin_computing.html">Last modified: 2015-Jan-28</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.025896 seconds using 1.75 MiB of memory. -->   
+ </body>
+</html>

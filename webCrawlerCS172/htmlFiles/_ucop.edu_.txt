@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 no-js"  lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <meta content="" name="description"> 
+  <meta content="" name="author"> 
+  <title>University of California | Office of The President</title> 
+  <!-- Le HTML5 shim, for IE6-8 support of HTML elements --> 
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]--> 
+  <!-- Le styles --> 
+  <!-- main.css - see /_common/files/css/main.less non-minified sources --> 
+  <link href="/_common/files/css/main.css?v=1.1" media="screen" rel="stylesheet"> 
+  <link href="/_common/files/css/print.css" media="print" rel="stylesheet"> 
+  <!-- Le fav and touch icons --> 
+  <link href="/_common/files/img/ico/favicon.ico" rel="shortcut icon"> 
+  <!-- <link href="/files/img/ico/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="/files/img/ico/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/files/img/ico/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/> --> 
+  <!-- Custom styles --> 
+  <!--[if gt IE 8]><!-->
+  <link href="/_common/files/css/ff-old.css" rel="stylesheet">
+  <!--<![endif]--> 
+  <!-- Alert JS (lightbox.css in main.css) //--> 
+  <script src="http://em.ucop.edu/js/jquery-1.8.1.min.js" type="text/javascript"></script> 
+  <script src="http://em.ucop.edu/docs/data.js" type="text/javascript"></script> 
+  <script src="http://em.ucop.edu/docs/dataHeadLine.js" type="text/javascript"></script> 
+  <script src="http://em.ucop.edu/js/alert.js" type="text/javascript"></script> 
+  <!-- End Alert //--> 
+ </head> 
+ <body class="home"> 
+  <a class="skip-link" href="#home-main" title="skip to content">skip to content</a> 
+  <div id="bg-left"></div> 
+  <div id="bg-right"></div> 
+  <!-- Alert Lightbox Display //--> 
+  <div class="alertLightBox"> 
+   <div class="alertClose">
+    <b>x</b>
+   </div> 
+   <div class="alertBoxContent"></div> 
+  </div> 
+  <div class="alertBackdrop"></div> 
+  <!-- End Alert //--> 
+  <div id="wrapper"> 
+   <div class="container"> 
+    <div class="row mast"> 
+     <div class="span8 main-nav offset4"> 
+      <div class="navbar"> 
+       <div class="navbar-inner"> 
+        <a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse"> Main Menu <b class="caret">&nbsp;</b> </a> 
+        <div aria-labelledby="ariatopnav" class="nav-collapse" role="navigation">
+         <ul class="nav pull-right" id="ariatopnav"> 
+          <li class=""><a href="http://www.ucop.edu/">Home</a></li> 
+          <li class=""><a href="http://www.ucop.edu/mission">Mission</a></li> 
+          <li class="dropdown "> <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.ucop.edu/organization"> Organization <b class="caret">&nbsp;</b></a> 
+           <div class="dropdown-menu"> 
+            <!-- links --> 
+            <ul> 
+             <li><strong><a href="http://www.ucop.edu/academic-affairs">Academic Affairs</a></strong></li> 
+             <li><a href="http://www.ucop.edu/academic-personnel-programs">Academic Personnel &amp; Programs</a></li> 
+             <li><a href="http://www.ucop.edu/diversity-engagement">Diversity &amp; Engagement</a></li> 
+             <li><a href="http://www.ucop.edu/institutional-research-academic-planning">Institutional Research<br>&amp; Academic Planning</a></li> 
+             <li><a href="http://www.ucop.edu/research-graduate-studies">Research &amp; <br> Graduate Studies </a></li> 
+             <li><a href="http://www.ucop.edu/student-affairs">Student Affairs</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="http://www.ucop.edu/finance-office">Chief Financial Officer</a></strong></li> 
+             <li><a href="http://www.ucop.edu/operating-budget">Budget Analysis &amp; Planning</a></li> 
+             <li><a href="http://www.ucop.edu/capital-asset-strategies-finance">Capital Asset Strategies &amp; Finance</a></li> 
+             <li><a href="http://www.ucop.edu/financial-accounting">Financial Accounting</a></li> 
+             <li><a href="http://www.ucop.edu/financial-services-controls">Financial Services &amp; <br> Controls</a></li> 
+             <li><a href="http://www.ucop.edu/procurement-services">Procurement Services</a></li> 
+             <li><a href="http://www.ucop.edu/risk-services">Risk Services</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="http://www.ucop.edu/business-operations">Chief Operating Officer</a></strong></li> 
+             <li><a href="http://www.ucop.edu/energy-sustainability">Energy &amp; Sustainability</a></li> 
+             <li><a href="http://www.ucop.edu/human-resources">Human Resources</a></li> 
+             <li><a href="http://www.ucop.edu/information-technology-services">Information Technology Services</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="http://www.ucop.edu/external-relations">External Relations</a></strong></li> 
+             <li><a href="http://www.ucop.edu/alumni-constituent-affairs">Alumni &amp; Constituent <br> Affairs</a></li> 
+             <li><a href="http://www.ucop.edu/communications">Communications</a></li> 
+             <li><a href="http://www.ucop.edu/federal-governmental-relations">Federal Governmental <br> Relations</a></li> 
+             <li><a href="http://www.ucop.edu/institutional-advancement">Institutional Advancement</a></li> 
+             <li><a href="http://www.ucop.edu/impac">Issues Management Policy Analysis &amp; Coordination</a></li> 
+             <li><a href="http://www.ucop.edu/state-governmental-relations">State Governmental <br> Relations</a></li> 
+            </ul> 
+            <ul> 
+             <li><strong><a href="http://ucanr.edu">Agriculture &amp; <br> Natural Resources</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/investment-office">Chief Investment Officer</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/ethics-compliance-audit-services">Ethics, Compliance &amp; <br> Audit Services</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/general-counsel">General Counsel</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/health-sciences-services">Health Sciences &amp; <br> Services</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/laboratory-management">Laboratory Management</a></strong><br></li> 
+             <li><strong><a href="http://www.universityofcalifornia.edu/senate/">Academic Senate</a></strong></li> 
+             <li><strong><a href="http://regents.universityofcalifornia.edu">Board of Regents</a></strong></li> 
+             <li><strong><a href="http://www.ucop.edu/president">President Napolitano</a></strong></li> 
+            </ul> 
+           </div> </li> 
+          <li class=""><a href="http://www.ucop.edu/initiatives">Initiatives</a></li> 
+         </ul>
+         <ul class="nav pull-right" id="topmenu"> 
+          <li><a href="http://jobs.universityofcalifornia.edu">Jobs</a></li> 
+          <li><a href="/directory-search/index.php" title="Search the UCOP directory">People</a></li> 
+          <li> 
+           <form action="/search" class="navbar-search" id="search-form" method="get"> 
+            <!--
+The search form's submit event is being handled
+by an inline script further down the page
+--> 
+            <label class="skip-link" for="query-field">search</label> 
+            <input class="search-query" id="query-field" name="q" placeholder="Search" type="text"> 
+           </form> </li> 
+         </ul>
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="span4 logo">
+      <div id="logo">
+       <a href="index.html"><img alt="University of California" height="64" src="/_common/files/img/logo.png" width="200"></a> 
+       <h1 class="op"><a href="index.html">Office of&nbsp;the President</a></h1> 
+      </div>
+     </div> 
+    </div> 
+    <div class="flex-container" id="home-main"> 
+     <div class="flexslider"> 
+      <ul class="slides"> 
+       <li class="textboth with-summary" style="background-image:url(_images/carousel-backgrounds/potatoes.jpg);"> 
+        <div class="row-fluid"> 
+         <div class="span8"> 
+          <p class="meta-head" style="color:#E44C9A;">Publications</p> 
+          <h2>UC Food Observer launches</h2> 
+         </div> 
+         <div class="span4"> 
+          <p class="summary">A daily selection of must-read news on food policy, nutrition, agriculture and more</p> 
+          <p><a class="btn" href="http://www.ucfoodobserver.com" style="background-color: #E44C9A;">Learn more</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="textright with-summary" style="background-image:url(_images/carousel-backgrounds/solar_panels.jpg);"> 
+        <div class="row-fluid"> 
+         <div class="span8"> 
+          <p class="meta-head" style="color:#FF6E1B;">Publications</p> 
+          <h2>Zero-net on the horizon</h2> 
+          <p class="summary">UC takes major steps towards carbon neutrality, among many sustainability achievements in 2014</p> 
+          <p><a class="btn" href="http://ucop.edu/sustainability/_files/annual-sustainability-report2014.pdf" style="background-color: #FF6E1B;">Learn more</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="orange textboth with-summary"> 
+        <div class="row-fluid"> 
+         <div class="span8"> 
+          <p class="meta-head">Initiatives</p> 
+          <h2>Sexual Violence Prevention &amp; Response</h2> 
+         </div> 
+         <div class="span4"> 
+          <p class="summary">UC makes progress on task force recommendations</p> 
+          <p><a class="btn" href="http://www.universityofcalifornia.edu/press-room/uc-meets-milestone-goals-address-sexual-violence-campuses" style="">Read more</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="textright with-summary" style="background-image:url(_images/carousel-backgrounds/grad_hats.jpg);"> 
+        <div class="row-fluid"> 
+         <div class="span8"> 
+          <p class="meta-head" style="color:#B4975A;">Publications</p> 
+          <h2>Growing portfolios. Building partnerships.</h2> 
+          <p class="summary">2013-14 Investment Report now available</p> 
+          <p><a class="btn" href="http://invest.universityofcalifornia.edu/" style="background-color: #B4975A;">View details</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="blue textboth with-summary"> 
+        <div class="row-fluid"> 
+         <div class="span8"> 
+          <p class="meta-head">UC Governance</p> 
+          <h2>Wanted: Staff Advisor to the Regents</h2> 
+         </div> 
+         <div class="span4"> 
+          <p class="summary">Applications for 2015-2017 term accepted through March 6, 2015</p> 
+          <p><a class="btn" href="http://ucnet.universityofcalifornia.edu/news/2015/01/application-period-for-next-staff-advisor-to-the-regents-begins-jan.-20.html" style="">Find out more</a></p> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <!-- Main hero unit for a primary marketing message or call to action --> 
+    <div class="hero-unit"> 
+     <p>The Office of the President is the systemwide headquarters of the University of California, managing its fiscal and business operations, and supporting the academic and research missions across its campuses, labs and medical centers.</p> 
+     <p><a href="mission/index.html" title="UCOP mission">Learn more</a></p> 
+    </div> 
+    <!-- Example row of columns --> 
+    <div id="pres-ie"> 
+     <div class="row"> 
+      <div aria-labelledby="ariadepartmentnav" class="span4 blustripe" role="navigation"> 
+       <h2 id="ariadepartmentnav">Divisions &amp; Departments</h2> 
+       <ul class="dotted-list"> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/academic-affairs/index.html">Academic Affairs</a> 
+         <ul class="dropdown-menu sidebar-pop"> 
+          <li> <h3>Academic Affairs</h3> <p>We are a systemwide resource for academic excellence in research, teaching and public service.</p> <p class="dept">Departments</p> 
+           <ul> 
+            <li><a href="/academic-personnel-programs/index.html">Academic Personnel &amp; Programs</a></li> 
+            <li><a href="/diversity-engagement/index.html">Diversity &amp; Engagement</a></li> 
+            <li><a href="/institutional-research-academic-planning/index.html">Institutional Research &amp; Academic Planning</a></li> 
+            <li><a href="/research-graduate-studies/index.html">Research &amp; Graduate Studies</a></li> 
+            <li><a href="/student-affairs/index.html">Student Affairs</a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="http://ucanr.edu">Agriculture &amp; Natural Resources</a> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/finance-office/index.html">Chief Financial Officer</a> 
+         <ul class="dropdown-menu sidebar-pop"> 
+          <li> <h3>Chief Financial Officer</h3> <p>We manage and oversee systemwide financial management.</p> <p class="dept">Departments</p> 
+           <ul> 
+            <li><a href="/operating-budget/index.html">Budget Analysis and Planning</a></li> 
+            <li><a href="/capital-asset-strategies-finance/index.html">Capital Asset Strategies and Finance</a></li> 
+            <li><a href="/financial-accounting/index.html">Financial Accounting</a></li> 
+            <li><a href="/financial-services-controls/index.html">Financial Services &amp; Controls</a></li> 
+            <li><a href="/procurement-services/index.html">Procurement Services</a></li> 
+            <li><a href="/risk-services/index.html">Risk Services</a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/investment-office/index.html">Chief Investment Officer of the Regents</a> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/business-operations/index.html">Chief Operating Officer</a> 
+         <ul class="dropdown-menu sidebar-pop"> 
+          <li> <h3>Chief Operating Officer</h3> <p>We oversee and develop policy for the university's business operations.</p> <p class="dept">Departments</p> 
+           <ul> 
+            <li><a href="/energy-sustainability/index.html">Energy &amp; Sustainability</a></li> 
+            <li><a href="/human-resources/index.html">Human Resources</a></li> 
+            <li><a href="/information-technology-services/index.html">Information Technology Services</a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/ethics-compliance-audit-services/index.html">Ethics, Compliance &amp; Audit Services</a> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/external-relations/index.html">External Relations</a> 
+         <ul class="dropdown-menu sidebar-pop"> 
+          <li> <h3>External Relations</h3> <p>We build public understanding and support for the university's mission.</p> <p class="dept">Departments</p> 
+           <ul> 
+            <li><a href="/alumni-constituent-affairs/index.html">Alumni &amp; Constituent Affairs</a></li> 
+            <li><a href="/communications/index.html">Communications</a></li> 
+            <li><a href="/federal-governmental-relations/index.html">Federal Governmental Relations</a></li> 
+            <li><a href="/institutional-advancement/index.html">Institutional Advancement</a></li> 
+            <li><a href="/impac/index.html">Issues Management, Policy Analysis &amp; Coordination (IMPAC)</a></li> 
+            <li><a href="/state-governmental-relations/index.html">State Governmental Relations</a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/general-counsel/index.html">General Counsel</a> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/health-sciences-services/index.html">Health Sciences &amp; Services</a> </li> 
+        <li class="dropdown"><a class="dropdown-toggle" href="/laboratory-management/index.html">Laboratory Management</a> </li> 
+       </ul> 
+      </div> 
+      <div class="span4 blustripe"> 
+       <h2>Most Popular</h2> 
+       <ol class="dotted-list"> 
+        <li>&nbsp;<a href="/academic-personnel-programs/compensation/index.html">Academic salaries</a></li> 
+        <li>&nbsp;<a href="http://policy.ucop.edu/manuals/personnel-policies-for-staff-members.html">Personnel Policies for Staff Members</a></li> 
+        <li>&nbsp;<a href="/general-counsel/guidance/educational-affairs-and-campus-services/residence-tuition-fees-student-info.html">Residency guidelines</a></li> 
+        <li>&nbsp;<a href="http://policy.ucop.edu">UC Policy search &amp; Policy Manuals</a></li> 
+        <li>&nbsp;<a href="/uc-whistleblower/index.html">UC Whistleblower</a></li> 
+        <li>&nbsp;<a href="/sustainability/index.html">Sustainability</a></li> 
+        <li>&nbsp;<a href="/academic-personnel-programs/academic-personnel-policy/index.html">Academic Personnel Manual</a></li> 
+        <li>&nbsp;<a href="/ethics-compliance-audit-services/compliance/standards-of-ethical-conduct.html">Standards of ethical conduct</a></li> 
+        <li>&nbsp;<a href="/academic-personnel-programs/programs-and-initiatives/academic-job-openings/index.html">Academic job openings</a></li> 
+        <li>&nbsp;<a href="http://ucnet.universityofcalifornia.edu">UCnet</a></li> 
+       </ol> 
+      </div> 
+      <div class="span4 blustripe"> 
+       <h2 class="find-people">Find People</h2> 
+       <form action="http://www.ucop.edu/directory-search/index.php" class="well" method="POST" name="update"> 
+        <label class="skip-link" for="first-name">First Name</label> 
+        <input class="span3 firstname" id="first-name" name="first_name" placeholder="First Name" type="text"> 
+        <label class="skip-link" for="last-name">Last Name</label> 
+        <input class="span3 lastname" id="last-name" name="last_name" placeholder="Last Name" type="text"> 
+        <label class="skip-link" for="department">Department</label> 
+        <input class="span3 department" id="department" name="department" placeholder="Department" type="text"> 
+        <input class="btn-blue" name="submit" type="submit" value="Search"> 
+        <!--           <button class="btn-blue" type="submit">Search</button>//--> 
+       </form> 
+      </div>
+     </div> 
+     <!-- Example row of columns --> 
+     <div class="row pres-row">
+      <div class="span8 yellowstripe"> 
+       <div class="row-fluid"> 
+        <div class="span9"> 
+         <h2>The President</h2> 
+        </div> 
+        <div class="span3 pull-right socialbtns-rt"></div> 
+       </div> 
+       <div class="row-fluid"> 
+        <div class="span11"> 
+         <blockquote>
+          “The University of California is preeminent in educating the state’s young people, in enhancing research and scholarship in every discipline, in fostering economic growth, medicine, the arts, its athletic and other programs. Simply put, UC is the gold standard. Together, we must ensure that this standard is upheld.”
+         </blockquote> 
+         <p>Learn more about <a href="/president/index.html">President Janet Napolitano</a></p> 
+        </div> 
+       </div> 
+      </div>
+     </div> 
+     <hr> 
+    </div> 
+    <!-- Example row of columns --> 
+    <div class="row less3 novrflw"> 
+     <div class="span4 grybx"> 
+      <h2>Contact Us</h2> 
+      <p>University of California<br> Office of the President<br> 1111 Franklin Street<br> Oakland, CA 94607</p> 
+      <p><a href="locations-maps/index.html"><br>Maps and directions to UCOP locations</a></p> 
+     </div> 
+     <div class="span4 grybx"> 
+      <h2>OP Staff</h2> 
+      <p>Find the latest news and resources just for OP employees. </p> 
+      <ul class="prp-dots"> 
+       <li><a href="/navigating-ucop/resources/index.html">Navigating UCOP</a></li> 
+       <li><a href="http://link.ucop.edu" target="_blank">Link newsletter</a></li> 
+       <li><a href="/local-human-resources/index.html" target="_blank">UCOP HR resources</a></li> 
+       <li><a href="/staff-assembly/index.html">OP Staff Assembly</a></li> 
+       <li><a href="https://atyourserviceonline.ucop.edu/">At Your Service Online</a></li> 
+       <li><a href="http://ucnet.universityofcalifornia.edu">UCnet</a></li> 
+      </ul> 
+     </div> 
+     <div class="span4 grybx"> 
+      <h2>We want your feedback</h2> 
+      <p>Find a broken link? Having trouble finding something? Submit comments, questions and feedback to our web team.</p> 
+      <p><a href="mailto:webeditor@ucop.edu" title="Email us">Share feedback</a></p> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- /container -->
+  </div> 
+  <!-- /wrapper --> 
+  <div class="row footfirst"> 
+   <div class="span12 footfirst-inner"> 
+    <h2>UCOP Divisions &amp; Departments</h2> 
+    <div class="row-fluid"> 
+     <div class="span2"> 
+      <p><strong><a href="http://www.ucop.edu/academic-affairs/index.html">Academic Affairs</a></strong></p> 
+      <ul> 
+       <li><a href="http://www.ucop.edu/academic-personnel-programs/index.html">Academic Personnel &amp; Programs</a></li> 
+       <li><a href="http://www.ucop.edu/diversity-engagement/index.html">Diversity &amp; Engagement</a></li> 
+       <li><a href="http://www.ucop.edu/institutional-research-academic-planning/index.html">Institutional Research &amp; Academic Planning</a></li> 
+       <li><a href="http://www.ucop.edu/research-graduate-studies/index.html">Research &amp; Graduate Studies</a></li> 
+       <li><a href="http://www.ucop.edu/student-affairs/index.html">Student Affairs</a></li> 
+      </ul> 
+     </div> 
+     <div class="span2"> 
+      <p><strong><a href="http://www.ucop.edu/finance-office/index.html">Chief Financial Officer</a></strong></p> 
+      <ul> 
+       <li><a href="http://www.ucop.edu/operating-budget/index.html">Budget Analysis &amp; Planning</a></li> 
+       <li><a href="http://www.ucop.edu/capital-asset-strategies-finance/index.html">Capital Asset Strategies &amp; Finance</a></li> 
+       <li><a href="http://www.ucop.edu/financial-accounting/index.html">Financial Accounting</a></li> 
+       <li><a href="http://www.ucop.edu/financial-services-controls/index.html">Financial Services &amp; Controls</a></li> 
+       <li><a href="http://www.ucop.edu/procurement-services/index.html">Procurement Services</a></li> 
+       <li><a href="http://www.ucop.edu/risk-services/index.html">Risk Services</a></li> 
+      </ul> 
+     </div> 
+     <div class="span2"> 
+      <p><strong><a href="http://www.ucop.edu/business-operations/index.html">Chief Operating Officer</a></strong></p> 
+      <ul> 
+       <li><a href="http://www.ucop.edu/energy-sustainability/index.html">Energy &amp; Sustainability</a></li> 
+       <li><a href="http://www.ucop.edu/human-resources/index.html">Human Resources</a></li> 
+       <li><a href="http://www.ucop.edu/information-technology-services/index.html">Information Technology Services</a></li> 
+      </ul> 
+     </div> 
+     <div class="span2"> 
+      <p><strong><a href="http://www.ucop.edu/external-relations/index.html">External Relations</a></strong></p> 
+      <ul> 
+       <li><a href="http://www.ucop.edu/alumni-constituent-affairs/index.html">Alumni &amp; Constituent Affairs</a></li> 
+       <li><a href="http://www.ucop.edu/communications/index.html">Communications</a></li> 
+       <li><a href="http://www.ucop.edu/federal-governmental-relations/index.html">Federal Governmental Relations</a></li> 
+       <li><a href="http://www.ucop.edu/institutional-advancement/index.html">Institutional Advancement</a></li> 
+       <li><a href="http://www.ucop.edu/impac/index.html">Issues Management, Policy Analysis &amp; Coordination</a></li> 
+       <li><a href="http://www.ucop.edu/state-governmental-relations/index.html">State Governmental Relations</a></li> 
+      </ul> 
+     </div> 
+     <div class="span2"> 
+      <p><strong><a href="http://ucanr.edu/">Agriculture &amp; Natural Resources</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/investment-office/index.html">Chief Investment Officer</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/ethics-compliance-audit-services/index.html">Ethics, Compliance &amp; Audit Services</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/general-counsel/index.html">General Counsel</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/health-sciences-services/index.html">Health Sciences &amp; Services</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/laboratory-management/index.html">Laboratory Management</a></strong></p> 
+      <p><strong><a href="http://www.ucop.edu/president/index.html">President Napolitano</a></strong></p> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="row footsec"> 
+   <div class="span12 footsec-inner"> 
+    <div class="row-fluid"> 
+     <div class="span2"> 
+      <ul> 
+       <li> <strong><a href="http://www.universityofcalifornia.edu/" target="_blank">University of California</a></strong> </li> 
+       <li><strong><a href="http://senate.universityofcalifornia.edu/" target="_blank">Academic Senate</a></strong></li> 
+       <li><strong><a href="http://regents.universityofcalifornia.edu/" target="_blank">Board of Regents</a></strong></li> 
+       <li><strong><a href="http://ucnet.universityofcalifornia.edu" target="_blank">UCnet</a></strong></li> 
+      </ul> 
+     </div> 
+     <div class="span2"> 
+      <ul> 
+       <!--
+<li>
+<h3><a href="#">UC Net</a></h3>
+</li>
+--> 
+       <li>&nbsp;</li> 
+      </ul> 
+     </div> 
+     <div class="span2">
+      &nbsp;
+     </div> 
+     <div class="span2">
+      &nbsp;
+     </div> 
+     <div class="span2"> 
+      <ul class="pull-right"> 
+       <li><a href="http://www.facebook.com/universityofcalifornia" target="_blank"><img alt="UC on Facebook" height="25" src="/_common/files/img/icon_fb_yel_blu.gif" width="25"></a><a href="https://twitter.com/UC_Newsroom" target="_blank"><img alt="UC on Twitter" height="25" src="/_common/files/img/icon_twtr_yel_blu.gif" width="25"></a> 
+        <!--<a href="#"><img src="/files/img/icon_rss_yel_blu.gif" width="25" height="25" alt="RSS Feed" /></a>--></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <p><br>© 2014 Regents of the University of California&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="terms/index.html">Terms of use</a></p> 
+   </div> 
+  </div> 
+  <!-- Le javascript ================================================== --> 
+  <!-- jQuery & Bootstrap via CDN, fallback to local copy if CDN fails/blocked --> 
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
+  <script>/*<![CDATA[*/window.jQuery || document.write('<script src="/_common/files/js/jquery.1.7.1.min.js"><\/script>')/* ]]>*/</script> 
+  <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/js/bootstrap.min.js"></script> 
+  <script>/*<![CDATA[*/$.fn.modal || document.write('<script src="/_common/files/js/bootstrap.2.0.4.min.js"><\/script>')/* ]]>*/</script> 
+  <!--[if gt IE 8]><!-->
+  <script src="/_common/files/js/modernizr.js"></script>
+  <!--<![endif]--> 
+  <!--[if lt IE 9]><script src="/files/js/selectivizr-min.js"></script><![endif]--> 
+  <script src="/_common/files/js/plugins.js"></script> 
+  <script src="/_common/files/js/main.js?v=1.2"></script> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18163990-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
+ </body>
+</html>

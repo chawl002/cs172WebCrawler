@@ -1,0 +1,437 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Computer Science and Engineering: Grants</title> 
+  <meta http-equiv="last-modified" content="2013-10-04"> 
+  <meta name="version" content="1.204 1.233 "> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlay.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href=" http:="" www1.cs.ucr.edu="">
+   <span class="printonly">Computer Science and Engineering</span> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li> 
+    <li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li> 
+    <li class="lastitem">Grants</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Grants</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li><a href="/" title="Admissions">Admissions<br><span></span></a></li>
+       <li><a href="/department/overview/" title="Department">Department<br><span></span></a></li>
+       <li><a href="/people/faculty" title="People">People<br><span></span></a></li>
+       <li><a href="/research/labs" title="Research">Research<br><span></span></a>
+        <ul>
+         <li><a href="/research/labs/" title="Research Labs">Research Labs</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Grants and Funding</h3></li>
+         <li><a href="/research/publications/" title="Technical Reports">Technical Reports</a></li>
+        </ul></li>
+       <li><a href="/education/" title="Education">Education<br><span></span></a></li>
+       <li><a href="/employment/" title="CSE Employment">CSE Employment<br><span></span></a></li>
+       <li><a href="/internships/" title="Internships &amp; Careers">Internships &amp; Careers<br><span></span></a></li>
+       <li><a href="/faq/" title="Account FAQs">Account FAQs</a></li>
+       <li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br><span></span></a></li> 
+      </ul> 
+     </div> 
+     <img src="/images/celink.jpg" style="padding:8px">
+     <br> 
+     <a title="Computer Engineering" href="http://cen.ucr.edu/" target="_blank">Visit the Computer Engineering Program!</a> 
+     <h4>Department Intranet</h4> 
+     <ul> 
+      <li><a href="http://csedept.cs.ucr.edu">Login</a></li> 
+      <li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li> 
+      <li><a href="http://ilearn.ucr.edu">iLearn (Courses)</a></li> 
+      <li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li> 
+      <!--<li><a href="https://www.cs.ucr.edu/faq/">Account FAQ</a></li>--> 
+     </ul> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <div class="header"> 
+      <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+      <!-- /com.omniupdate.div -->
+     </div> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --> 
+      <p>&nbsp;</p> 
+      <h2>New Research Grants 2013</h2> 
+      <ol> 
+       <li> <h3>Sponsor: ARL</h3> <p><strong>CRA Award</strong><br> <acronym title="Principal Investigator">PI</acronym> Srikanth Krishnamurthy (PI), Iulian Neamtiu (Co-PI), Harsha Madhyastha (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: DARPA</h3> <p><strong>Inference for Continuous-Time Probabilistic Programming</strong><br> <acronym title="Principal Investigator">PI</acronym> Christian Shelton</p> </li> 
+       <li> <h3>Sponsor: NSF Information Integration and Informatics</h3> <p><strong>III:Medium:Algorithms and Software Tools for Epigenetic &nbsp;Research</strong><br> <acronym title="Principal Investigator">PI</acronym> Stefano Lonardi</p> </li> 
+       <li> <h3>Sponsor: NSF ABI</h3> <p><strong>Collaborative Research: ABI Innovation: Genome-Wide Inference of mRNA Isoforms and Abundance Estimation from Biased RNA-Seq Reads</strong><br> <acronym title="Principal Investigator">PI</acronym> Tao Jiang</p> </li> 
+       <li> <h3>Sponsor: ARO</h3> <p><strong>Jana: Confidential Communications on Social Networks</strong><br> <acronym title="Principal Investigator">PI</acronym> Srikanth Krishnamurthy (PI), Harsha Madhastha (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: NSF CCF</h3> <p><strong>SHF: Small: Memory Consistency -- Hardware, Compiler, and Programming Support</strong><br> <acronym title="Principal Investigator">PI</acronym> Rajiv Gupta</p> </li> 
+       <li> <h3>Sponsor: US-AID</h3> <p><strong>Feed the Future Innovation Lab: Advanced Tools for Breeding Climate-Resilient Cowpeas</strong><br> <acronym title="Principal Investigator">PI</acronym> Stefano Lonardi(Co-PI)</p> </li> 
+       <li> <h3>Sponsor: NSF Program: Graphics &amp; Visualization</h3> <p><strong>CGV: Large: Collaborative Research: Coupling Simulation and Mesh Generation using Computational Topology</strong><br> <acronym title="Principal Investigator">PI</acronym> Tamar Shinar</p> </li> 
+       <li> <h3>Sponsor: NSF NeTS</h3> <p><strong>NeTS:&nbsp;Collaborative Research: Small:&nbsp; Towards a User-Centric Battery Management System for Smartphones</strong><br> <acronym title="Principal Investigator">PI</acronym> Srikanth Krishnamurthy</p> </li> 
+       <li> <h3>Sponsor: DTRA</h3> <p><strong> Leveraging Online Social Networks for Early Detection of Agricultural Bioterrorism</strong><br> <acronym title="Principal Investigator">PI</acronym> Harsha V. Madhyastha (PI), E. Christidis (Co-PI), Vassilis Tsotras</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>CI-ADDO-NEW: ASTERIX: A Community Software Platform for Big Data Research, Analysis, and Management</strong><br> <acronym title="Principal Investigator">PI</acronym> Vassilis Tsotras</p> </li> 
+       <li> <h3>Sponsor: Sub award from Children's Hospital Los Angeles (CHLA)</h3> <p><strong>Estimating Models of Patient Response to Ventilation</strong><br> <acronym title="Principal Investigator">PI</acronym> Christian Shelton</p> </li> 
+       <li> <h3>Sponsor: Samsung Research</h3> <p><strong>IO Optimizations for Bigdata Stores</strong><br> <acronym title="Principal Investigator">PI</acronym> V. Hristidis (PI), L. Bhuyan (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: Intel</h3> <p><strong>Dynamic Slicing for Interactive Debugging of Multithreaded Programs</strong><br> <acronym title="Principal Investigator">PI</acronym> Rajiv Gupta (PI), I. Neamtiu (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: REU Supplement</h3> <p><strong>CAREER: A Collaborative Adaptive Data Sharing Platform</strong><br> <acronym title="Principal Investigator">PI</acronym> V. Hristidis</p> </li> 
+       <li> <h3>Sponsor: VMware</h3> <p><strong>Radio+Tuner: Tunable Storage for Software Defined Datacenters</strong><br> <acronym title="Principal Investigator">PI</acronym> Harsha V. Madhyastha</p> </li> 
+       <li> <h3>Sponsor: Bill and Melinda Gates: Grand Challenges Explorations Grants; Round 9</h3> <p><strong>Insect Sensors with applications to Neglected Tropical Diseases</strong><br> <acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+       <li> <h3>Sponsor: Google</h3> <p><strong>Enabling the Transition to the Mobile Web</strong><br> <acronym title="Principal Investigator">PI</acronym> Harsha Madhyastha</p> </li> 
+       <li> <h3>Sponsor: Google Research Award</h3> <p><strong>Size Oblivious Programming for Large Dynamic Data Structures</strong><br> <acronym title="Principal Investigator">PI</acronym> Rajiv Gupta</p> </li> 
+      </ol> 
+      <h2>New Research Grants 2012</h2> 
+      <ol> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>Hardware/Software Accelerated Data Mining for Real-Time Monitoring of Streaming Pediatric ICU Data, July 2012 - June 2016</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh (PI), Vassilis Tsotras (Co-PI) and Walid Najjar (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: NIH R01</h3> <p><strong>Nuclear Receptor DNA Binding in Human Physiology and Disease, March 2012 - February 2016</strong><br><acronym title="Principal Investigator">PI</acronym> Tao Jiang (Co-PI) and F. Sladek (PI)</p> </li> 
+       <li> <h3>Sponsor: NSF: CAREER</h3> <p><strong>Differential Types and Declarative Hypothesis Testing for Software Evolution, 2012 - 2017</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu</p> </li> 
+       <li> <h3>Sponsor: NSF: CAREER</h3> <p><strong>Cost-effective Application Deployments Spanning Multiple Cloud Services, April 2012 - March 2017</strong><br><acronym title="Principal Investigator">PI</acronym> Harsha Madhyastha</p> </li> 
+       <li> <h3>Sponsor: NSF: CAREER</h3> <p><strong>Dependable High Performance Scientific Computing at Extreme Scale via Algorithmic Fault Tolerance, 2012 - 2017</strong><br><acronym title="Principal Investigator">PI</acronym> Zizhong Chen</p> </li> 
+       <li> <h3>Sponsor: DARPA (under SMISC)</h3> <p><strong>Understand and Utilize Context-Aware Information Dissemination in Social Media, January 2012 - December 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Michalis Faloutsos</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>Power Efficient Multicore Scheduling for Network Applications, October 2012 - September 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Laxmi Bhuyan</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>Automatic Generation of Hardware Threads on Programmable Fabrics, August 2012 - July 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Walid Najjar</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>FTLA: Fault Tolerant Linear Algebra Software for Massively Parallel Architectures, 2011 - 2014</strong><br><acronym title="Principal Investigator">PI</acronym> Zizhong Chen</p> </li> 
+       <li> <h3>Sponsor: Vodafone</h3> <p><strong>2012 Wireless Innovation Project winner (first place)</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh (PI) and Michalis Faloutsos (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: NSF: EAGER</h3> <p><strong>Developing a Programming Environment for Heterogeneous Multiprocessors, October 2012 - September 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Laxmi Bhuyan (PI) and Rajiv Gupta (Co-PI)</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>Algorithmic Approaches to Energy Efficient Computing</strong><br><acronym title="Principal Investigator">PI</acronym> Marek Chrobak and Fei Li (George Mason University)</p> </li> 
+       <li> <h3>Sponsor: NIH</h3> <p><strong>Understanding mitotic spindle positioning by integrated modeling and experiment, 2012 - 2016</strong><br><acronym title="Principal Investigator">PI</acronym> Tamar Shinar</p> </li> 
+       <li> <h3>Sponsor: DARPA/Galois Inc.</h3> <p><strong>Static Analysis for Android Security, 2012 - 2013</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu</p> </li> 
+       <li> <h3>Sponsor: NSF: EEDAG</h3> <p><strong>Exploring Energy-Efficient Parallel Tasks Generation and Scheduling for Heterogeneous Multicore Systems, 2011 - 2013</strong><br><acronym title="Principal Investigator">PI</acronym> Zizhong Chen</p> </li> 
+       <li> <h3>Sponsor: NSF: REU Supplement for III-CXT-Small</h3> <p><strong>Information Discovery on Domain Data Graphs, March 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Vagelis Hristidis</p> </li> 
+       <li> <h3>Sponsor: NSF: REU Supplement for CAREER</h3> <p><strong>A Collaborative Adaptive Data Sharing Platform, March 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Vagelis Hristidis</p> </li> 
+       <li> <h3>Sponsor: NSF</h3> <p><strong>Travel Grant for research collaboration with HKU and HKUST in Hong Kong</strong><br><acronym title="Principal Investigator">PI</acronym> Marek Chrobak</p> </li> 
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>Gifts 2012</h2> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol>
+               <ol> 
+                <li> <h3>Sponsor: Intel</h3> <p><strong>Supporting Dynamic Slicing for Interactive Debugging, 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Rajiv Gupta</p> </li> 
+                <li> <h3>Sponsor: SRC</h3> <p><strong>Artificial Physiology, January 2013 - December 2013</strong><br><acronym title="Principal Investigator">PI</acronym> Frank Vahid</p> </li> 
+                <li> <h3>Sponsor: Siemens Corporation Research and Technology</h3> <p><strong>Time Series Data Mining Algorithms on Large Datasets Using Distributed Computing Architectures</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+                <li> <h3>Sponsor: Intel</h3> <p><strong>Embedded Systems Curriculum Development, 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Philip Brisk (PI) and Laxmi Bhuyan (Co-PI)</p> </li> 
+                <li> <h3>Sponsor: ISCA Tech</h3> <p><strong>Unrestricted Gift from ISCA Tech to support research on insects</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+                <li> <h3>Sponsor: Bill and Melinda Gates Foundation Grant</h3> <p><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh (Co-PI) and Agenor Mafra-Neto (PI)</p> </li> 
+                <li> <h3>Sponsor: FRAXA Research Foundation</h3> <p><strong>Effects of minocycline treatment on vocal production and auditory processing in a mouse model of Fragile X Syndrome</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh (Co-PI)</p> </li> 
+               </ol>
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>New Research Grants 2011-12</h2> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol> 
+               <li> <h3>Sponsor: NSF: CAREER</h3> <p><strong>A Collaborative Adaptive Data Sharing Platform, 2010 - 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Vagelis Hristidis</p> </li> 
+               <li> <h3>Sponsor: NSF: ABI Innovation</h3> <p><strong>Barcoding-Free Multiplexing: Leveraging Combinatorial Pooling for High-Throughput Sequencing, 2011 - 2014</strong><br><acronym title="Principal Investigator">PI</acronym> Stefano Lonardi and T. Close</p> </li> 
+               <li> <h3>Sponsor: NSF: Medium: Collaborative Research</h3> <p><strong>Program Analysis for Smartphone Application Security, April 2011 - March 2015, with UCLA and UMD</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu</p> </li> 
+               <li> <h3>Sponsor: NSF: CPS</h3> <p><strong>Design Science for CPS, collaborative UCI/UCR grant, starting October 2011, 4 years duration, with UCI</strong><br><acronym title="Principal Investigator">PI</acronym> Frank Vahid</p> </li> 
+               <li> <h3>Sponsor: NASA</h3> <p><strong>Dependability Quantification and Assurance of Mission-critical Software Systems, NASA (Subcontract from Jet Propulsion Laboratory), July 2011 - July 2014</strong><br><acronym title="Principal Investigator">PI</acronym> Gianfranco Ciardo</p> </li> 
+               <li> <h3>Sponsor: NSF: IIS</h3> <p><strong>Information Discovery on Domain Data Graphs, September 2008 - August 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Vagelis Hristidis</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>Nearly Linear-Time Algorithms for Mixed Packing and Covering Linear Programs, August 2011 - July 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Neal Young</p> </li> 
+               <li> <h3>Sponsor: NSF: EAGER</h3> <p><strong>Accelerated Filtering of Spatiotemporal Archives Using Reconfigurable Hardware, August 2011 – July 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Vassilis Tsotras and Walid Najjar</p> </li> 
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>Gifts 2011-12</h2> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol> 
+               <li> <h3>Sponsor: LAWRENCE LIVERMORE NATIONAL SECURITY, LLC (LLNL)</h3> <p><strong>GraphWare: Using Graphs to Identifying Malware Traffic on the Internet based on their Community Structure and their Pack-Level Behavioural Characteristics, February 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Michalis Faloutsos</p> </li> 
+               <li> <h3>Sponsor: ISCA Tech</h3> <p><strong>Research on insects, June 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+               <li> <h3>Sponsor: Google Research Award</h3> <p><strong>Model-based Verification for Android Applications, December 2010</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu</p> </li> 
+               <li> <h3>Sponsor: NetApp Faculty Fellowship Award</h3> <p><strong>Storage and Compute Provisioning Informed by Application Characteristics and SLOs, July 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Harsha Madhyastha</p> </li> 
+               <li> <h3>Sponsor: Semiconductor Research Corporation</h3> <p><strong>ASICs for Biomedical Applications, March 2011 - February 2012</strong><br><acronym title="Principal Investigator">PI</acronym> Frank Vahid</p> </li> 
+               <li> <h3>Sponsor: Google Award</h3> <p><strong>Collaborative Adaptive Data Sharing, July 2010</strong><br><acronym title="Principal Investigator">PI</acronym> Vagelis Hristidis</p> </li> 
+               <li> <h3>Sponsor: INTEL</h3> <p><strong>Curriculum Support for Undergraduate Embedded System, April 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Laxmi Bhuyan and Philip Brisk</p> </li> 
+               <li> <h3>Sponsor: Google</h3> <p><strong>CAPTCHAs can Save Lives! Using a Human Computation Android Phone Based Algorithm to Incentivize Positive Behaviors, August 2011</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+               <li> <h3>Sponsor: IBM</h3> <p><strong>Enabling Precision Agriculture: Using IBM InfoSphere Streams to Classify Insects, November 2010</strong><br><acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>New Research Grants 2010-11</h2> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol>
+               <ol> 
+                <li> <h3>Sponsor: NIH</h3> <p><strong>Understanding the role of nucleosomes turnover in the malaria parasite infection, Nov 2010 - Oct 2014</strong><br> <acronym title="Principal Investigator">PI</acronym> K. Le Roch (PI) and Stefano Lonardi(Co-PI)</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>Programmable Monitoring Support for Multicore Systems" Sepember 2010 - September 2013</strong><br> <acronym title="Principal Investigator">PI</acronym> Rajiv Gupta(PI), Iulian Neamtiu (Co-PI)</p> </li> 
+                <li> <h3>Sponsor: DARPA</h3> <p><strong>ProLiFiC: Cyber-Genetic Provenance, Lineage, Forensics and Classification, DARPA-BAA-10-36 Cyber Genome Program, June 2010 - May 2014</strong><br> <acronym title="Principal Investigator">PI</acronym> Stefano Lonardi (PI) with S. Evans(PI), and Co-PIs J. Morrison, E. Keogh, I. Neamtiu</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>System support for generally programmable digital microfluidic biochip devices September 2010 - October 2013</strong><br> <acronym title="Principal Investigator">PI</acronym> Philip Brisk</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>CSR: Small: Collaborative Research: Synthesis of Time-Controllable Digital Mockups of Physical Systems, July 2010 - June 2013</strong><br> <acronym title="Principal Investigator">PI</acronym> Frank Vahid</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>SHF:Small: A hierarchical symbolic framework to verify logic, timing, and probabilistic Properties of computing systems, August 2010 - July 2013</strong><br> <acronym title="Principal Investigator">PI</acronym> Gianfranco Ciardo</p> </li> 
+                <li> <h3>Sponsor: LLNLN</h3> <p><strong>Behavioral Approaches to Traffic Classification: Guilt-by-Association and Polymorphic Blending Detection</strong><br> <acronym title="Principal Investigator">PI</acronym> Michalis Faloutsos</p> </li> 
+                <li> <h3>Sponsor: Narus, gift(Unrestricted)</h3> <p><acronym title="Principal Investigator">PI</acronym> Michalis Faloutsos</p> </li> 
+                <li> <h3>Sponsor: Bill and Melinda Gates Foundation</h3> <p><strong>Classifying Mosquito from a Distance, Applications to Malaria Control</strong><br> <acronym title="Principal Investigator">PI</acronym> Eamonn Keogh</p> </li> 
+                <li> <h3>Sponsor: INTEL, gift</h3> <p><strong>Evaluation of Heterogeneous CMP Architecture</strong><br> <acronym title="Principal Investigator">PI</acronym> Laxmi Bhuyan</p> </li> 
+                <li> <h3>Sponsor: CISCO, gift</h3> <p><strong>Managing WiFi Networks</strong><br> <acronym title="Principal Investigator">PI</acronym> S. Krishnamurthy</p> </li> 
+                <li> <h3>Sponsor: UC Multi-Campus Research Program Initiative - UC-Light</h3> <p><strong>Center for Ubiquitous Communications by Light, January 2010 – December 2014 </strong><br> <acronym title="Principal Investigator">PI</acronym> S. Krishnamurthy</p> </li> 
+                <li> <h3>Sponsor: NSF-NeTS</h3> <p><strong>Harnessing Network Coding Gains in Multi-Rate Wireless Networks,September 2010 – August 2013</strong><br> <acronym title="Principal Investigator">PI</acronym> S. Krishnamurthy,(with T. La Porta of Penn State University)</p> </li> 
+                <li> <h3>Sponsor: Collaborative Technology Alliance CTA: Army Research Laboratories – Part of the Communication Networks Academic Research Center (CNARC) – Sub-award from Penn State University – Quanta</h3> <p><strong>QoI Aware Networks for Tactical Applications, September 2000-2019 (renewable yearly)</strong><br> <acronym title="Principal Investigator">PI</acronym> S. Krishnamurthy</p> </li> 
+                <li> <h3>Sponsor: NSF Medium: Collaborative research</h3> <p><strong>Program Analysis for Smartphone Application Security, April 2011- March 2015</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu with Todd Millstein of UCLA and Jeffrey Foster from UMD.</p> </li> 
+                <li> <h3>Sponsor: Google Research</h3> <p><strong>Model Based Verification for Android Applications, December 2010</strong><br><acronym title="Principal Investigator">PI</acronym> Iulian Neamtiu</p> </li> 
+               </ol>
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>New Research Grants 2009-10</h2> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol>
+               <ol> 
+                <li> <h3>Sponsor: Army Research Office</h3> <p><strong>Network Science Collaborative Technology Alliance (NS CTA) 2009-2014 – renewable for 5 more years</strong><br> <acronym title="Principal Investigator">PI</acronym>:Michalis Faloutsos</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>SHF: Medium: Hardware/Software Partitioning for Hybrid Shared Memory Multiprocessors, 2009-2012</strong><br> <acronym title="Principal Investigator">PI</acronym>:Laxmi Bhuyan, Rajiv Gupta and Walid Najjar</p> </li> 
+                <li> <h3>Sponsor: Dept of Education</h3> <p><strong>GAANN-Computer Science and Engineering Duration: 2009 - 2012</strong><br> <acronym title="Principal Investigator">PI</acronym>:Vassilis Tsotras, Walid Najjar, Eamonn Keogh, Frank Vahid</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>CSR: Small: Core Scheduling to Improve Virtualized I/O Performance on Multi-Core Systems, 2009-2012</strong><br> <acronym title="Principal Investigator">PI</acronym>:Laxmi Bhuyan</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>Collaborative Research: ASTERIX: A Highly Scalable Parallel Platform for Semistructured Data Management and Analysis, 2009 - 2012 </strong><br> <acronym title="Principal Investigator">PI</acronym>: Vassilis Tsotras</p> </li> 
+                <li> <h3>Sponsor: NIH</h3> <p><strong>Nuclear Receptor Networks in Human Disease, 2009 - 2011</strong><br> <acronym title="Principal Investigator">PI</acronym>: Tao Jiang</p> </li> 
+                <li> <h3>Sponsor: NIH</h3> <p><strong>Multi-Point and Multi-Locus Analysis of Genomic Data, 2009 - 2011</strong><br> <acronym title="Principal Investigator">PI</acronym>: Tao Jiang</p> </li> 
+                <li> <h3>Sponsor: USDA</h3> <p><strong>Barley Genome Project, 2009-2011</strong><br> <acronym title="Principal Investigator">PI</acronym>: Stefano Lonardi</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>Collaborative Research: Integrating Time-Oriented Embedded System Programming into a Computing Curriculum, 2009-2011</strong><br> <acronym title="Principal Investigator">PI</acronym>:Frank Vahid</p> </li> 
+                <li> <h3>Sponsor: INTEL</h3> <p><strong>CPU+NIC Architectures for I/O Processing, 2009-2010</strong><br> <acronym title="Principal Investigator">PI</acronym>:Laxmi Bhuyan</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>Travel Support for U.S.-Based Graduate Students to Attend the 26th IEEE International Conference on Data Engineering (ICDE 2010), 2009 -2010</strong><br> <acronym title="Principal Investigator">PI</acronym>:Vassilis Tsotras</p> </li> 
+                <li> <h3>Sponsor: NSF</h3> <p><strong>Modular CS1 from the Inside Out: Computational Thinking for all STEM Students, 2009 -2012</strong><br> <acronym title="Principal Investigator">PI</acronym>:Christian Shelton</p> </li> 
+               </ol>
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol> 
+      <p>&nbsp;</p> 
+      <h2>New Research Grants 2008-09</h2> 
+      <p>The Computer Science and Engineering faculty have received $3.6M of new funding this year to carry out research. Most of the funding came from the prestigious National Science Foundation (NSF), where the proposals are reviewed by a panel of experts and the award process is extremely competitive.</p> 
+      <ol>
+       <ol>
+        <ol>
+         <ol>
+          <ol>
+           <ol>
+            <ol>
+             <ol>
+              <ol> 
+               <li> <h3>NSF III-CXT-Large:</h3> <p><strong>Collaborative Research: Interactive and intelligent searching of biological images by query and network navigation with learning capabilities</strong><br> <acronym title="Principal Investigator">PI</acronym>: Eamonn Keogh, Co-PIs: Michalis Faloutsos, Paul Delay (UCR dept Nematology), James G. Baldwin (UCR dept Nematology), Amit K. Roy Chowdhury (EE)</p> </li> 
+               <li> <h3>NSF III-Cor:</h3> <p><strong>Tools to Mine and Index Trajectories of Physical Artifacts</strong><br> <acronym title="Principal Investigator">PI</acronym>: E. Keogh, Co-PI’s: Vassilis Tsotras, Dimitrios Gunopulos, Sang-Hee Lee (UCR anthropology)</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>NEDG: Application Oriented Edge Routers</strong><br> <acronym title="Principal Investigator">PI</acronym>: Laxmi Bhuyan</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>Virtualization-Aware Architectures to Accelerate Network I/O Processing</strong><br> <acronym title="Principal Investigator">PI</acronym>: Laxmi Bhuyan</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>A Graph-Based Approach to Traffic Monitoring and Application Classification</strong><br> <acronym title="Principal Investigator">PI</acronym>: Michalis Faloutsos</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>Hardware Support for FPGA-based Code Acceleration</strong><br> <acronym title="Principal Investigator">PI</acronym>: Walid Najjar</p> </li> 
+               <li> <h3>Sponsor: Cisco</h3> <p><strong>FPGA Acceleration of XML Query Processing</strong><br> <acronym title="Principal Investigator">PI</acronym>: Walid Najjar, Co-PI: Vassilis Tsotras</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>I-BLOCK: Understanding and Filtering of Malicious IP Traffic</strong><br> <acronym title="Principal Investigator">PI</acronym>: Athina Markopoulou (UCI), Co-PI: Michalis Faloutsos (UCR)</p> </li> 
+               <li> <h3>Sponsor: Matrixware, Vienna, Austria</h3> <p><strong>IR-Application Speed-up with dynamically Reconfigurable FPGA</strong><br> <acronym title="Principal Investigator">PI</acronym>: Walid Najjar</p> </li> 
+               <li> <h3>Sponsor: NSF</h3> <p><strong>Symbolic computation of bounds on timing and probabilistic properties of computing systems</strong><br> <acronym title="Principal Investigator">PI</acronym>: Gianfranco Ciardo</p> </li> 
+               <li> <h3>Sponsor: INTEL</h3> <p><strong>CPU+NIC Architectures to Accelerate I/O Processing</strong><br> <acronym title="Principal Investigator">PI</acronym>: Laxmi Bhuyan</p> </li> 
+               <li> <h3>Sponsor: CISCO</h3> <p><strong>How Well Can We Detect VoIP and Video Traffic?</strong><br> <acronym title="Principal Investigator">PI</acronym>: Michalis Faloutsos</p> </li> 
+               <li> <h3>Sponsor: USDA CSREES Proposal #2008-02162</h3> <p><strong>GS-5 Certified: Increasing Soil Science Educational Opportunities Online for Undergraduate Students and USDA Employees </strong><br> <acronym title="Principal Investigator">PI</acronym>: Heather Smith, Co-PI: Victor Zordan</p> </li> 
+               <li> <h3>Sponsor: NIH</h3> <p><strong>Identifying microorganisms involved in human health and disease processes</strong><br> <acronym title="Principal Investigator">PI</acronym>: J. Borneman, Co-PIs: Marek Chrobak, Tao Jiang, Daniel Jeske, Xinping Cui, Jonathan Braun (UCLA)</p> </li> 
+              </ol>
+             </ol>
+            </ol>
+           </ol>
+          </ol>
+         </ol>
+        </ol>
+       </ol>
+      </ol>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Department of Computer Science and Engineering</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br><br> Tel: (951) 827-5639<br> Fax: (951) 827-4643<br></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="" "http:="" www.ucr.edu"="">UC Riverside</a></li> 
+       <li><a href="" "http:="" www.engr.ucr.edu"="">Bourns College of Engineering</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2013 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01003&amp;site=cse&amp;path=%2Fresearch%2Fgrants%2Findex.html">Last modified: 2013-Oct-04</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

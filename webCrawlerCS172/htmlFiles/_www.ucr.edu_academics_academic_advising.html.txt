@@ -1,0 +1,265 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Academics at UCR: Undergraduate Academic Advising</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <!--[if IE]><![endif]--> 
+  <meta http-equiv="last-modified" content="2011-07-20"> 
+  <meta name="version" content="2.67 2.160 "> 
+  <!-- 02/09/15 12:07:55 02/09/15 13:05:10 --> 
+  <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
+  <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/academics/css/local.css" media="all"> 
+  <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
+  <script type="text/javascript" src="/min/g=js2"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Today via RSS" href="http://ucrtoday.ucr.edu/feed"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="//www.ucr.edu/academics/" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+  </div> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
+   <h1><a href="http://www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+       <li><a href="https://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="https://www.ucr.edu/search.php">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+     </form> 
+     <script type="text/javascript" src="//www.ucr.edu/js/watermark.js"></script> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="nav_main"> 
+   <h2 class="accessibility">Campuswide Navigation</h2> 
+   <ul>
+    <li><a id="nav_main_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+    <li><a id="nav_main_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+    <li><a class="active" id="nav_main_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+    <li><a id="nav_main_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+    <li><a id="nav_main_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+    <li><a id="nav_main_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+    <li><a id="nav_main_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+    <li><a id="nav_main_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+   </ul> 
+  </div> 
+  <div id="nav_audience"> 
+   <h2 class="accessibility">Audience Navigation</h2> 
+   <ul>
+    <li><a id="nav_audience_future" href="http://www.ucr.edu/future/" title="For Prospective Students"><span>Prospective Students</span></a></li>
+    <li><a id="nav_audience_students" href="http://www.ucr.edu/students/" title="For Current Students"><span>Current Students</span></a></li>
+    <li><a id="nav_audience_parents" href="http://www.ucr.edu/parents/" title="For Parents"><span>Parents</span></a></li>
+    <li><a id="nav_audience_faculty" href="http://www.ucr.edu/faculty/" title="For Faculty"><span>Faculty</span></a></li>
+    <li><a id="nav_audience_staff" href="http://www.ucr.edu/staff/" title="For Staff"><span>Staff</span></a></li>
+    <li><a id="nav_audience_alumni" href="http://www.ucr.edu/alumni/" title="For Alumni"><span>Alumni</span></a></li>
+    <li><a id="nav_audience_friends" href="http://www.ucr.edu/friends/" title="For Friends"><span>Friends</span></a></li>
+    <li><a id="nav_audience_industry" href="http://www.ucr.edu/industry/" title="For Industry"><span>Industry</span></a></li>
+    <li><a id="nav_audience_media" href="http://www.ucr.edu/media/" title="For Media"><span>Media</span></a></li>
+   </ul> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!--[if lte IE 6]>
+<div class="pagewrapper">
+	<div style="margin-bottom: 1.5em;">
+		<h5 style="color: #b00; margin: .5em 15em 0">You appear to be using an outdated version of Internet Explorer. We are sorry, but your browser is no longer
+			supported. Please upgrade to a modern browser:</h5>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://getfirefox.com" class="external" title="external site: Mozilla Foundation">Firefox</a></li>
+				<li><a href="http://www.opera.com/browser/" class="external" title="external site: Opera Software">Opera</a></li>
+			</ul>
+		</div>
+		<div class="column49">
+			<ul class="tight">
+				<li><a href="http://www.microsoft.com/windows/internet-explorer/" class="external" title="external site: Microsoft">Internet Explorer 8</a></li>
+				<li><a href="http://www.apple.com/safari/" class="external" title="external site: Apple Inc.">Safari</a></li>
+			</ul>
+		</div>
+		<div class="column49R">
+			<ul class="tight">
+				<li><a href="http://www.google.com/chrome" class="external" title="external site: Google">Google Chrome</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<![endif]--> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="//www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="//www.ucr.edu/academics/">Academics at UCR</a> &gt;</li> 
+    <li class="lastitem">Undergraduate Academic Advising</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2 class="long">Undergraduate Academic Advising</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/academics/" title="Academics Home">Academics Home<br><span>The backbone of the educational process</span></a></li>
+       <li><a href="/academics/colleges.html" title="Colleges, Divisions, and Schools">Colleges, Divisions, and Schools<br><span>The big picture of education at UCR</span></a></li>
+       <li><a href="/academics/undergradmajors.html" title="Undergraduate Programs">Undergraduate Programs<br><span>Start your academic career here</span></a></li>
+       <li><a href="/academics/gradprograms.html" title="Graduate Programs">Graduate Programs<br><span>Take your education to the next level</span></a></li>
+       <li><a href="http://www.extension.ucr.edu/" title="UCR Extension">UCR Extension<br><span>Continue the learning experience</span></a></li>
+       <li><a href="http://summer.ucr.edu/" title="Summer Sessions">Summer Sessions<br><span>Get ahead in your education</span></a></li>
+       <li><a href="/academics/resources.html" title="Student Resources">Student Resources<br><span>Tools and information you need</span></a>
+        <ul>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Undergraduate Academic Advising</h3></li>
+        </ul></li> 
+      </ul> 
+     </div> 
+     <p> <a class="img_link" href="/dept.html" id="depts_button"> <span class="accessibility">Departments A to Z</span></a> </p> 
+     <p><a id="ir_button" class="img_link" href="/international/"><span class="accessibility">International Resources.</span></a></p> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy.css" cssmenu="" width="790" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+     <!-- com.omniupdate.editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <p><img src="/academics/images/main/academic_advising.jpg" alt="Advisor and student. " width="484" height="180"> </p>
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="484" -->
+     <h3>Get the Advice You Need</h3> 
+     <ul class="striped alt2"> 
+      <li><strong><a href="http://undergradbusiness.ucr.edu/undergraduate_advising/">Business Administration Advising</a></strong><br>All students entering either the business preparatory or business administration major are advised by the undergraduate academic advisers. The business administration program is unique in that it manages department and college approvals for major-changes, petitions, academic action, articulation, transfer courses, readmission decisions, preliminary and final degree checks for undergraduate students in the business major. Advisers work with students from the time they enter the program through graduation.</li> 
+      <li><strong><a href="http://student.engr.ucr.edu/">College of Engineering Student Affairs</a></strong><br>Academic Advisors assist in all department-level and college-level advising services, including: 
+       <ul> 
+        <li>Assessing academic qualifications and progress.</li> 
+        <li>Assist students with quarterly and annual course planning, registration details, enrollment questions, and prerequisite satisfaction.</li> 
+        <li>Counsel prospective students on academic requirements necessary to enter the College's programs.</li> 
+        <li>Refer students to campus services and resources, as appropriate.</li> 
+        <li>Review candidates' eligibility for readmission, special admission, major change, double majors, and minors.</li> 
+        <li>Evaluate and advise students in academic difficulty. Act on student petitions for exceptions to College and/or department requirements.</li> 
+        <li>Review student degree progress toward graduation. Advise students of discrepancies discovered in these reviews.</li> 
+       </ul> </li> 
+      <li><strong><a href="http://chassstudentaffairs.ucr.edu/">College of Humanities, Arts, &amp; Social Sciences Student Affairs</a></strong><br>Information including details on the 51 majors in CHASS, breadth requirements, dates and deadlines and transferable courses.</li> 
+      <li><strong><a href="http://www.cnasstudent.ucr.edu/">College of Natural &amp; Agricultural Sciences Student Academic Affairs</a></strong><br>Provides a variety of services to help guide CNAS students to the resources they need to successfully complete their educational objectives. Services include: 
+       <ul> 
+        <li>Mandatory, academic advising every quarter to all CNAS undeclared undergraduate students.</li> 
+        <li>Advising and required processing of student requests.</li> 
+        <li>Certifying that baccalaureate degree requirements have been met for all CNAS graduating seniors.</li> 
+       </ul> </li> 
+      <li><strong><a href="http://chassstudentaffairs.ucr.edu/pre-business_program/index.html">Pre-Business Student Affairs</a></strong><br>Though part of the CHASS Advising program, Pre-Business specializes in working with students who seeking the Bachelor of Science degree in Business Administration.</li> 
+      <li><strong><a href="http://www.smi.ucr.edu/">Science/Mathematics Initiative (Pre-Teach Advising)</a></strong><br>To facilitate in the advising of students toward completing a Bachelor's degree in science, mathematics, or engineering along with the possibility of establishing eligibility towards entrance into an intern teaching credential program</li> 
+      <li><strong><a href="http://chassstudentaffairs.ucr.edu/undeclared_program/index.html">Undeclared CHASS Student Affairs</a></strong><br>Undeclared students are advised in the College of Humanities, Arts, and Social Sciences, Student Academic Affairs.</li> 
+     </ul>
+     <!-- /com.omniupdate.div --> 
+     <!-- com.omniupdate.efp -->
+     <!-- /com.omniupdate.efp --> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links footer-links"> 
+       <li><a href="http://library.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Flibrary.ucr.edu%2F');">UCR Library</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstatus.ucr.edu%2F');">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fcampusstore.ucr.edu%2F');">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Femployment.html');">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fdiversity.ucr.edu%2F');">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
+      </ul> 
+      <!-- Generated in 0.029624 seconds using 768 KiB of memory. --> 
+     </div> 
+     <div class="column49"> 
+      <h3>Additional Information</h3> 
+      <address><strong><a href="http://registrar.ucr.edu/">Registrar's Office (Undergraduate)</a></strong><br> <a href="http://www.campusmap.ucr.edu/?loc=SSB" title="Campus Map">2249 Student Services Building</a><br> Tel: (951) 827-7284<br><br> <strong><a href="http://www.graduate.ucr.edu/">Graduate Division</a></strong><br> <a href="http://campusmap.ucr.edu/?loc=UOB" title="Campus Map">Univ. Office Building, Room 141</a><br> Tel: (951) 827-3313<br><br> <strong><a href="http://extension.ucr.edu/">UCR Extension</a></strong><br> <a href="http://www.campusmap.ucr.edu/?loc=UCREX" title="Campus Map">UNEX, First Floor</a><br> Tel: (951) 827-4105</address> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiverside" title="external site: Facebook">Visit UCR's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRiverside" title="external site: Twitter">Follow UCR on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://ucrtoday.ucr.edu/feed">Subscribe to UCR Today via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/about/rankingsandfacts.html">UCR Rankings</a></li> 
+       <li><a href="http://finaid.ucr.edu/">Financial Aid</a></li> 
+       <li><a href="http://housing.ucr.edu/">Housing</a></li> 
+       <li><a href="http://registrar.ucr.edu/">Registrar’s Office</a></li> 
+       <li><a href="http://classes.ucr.edu/">Schedule of Classes</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>UCR Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="//www.ucr.edu/academics/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01189&amp;site=academics&amp;path=%2Facademic_advising.html">Last modified: 2011-Jul-20</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.048428 seconds using 1.50 MiB of memory. -->   
+ </body>
+</html>
