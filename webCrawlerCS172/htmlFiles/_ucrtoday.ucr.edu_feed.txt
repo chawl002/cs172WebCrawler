@@ -11,7 +11,7 @@
      UC Riverside News and Happenings
     </description> 
     <lastbuilddate>
-     Mon, 09 Feb 2015 17:35:14 +0000
+     Mon, 09 Feb 2015 22:26:54 +0000
     </lastbuilddate> 
     <language>
      en-US
@@ -83,7 +83,7 @@
       http://ucrtoday.ucr.edu/?p=27086
      </guid> 
      <description>
-      RIVERSIDE, Calif. — More than 300 K-12 students from 30 schools in the Riverside Unified School District (RUSD) will present their science and engineering projects to the community this week at the University of California, Riverside. The students will participate &amp;#8230; &lt;a href="http://ucrtoday.ucr.edu/27086"&gt;Continue reading &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;
+      Tomorrow at UC Riverside, K-12 students will present at the Science and Engineering Fair their projects on topics ranging from understanding the relationship between exercise and memory, to the temperature of color, to whether potting soil is worth the cost.
      </description> 
      <wfw:commentrss>
       http://ucrtoday.ucr.edu/27086/feed

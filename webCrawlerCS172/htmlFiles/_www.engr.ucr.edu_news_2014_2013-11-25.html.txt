@@ -4,7 +4,7 @@
   <title>Bourns College of Engineering: BCOE student leaders participate in 2014 MESA conference</title> 
   <meta http-equiv="last-modified" content="2014-11-25"> 
   <meta name="version" content="2.62 2.123 "> 
-  <!-- 02/09/15 13:05:01 02/09/15 13:05:01 --> 
+  <!-- 02/09/15 18:49:25 02/09/15 18:49:25 --> 
   <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
@@ -242,6 +242,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.003767 seconds using 1.25 MiB of memory. -->   
+  <!-- Generated in 0.003837 seconds using 1.25 MiB of memory. -->   
  </body>
 </html>

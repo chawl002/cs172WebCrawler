@@ -147,7 +147,7 @@ pageTracker._trackPageview();
      <div id="omnicontent"> 
       <!-- com.omniupdate.div label="home-image" group="Everyone" button="657" -->
       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
-      <img src="/images/frontpage/cse_frontpage03.jpg" alt="" height="144" width="700"> 
+      <img src="/images/frontpage/UCR-EBUIIcrop.jpg" alt="" height="144" width="700"> 
       <p> 
        <!-- <img alt="Banner" height="141" src="/images/design6/sample-banner.gif" mce_src="/images/design6/sample-banner.gif" width="484" /> --> </p>
       <!-- /com.omniupdate.div --> 

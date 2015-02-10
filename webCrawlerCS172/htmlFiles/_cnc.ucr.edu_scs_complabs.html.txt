@@ -1,0 +1,217 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>Student Computing Services: Computer Labs</title> 
+  <meta http-equiv="last-modified" content="2015-01-08"> 
+  <meta name="version" content="2.60 2.122 "> 
+  <!-- 02/09/15 17:49:58 02/09/15 18:47:14 --> 
+  <!--link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-narrow" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="//www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/cncmod.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="//cnc.ucr.edu/css/cncmod.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/scs/css/local.css" media="all"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript" src="/highslide/highslide-full.packed.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css"> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://cnc.ucr.edu/scs" accesskey="1" title="Home Page">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/scs/images/masthead.jpg);"> 
+   <h1><a href="http://cnc.ucr.edu/scs"><span class="printonly">Student Computing Services</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="accessibility">You are here:</p> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/">Computing &amp; Communications</a> &gt;</li> 
+    <li><a href="http://cnc.ucr.edu/scs">Student Computing Services</a> &gt;</li> 
+    <li class="lastitem">Computer Labs</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Computer Labs</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/scs/" title="Home">Home<br><span></span></a></li>
+       <li class="nav_inline_last"><h3>Student Computing Services</h3>
+        <ul>
+         <li><a href="/scs/mission.html" title="Mission Statement">Mission Statement</a></li>
+         <li>&nbsp;| <a href="/scs/scshelpdesk.html" title="Student Help Desk">Student Help Desk</a></li>
+         <li>&nbsp;| <a href="/scs/hiringsched.html" title="Employment Opportunities at C&amp;C">Employment Opportunities at C&amp;C</a></li>
+        </ul></li>
+       <li><a href="/scs/services.html" title="Services for Students">Services for Students</a></li>
+       <li><a href="/rmail/" title="R'Mail">R'Mail</a></li>
+       <li><a href="/scs/office365.html" title="Free Office 365 Pro Plus - Student Advantage">Free Office 365 Pro Plus - Student Advantage</a></li>
+       <li><a href="/scs/growl.html" title="Growl">Growl</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Computer Labs</h3>
+        <ul>
+         <li><a href="/scs/artsn.html" title="Arts">Arts</a></li>
+         <li><a href="/scs/ints4146.html" title="Arts INTS 4146">Arts INTS 4146</a></li>
+         <li><a href="/scs/sprouln.html" title="Sproul">Sproul</a></li>
+         <li><a href="/scs/statsn.html" title="Statistics">Statistics</a></li>
+         <li><a href="/scs/wat2101n.html" title="Watkins 2101">Watkins 2101</a></li>
+         <li><a href="/scs/wat2111.html" title="Watkins 2111">Watkins 2111</a></li>
+         <li><a href="/scs/wat2117n.html" title="Watkins 2117">Watkins 2117</a></li>
+         <li><a href="/scs/nonpubliclabs.html" title="Non public Labs">Non public Labs</a></li>
+         <li><a href="/scs/laptop_checkout.html" title="Laptop Checkouts">Laptop Checkouts</a></li>
+         <li><a href="/scs/vacationhours.html" title="Facility Hours">Facility Hours</a></li>
+         <li><a href="/scs/labequipment.html" title="Lab Equipment">Lab Equipment</a></li>
+         <li><a href="/scs/labsoftware.html" title="Lab Software">Lab Software</a></li>
+         <li><a href="/scs/labpolicies.html" title="Policies">Policies</a></li>
+         <li><a href="/scs/labprinting.html" title="Printing">Printing</a></li>
+        </ul></li>
+       <li><a href="/scs/bearhelp.html" title="Bear Help Student Help Desk">Bear Help Student Help Desk</a></li>
+       <li><a href="/scs/webprint.html" title="WebPrint @ HUB">WebPrint @ HUB</a></li>
+       <li><a href="/scs/kiosks.html" title="Kiosks">Kiosks</a></li>
+       <li><a href="/scs/faqnetid.html" title="UCR NetID">UCR NetID</a></li>
+       <li><a href="/scs/rsites.html" title="Google Sites">Google Sites</a></li>
+       <li><a href="/scs/rdrive.html" title="Google Drive">Google Drive</a></li>
+       <li><a href="/scs/residential_networking.html" title="Residence Hall Networking">Residence Hall Networking</a></li>
+       <li><a href="/scs/owncomp.html" title="Owning a Computer">Owning a Computer</a></li> 
+      </ul> 
+     </div> 
+     <a class="img_link" href="http://cnc.ucr.edu/ilearn/"><img src="http://cnc.ucr.edu/scs/images/button_ilearn.jpg"></a> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <p><img src="/scs/images/COMPLABS.jpg" alt="computer labs" width="484" height="170"></p> 
+     <h3>UCR Campus Computer Labs</h3> 
+     <p>SCS maintains seven public computer labs featuring approximately 170 computers available for academic use by all UCR students, with open hours of approximately 160 hours per week. Whether you prefer to work on a PC or a Macintosh, just need to type a Word document or need to edit a film project in Final Cut Pro, the student computer labs are here to support you.</p> 
+     <p>To login to the SCS computer labs, use your UCR Net ID and password.</p> 
+     <h4>Who May Use the SCS Labs</h4> 
+     <ul> 
+      <li><strong>All registered UCR students</strong>.</li> 
+      <li><strong>UCR Faculty</strong> - Faculty instructing a course may <a href="/scs/reslabreq.html">reserve our facilities for instructional use</a> or <a href="/scs/ressoftreq.html">request to have software installed</a> on our machines. However, they will need to obtain a Guest Account (please email the <a href="mailto:phyllis.franco@ucr.edu">SCS manager</a>).</li> 
+      <li><strong>UCR Alumni Association Members </strong> may use the SCS computing facilities in Sproul Hall 2225, Olmsted Hall 1316, and Watkins Hall 2101, 2111, and 2117 if they obtain an Alumni Account. To obtain an account, please use one of our kiosks.</li> 
+      <li><strong>Concurrently Enrolled Extension Students </strong> are eligible to use the SCS computing facilities in Sproul Hall 2225, Olmsted Hall 1316, and Watkins Hall 2101, 2111, and 2117 once they obtain an Extension Account. To obtain an account, please use one of our kiosks .</li> 
+      <li><strong>Students, faculty, and staff from other UC campuses</strong> are generally NOT permitted to use the facilities. However, for access to the Internet and email, they may use the computers in the Libraries.</li> 
+     </ul> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Student Computing Services</strong><br> <a href="http://www.campusmap.ucr.edu/campusMap.php?loc=WAT" title="Campus Map">2103 Watkins Hall</a><br><br> Tel: (951) 827-6495<br> Fax: (951) 827-2726<br>E-mail: <a href="mailto:helpdesk@student.ucr.edu?subject=SCS Web Site Inquiry">helpdesk@student.ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://rmail.ucr.edu">R'mail</a></li> 
+       <li><a href="http://ilearn.ucr.edu">iLearn Learning Management</a></li> 
+       <li><a href="http://growl.ucr.edu">GROWL</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://cnc.ucr.edu/scssendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=ORG21&amp;site=cnc&amp;path=%2Fscs%2Fcomplabs.html">Last modified: 2015-Jan-08</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+  <!-- Generated in 0.088524 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

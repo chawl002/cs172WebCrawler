@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="content-type" content="text/xhtml; charset=UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <link rel="shortcut icon" href="../../assets/ico/favicon.ico"> 
+  <title>UCR ARTSblock</title> 
+  <link media="all" type="text/css" rel="stylesheet" href="http://artsblock.ucr.edu/lib/bootstrap/3.2.0/bootstrap.min.css"> 
+  <link media="all" type="text/css" rel="stylesheet" href="http://artsblock.ucr.edu/lib/lightbox/2/lightbox.css"> 
+  <link media="all" type="text/css" rel="stylesheet" href="http://artsblock.ucr.edu/artsblock.css"> 
+ </head> 
+ <body> 
+  <div class="container"> 
+   <div class="header"> 
+    <a href="/"><img src="http://artsblock.ucr.edu/images/logo-main.png"></a> 
+    <ul class="nav nav-pills pull-right"> 
+     <li class="dropdown"><a href="/Page/about/">About <span class="caret"></span></a> 
+      <ul class="dropdown-menu"> 
+       <li><a href="/Page/about/">About</a></li> 
+       <li><a href="/Page/hours-and-directions/">Hours &amp; Directions</a></li> 
+       <li><a href="/Page/about/">Mission &amp; Facility</a></li> 
+       <li><a href="/Page/facility-rental/">Facility Rental</a></li> 
+       <li><a href="/Page/podcasts/">Podcasts</a></li> 
+       <li><a href="/Page/contact/">Contact Us</a></li> 
+      </ul> </li> 
+     <li><a href="/Page/california-museum-of-photography">CMP</a></li> 
+     <li><a href="/Page/sweeney-art-gallery">Sweeney</a></li> 
+     <li><a href="/Page/culver-center-of-the-arts">Culver</a></li> 
+     <li class="dropdown"><a href="/CampusConnections">CampusConnections<span class="caret"></span></a> 
+      <ul class="dropdown-menu"> 
+       <li><a href="/CampusConnections">CampusConnections</a></li> 
+       <li><a href="/Page/Proposal-Guide-for-UCR">Proposal Guidelines for UCR</a></li> 
+       <li><a href="//artsblock.ucr.edu/links/UCR%20ARTSblock%20Guidelines%20for%20Film%20Screenings%20Proposed%20by%20Faculty%20and%20Students.pdf" target="_blank">Film Proposal Guidelines</a></li> 
+       <li><a href="//artsblock.ucr.edu/links/ARTSblockPresentationLocations.pdf" target="_blank">ARTSblock Presentation Locations</a></li> 
+       <!--<li><a href="/Page/carl-residency/">CARL Residency</a></li>--> 
+      </ul> </li> 
+     <li><a href="https://advancementservices.ucr.edu/AdvanceOnlineGiving/Search?key=col%3AUCR%20Arts%20Block" target="_blank">Support</a></li> 
+    </ul> 
+   </div> 
+   <div class="content"> 
+    <div class="left-column-outer"> 
+     <div class="left-column-inner"> 
+      <div class="Page" id="cmp"> 
+       <div id="category-nav"> 
+        <ul> 
+         <li class="col-md-3 exhibitions"><a href="/Exhibition">Exhibitions</a></li> 
+         <li class="col-md-3 films"><a href="/Film">Films</a></li> 
+         <li class="col-md-3 performances"><a href="/Performance">Performances</a></li> 
+         <li class="col-md-3 programs"><a href="/Program">Programs</a></li> 
+        </ul> 
+       </div> 
+       <div class="color-bar"></div> 
+       <img src="//artsblock.ucr.edu/images/title-cmp.jpg"> 
+       <div id="gallery">
+        <img src="http://artsblock.ucr.edu/images/615/cmp.jpg" class="large">
+       </div> 
+       <div id="content-detail"> 
+        <h1>UCR/California Museum of Photography</h1> 
+        <br>
+        <br> 
+        <p>UCR/California Museum of Photography, a facility of ARTSblock, provides a cultural presence, educational resource, community center and intellectual meeting ground for the university and the general public. The museum's explorations of photographic media through exhibition, collection, publication, and the web examine the history of photography and showcase current practice in photography and related media. To serve an audience that is multicultural, young and old, general and specialized, the museum presents programs that recognize the variety and complexity of cultural experience and explore the relationship between traditional expression and contemporary practice. The museum is vitally concerned with the intersection of photography, new imaging media, and society. Located off campus in downtown Riverside, UCR/CMP is committed to bringing the most challenging art to the widest possible audience. <br><br> UCR students from across the university are involved in every aspect of the museum's program from curatorial research through collections management to exhibition installation and administration. CMP and the other ARTSblock's entities offer many opportunities for professional museum work and students are involved under the aegis of independent course status, internships, work-study, and as volunteers. Still other students utilize CMP as a library-like resource or as a site for art production and experimentation. <br><br> You have reached this page during a time of renovation and reconstruction of the web site. Some of the older links may continue to work during this time but are not guaranteed. If you need more detailed information regarding the CMP collections please contact the Curator of Collections at cmpcollections@ucr.edu.</p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- Sidebar --> 
+    <div class="right-column"> 
+     <form id="search-form" method="post" action="/Search"> 
+      <input type="text" name="q" size="23" value=""> 
+      <input type="submit" class="search-go" name="search" value=""> 
+     </form> 
+     <div class="infocus"> 
+      <h2 id="title">Events in Focus</h2> 
+      <ul> 
+       <li class="Exhibition"> <a href="/Exhibition/But-Not-Forgotten" style="line-height:1.5em">But Not Forgotten <h4 style="color:white; font-size:12px; font-weight: lighter; line-height: 1.2em">Selections from the Steve and Mary DeGenaro Postmortem and Memorial Photography Collection</h4> </a> </li> 
+       <li class="Film"> <a href="/Film/Dear White People" style="line-height:1.5em">Dear White People <h4 style="color:white; font-size:12px; font-weight: lighter; line-height: 1.2em"></h4> <h4 style="color:white; font-size:12px; font-weight: lighter; line-height: 1.2em">Director: Justin Simien</h4> </a> </li> 
+       <li class="Performance"> <a href="/Performance/26-Miles" style="line-height:1.5em">26 Miles by Quiara Alegria Hudes <h4 style="color:white; font-size:12px; font-weight: lighter; line-height: 1.2em"></h4> </a> </li> 
+       <li class="Program"> <a href="/Program/schneider-screening" style="line-height:1.5em">Schneider Screening <h4 style="color:white; font-size:12px; font-weight: lighter; line-height: 1.2em">Reading Women</h4> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footer"> 
+    <p class="bottom-links"> © 2014 UCR ARTSblock | (951) 827-4787 | <a target="_blank" href="https://www.ucr.edu/privacy.html">Privacy Policy</a> | <a href="/Page/contact/">Contact</a> | <a href="mailto:artsblock@ucr.edu?Subject=RECEIVE%20NEWSLETTER%20REQUEST%20(From%20Website)&amp;Body=Name:%20">Newsletter Signup</a> <br><br> 
+     <!-- Social Media Icons --> <a href="http://www.youtube.com/ucrartsblock" target="_blank"><img src="http://artsblock.ucr.edu/images/logo_youtube.png" height="20" style="margin-right: 3px;"></a> <a href="http://www.twitter.com/ucrartsblock" target="_blank"><img src="http://artsblock.ucr.edu/images/logo_twitter.png" height="20" style="margin-right: 3px;"></a> <a href="http://www.facebook.com/ucrartsblock" target="_blank"><img src="http://artsblock.ucr.edu/images/logo_facebook.png" height="20" style="margin-right: 3px;"></a> </p> 
+   </div> 
+  </div> 
+  <!-- /container --> 
+  <!-- Bootstrap core JavaScript
+    ================================================== --> 
+  <!-- Placed at the end of the document so the pages load faster --> 
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-998196-3']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script> 
+  <script src="http://artsblock.ucr.edu/lib/jquery-2.1.1.min.js"></script> 
+  <script src="http://artsblock.ucr.edu/lib/bootstrap/3.2.0/bootstrap.min.js"></script> 
+  <script src="http://artsblock.ucr.edu/lib/imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script> 
+  <script src="http://artsblock.ucr.edu/lib/masonry/3.1.5/masonry.pkgd.min.js"></script> 
+  <script src="http://artsblock.ucr.edu/lib/lightbox/2/lightbox.js"></script> 
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+  <script>
+  $(function() {
+      $(".dropdown").hover(
+          function(){ $(this).addClass('open') },
+          function(){ $(this).removeClass('open') }
+      );
+  });
+
+  $("img").error(function () { 
+      $(this).hide();
+      // or $(this).css({visibility:"hidden"}); 
+  });
+
+  $('.masonry').imagesLoaded( function() {
+    $('.masonry').masonry({
+      columnWidth: 160,
+      itemSelector: '.item'
+    });  
+  })
+
+</script>   
+ </body>
+</html>

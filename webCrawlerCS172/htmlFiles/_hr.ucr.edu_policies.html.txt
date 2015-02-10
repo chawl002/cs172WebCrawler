@@ -4,7 +4,7 @@
   <title>Human Resources: Policies &amp; Contracts</title> 
   <meta http-equiv="last-modified" content="2014-10-01"> 
   <meta name="version" content="2.45 2.62 "> 
-  <!-- 02/09/15 13:05:11 02/09/15 13:05:17 --> 
+  <!-- 02/09/15 18:43:21 02/09/15 18:46:59 --> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-medblue-wide" media="all"> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
   <link type="text/css" rel="stylesheet" href="/css/local.css" media="all"> 
@@ -35,7 +35,7 @@
    </ul> 
    <hr> 
    <div id="brandingbar"> 
-    <img class="overlay" src="/images/overlays/masthead_tower.png" alt=""> 
+    <img class="overlay" src="/images/overlays/masthead_agsm.png" alt=""> 
     <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt="University of California, Riverside" title="UCR Home page"></a></h2> 
    </div> 
   </div> 
@@ -208,6 +208,6 @@ Tel: (951) 827-2336--><br> Fax: (951) 827-2192
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.033503 seconds using 2.00 MiB of memory. -->   
+  <!-- Generated in 0.046715 seconds using 2.00 MiB of memory. -->   
  </body>
 </html>

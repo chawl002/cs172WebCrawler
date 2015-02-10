@@ -1,0 +1,616 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Home: UCR Extension</title> 
+  <meta name="version" content="2.62 2.116 "> 
+  <!-- 02/09/15 18:32:04 02/09/15 18:32:04 --> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
+  <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" /--> 
+  <link type="text/css" rel="stylesheet" href="http://www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/fonts.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/home.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/enroll/css/olr_cartbar.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="/css/nav2013.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/min/g=js-sifr"></script> 
+  <!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" />
+	<script defer type="text/javascript" src="http://www.ucr.edu/min/f=pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="/enroll/css/olr_cartbar_ie7.css" media="all" />
+	<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]--> 
+  <!-- let's attempt to override the UCR favicon with our own. //--> 
+  <link rel="icon" type="ICO" href="/favicon.ico"> 
+  <!-- jQuery style sheets --> 
+  <link rel="stylesheet" type="text/css" href="/jquery/css/themes/olr2/jquery-ui-1.7.2.custom.css"> 
+  <link rel="stylesheet" type="text/css" href="/jquery/plugins/jalerts/jquery.alerts.css"> 
+  <!-- updates to jQuery predefined styles --> 
+  <link rel="stylesheet" type="text/css" href="/olrcss/olr_jquery.css"> 
+  <!-- jQuery --> 
+  <script type="text/javascript" src="/jquery/js/jquery-1.6.4.min.js"></script> 
+  <script type="text/javascript" src="/jquery/js/jquery-ui-1.7.2.custom.min.js"></script> 
+  <script type="text/javascript" src="/jquery/plugins/jquery.timers.min.js"></script> 
+  <script type="text/javascript" src="/jquery/plugins/jalerts/jquery.alerts.js"></script> 
+  <script type="text/javascript" src="/jquery/plugins/jquery.cookie.min.js"></script> 
+  <!-- include object manipulation scripts --> 
+  <script type="text/javascript" src="/js/olr_objects.js"></script> 
+  <script type="text/javascript" src="/js/olr_cart_bar.js"></script> 
+  <script type="text/javascript" src="/js/frame_breaker.js"></script> 
+  <link rel="alternate" type="application/rss+xml" title="Subscribe to UCR Extension via RSS" href="http://www.extension.ucr.edu/rss/news.xml"> 
+  <meta name="google-site-verification" content="r2pJTsVkCgAMffjobH7VQWD4Itlc2fD023BhmUZwEvo"> 
+  <meta name="description" content="Continuing education at the University of California, Riverside. UCR Extension takes pride in providing individual attention to students and to serving the community's changing needs."> 
+  <script type="text/javascript" src="/js/jquery.tools.min.js"></script> 
+  <link rel="stylesheet" type="text/css" href="/css/carousel.css" media="all"> 
+  <!--[if lte IE 7]>
+<style type="text/css">#l_carousel_controls li a { display: inline-block; height: 2.364em; }</style>
+<![endif]--> 
+ </head> 
+ <body> 
+  <div id="brandingwrapper"> 
+   <div class="pagewrapper"> 
+    <ul id="accessibility_links"> 
+     <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li> 
+     <li class="skip"><a tabindex="2" href="http://www.extension.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li> 
+    </ul> 
+    <hr> 
+    <div id="brandingbar"> 
+     <img class="overlay" src="/images/design6/overlay.png" alt=""> 
+     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="/images/design6/ucr_name.gif" width="219" height="30" alt="University of California, Riverside" title="UCR Home page"><span class="accessibility">University of California, Riverside</span></a></h1> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/design6/masthead.jpg);"> 
+   <h1><a href="/"><img src="/images/design6/extension_logo.gif" alt="UCR Extension" height="120" width="140"><span class="accessibility">UCR Extension</span></a></h1> 
+   <div class="pagewrapper"> 
+    <div id="search"> 
+     <div id="nav_utility"> 
+      <ul> 
+       <li><a href="/siteindex.html">A to Z Listing</a></li> 
+       <li><a href="http://campusmap.ucr.edu/campusMap.php?loc=UCREX" target="_blank">Campus Map</a></li> 
+       <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+      </ul> 
+     </div> 
+     <form id="searchbox" action="http://search.extension.ucr.edu/search">
+      <p> <label for="SearchText" accesskey="4" title="Search">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input type="hidden" name="site" value="default_collection"> <input type="hidden" name="client" value="default_frontend"> <input type="hidden" name="proxystylesheet" value="default_frontend"> <input type="hidden" name="output" value="xml_no_dtd"> <input id="go" type="submit" name="btnG" value="Go"> </p>
+     </form> 
+    </div> 
+    <img class="section-title" src="/images/design6/section_ttl_home.png" alt="" height="40" width="240"> 
+   </div> 
+  </div> 
+  <div style="margin-bottom:5px;"></div> 
+  <center>
+   <div id="nav2013"> 
+    <ul style="background-image:none !important;"> 
+     <li class="nav-li"><a class="active nav-a-main" href="/"><span style="text-transform:uppercase; font-size:12px;">Home</span></a>
+      <ul> 
+       <li class="nav-sub-li wide"><a class="nav-a" href="/admin/community/"><span>Community Engagement </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/community/business_partnerships.html"><span>Business Partnerships </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/admin/community/custom_training.html"> <span>Custom Training</span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/admin/community/best_practices.html"> <span>Best Practices</span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/admin/community/internships.html"> <span>No-Cost Internships</span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/community/stars/"><span>Rising Stars </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/community/partners.html"><span>Conversation Partners </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/community/host_families.html"><span>Host Families </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/about/employment.html"><span>Teach For Us </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/osher/"><span>Osher Lifelong Learning Institute </span></a> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a" href="/cs/"><span>Conferencing Services </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/cs/facility.html"><span>Facility &amp; Services </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/cs/facility/accommodations.html"><span>ERC (Extension Residence Center) </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/cs/registration.html"><span>FAQs </span></a> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a" href="/admin/about/"><span>About UCR Extension </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/about/dean.html"><span>Dean's Welcome </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/about/directory.html"><span>Directory </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/about/location.html"><span>Locations &amp; Directions </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/newsroom.html"><span>Newsroom </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/admin/newsletter/"> <span>Newsletters</span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/admin/about/pressroom/"> <span>Press Releases</span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/about/mission.html"><span>Mission &amp; Values </span></a> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a" href="/instructors.html"><span>Instructors </span></a> </li> 
+      </ul> </li> 
+     <li style="width:3px; padding-top:6px;"><img src="/images/nav/divider.png" alt="Divider Line"> </li>
+     <li class="nav-li"><a class="nav-a-main" href="/admin/student/"><span style="text-transform:uppercase; font-size:12px;">Student Resources </span></a> 
+      <ul> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/courses/"><span>Online Learning </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/courses/requirements.html"><span>System Requirements </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/courses/netid.html"><span>Getting Started with NetID </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/admin/courses/moodle.html"><span>Moodle </span></a> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/new_students.html"><span>How to Enroll </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/fees.html"><span>Fees &amp; Refunds </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/textbooks.html"><span>Textbooks </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/transcripts.html"><span>Transcripts </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/concurrent.html"><span>Concurrent Enrollment </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/parking.html"><span>Parking </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/food.html"><span>Food Service </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/library.html"><span>Library Use </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/assistance.html"><span>Financial &amp; Tuition Assistance </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/vabenefits.html"><span>Veterans Benefits </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/policies.html"><span>Policies &amp; General Information </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="http://tobaccofree.ucr.edu"><span>Smoking Policy </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/disabilities.html"><span>Students with Disabilities </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/admin/student/ferpa.html"><span>FERPA </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="http://ehs.ucr.edu/services/emergency.html"><span>Emergency Resources </span></a> </li> 
+      </ul> </li> 
+     <li style="width:3px; padding-top:6px;"><img src="/images/nav/divider.png" alt="Divider Line"> </li>
+     <li class="nav-li"><a class="nav-a-main" href="/academics/"><span style="text-transform:uppercase; font-size:12px;">Areas of Study </span></a> 
+      <ul> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/business.html"><span>Business » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/business.html"><span>Accounting &amp; Finance » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/accounting.html"><span>Accounting </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/accounting_for_government.html"><span>Accounting for Government &amp; Nonprofit Organizations </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/taxation.html"><span>Taxation </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/business.html"><span>Management » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/event_management.html"><span>Event Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/management.html"><span>Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/nonprofit_management.html"><span>Nonprofit Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/small_business_management.html"><span>Small Business Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supervision_leadership.html"><span>Supervision, Leadership &amp; Management </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/business.html"><span>Organizational<br> Development » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/human_resources.html"><span>Human Resources </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/organizational_leadership.html"><span>Organizational Leadership &amp; Development </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/business.html"><span>Operations » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/administrative_professional.html"><span>Administrative Professional </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/chief_business.html"><span>Chief Business Official </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/construction_management.html"><span>Construction Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/education_facilities.html"><span>Educational Facilities Planning </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/facilities_management.html"><span>Facilities Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/lean.html"><span>Lean Six Sigma </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/project_management.html"><span>Project Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/purchasing.html"><span>Purchasing, Logistics and Supply Chain Management </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/engineering.html"><span>Computer Science &amp; Engineering » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/engineering.html"><span>Engineering » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/electronic_technology.html"><span>Electronics Technology </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/engineering.html"><span>Information Systems » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/geographic.html"><span>Geographic Information Systems </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/engineering.html"><span>Network Administration » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/computer_technician.html"><span>Computer Technician </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/microsoft_developer.html"><span>Microsoft Certificate Professional Developer </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/microsoft_server.html"><span>Microsoft Server 2012 </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/engineering.html"><span>Software Development » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/systems_engineering.html"><span>Systems Engineering </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/web_development.html"><span>Web Development </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/education.html"><span>Education &amp; Credentials » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Advanced Teaching Skills » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/clear_credential.html"><span>Clear Credential Program </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/education_gifted.html"><span>Gifted &amp; Talented Education </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/teaching_ap.html"><span>Teaching Advanced Placement </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/common_core.html"><span>Teaching in a Common Core Classroom </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Designated Subjects Credential » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/career_technical_education.html"><span>Career Technical Education Credential &amp; Special Subjects Credential </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/adult_education.html"><span>Adult Education Credential </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Early Child Care Education &amp; Development » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/early_childhood2.html"><span>Advanced Teaching &amp; Administration in Early Child Care Settings </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/early_childhood1.html"><span>Teaching Early Child Care Settings </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Serving Students with Special Needs » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/authorization_autism.html"><span>Added Authorization in Autism Spectrum Disorders </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/early_childhood_special_education.html"><span>Added Authorization in Early Childhood Special Education </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/educational_therapy.html"><span>Educational Therapy </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/education_specialist.html"><span>Education Specialist Level II Mild/Moderate </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/education_specialist.html"><span>Education Specialist Level II Moderate/Severe </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Student Services &amp; Administration » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/accreditation.html"><span>Accreditation: A School Improvement Process </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/college_admissions.html"><span>College Admissions Counseling </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/pupil_personnel.html"><span>Pupil Personnel Services Credentials </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Subject Matter<br> Specialization » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supplementary_authorization_computer.html"><span>Authorization in Computer Concepts &amp; Applications </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supp_auth_graphic_arts.html"><span>Authorization in Graphic Arts </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supp_authorization_english.html"><span>Introductory Authorization in English </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/intro_authorization_english.html"><span>Subject Matter Authorization in English </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supp_authorization_math.html"><span>Introductory Authorization in Math </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/intro_authorization_math.html"><span>Subject Matter Authorization in Math </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/supp_authorization_science.html"><span>Introductory Authorization in Science </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/intro_authorization_science.html"><span>Subject Matter Authorization in Science </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/education.html"><span>Teaching English Learners » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/bclad.html"><span>Bilingual Authorization </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/clad.html"><span>CLAD Through CTEL </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/sdaie.html"><span>SDAIE (SB 1292, Staff Development EL Authorization) </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/teaching_english_foreign.html"><span>Teaching English as a Foreign Language </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/teaching_english_to_speakers_advanced.html"><span>Advanced Teaching English to Speakers of Other Languages (TESOL) </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/teaching_english_to_speakers.html"><span>Teaching English to Speakers of Other Languages (TESOL) </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/environment.html"><span>Environment » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/environment.html"><span>Field Nature Studies » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/desert_ecology.html"><span>Desert Ecology </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/field_botany.html"><span>Field Botany </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/field_ecology.html"><span>Field Ecology </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/field_geology.html"><span>Field Geology </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/field_ornithology.html"><span>Field Ornithology </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/environment.html"><span>Resource Management » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/community_regional_planning.html"><span>Community &amp; Regional Planning </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/energy_management.html"><span>Energy Resource Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/heating.html"><span>Heating, Ventilation &amp; Air-Conditioning (HVAC) </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/turfgrass.html"><span>Turfgrass Management </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/healthcare.html"><span>Healthcare » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/healthcare.html"><span>Healthcare Training » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/electronic_record_management.html"><span>Electronic Health Record Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/medical_admin.html"><span>Medical Administrative Assistant </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/medical_transcription.html"><span>Medical Transcription Editor </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/pharmacy_technician.html"><span>Pharmacy Technician Certification Exam Preparation </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/io_medical_coding.html"><span>Professional Medical Coding and Billing </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/healthcare.html"><span>Professional Development » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/forensic_nursing.html"><span>Forensic Nursing </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/legal_nurse.html"><span>Legal Nurse Consulting </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/case_management.html"><span>Medical Case Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/community_case_management.html"><span>Community Case Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/sexual_assault.html"><span>Sexual Assault Examination Training: Adult/Adolescent </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/sexual_assault_peds.html"><span>Sexual Assault Examination Training: Pediatrics </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/languages.html"><span>Languages &amp; Culture » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=6&amp;conc=20"><span>Culture </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=6&amp;conc=21"><span>Languages </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/languages.html"><span>Translation &amp; <br>Interpretation » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/translation.html"><span>English/Spanish Translation </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/professional_interpretation.html"><span>Professional Translation &amp; Interpretation </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/law.html"><span>Law &amp; Criminal Justice » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/law.html"><span>Criminal Justice &amp;<br> Forensics » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/crime_scene.html"><span>Crime Scene Investigation </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/crime_intelligence.html"><span>Crime and Intelligence Analysis </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/law.html"><span>Law » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/professional_fiduciary.html"><span>Fiduciary Management </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/paralegal.html"><span>Paralegal </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/marketing.html"><span>Marketing &amp; <br>Communications » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/marketing.html"><span>Marketing » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/e_marketing.html"><span>e-Marketing </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/marketing.html"><span>Marketing </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/marketing.html"><span>New Media » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/digital_arts.html"><span>Digital Arts &amp; Design </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/summer/game_design.html"><span>Video Game Design </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/marketing.html"><span>Writing » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/fiction_writing.html"><span>Fiction Writing </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/screenwriting.html"><span>Screenwriting </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/technical_writing.html"><span>Technical Writing </span></a></li> 
+          </ul> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/personal.html"><span>Personal Enrichment » </span></a> 
+        <ul class="nav-ter-ul"> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=28"><span>Art Appreciation </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=29"><span>Arts &amp; Crafts </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/youth.html"><span>Children's Programs </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=44"><span>Computer Skills </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=30"><span>Film &amp; Photography </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=31"><span>Fine Art </span></a> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/personal.html"><span>Fitness » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/yoga_fundamentals.html"><span>Fundamentals of Yoga Professional Achievement Award </span></a></li> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/yoga_theory.html"><span>Yoga Theory &amp; Practice Certificate </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/academics/programs/personal.html"><span>Home Improvement » </span></a> 
+          <ul class="nav-four-ul"> 
+           <li class="nav-four-li wide"><a class="nav-a-bottom" href="/academics/certificates/interior_design.html"><span>Interior Design </span></a></li> 
+          </ul> </li> 
+         <li class="nav-ter-li wide"><a class="nav-a" href="/enroll/catalog/olr_catalog_search.php?area=9&amp;conc=45"><span>Viticulture &amp; Brewing Sciences </span></a> </li> 
+        </ul> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/programs/online.html"><span>Online Programs </span></a> </li> 
+       <li class="nav-sub-li wide"><a class="nav-a-top" href="/academics/summer/"><span>Summer Academies </span></a> </li> 
+      </ul> </li> 
+     <li style="width:3px; padding-top:6px;"><img src="/images/nav/divider.png" alt="Divider Line"> </li>
+     <li class="nav-li"><a class="nav-a-main" href="/enroll/"><span style="text-transform:uppercase; font-size:12px;">Browse Courses </span></a> </li>
+     <li style="width:3px; padding-top:6px;"><img src="/images/nav/divider.png" alt="Divider Line"> </li>
+     <li class="nav-li"><a class="nav-a-main" href="http://www.iep.ucr.edu/"><span style="text-transform:uppercase; font-size:12px;">International Programs </span></a> </li>
+    </ul> 
+   </div>
+  </center>
+  <div style="clear:both;"></div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <div class="cartbar"> 
+    <div class="hellocell"> 
+     <a id="hellolink" rel="nofollow" href="/olraccount/olr_customer_account.php"><span id="customerhello"></span></a> 
+    </div> 
+    <div class="logincell"> 
+     <a id="loginkeylink" href="javascript:{}" onclick="handleLoginLogout()"><span id="loginout">Log In</span></a> 
+    </div> 
+    <div class="spacercell"> 
+     <img alt="" id="cartspacerimg" src="/olrimages/key_cart_vert_doted_divider.gif" style="vertical-align: middle;"> 
+    </div> 
+    <div class="cartcell"> 
+     <a id="cartcontentslink" href="javascript:{}" onmouseover="isOverCartLink();" onfocus="isOverCartLink();" onmouseout="isOutCartLink();" onblur="isOutCartLink();" onclick="window.location='/olrcart/olr_checkout.php?ref=' + location.href;"><span id="nbritemsincart">No items in your Cart</span></a> 
+    </div> 
+   </div> 
+   <div id="cartcontents" onmouseover="isOverCartPop();" onfocus="isOverCartPop();" onmouseout="isOutCartPop();" onblur="isOutCartPop();" style="display: none;" tabindex="0"> 
+    <h2 class="title1"><img src="/olrimages/currently_cart_Pop_Up_ttle.gif" alt="Currently In Your Cart"><span class="accessibility">Currently In Your Cart</span></h2> 
+    <table class="cartcontents" width="100%"> 
+     <tbody>
+      <tr>
+       <td colspan="2" align="left" style="margin:0; padding:0;"> <span id="itemsincart">No items are in your cart.</span> </td>
+      </tr> 
+      <tr id="carttotalrow"> 
+       <td style="padding:0; margin:0; width:112px; height:27px;"> <input type="button" id="checkoutbtn" name="checkoutbtn" value="" onfocus="isOverCartPop();" onblur="isOutCartPop();" onclick="window.location='/olrcart/olr_checkout.php?ref=' + location.href;"> </td> 
+       <td id="carttotallabel" width="100%"> <span id="carttotal">&nbsp;</span> </td> 
+      </tr> 
+     </tbody>
+    </table> 
+    <div id="cartcontentbtm" style="height:15px"></div> 
+   </div> 
+   <div id="loginpopup" style="overflow: hidden; display: none;"> 
+    <iframe id="loginframe" src="/olrlogin/olr_login_shortform.php" title="Login Pop-up Form" scrolling="no" width="100%" height="250px" frameborder="0"> </iframe> 
+   </div> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Home</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/admin/community/" title="Community Engagement">Community Engagement</a></li>
+       <li><a href="/cs/" title="Conferencing Services">Conferencing Services</a></li>
+       <li><a href="/admin/about/" title="About UCR Extension">About UCR Extension</a></li>
+       <li><a href="/instructors.html" title="Instructors">Instructors</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn></h3></li>
+       <li><a href="/academics/" title="Areas of Study">Areas of Study</a></li>
+       <li><a href="/enroll/" title="Browse Courses">Browse Courses</a></li> 
+      </ul> 
+     </div> 
+     <a href="/request/catalog_inquiry.html"><img src="/images/home/catalog_cover.png" width="220" alt="View and print the quarterly catalog."> <br>View and print current Course Schedule.</a> 
+     <p>&nbsp;</p> 
+     <a href="/request/newsletter_inquiry.html"><img src="/images/admin/newsletter/newsletter_button.gif" alt="Subscribe and view the newsletter."> <br>Subscribe and view the newsletter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <script type="text/javascript">
+var $j = jQuery.noConflict();
+
+$j(document).ready(function() {
+	// interval = (# of seconds on each slide) * 1000, speed = (# of seconds for transition) * 1000
+	$j("#l_carousel_scroller").scrollable({
+		circular: true, mousewheel: true, speed: 1000
+	}).navigator({
+		// ul#l_carousel_controls now functions as our navigator
+		navi:'ul#l_carousel_controls li'
+	}).autoscroll({
+		interval: 4000
+	});	
+});
+</script> 
+     <div class="l_scrollable" id="l_carousel_scroller"> 
+      <div class="l_carousel_content"> 
+       <div> 
+        <a href="/enroll/catalog/olr_course_details.php?crsid=28210" target="_blank"><img src="/images/home/dadhybrid_slider.jpg" alt="" width="700" height="207"><span class="accessibility">Digital Arts and Design Courses</span></a> 
+       </div> 
+       <div> 
+        <a href="/ap" target="_blank"><img src="/images/home/ap_scholarship_slider.jpg" alt="" width="700" height="207"><span class="accessibility">AP Scholarship</span></a> 
+       </div> 
+       <div> 
+        <a href="/enroll/catalog/olr_course_details.php?crsid=35950" target="_blank"><img src="/images/home/preoscar_slider_2015.jpg" alt="" width="700" height="207"><span class="accessibility">Pre-Oscar Osher</span></a> 
+       </div> 
+       <div> 
+        <a href="/enroll/catalog/olr_catalog_search.php?geoloc=4%3A" target="_blank"><img src="/images/home/online_slider.jpg" alt="" width="700" height="207"><span class="accessibility">Online Slider</span></a> 
+       </div> 
+       <div> 
+        <a href="/admin/community/custom_training.html" target="_blank"><img src="/images/home/customize_slider.jpg" alt="" width="700" height="207"><span class="accessibility">Customize Success Slider</span></a> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- 
+<ul id="l_carousel_controls">
+
+	<li><a href="#l_slide-1" title="Microsoft Server Professional Achievement Award">Microsoft Server <br/>Professional <br/>Achievement Award</a></li>
+
+	<li><a href="#l_slide-2" title="Professional Certificate in Community and Regional Planning">Professional Certificate in <br/>Community and Regional <br/>Planning</a></li>
+
+</ul>
+//--> 
+     <div class="clear"></div> 
+     <table class="highlight_boxes"> 
+      <tbody> 
+       <tr> 
+        <td width="220px"><h3><img src="/images/home/explore_title.gif" alt="Explore New Programs" width="220" height="29"><img src="/images/home/explore_column_image.jpg" alt=" " width="220" height="99"><span class="accessibility">Explore New Programs</span></h3></td> 
+        <td width="20px" class="empty"></td> 
+        <td width="220px"><h3><img src="/images/home/advance_title.gif" alt="Advance in Your Career" width="220" height="29"><img src="/images/home/advance_column_image.jpg" alt=" " width="220" height="99"><span class="accessibility">Advance Your Career</span></h3></td> 
+        <td width="20px" class="empty"></td> 
+        <td width="220px"><h3><img src="/images/home/connect_title.gif" alt="Connect With Like Minds" width="220" height="29"><img src="/images/home/connect_column_image.jpg" alt=" " width="220" height="99"><span class="accessibility">Connect With Like Minds</span></h3></td> 
+       </tr> 
+       <tr> 
+        <td id="cellD"><p>Explore your world with UCR Extension classes. From Joshua Tree to China, the wonders of our world await you.</p> 
+         <ul> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=5264">Applying the Drought Tolerant Plant Palette to Southern California Landscapes</a></p> </li> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=31510">Introduction to Pen and Ink Drawing</a></p> </li> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=37839">Twenty- Five Cases That Shaped and Shook the United States: Part 1</a></p> </li> 
+         </ul></td> 
+        <td class="empty" width="20px"></td> 
+        <td id="cellE"><p>Stand out in today's changing and competitive workplace. Train for a new career or build on your current skills with over 90 certificate programs to choose from<a href="https://www.extension.ucr.edu/enroll/catalog/olr_course_details.php?crsid=997">.</a></p> 
+         <ul> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=35030">Professional Medical Coding and Billing</a></p> </li> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=21693">New Age Digital Viral Marketing Techniques</a></p> </li> 
+          <li> <p><a href="/enroll/catalog/olr_course_details.php?crsid=15327">Medical Record Review, Analysis and Standards of Practice</a></p> </li> 
+         </ul></td> 
+        <td width="20px" class="empty"></td> 
+        <td id="cellF"><p>Connect with people who share your interests. From ageless learners to day care providers to onsite trainers, connect and learn.</p> 
+         <ul> 
+          <li><a href="/osher/">Osher Lifelong Learning Institute</a></li> 
+          <li><a href="/admin/community/business_partnerships.html">Business Partnerships </a></li> 
+          <li><a href="/cares/">First 5 Riverside CARES Plus</a></li> 
+          <li><a href="/admin/newsroom.html">UCR Extension Newsroom</a></li> 
+         </ul></td> 
+       </tr> 
+       <tr> 
+        <td id="cellG" width="220px"></td> 
+        <td class="empty" width="20px"></td> 
+        <td id="cellH" width="220px"></td> 
+        <td class="empty" width="20px"></td> 
+        <td id="cellI" width="220px"></td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2><span class="accessibility">More Information</span>&nbsp;</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span> </span> </address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Contact Information</h3> 
+      <address><span class="vcard"> <strong class="fn org">UC Riverside Extension Center</strong><br> <span class="adr"><span class="street-address">1200 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92507-4596</span></span><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=UCREX" title="Campus Map">UCR Extension Center</a><br><br> Tel: <span class="tel"><span class="type accessibility">Work</span><span class="value">(951) 827-4105</span></span> or <span class="tel"><span class="type accessibility">Toll-Free</span><span class="value">(800) 442-4990</span></span> toll-free<br> Fax: <span class="tel"><span class="type accessibility">Fax</span><span class="value">(951) 827-7273</span></span><br> E-mail: <span class="email"><a href="mailto:register@ucx.ucr.edu?subject=Website%20Inquiry">register@ucx.ucr.edu</a></span> </span></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/admin/about/dean.html">Dean's Welcome</a></li> 
+       <li><a href="/admin/about/location.html">Registration Hours and Locations</a></li> 
+       <li><a href="/request/index.html">Request Information</a></li> 
+       <li><a href="/admin/courses/netid-faq.html">NetID Help</a></li> 
+      </ul> 
+      <ul class="footer_links"> 
+       <li><a id="footer_link_facebook" class="footer_link_icon" href="http://www.facebook.com/UCRiversideExtension" title="external site: Facebook">Visit UCR Extension's Facebook page</a></li> 
+       <li><a id="footer_link_twitter" class="footer_link_icon" href="http://twitter.com/UCRExtension" title="external site: Twitter">Follow UCR Extension on Twitter</a></li> 
+       <li><a id="footer_link_youtube" class="footer_link_icon" href="http://www.youtube.com/UCRiverside" title="external site: YouTube">Visit UCR's YouTube channel</a></li> 
+       <li><a id="footer_link_rss" class="footer_link_icon" href="http://www.extension.ucr.edu/rss/news.xml">Subscribe to UCR Extension via RSS</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.extension.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01072&amp;site=unex&amp;path=%2Findex.html">Administrate Page 
+        <!-- Last modified: 2015-Feb-09 //--></a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+// <![CDATA[
+   var _gaq = _gaq || [];
+
+   _gaq.push(['_setAccount', 'UA-354092-1']);
+   _gaq.push(['_setDomainName', '.extension.ucr.edu']);
+   _gaq.push(['_trackPageview']);
+
+   _gaq.push(['t2._setAccount', 'UA-3051875-1']);
+   _gaq.push(['t2._setDomainName', '.ucr.edu']);
+   _gaq.push(['t2._trackPageview']);
+
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+     var s = document.getElementsByTagName('script')[0]; 
+s.parentNode.insertBefore(ga, s);
+   })();
+// ]]>
+</script> 
+  <!-- Generated in 0.024592 seconds using 2.25 MiB of memory. -->   
+ </body>
+</html>

@@ -4,7 +4,7 @@
   <title>UCR — Living the Promise: Marko Princevac</title> 
   <meta http-equiv="last-modified" content="2014-10-09"> 
   <meta name="version" content="2.34 1.6 "> 
-  <!-- 02/09/15 12:46:18 02/09/15 13:04:43 --> 
+  <!-- 02/09/15 18:25:22 02/09/15 18:48:57 --> 
   <link rel="stylesheet" type="text/css" href="/css/style.css" media="all"> 
   <link rel="stylesheet" type="text/css" href="/css/navigation.css" media="all"> 
   <link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css"> 
@@ -80,14 +80,14 @@
           <div class="jwbox_content"> 
            <img class="jwbox_close" src="http://www.ucr.edu/images/design6/close.png" alt="Close" width="38" height="39"> 
            <div class="flashcontent"> 
-            <div id="x1423515883a3a74"> 
+            <div id="x1423536537e05008e"> 
              <p>Loading the player…</p> 
             </div> 
            </div> 
            <script type="text/javascript">
 // <![CDATA[
 	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
-		jwplayer('x1423515883a3a74').setup({
+		jwplayer('x1423536537e05008e').setup({
 			flashplayer: 'http://www.ucr.edu/player.swf',
 			controlbar: { margin: 0, position: 'over' },
 			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
@@ -268,6 +268,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.02331 seconds using 2.00 MiB of memory. -->   
+  <!-- Generated in 0.026356 seconds using 2.00 MiB of memory. -->   
  </body>
 </html>

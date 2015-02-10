@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2013-11-19"> 
   <meta name="version" content="2.67 2.160 "> 
-  <!-- 02/09/15 12:30:11 02/09/15 13:04:24 --> 
+  <!-- 02/09/15 18:41:07 02/09/15 18:48:54 --> 
   <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
   <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/athletics/css/local.css" media="all"> 
@@ -40,7 +40,7 @@
    </ul> 
    <hr> 
   </div> 
-  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead03.jpg);"> 
    <h1><a href="http://www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
    <div class="pagewrapper"> 
     <div id="search"> 
@@ -140,7 +140,7 @@
     <!-- End Sidebar --> 
     <!-- Start Content Area --> 
     <div id="main"> 
-     <div id="x1423515864130e3702ed" class="flashcontent"> 
+     <div id="x14235365340c1af208f" class="flashcontent"> 
       <div class="alert">
        <p> <strong>Your Adobe Flash Player is missing or out of date or you do not have Javascript enabled in your browser.</strong><br> <a class="external" href="http://www.adobe.com/products/flashplayer/" title="external site: Adobe Flash Player download"><img class="img_L_borderless" alt="" src="http://www.ucr.edu/images/design6/get_flashplayer.gif">Install the latest Adobe Flash Player</a>. </p>
       </div> 
@@ -150,7 +150,7 @@
 // <![CDATA[
 	$LAB.script("http://www.ucr.edu/swfobject.js").wait(function() {
 		var so = new SWFObject("/athletics/videos/athletics.swf", "flash", "484", "227", "9", "#fffff");
-		so.write("x1423515864130e3702ed");
+		so.write("x14235365340c1af208f");
 	});
 // ]]>
 </script> 
@@ -216,7 +216,7 @@
        <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
        <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
       </ul> 
-      <!-- Generated in 0.029624 seconds using 768 KiB of memory. --> 
+      <!-- Generated in 0.355393 seconds using 768 KiB of memory. --> 
      </div> 
      <div class="column49"> 
       <h3>Additional Information</h3> 
@@ -264,6 +264,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.035498 seconds using 1.50 MiB of memory. -->   
+  <!-- Generated in 0.133827 seconds using 1.50 MiB of memory. -->   
  </body>
 </html>

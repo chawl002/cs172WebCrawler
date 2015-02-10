@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2012-05-25"> 
   <meta name="version" content="2.69 2.163 "> 
-  <!-- 02/09/15 12:24:15 02/09/15 13:05:14 --> 
+  <!-- 02/09/15 18:11:54 02/09/15 18:46:57 --> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
@@ -35,7 +35,7 @@
     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="//www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
    </div> 
   </div> 
-  <div id="masthead" style="background-image:url(/images/mastheads/08.jpg);"> 
+  <div id="masthead" style="background-image:url(/images/mastheads/06.jpg);"> 
    <h1><a href="//advancement.ucr.edu/"><span class="printonly">University Advancement</span></a></h1> 
   </div> 
   <!-- Status: Normal --> 
@@ -111,7 +111,7 @@
        <li>Encourage greater involvement in <a href="http://alumni.ucr.edu/">UCR's Alumni Association</a>, <a href="http://www.ucr.edu/parents/parents.html">Parents Association</a>, <a href="http://alumni.ucr.edu/Page.aspx?pid=320">Student Alumni Association</a>, Emeriti Association and Retirees Association.</li> 
        <li>Provide services and programs to benefit alumni, students, parents and other constituencies.</li> 
       </ul> 
-      <!-- Directory accessed  9-Feb-2015 12:24:15 --> 
+      <!-- Directory accessed  9-Feb-2015 18:11:55 --> 
       <table class="directory" cellspacing="0"> 
        <thead> 
         <tr> 
@@ -252,6 +252,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.0285 seconds using 1.50 MiB of memory. -->   
+  <!-- Generated in 0.065 seconds using 1.50 MiB of memory. -->   
  </body>
 </html>

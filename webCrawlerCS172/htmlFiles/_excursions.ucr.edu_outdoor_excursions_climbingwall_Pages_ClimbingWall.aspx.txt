@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Expires" content="0"> 
+  <meta name="Description" content=""> 
+  <meta name="Author" content=""> 
+  <meta name="keywords" content=""> 
+  <meta name="copyright" content=""> 
+  <meta name="geo.country" content=""> 
+  <title>Outdoor Excursions Home&nbsp;</title> 
+  <link rel="stylesheet" type="text/css" href="http://recreation.ucr.edu/css/_global.import.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://recreation.ucr.edu/css/masthead.css"> 
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css"> 
+  <link type="text/css" rel="stylesheet" media="all" href="http://recreation.ucr.edu/css/default.local.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://recreation.ucr.edu/scripts/jquery.orbit-1.2.3.js"></script>
+  <script type="text/javascript" src="http://recreation.ucr.edu/scripts/jquery.controls.local.js"></script>
+  <style type="text/css">
+          .watermark
+          {
+          background-image: url('../images/google_custom_search_watermark.gif');
+          background-repeat: no-repeat;
+          }
+
+          .normal
+          {
+          }
+
+          #height21 > *
+          {
+          margin: 2px;
+          }
+        </style>
+  <script type="text/javascript">
+          function Search() {
+          window.location = "http://www.ucr.edu/search.php?q=" + document.getElementById("search-textbox").value; return false;
+          }
+
+          function OnFocus()
+          {
+          document.getElementById("search-textbox").className = "normal";
+          }
+
+          function OnBlur()
+          {
+          var textValue = document.getElementById("search-textbox").value;
+          if (textValue.length == 0)
+          {
+          document.getElementById("search-textbox").className = "watermark";
+          }
+          else
+          {
+          document.getElementById("search-textbox").className = "normal";
+          }
+          }
+        </script>
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-47478717-1', 'ucr.edu');		
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+
+    </script>
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <div id="brandingbar">
+    <img class="overlay" src="http://recreation.ucr.edu/images/mastheadoverlay.png" alt="overlay" border="0">
+    <h2 style="left: 0px; top: 0px"><span class="accessibility">University of California, Riverside</span><a title="UCR Home Page" href="http://www.ucr.edu/"><img width="150" height="53" title="UCR Home page" alt="UCR" src="http://recreation.ucr.edu/images/ucr_logo.gif"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" class="mastheadbg">
+   <a href="http://recreation.ucr.edu/index.html">Home</a>
+  </div> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="bcinnerwrapper"><a title="UCR Home" href="http://www.ucr.edu/">UCR Home</a> &gt; <a title="UCR Card" href="http://vcsa.ucr.edu/">VCSA</a> &gt; <a title="Home" href="http://recreation.ucr.edu/">Home</a> &gt; Outdoor Excursions Home&nbsp; </p> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <div class="valign" id="height21">
+     <label>Search for:</label>
+     <input id="search-textbox" type="text" class="watermark" onfocus="OnFocus()" onblur="OnBlur()" title="search">
+     <input type="button" value="Go" onclick="Search()">
+    </div> 
+   </div> 
+   <hr> 
+   <div id="content"> 
+    <h2 id="pagetitleman">Outdoor Excursions Home&nbsp;&nbsp; </h2> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <ul> 
+       <li><a href="http://recreation.ucr.edu/index.html">Home</a></li> 
+       <li><a href="http://recreation.ucr.edu/hours_membership/srchoursandmembership.html">Student Recreation Center</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/hours_membership/membership.html">Membership</a></li> 
+         <li><a href="http://recreation.ucr.edu/hours_membership/scanyourhand.html">Scan Your Hand</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/RecTV/index.html">RecTV</a></li> 
+       <li><a href="http://recreation.ucr.edu/schedules/schedules.html">Schedules and Prices</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/schedules/fitnessclassschedulerm.html">Fitness Classes</a></li> 
+         <li><a href="http://recreation.ucr.edu/schedules/recreationclassschedule.html">Recreation Activity Classes</a></li> 
+         <li><a href="http://recreation.ucr.edu/schedules/srcopenrecreationschedule.html">Open Recreation Schedule</a></li> 
+         <li><a href="http://recreation.ucr.edu/schedules/classes.html">Class Descriptions</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/fitness_wellness/index.html">Fitness and Wellness</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/calendar.html">Calendar</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/healthscreening.html">Health Screening</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/personaltraining.html">Personal Training</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/meetthetrainers.html">Meet the Trainers</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/ucrptjustgotpersonal.html">UCR PT Just Got Personal</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/srcmemberhighlight.html">SRC Member Highlight</a></li> 
+         <li><a href="http://recreation.ucr.edu/fitness_wellness/110bootcamp.html">110 Bootcamp</a></li> 
+         <li><a href="http://recreation.ucr.edu/docs/newsletter.pdf">SRC Fit Newsletter</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/aquatics/index.html">Aquatics Programs</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/aquatics/rules.html">Aquatics Rules and Regulations</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/outdoor_excursions/outdoorexcursionshome.html">Outdoor Excursions</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/wildernesstrips/wildernesstrips.html">Outdoor Trips</a>
+          <ul> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/wildernesstrips/selectatrip.html">Select a Trip</a></li> 
+           <li><a href="http://www.google.com/calendar/embed?src=aspi8k0d3aot8o4i5nfhjdgbm8%40group.calendar.google.com&amp;ctz=America/Los_Angeles">Trip Calendar</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/wildernesstrips/customexcursions.html">Custom Excursions</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/register/register.html">Register Here</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/register/register.html">Trip Registration</a></li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/teambuilding/teambuilding.html">Team Building</a>
+          <ul> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/teambuilding/communityprograms.html">Programs, Rates &amp; Forms</a></li> 
+           <li><a href="http://www.google.com/calendar/embed?src=outdoor.excursions%40gmail.com&amp;ctz=America/Los_Angeles" target="_blank">Check Availability</a></li> 
+           <li><a href="http://recreation.ucr.edu/webforms/event_request_form.html" target="_blank">Submit Booking Request</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/equipmentrentals/landing.html">Equipment Rentals</a>
+          <ul> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/equipmentrentals/availablegear.html">Available Gear</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/equipmentrentals/policies.html">Rental Policies</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/equipmentrentals/usedequipment.html">Used Equipment Sale</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/mobilewallrental/mobilewallrental.html">Mobile Climbing Wall Rental</a>
+          <ul> 
+           <li><a href="http://www.google.com/calendar/embed?src=0o5md4icb3mh6amc059ba6f0do%40group.calendar.google.com&amp;ctz=America/Los_Angeles" target="_blank">Check Availability</a></li> 
+           <li><a href="http://recreation.ucr.edu/webforms/event_request_form.html" target="_blank">Event Request Form</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/climbingwall/climbingwall.html">On Campus Climbing Wall</a></li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/leadershipdevelopment/LeadershipDevelopmentClasses.html">Leadership Development</a>
+          <ul> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/leadershipdevelopment/classesandclinics.html">Program Components</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/generalinfo/generalinfo.html">General Info</a>
+          <ul> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/generalinfo/hours.html">Hours</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/generalinfo/parkingdirections.html">Parking and Directions</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/generalinfo/employment.html">Employment</a></li> 
+           <li><a href="http://recreation.ucr.edu/outdoor_excursions/generalinfo/meetthestaff.html">Meet the Staff</a></li> 
+          </ul> </li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/picturesmedia.html">Pictures &amp; Media</a></li> 
+         <li><a href="http://recreation.ucr.edu/webforms/oe_mailing_list.html">Join Our Mailing List!</a></li> 
+         <li><a href="http://recreation.ucr.edu/outdoor_excursions/wildernessfirstresponder.html">Wilderness First Responder Certification Course</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/competitivesports/teamsports.html">Competitive Sports</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/competitivesports/intramuralsportsschedule.html">Intramural Sports</a></li> 
+         <li><a href="http://recreation.ucr.edu/competitivesports/sportsclubs.html">Sports Clubs</a></li> 
+         <li><a href="http://recreation.ucr.edu/competitivesports/recreationclubs.html">Recreation Clubs</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/big_bear/index.html">Lake House at Big Bear</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/big_bear/pictures.html">Video Tour &amp; Pictures</a></li> 
+         <li><a href="http://recreation.ucr.edu/docs/big_bear_policies.pdf" target="_blank">Policies</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/facilities/facilities.html">Facilities &amp; Reservations</a>
+        <ul> 
+         <li><a href="http://reserve.ucr.edu/" target="_blank">Reserve</a></li> 
+         <li><a href="http://recreation.ucr.edu/facilities/rentalinformation.html">Rental Information</a></li> 
+         <li><a href="http://recreation.ucr.edu/facilities/indoorfacilities.html">Indoor Facilities</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/src_expansion/index.html">SRC Expansion</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/src_expansion/livefeed.html">Live Feed</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/rgb/index.html">Recreation Facilities Governing Board</a></li> 
+       <li><a href="http://recreation.ucr.edu/employment/srcjobs.html">Get a Job Here</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/employment/currentopenings.html">Current Openings</a></li> 
+        </ul> </li> 
+       <li><a href="http://recreation.ucr.edu/contactus/index.html">Contact Us</a>
+        <ul> 
+         <li><a href="http://recreation.ucr.edu/contactus/missionstatement.html">Mission Statement</a></li> 
+        </ul> </li> 
+      </ul> 
+     </div>
+     <style type="text/css">
+		.wellpartners {
+				position: relative;
+			}
+
+			.callout {
+				font-weight: bold;
+				left: 5px;
+				position: absolute !important;
+				text-align: right;
+				top: 136px;
+			}
+			.callout a:hover {
+				border-bottom: 1px dotted #FFFFFF !important;
+				color: #2668B2;
+			}
+			.callout a:visited {
+				border-bottom: 0 none;
+				color: #FFFFFF !important;
+			}
+			.callout a:active {
+				border-bottom: 0 none;
+				color: #FFFFFF !important;
+			}
+			.callout a:link {
+				border-bottom: 0 none;
+				color: #FFFFFF !important;
+			}
+			.callout ul > li {
+				list-style-image: none !important;
+				list-style-type: none !important;
+			}
+			.callout ul, ol, dl {
+				font-size: 0.96em;
+				/*line-height: 1.4em;
+				margin: 1em 0 0;*/
+				 line-height: 1.2em;
+				margin: 1em ;
+			}
+	</style>
+     <div class="wellpartners">
+      <img src="http://recreation.ucr.edu/images/wellness-partners-banner-2.png" alt="Student Wellness Partners">
+      <div class="callout" style="top: 136px; left: 5px"> 
+       <ul> 
+        <li><a target="_blank" href="http://campushealth.ucr.edu/" title="Student Health Services">Student Health Services</a></li> 
+        <li><a target="_blank" href="http://counseling.ucr.edu/" title="Counseling">Counseling Center</a></li> 
+        <li><a target="_blank" href="http://deanofstudents.ucr.edu/" title="Dean of Students">Dean of Students</a></li> 
+        <li><a target="_blank" href="http://housing.ucr.edu" title="Housing">Housing, Dining &amp;<br>Residential Services </a></li> 
+        <li><a target="_blank" href="http://internationalcenter.ucr.edu/" title="International Center">International Student Resource Center </a></li> 
+        <li><a target="_blank" href="http://recreation.ucr.edu/" title="Recreation">Student Recreation Center</a></li> 
+        <li><a target="_blank" href="http://well.ucr.edu/" title="Well">The Well</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <hr> 
+    <div id="main"> 
+     <!-- ouc:div label="maincontent" group="Everyone" button="700" -->
+     <style>
+                  <!--
+a[href$="pdf"]:after {
+		content:none !important; 
+	}
+--></style> 
+     <div class="sharingbuttons" style="float: right;">
+      <a class="img_link" href="http://www.youtube.com/user/UCRSRC" target="_blank"> <img src="../images/youtube-sm.png" alt="YouTube"> </a> 
+      <a class="img_link" href="http://www.facebook.com/UCRSRC" target="_blank"> <img src="../images/facebook-sm.png" alt="Facebook"> </a> 
+      <a class="img_link" href="http://twitter.com/UCRSRC" target="_blank"> <img src="../images/twitter-sm.png" alt="Twitter"> </a> 
+      <a class="img_link" href="http://www.pinterest.com/ucrsrc/" target="_blank"> <img src="../images/pinterest-sm.png" alt="Pinterest"> </a>
+     </div> 
+     <br> 
+     <table border="0"> 
+      <tbody> 
+       <tr> 
+        <td valign="top"> 
+         <div id="WebPartWPQ1"> 
+          <div id="featured">
+           <a href="../docs/ag.pdf" target="_blank"><img src="../images/ag_guide.jpg" border="0" alt="Slider Image"></a> 
+           <a href="equipmentrentals/availablegear.html"><img src="../images/oe7.jpg" border="0" alt="Slider Image"></a> 
+           <a href="mobilewallrental/mobilewallrental.html"><img src="../images/oe10.jpg" border="0" alt="Slider Image"></a> 
+           <a href="teambuilding/teambuilding.html"><img src="../images/oe11.jpg" border="0" alt="Slider Image"></a>
+           <a href="generalinfo/meetthestaff.html"> <img src="../images/oe6.jpg" border="0" alt="Slider Image"></a>
+          </div> 
+         </div> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <!--PUT SLIDER HERE --> 
+     <!-- orbit slider js --> 
+     <script type="text/javascript">// 
+$(window).load(function() {
+
+      $('#featured').orbit({
+
+      animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+      animationSpeed: 800,                // how fast animtions are
+      timer: true, 			 // true or false to have the timer
+      advanceSpeed: 4000, 		 // if timer is enabled, time between transitions
+      pauseOnHover: true, 		 // if you hover pauses the slider
+      startClockOnMouseOut: true, 	 // if clock should start on MouseOut
+      startClockOnMouseOutAfter: 0, 	 // how long after MouseOut should the timer start again
+      directionalNav: false, 		 // manual advancing directional navs
+      captions: false, 			 // do you want captions?
+      captionAnimation: 'fade', 		 // fade, slideOpen, none
+      captionAnimationSpeed: 800, 	 // if so how quickly should they animate in
+      bullets: true,			 // true or false to activate the bullet navigation
+      bulletThumbs: false,		 // thumbnails for the bullets
+      bulletThumbLocation: '',		 // location from this file where thumbs will be
+      afterSlideChange: function(){} 	 // empty function
+      });
+
+      });
+// </script> 
+     <!-- end orbit slider js --> 
+     <!--<div id="ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField" style="display:inline"></div>--> 
+     <div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" style="display: inline;">
+      &nbsp;
+     </div> 
+     <div class="column59 change-column59"> 
+      <link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css"> 
+      <br> 
+      <br> 
+      <span style="font-family: Oswald, sans-serif; font-size: 16pt; color: #888888; font-weight: 300; line-height: 1.5em;"> Outdoor Excursions has been serving the UCR community for more than 20 years. We offer team excursions, leadership programs, equipment rentals and more. Let us help you explore the great outdoors and adventure opportunities that surround us here in beautiful Southern California. </span>
+     </div> 
+     <div class="column49R change-column49R"> 
+      <div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <h3>Latest News</h3> 
+       <div class="miniside"> 
+        <p><a href="wildernesstrips/selectatrip.html"><img class="img_L bottomspace" src="../images/oe_trip.png" alt="Trip" width="60" height="60"></a></p> 
+        <p><strong>Trip Program</strong><br> Our trip program is open to UCR Students, faculty, staff and the general public. </p> 
+       </div> 
+       <div class="miniside"> 
+        <p><a href="http://facebook.com/UCROutdoorExcursions"><img class="img_L bottomspace" src="../images/oe_fb.png" alt="fb" width="60" height="60"></a></p> 
+        <p><strong>Like Us</strong><br> Like our Facebook page and stay up to date with events and deals. </p> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clear">
+      &nbsp;
+     </div> 
+     <div id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField" style="display: inline;"> 
+      <table border="0"> 
+       <tbody> 
+        <tr> 
+         <td><br> <h3>New Location!</h3> <p><span>Outdoor Excursions has moved until the Student Recreation Center (SRC) expansion is completed in 2014. Until then, visit us at our Bannockburn location and sign up for your next adventure! </span></p> <p>Bannockburn Village G105<br>Mon. – Fri., 11AM-6PM<br>Sat. – Sun., 8AM-6PM </p> <br> 
+          <div class="column3 relative-RTMargin">
+           <a href="../docs/ag.pdf" target="_blank"> <img src="../images/oe_home_page_ag.jpg" border="0" alt="Trip Program"> </a> 
+           <h3><a href="../docs/ag.pdf" target="_blank">Start Your Adventure!</a></h3> 
+           <p>Download our current Adventure Guide and sign up for an adventure of a lifetime today!</p> 
+           <p><a class="standout2" href="../docs/ag.pdf" target="_blank">Read more</a></p> 
+          </div> 
+          <div class="column3 relative-RTMargin">
+           <a href="teambuilding/teambuilding.html"> <img src="../images/course.jpg" border="0" alt="Team Building"> </a> 
+           <h3><a href="teambuilding/teambuilding.html"> Team Building<br> </a></h3> 
+           <p>Our Team Excursions Challenge Program serves academic, community, business and youth groups. </p> 
+           <p><a class="standout2" href="teambuilding/teambuilding.html">Read more</a></p> 
+          </div> 
+          <div class="column3R relative-RTMargin">
+           <a href="leadershipdevelopment/leadershipdevelopmentclasses.html"> <img src="../images/leader-development.jpg" border="0" alt="Leader Development"> </a> 
+           <h3><a href="leadershipdevelopment/leadershipdevelopmentclasses.html">Leader Development</a></h3> 
+           <p>Our Leader Development Program is designed to&nbsp;develop outdoor leaders with the skills and&nbsp;experience needed to lead others in outdoor activities.&nbsp; This program is the first step in becoming an Outdoor Excursions leader. </p> 
+           <p><a class="standout2" href="leadershipdevelopment/leadershipdevelopmentclasses.html">Read more</a></p> 
+          </div> </td> 
+        </tr> 
+       </tbody> 
+      </table> 
+     </div> 
+     <div class="clear">
+      &nbsp;
+     </div> 
+     <div id="ctl00_PlaceHolderMain_ctl05__ControlWrapper_RichHtmlField" style="display: inline;"> 
+      <p>&nbsp;</p> 
+      <div class="column3 relative-RTMargin">
+       <a href="equipmentrentals/landing.html"> <img src="../images/rental-shop.gif" border="0" alt="Rental Shop"> </a> 
+       <h3><a href="equipmentrentals/landing.html">Rental Shop</a></h3> 
+       <p>Our Rental Shop offers more variety and better prices than any shop within 80 miles. We have extended hours to serve your adventure needs. </p> 
+       <p><a class="standout2" href="equipmentrentals/landing.html">Read more</a></p> 
+      </div> 
+      <div class="column3 relative-RTMargin">
+       <a href="climbingwall/climbingwall.html"> <img src="../images/rock_wall.jpg" border="0" alt="UCR Rock Wall"> </a> 
+       <h3><a href="climbingwall/climbingwall.html">Challenge Course Wall </a></h3> 
+       <p>The UCR Recreation Challenge Course climbing wall is on campus and is located near the Student Recreation Center and Aberdeen Drive. &nbsp; </p> 
+       <p><a class="standout2" href="climbingwall/climbingwall.html">Read more</a></p> 
+      </div> 
+      <div class="column3R relative-RTMargin">
+       <a href="mobilewallrental/mobilewallrental.html"> <img src="../images/mobile_rock_wall.jpg" border="0" alt="Mobile Rock Wall"> </a> 
+       <h3><a href="mobilewallrental/mobilewallrental.html">Mobile Rock Wall </a></h3> 
+       <p>Our Mobile Rock Wall can be the main attraction at your event and is available by reservation for events in Southern California and beyond. </p> 
+       <p><a class="standout2" href="mobilewallrental/mobilewallrental.html">Read more</a></p> 
+      </div> 
+     </div> 
+     <!-- /ouc:div --> 
+    </div>
+    <br class="clear">
+   </div> 
+  </div>
+  <br class="clear">
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address><span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br><span class="adr"><span class="street-address">900 University Ave.</span><br><span class="locality">Riverside</span>, <span class="region">CA</span>&nbsp;<span class="postal-code">92521</span><br></span> Tel: <span class="tel">(951) 827-1012</span><br><br></span></address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody>
+        <tr> 
+         <td valign="top"> 
+          <div> 
+           <address><strong>Student Recreation Center</strong><br><a href="http://www.campusmap.ucr.edu/campusMap.php?loc=STREC" title="Campus Map">Student Recreation Center</a><br><br> Tel: (951) 827-5738<br> Fax: (951) 827-5700<br>E-mail: <a href="mailto:wanda.murphy@ucr.edu?subject=Web Site Inquiry">Wanda Murphy</a></address> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://counseling.ucr.edu/">Counseling Center</a></li> 
+       <li><a href="http://campushealth.ucr.edu/">Campus Health</a></li> 
+       <li><a href="http://wellness.ucr.edu/">Wellness Program</a></li> 
+      </ul> 
+     </div>
+     <br class="clear">
+    </div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+      <li><a id="nav_footer_admissions" href="http://admissions.ucr.edu"><span>Admissions</span></a></li> 
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li> © <script language="JavaScript" type="text/javascript">
+                    var now = new Date();
+                    var currentYear = now.getFullYear();
+                    document.write(currentYear);
+                  </script> Regents of the University of California </li> 
+      <li> 
+       <!-- com.omniupdate.ob --><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01287&amp;site=vcsa-reccenter&amp;path=%2Foutdoor_excursions%2Foutdoorexcursionshome.pcf" target="_top">Last Modified: 12/19/14</a>
+       <!-- /com.omniupdate.ob --> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2015-01-29"> 
   <meta name="version" content="2.67 2.160 "> 
-  <!-- 02/09/15 17:35:53 02/09/15 18:17:47 --> 
+  <!-- 02/09/15 18:36:10 02/09/15 18:49:40 --> 
   <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
   <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
@@ -40,7 +40,7 @@
    </ul> 
    <hr> 
   </div> 
-  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead04.jpg);"> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
    <h1><a href="http://www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
    <div class="pagewrapper"> 
     <div id="search"> 
@@ -1162,6 +1162,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.155231 seconds using 1.75 MiB of memory. -->   
+  <!-- Generated in 0.052088 seconds using 1.75 MiB of memory. -->   
  </body>
 </html>

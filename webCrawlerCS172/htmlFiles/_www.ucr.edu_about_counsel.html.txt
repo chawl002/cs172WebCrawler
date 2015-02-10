@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2014-06-11"> 
   <meta name="version" content="2.67 2.160 "> 
-  <!-- 02/09/15 12:17:32 02/09/15 13:05:24 --> 
+  <!-- 02/09/15 18:12:06 02/09/15 18:47:09 --> 
   <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
   <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/about/css/local.css" media="all"> 
@@ -42,7 +42,7 @@
    </ul> 
    <hr> 
   </div> 
-  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead01.jpg);"> 
+  <div id="masthead_home" style="background-image:url(/images/design6/mastheads/masthead02.jpg);"> 
    <h1><a href="http://www.ucr.edu/"><span class="printonly">UC Riverside</span></a></h1> 
    <div class="pagewrapper"> 
     <div id="search"> 
@@ -230,7 +230,7 @@
        <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
        <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
       </ul> 
-      <!-- Generated in 0.029624 seconds using 768 KiB of memory. --> 
+      <!-- Generated in 0.355393 seconds using 768 KiB of memory. --> 
      </div> 
      <div class="column49"> 
       <h3>Additional Information</h3> 
@@ -280,6 +280,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.027894 seconds using 1.25 MiB of memory. -->   
+  <!-- Generated in 0.073727 seconds using 1.25 MiB of memory. -->   
  </body>
 </html>

@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2014-06-11"> 
   <meta name="version" content="2.67 2.160 "> 
-  <!-- 02/09/15 13:02:19 02/09/15 13:04:24 --> 
+  <!-- 02/09/15 18:06:36 02/09/15 18:48:36 --> 
   <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
   <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/academics/css/local.css" media="all"> 
@@ -149,7 +149,7 @@
      <!--
 .boxA, .boxB, .boxC, .boxD {padding-top: 12px;}
 --> 
-     <div id="x14235158648ee6c81e35" class="flashcontent"> 
+     <div id="x142353651643967" class="flashcontent"> 
       <div class="alert">
        <p> <strong>Your Adobe Flash Player is missing or out of date or you do not have Javascript enabled in your browser.</strong><br> <a class="external" href="http://www.adobe.com/products/flashplayer/" title="external site: Adobe Flash Player download"><img class="img_L_borderless" alt="" src="http://www.ucr.edu/images/design6/get_flashplayer.gif">Install the latest Adobe Flash Player</a>. </p>
       </div> 
@@ -159,7 +159,7 @@
 // <![CDATA[
 	$LAB.script("http://www.ucr.edu/swfobject.js").wait(function() {
 		var so = new SWFObject("/academics/videos/academics.swf", "flash", "484", "202", "9", "#fffff");
-		so.write("x14235158648ee6c81e35");
+		so.write("x142353651643967");
 	});
 // ]]>
 </script> 
@@ -221,7 +221,7 @@
        <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
        <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
       </ul> 
-      <!-- Generated in 0.029624 seconds using 768 KiB of memory. --> 
+      <!-- Generated in 0.355393 seconds using 768 KiB of memory. --> 
      </div> 
      <div class="column49"> 
       <h3>Additional Information</h3> 
@@ -271,6 +271,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.02344 seconds using 1.50 MiB of memory. -->   
+  <!-- Generated in 0.105015 seconds using 1.50 MiB of memory. -->   
  </body>
 </html>

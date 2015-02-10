@@ -1,0 +1,190 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Human Resources: Disability Management</title> 
+  <meta http-equiv="last-modified" content="2011-10-12"> 
+  <meta name="version" content="2.45 2.62 "> 
+  <!-- 02/09/15 18:32:06 02/09/15 18:32:06 --> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-medblue-wide" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
+  <link type="text/css" rel="stylesheet" href="/css/local.css" media="all"> 
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css"> 
+  <script type="text/javascript" src="//www.ucr.edu/min/g=js2"></script> 
+  <!-- Google Universal Analytics --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script> 
+  <script type="text/javascript" src="/highslide/highslide-with-html.js"></script> 
+  <script type="text/javascript" src="/highslide/highslide.config.js" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="/highslide/highslide.css"> 
+  <!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/highslide/highslide-ie6.css" />
+<![endif]--> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://hr.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <img class="overlay" src="/images/overlays/masthead_agsm.png" alt=""> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt="University of California, Riverside" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://hr.ucr.edu/"><span class="printonly">Human Resources</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://hr.ucr.edu/">Human Resources</a> &gt;</li> 
+    <li class="lastitem">Disability Management</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input type="hidden" id="sitesearch" name="sitesearch" value="hr.ucr.edu"> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Disability Management</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li><a href="/jobs.html" title="Jobs">Jobs</a></li>
+       <li><a href="/salary.html" title="Salary Information">Salary Information</a></li>
+       <li><a href="/benefits.html" title="Benefits">Benefits</a></li>
+       <li><a href="/education.html" title="Education &amp; Development">Education &amp; Development</a></li>
+       <li><a href="/recruitment/recruitment.html" title="Recruitment &amp; Selection">Recruitment &amp; Selection</a></li>
+       <li><a href="/policies.html" title="Policies &amp; Contracts">Policies &amp; Contracts</a></li>
+       <li><a href="/employee.html" title="Employee Resources">Employee Resources</a>
+        <ul>
+         <li><a href="/employee/classification.html" title="Compensation &amp; Classification">Compensation &amp; Classification</a></li>
+         <li><a href="/employee/conflict.html" title="Conflict Management">Conflict Management</a></li>
+         <li><a href="/employee/fsap.html" title="Faculty &amp; Staff Assistance Program">Faculty &amp; Staff Assistance Program</a></li>
+         <li><a href="/employee/layoff.html" title="Layoff Information">Layoff Information</a></li>
+         <li><a href="/employee/performance.html" title="Performance Management - Employee Guidance">Performance Management - Employee Guidance</a></li>
+         <li class="currentpage"><h3><dfn>Current page is: </dfn>Workplace Health &amp; Wellness</h3></li>
+        </ul></li>
+       <li><a href="/supervisor.html" title="Supervisor Resources">Supervisor Resources</a></li>
+       <li><a href="/worklife.html" title="Work / Life &amp; Wellness">Work / Life &amp; Wellness</a></li>
+       <li><a href="/publicationsanddocuments.html" title="Forms and Documents">Forms and Documents</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" --> 
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <p>
+       <!-- com.omniupdate.div label="home-image" group="Everyone" button="727" -->
+       <!-- com.omniupdate.editor toolbar="IMG_ONLY" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --><img src="/images/banners/23hr_employee_resources_disability_management.png" alt="Disability Management: Reasonable Accomodation, Interactive Process" width="700" height="144">
+       <!-- /com.omniupdate.div --></p> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <h3>Disability Management Program</h3> 
+      <p>The Disability Management Office is designed to act as a resource to UCR departments with respect to administration of Federal and State disability laws and University policies relating to employees with disabilities. We provide educational and early intervention services to prevent or minimize the effects of disability in the work place thru the interactive process in consulting with employee, management and other Human Resource units regarding workplace disability issues. Comprehensive information regarding wellness for all UCR faculty and staff can be found on the <a href="/supervisor/disability.html">Disability Management website</a>.</p> 
+      <h3>Wellness Program</h3> 
+      <p>UC Riverside cares about the health of its entire campus community! A variety of wellness programs, events, services and resources are provided to assist employees on their wellness journey. Comprehensive information regarding wellness for all UCR faculty and staff can be found on the <a href="http://wellness.ucr.edu/" target="_blank">Wellness&nbsp;website</a>.</p> 
+      <h3>Ergonomics Program</h3> 
+      <p>Ergonomics is the science of fitting jobs and tools to people. It encompasses workstation, tool, and work-flow design to maximize efficiency and comfort. Ergonomics is a method used to prevent discomfort and injury associated with repetitive motions, unchanging and/or poor postures, and forceful motions or grips on objects. Comprehensive information regarding ergonomics can be found on the<a href="http://ergonomics.ucr.edu/"> Ergonomics website</a>.</p> 
+      <h3>Workers’ Compensation Program</h3> 
+      <p>University of California's mission is to provide a safe working environment for all employees and to minimize the adverse impact of work-related injuries. In this effort we provide a variety of safety, health and claims services for our employees. Our goal in requiring the reporting of incidents is to promote prompt notification of unsafe conditions so that prompt and appropriate remediation can take place.</p> 
+      <p>The Workers' Compensation Office is responsible for administering the campus self-insured workers' compensation program.&nbsp; Comprehensive information regarding ergonomics can be found on the <a href="/supervisor/workercomp.html">Workers’ Compensation website</a>.</p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Human Resources</strong><br> 1160 University Ave.<br> Riverside, CA 92521<br> 
+       <!--<a href="http://campusmap.ucr.edu/?loc=PRSNL" title="Campus Map">Human Resources</a><br /><br />
+Tel: (951) 827-2336--><br> Fax: (951) 827-2192
+       <!--<br />E-mail: <a href="mailto:hrquestions@ucr.edu?subject=Web Site Inquiry">hrquestions@ucr.edu</a>--></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="/docs/hr_org_chart.pdf">HR/LR Organizational Chart</a></li> 
+       <li><a href="http://academicpersonnel.ucr.edu/" target="_blank">Academic Personnel</a></li> 
+       <li><a href="http://www.ucop.edu/local-human-resources/">UCOP Human Resources</a></li> 
+       <li><a href="http://bas.ucr.edu/" target="_blank">Business and Administrative Services</a></li> 
+       <li><a href="http://ucpath.ucr.edu/" target="_blank">UCPath @ UCR</a></li> 
+       <li><a href="http://retirementbenefits.ucr.edu/">UCR Post Employment Benefits</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://hr.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2011 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01103&amp;site=hrdev&amp;path=%2Femployee%2Fdisability.html">Last modified: 2011-Oct-12</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.443456 seconds using 2.00 MiB of memory. -->   
+ </body>
+</html>

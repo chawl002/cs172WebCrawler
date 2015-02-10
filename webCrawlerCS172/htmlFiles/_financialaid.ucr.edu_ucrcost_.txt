@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta http-equiv="Expires" content="0"> 
+  <meta name="Description" content=""> 
+  <meta name="Author" content=""> 
+  <meta name="keywords" content=""> 
+  <meta name="copyright" content=""> 
+  <meta name="geo.country" content=""> 
+  <title>How Much Does UCR Cost?&nbsp;</title> 
+  <link rel="stylesheet" type="text/css" href="http://financialaid.ucr.edu/css/_global.import.css"> 
+  <link rel="stylesheet" type="text/css" media="all" href="http://financialaid.ucr.edu/css/masthead.css"> 
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css"> 
+  <link type="text/css" rel="stylesheet" media="all" href="http://financialaid.ucr.edu/css/default.local.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://financialaid.ucr.edu/scripts/jquery.controls.local.js"></script>
+  <style type="text/css">
+                                .watermark
+                                {
+                                   background-image: url('../images/google_custom_search_watermark.gif');
+                                   background-repeat: no-repeat;
+                                }
+
+                                .normal
+                                {
+                                }
+                                
+                                #height21 > * 
+                                {
+                                        margin: 2px;
+                                }
+        </style>
+  <script type="text/javascript">
+        function Search() {
+            window.location = "http://www.ucr.edu/search.php?q=" + document.getElementById("search-textbox").value; return false;
+        }
+
+                function OnFocus()
+                { 
+                        document.getElementById("search-textbox").className = "normal";   
+                }
+
+                function OnBlur()
+                {
+                        var textValue = document.getElementById("search-textbox").value;
+                        if (textValue.length == 0)
+                        {
+                                document.getElementById("search-textbox").className = "watermark";
+                        }
+                        else
+                        {
+                                document.getElementById("search-textbox").className = "normal";
+                        }
+                }
+      </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-503078-5', 'ucr.edu');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <hr> 
+   <div id="brandingbar">
+    <img class="overlay" src="http://financialaid.ucr.edu/images/mastheadoverlay.png" alt="overlay" border="0">
+    <h2 style="left: 0px; top: 0px"><span class="accessibility">University of California, Riverside</span><a title="UCR Home Page" href="http://www.ucr.edu/"><img width="150" height="53" title="UCR Home page" alt="UCR" src="http://financialaid.ucr.edu/images/ucr_logo.gif"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" class="mastheadbg">
+   <a href="http://financialaid.ucr.edu/index.html"></a>
+  </div> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <p class="bcinnerwrapper"><a title="UCR Home" href="http://www.ucr.edu/">UCR Home</a> &gt; <a title="UCR Card" href="http://vcsa.ucr.edu/">VCSA</a> &gt; <a title="Home" href="http://financialaid.ucr.edu/">Home</a> &gt; How Much Does UCR Cost?&nbsp; </p> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://www.campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <div class="valign" id="height21">
+     <label>Search for:</label>
+     <input id="search-textbox" type="text" class="watermark" onfocus="OnFocus()" onblur="OnBlur()" title="search">
+     <input type="button" value="Go" onclick="Search()">
+    </div> 
+   </div> 
+   <hr> 
+   <div id="content"> 
+    <h2 id="pagetitleman">How Much Does UCR Cost?&nbsp;&nbsp; </h2> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <ul> 
+       <li><a href="http://financialaid.ucr.edu/index.html">Home</a></li> 
+      </ul> 
+      <ul> 
+       <li><a href="http://financialaid.ucr.edu/ucrcost/index.html">How Much Does UCR Cost?</a></li> 
+       <li><a href="http://financialaid.ucr.edu/qualify/index.html">Do You Qualify?</a>
+        <ul> 
+         <li><a href="http://vcsaweb.ucr.edu/FinAidManualCalculator/">Net Price Calculator</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/typesaid/index.html">Types of Aid</a>
+        <ul> 
+         <li><a href="http://financialaid.ucr.edu/typesaid/loans.html">Loans</a></li> 
+         <li><a href="http://financialaid.ucr.edu/typesaid/grants.html">Grants</a></li> 
+         <li><a href="http://financialaid.ucr.edu/typesaid/scholarships.html">Scholarships</a></li> 
+         <li><a href="http://careers.ucr.edu/jobs/Pages/Jobs.aspx">Student Employment</a></li> 
+         <li><a href="http://financialaid.ucr.edu/typesaid/workstudy.html">Work Study</a></li> 
+         <li><a href="http://financialaid.ucr.edu/typesaid/otherresources.html">Other Resources</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/apply/index.html">How to Apply</a>
+        <ul> 
+         <li><a href="http://financialaid.ucr.edu/apply/overviewforapplying.html">Overview for Applying</a></li> 
+         <li><a href="http://financialaid.ucr.edu/apply/nextstepsforapplying.html">Next Steps for Applying</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/receiveaid/index.html">Receiving Your Aid</a>
+        <ul> 
+         <li><a href="http://financialaid.ucr.edu/receiveaid/nextsteps.html">Next Steps</a></li> 
+         <li><a href="http://financialaid.ucr.edu/receiveaid/awarddisbursal.html">Award Disbursal</a></li> 
+         <li><a href="http://financialaid.ucr.edu/receiveaid/enrollmentrequirements.html">Enrollment Requirements</a></li> 
+         <li><a href="http://financialaid.ucr.edu/receiveaid/holds.html">Holds</a></li> 
+         <li><a href="http://financialaid.ucr.edu/receiveaid/unpaidcharges.html">Unpaid Charges</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/maintaineligibility/index.html">Maintaining Your Eligibility</a>
+        <ul> 
+         <li><a href="http://financialaid.ucr.edu/maintaineligibility/academic.html">Academic</a></li> 
+         <li><a href="http://financialaid.ucr.edu/maintaineligibility/enrollment.html">Enrollment</a></li> 
+         <li><a href="http://financialaid.ucr.edu/maintaineligibility/payment.html">Payment</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/formsvideos/index.html">Forms, Videos and Other Resources</a>
+        <ul> 
+         <li><a href="http://financialaid.ucr.edu/formsvideos/forms.html">Forms</a></li> 
+        </ul> </li> 
+       <li><a href="http://financialaid.ucr.edu/freqaskedquestions/index.html">Frequently Asked Questions</a></li> 
+       <li><a href="http://financialaid.ucr.edu/contact/index.html">Contact Us</a></li> 
+       <li><a href="http://financialaid.ucr.edu/consumerinfo/index.html">Consumer and Safety Information</a></li> 
+      </ul> 
+     </div>
+     <br>
+     <img src="http://financialaid.ucr.edu/images/blue_gold.png" width="220" height="39" usemap="#blueandgold" alt="">
+     <map name="blueandgold" id="blueandgold"> <area shape="rect" coords="1,1,156,41" href="http://www.universityofcalifornia.edu/admissions/paying-for-uc/financial-aid/grants/blue-gold/index.html" target="_blank" alt="Blue and Gold - Paying for UC"> <area shape="rect" coords="155,0,234,20" href="http://financialaid.ucr.edu/dates.html" alt="Dates"> <area shape="rect" coords="155,20,234,40" href="http://financialaid.ucr.edu/freqaskedquestions/index.html" alt="FAQs"></map>
+     <p><a class="img_link" href="http://my.ucr.edu"><img src="http://financialaid.ucr.edu/images/discovermyucr.jpg" alt="Discover My UCR"></a></p> 
+     <div id="leftcolumncallouts"> 
+      <div id="translateContainer"> 
+       <h3> Translate <img src="http://financialaid.ucr.edu/images/flagChinese_18.png" alt="Translate"><img src="http://financialaid.ucr.edu/images/flagKorea_18.png" alt="Translate"><img src="http://financialaid.ucr.edu/images/flagHindu_18.png" alt="Translate"><img src="http://financialaid.ucr.edu/images/flagArab_18.png" alt="Translate"></h3> 
+       <div id="google_translate_element"></div>
+       <script type="text/javascript">
+            function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+            }
+          </script>
+       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+      </div> 
+     </div> 
+    </div> 
+    <hr> 
+    <div id="main"> 
+     <!-- ouc:div label="maincontent" group="Everyone" button="700" -->
+     <script type="text/javascript" src="../scripts/verticaltabs.js"></script> 
+     <link href="../css/verticaltabs.css" rel="stylesheet" type="text/css"> 
+     <!-- Federal Code --> 
+     <div class="schoolcode">
+      Federal School Code: 
+      <strong>001316</strong>
+     </div> 
+     <!-- Quicklinks --> 
+     <div id="button">
+      <img class="menu_class" src="../images/quicklinks.gif" alt="Quick Links"> 
+      <ul class="the_menu"> 
+       <li><a href="../contact/index.html">Contact Us</a></li> 
+       <li><a href="../qualify/index.html?p=1">Deadlines</a></li> 
+       <li><a href="../qualify/index.html">Do You Qualify?</a></li> 
+       <li><a href="../freqaskedquestions/index.html">Frequently Asked Questions</a></li> 
+       <li><a href="../typesaid/grants.html">Grants</a></li> 
+       <li><a href="../apply/index.html">How to Apply</a></li> 
+       <li><a href="../typesaid/loans.html">Loans</a></li> 
+       <li><a href="../qualify/index.html">Receiving Your Aid</a></li> 
+       <li><a href="../typesaid/scholarships.html">Scholarships</a></li> 
+       <li><a href="index.html">UCR Costs</a></li> 
+       <li><a href="../typesaid/workstudy.html">Work Study</a></li> 
+       <li><a href="../consumerinfo/index.html">Consumer and Safety Information</a></li> 
+      </ul> 
+     </div> 
+     <br class="clear"> 
+     <br> 
+     <!--<div class="fancyboxContent">&nbsp;</div>--> 
+     <div id="ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichImageField" style="display: inline;">
+      <span dir=""> <img style="border: 0px solid;" src="../images/howmuchucrcostlandingheader.jpg" border="0" alt="How Much Does UCR Cost?"> </span>&nbsp; 
+     </div> 
+     <div class="column23"> 
+      <div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <h3>Get the Best Deal</h3> 
+       <p class="openuptext-top">UC Riverside offers you an excellent learning environment, a diverse student body, talented faculty, and a beautiful campus…all at an affordable price! The university was ranked among America's top "25 best college buys" by Forbes Magazine in 2009. </p> 
+       <p class="openuptext-top">While enrolled at UC Riverside, you can expect expenses associated with fees, Undergraduate Student Health Insurance Premium (USHIP), books and supplies, housing, food, travel, and miscellaneous items. These costs may vary widely depending on personal factors, like where you live while you're in school,&nbsp;whether you have children, and how much you spend on personal expenses. UCR uses average student expenses to estimate the cost of attendance for students in various categories. Your actual costs may vary. </p> 
+       <p class="openuptext-top"><span>Below you can find more information on how much it costs to attend UCR along with ways to reduce costs so you can cover all your expenses during the academic year. </span></p> 
+       <div id="data1"> 
+        <table class="gadient-style" border="1"> 
+         <tbody> 
+          <tr> 
+           <td colspan="5"> <p style="text-align: center;">2014 – 2015 Estimated Costs for Undergraduates</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>&nbsp;</p> </td> 
+           <td> <p style="text-align: center;">With Parents</p> </td> 
+           <td> <p style="text-align: center;">Residence Halls</p> </td> 
+           <td> <p style="text-align: center;">Campus&nbsp; Apartments</p> </td> 
+           <td> <p style="text-align: center;">Off Campus</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Tuition and Fees*</p> </td> 
+           <td> <p style="text-align: center;">$14,800</p> </td> 
+           <td> <p style="text-align: center;">$14,800</p> </td> 
+           <td> <p style="text-align: center;">$14,800</p> </td> 
+           <td> <p style="text-align: center;">$14,800</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Room and Board</p> </td> 
+           <td> <p style="text-align: center;">$4,650</p> </td> 
+           <td> <p style="text-align: center;">$15,000</p> </td> 
+           <td> <p style="text-align: center;">$8,300</p> </td> 
+           <td> <p style="text-align: center;">$8,600</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Books/Supplies</p> </td> 
+           <td> <p style="text-align: center;">$1,700</p> </td> 
+           <td> <p style="text-align: center;">$1,700</p> </td> 
+           <td> <p style="text-align: center;">$1,700</p> </td> 
+           <td> <p style="text-align: center;">$1,700</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Transportation</p> </td> 
+           <td> <p style="text-align: center;">$1,650</p> </td> 
+           <td> <p style="text-align: center;">$900</p> </td> 
+           <td> <p style="text-align: center;">$900</p> </td> 
+           <td> <p style="text-align: center;">$1,650</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Personal Expenses</p> </td> 
+           <td> <p style="text-align: center;">$2,000</p> </td> 
+           <td> <p style="text-align: center;">$1,900</p> </td> 
+           <td> <p style="text-align: center;">$1,900</p> </td> 
+           <td> <p style="text-align: center;">$1,950</p> </td> 
+          </tr> 
+          <tr> 
+           <td valign="top"> <p>Total</p> </td> 
+           <td> <p style="text-align: center;">$24,800</p> </td> 
+           <td> <p style="text-align: center;">$34,300</p> </td> 
+           <td> <p style="text-align: center;">$27,600</p> </td> 
+           <td> <p style="text-align: center;">$28,700</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="5" valign="top"> <p>&nbsp;</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="5"> <p>*Estimated USHIP = $1,392: Fees including USHIP = $14,799.24; fees if USHIP is waived = $13,407.24&nbsp; </p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="5"> <p>Non-Resident Tuition and Fees: &nbsp;$37,678 Undergraduates ($14,800 Tuition and Fees + $22,878 Non-Resident Supplemental Tuition) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="5"> <p><span style="font-size: 10pt; font-family: 'arial','sans-serif';">The tuition, fees, and charges posted here are estimates based on currently approved amounts.&nbsp; These figures may not be final.&nbsp; Actual tuition, fees, and charges are subject to change by the Regents of the University of California and could be affected by State funding reductions.&nbsp; Accordingly, final approved levels (and thus a student’s final balance due) may differ from the amounts shown.</span></p> </td> 
+          </tr> 
+         </tbody> 
+        </table> 
+       </div> 
+       <p>If you incur additional school-related expenses during the current academic year above your budget, you may request a budget increase. Budget increases are considered on a case-by-case basis and are funded with loans. To request a budget increase for the following expenses, please complete the applicable section of the <a href="../docs/Budget%20Increase%20Request.pdf" target="_blank">Budget Increase Request</a> form:<br> <br>•&nbsp;Computer purchase<br>•&nbsp;Major Car Repair Expenses (not covered by insurance)<br>•&nbsp;Medical/ Dental/ Optical Costs<br> <br>To request a budget increase for child care expenses for your dependent child/children, please&nbsp;print the <a title="" href="../docs/childcareverificationformpdfdoc12-13f.pdf" target="_blank">Child Care Verification Form</a>, complete it with&nbsp;your child&nbsp;care provider,&nbsp;and submit it to the Financial Aid Office. You may contact the Financial Aid Office if you have other school-related expenses not listed here. </p> 
+       <p>&nbsp;</p> 
+      </div> 
+     </div> 
+     <div class="column3R"> 
+      <div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" style="display: inline;"> 
+       <ul class="big_links fullWidth"> 
+        <li><a title="" href="../typesaid/grants.html"> <img src="../images/sidespot_grant.jpg" border="0" alt="Types of Grants"> <br> <strong>Types of Grants</strong>Learn about all the different<br>grants&nbsp;available to you! </a></li> 
+        <li><a title="Types of Scholarships" href="../typesaid/scholarships.html"> <img src="../images/typescholarshipsthumb.jpg" border="0" alt="Types of Scholarships"> <br> <strong>Types of Scholarships</strong>Find out more about deadlines<br>and eligibility requirements. </a></li> 
+        <li><a title="" href="../typesaid/loans.html"> <img src="../images/overviewapply_loansthumbs.jpg" border="0" alt="Types of Loans"> <br> <strong>Types of Loans</strong> Loan programs are available,<br>regardless of income. </a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <br class="clear"> 
+     <table border="0"> 
+      <tbody> 
+       <tr> 
+        <td valign="top"> 
+         <div id="WebPartWPQ2"> 
+          <div id="verticalSliderWrapper"> 
+           <ul class="verticalslider_tabs" style="border: 1px solid #999999;"> 
+            <li><a href="#tab8">Learn About Basic Costs</a></li> 
+            <li><a href="#tab17">Live in UCR Housing</a></li> 
+            <li><a href="#tab18">Pay Your Fees</a></li> 
+            <li><a href="#tab19">Defer Payments</a></li> 
+            <li><a href="#tab20">Set a Budget</a></li> 
+            <li><a href="#tab21">Use the Net Price Calculator</a></li> 
+           </ul> 
+           <div id="tab8" class="verticalslider_contents"> 
+            <h3>Learn About Basic Costs</h3> 
+            <p>Basic costs include University of California&nbsp;tuition and&nbsp;student sevices&nbsp;fees and campus-based fees for activities and facilities. Students who are not California residents must pay non-resident tuition and fees. The amount of your tuition and fees is based on the following factors: Undergraduate or graduate status, professional student status (i.e., M.B.A. or medical school), and California residency status. Find more info on <a title="Tuition and Fees" href="http://classes.ucr.edu/fees/schedule.htm" target="_blank">tuition and fees</a>. </p> 
+            <p>Students enrolled in Summer Session will be charged on a per course basis according to the fee schedules published in the <a title="UCR Summer Session Catalog" href="http://summer.ucr.edu/" target="_blank">Summer Session Catalog</a>. </p> 
+           </div> 
+           <div id="tab17" class="verticalslider_contents"> 
+            <h3>Live in UCR Housing</h3> 
+            <p>UCR offers <a title="On-Campus Housing" href="http://housing.ucr.edu/" target="_blank">on-campus housing</a> in residence halls and campus apartments. Apartments are available for undergraduate and graduate students, and family student housing is available for married students and students with children. Students in the residence halls have a housing contract that includes room and board. Some campus apartments include the cost of utilities in monthly lease rates. For more information on campus housing, contact the Housing Office at (951) 827-6350. </p> 
+           </div> 
+           <div id="tab18" class="verticalslider_contents"> 
+            <h3>Pay Your Fees</h3> 
+            <p>The Student Business Services Office sends all students a monthly Statement of Account, which includes all fees due and any other outstanding institutional charges. Tuition and fees may be paid by mail or in-person at UCR's Main Cashier's Office, located in the Student Services Building. Tuition and fees must be paid by the <a title="Fee Payment Deadlines" href="http://classes.ucr.edu/enrollment/calendar.htm" target="_blank">fee payment deadlines</a> in order to avoid a $50 late fee and loss of classes for the quarter. </p> 
+            <h4>For 2014-15, the deadline to pay fees each quarter is as follows:</h4> 
+            <ul> 
+             <li>Fall: September 15, 2014</li> 
+             <li>Winter: December 15, 2014</li> 
+             <li>Spring: March 13, 2015</li> 
+            </ul> 
+            <p><strong>Other charges</strong> are due within 30 days&nbsp;of the date they appear on the monthly Statement of Account. </p> 
+            <p><strong>Institutional charges</strong> may be paid in cash, with a check, by eCheck or by <a title="GROWL" href="https://ucribm.ucr.edu/Paws/Growl.html" target="_blank">credit card via GROWL</a>. American Express, MasterCard, and Discover credit cards are accepted for payment to student accounts via the Web. (Visa cards are not accepted.) A nonrefundable convenience fee is assessed for using this payment method. The Cashiers Office is not able to take any credit card payments at its counter. </p> 
+           </div> 
+           <div id="tab19" class="verticalslider_contents"> 
+            <h3>Defer Payments</h3> 
+            <p>A Deferred Payment Plan (DPP) is available to students who wish to pay fees and tuition in three monthly installments each quarter. The DPP program may cover the difference between fees and tuition, and any grants, scholarships, and waivers&nbsp;credited towards fees for the quarter. DPP is not available to cover UCR Extension&nbsp;courses. There is an application fee for participation in this program. For more information on the Deferred Payment Program and an application, visit <a title="Student Business Services" href="http://www.sbs.ucr.edu/" target="_blank">Student Business Services</a>, part of the Highlander One-Stop Shop (HOSS) located on the first floor of the Student Services Building. </p> 
+           </div> 
+           <div id="tab20" class="verticalslider_contents"> 
+            <h3>Set a Budget</h3> 
+            <p>One of the important things to learn while you are in school is how to manage your money. Establishing a budget permits you to identify what your monthly or quarterly income will be and what your anticipated expenses are. If your expenses are greater than your resources, you will need to look at options for cutting your costs or supplementing your income. Suggestions may include getting a part-time job during the school year or a summer job, sharing expenses with one or more roommates, finding an apartment with lower rent, conserving on utilities, limiting the amount that you eat out, and spending less on clothes, personal costs, and entertainment. Plan a <a title="Budgeting Worksheet" href="../docs/budgeting_worksheet.pdf" target="_blank">budget</a> to ensure you have enough money to pay for tuition/fees, housing, food and other personal expenses. </p> 
+           </div> 
+           <div id="tab21" class="verticalslider_contents"> 
+            <h3>Use the Net Price Calculator</h3> 
+            <p><a title="" href="http://vcsaweb.ucr.edu/FinAidManualCalculator/" target="_blank">Get an estimate</a> of your financial aid award should you choose to enroll at UC Riverside. </p> 
+           </div> 
+          </div> 
+         </div> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <!-- /ouc:div --> 
+    </div>
+    <br class="clear">
+   </div> 
+  </div>
+  <br class="clear">
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address><span class="vcard"><strong><span class="fn org">University of California, Riverside</span></strong><br><span class="adr"><span class="street-address">900 University Ave.</span><br><span class="locality">Riverside</span>, <span class="region">CA</span>&nbsp;<span class="postal-code">92521</span><br></span> Tel: <span class="tel">(951) 827-1012</span><br><br></span></address> 
+      <ul class="footer_links"> 
+       <li><a href="http://library.ucr.edu/">UCR Libraries</a></li> 
+       <li><a href="http://campusstatus.ucr.edu/">Campus Status</a></li> 
+       <li><a href="http://campusstore.ucr.edu/">Campus Store</a></li> 
+       <li><a href="http://www.ucr.edu/employment.html">Career Opportunities</a></li> 
+       <li><a href="http://diversity.ucr.edu/">Diversity</a></li> 
+       <li><a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></li> 
+       <li><a href="http://admissions.ucr.edu/VisitUCR">Visit UCR</a></li> 
+      </ul> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+       <tbody>
+        <tr> 
+         <td valign="top"> 
+          <div> 
+           <address><strong>UCR Financial Aid Office</strong><br><a href="http://www.campusmap.ucr.edu/campusMap.php?loc=SSB" title="Campus Map">900 University Ave.</a><br><br> Tel: 951-827-3878<br> Fax: 951-827-5619<br> E-mail: <a href="mailto:[finaid@ucr.edu">finaid@ucr.edu</a></address> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://www.sbs.ucr.edu/">Student Business Services</a></li> 
+       <li><a href="http://registrar.ucr.edu/">Office of the Registrar</a></li> 
+       <li><a href="http://my.ucr.edu/">MyUCR - Admissions</a></li> 
+       <li><a href="http://housing.ucr.edu/">Housing Services</a></li> 
+       <li><a href="http://rdream.ucr.edu/">R'Dream</a></li> 
+      </ul> 
+     </div>
+     <br class="clear">
+    </div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul> 
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li> 
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li> 
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li> 
+      <li><a id="nav_footer_admissions" href="http://admissions.ucr.edu"><span>Admissions</span></a></li> 
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li> 
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li> 
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li> 
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li> 
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li> 
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© <script language="JavaScript" type="text/javascript">
+					  	var now = new Date();
+						var currentYear = now.getFullYear();
+						document.write(currentYear);
+					</script> Regents of the University of California</li> 
+      <li> 
+       <!-- com.omniupdate.ob --><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01287&amp;site=vcsa-finaid&amp;path=%2Fucrcost%2Findex.pcf" target="_top">Last Modified: 8/27/14</a>
+       <!-- /com.omniupdate.ob --> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>  
+ </body>
+</html>

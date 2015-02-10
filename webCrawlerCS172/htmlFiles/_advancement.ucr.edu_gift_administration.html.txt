@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2014-02-04"> 
   <meta name="version" content="2.69 2.163 "> 
-  <!-- 02/09/15 12:16:39 02/09/15 13:05:13 --> 
+  <!-- 02/09/15 18:02:33 02/09/15 18:46:56 --> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/g=6bis-bluea-wide" media="all"> 
   <link type="text/css" rel="stylesheet" href="//www.ucr.edu/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
@@ -35,7 +35,7 @@
     <h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="//www.ucr.edu/images/design6/ucr_monogram.gif" width="55" height="53" alt=""><span class="accessibility">University of California, Riverside</span></a></h1> 
    </div> 
   </div> 
-  <div id="masthead" style="background-image:url(/images/mastheads/14.jpg);"> 
+  <div id="masthead" style="background-image:url(/images/mastheads/05.jpg);"> 
    <h1><a href="//advancement.ucr.edu/"><span class="printonly">University Advancement</span></a></h1> 
   </div> 
   <!-- Status: Normal --> 
@@ -118,7 +118,7 @@
       <h4 class="section2">Contact Us</h4> 
       <p><strong>Tel:</strong> (951) 827-3486</p> 
       <p> 
-       <!-- Directory accessed  9-Feb-2015 12:16:39 --> </p>
+       <!-- Directory accessed  9-Feb-2015 18:02:33 --> </p>
       <table class="directory" cellspacing="0"> 
        <thead> 
         <tr> 
@@ -225,6 +225,6 @@
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.0283 seconds using 1.00 MiB of memory. -->   
+  <!-- Generated in 0.3423 seconds using 1.00 MiB of memory. -->   
  </body>
 </html>

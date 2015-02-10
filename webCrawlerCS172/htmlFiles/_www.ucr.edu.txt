@@ -168,10 +168,6 @@ document.getElementById("masthead_home").style['backgroundImage'] = 'url(/images
       <p>Two Highlanders are competing on the nationally televised reality show "American Idol."</p> 
      </div> 
      <div class="news_highlight"> 
-      <h4><a href="http://ucrtoday.ucr.edu/26824" onclick="javascript:ga('send','event','Highlight','Link','http://ucrtoday.ucr.edu/26824');"><img src="/images/notes/01899.jpg" alt="" height="56" width="56">Chancellor Channels President Lincoln</a></h4> 
-      <p>Kim A. Wilcox narrates Aaron Copland’s “Lincoln Portrait” at a concert on Feb. 7 and 8.</p> 
-     </div> 
-     <div class="news_highlight"> 
       <h4><a href="http://ucrtoday.ucr.edu/26810" onclick="javascript:ga('send','event','Highlight','Link','http://ucrtoday.ucr.edu/26810');"><img src="/images/notes/01901.jpg" alt="" height="56" width="56">Researchers Make Magnetic Graphene</a></h4> 
       <p>UC Riverside research could lead to new multi-functional electronic devices.</p> 
      </div> 

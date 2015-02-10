@@ -4,7 +4,7 @@
   <title>Bourns College of Engineering: Home</title> 
   <meta http-equiv="last-modified" content="2015-02-03"> 
   <meta name="version" content="2.62 2.123 "> 
-  <!-- 02/09/15 17:31:39 02/09/15 18:17:46 --> 
+  <!-- 02/09/15 18:31:58 02/09/15 18:49:38 --> 
   <!--link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
@@ -208,7 +208,7 @@ $LAB.script("http://www.ucr.edu/min/f=js/glider.js").wait(function(){
 });
 </script> 
        <h3 id="l_news_ttl">College News</h3> 
-       <!-- Feed accessed 2015-02-09T17:31:39-08:00--> 
+       <!-- Feed accessed 2015-02-09T18:31:58-08:00--> 
        <div class="l_news_list"> 
         <h4><a href="http://www.engr.ucr.edu/news/2015/2015-02-03.html"><img alt="Claire Tran" src="http://www.engr.ucr.edu/images/news/Claire Tran58px.jpg">Undergraduate STEM researchers earn top national awards</a></h4> 
         <p>Engineering seniors Joel Sanchez and Claire Tran recently received top awards for their research presented at the Annual Biomedical Research Conference for Minority Students (ABRCMS) in San Antonio, Texas. The Bourns College of Engineering undergraduates were among 17 students nationwide whose work was honored as outstanding in their disciplines of engineering, physics, and mathematics.</p> 
@@ -343,6 +343,6 @@ $LAB.script("http://www.ucr.edu/min/f=js/glider.js").wait(function(){
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.005093 seconds using 1.25 MiB of memory. -->   
+  <!-- Generated in 0.005174 seconds using 1.25 MiB of memory. -->   
  </body>
 </html>

@@ -1,0 +1,125 @@
+<!-- TODAY -->
+<!-- PAST -->
+<!--UPCOMING --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>UCR ARTSblock | Digital Studio</title> 
+  <meta name="author" content="UCR ARTSblock at artsblock@ucr.edu"> 
+  <meta name="generator" content="FileMaker Pro"> 
+  <!-- leave this for stats --> 
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen"> 
+  <link rel="alternate" type="application/rss+xml" title="ARTSblock RSS Feed" href="http://feeds.feedburner.com/ucrartsblock"> 
+  <meta name="description" content="UCR ARTSblock's Digital Studio program works with local and regional arts organizations, businesses, and teachers to develop engaging media-based programs, lectures, and family-friendly events that serve as lifelong learning opportunities for all ages"> 
+  <meta name="keywords" content="University of California, Riverside, UCR ARTSblock, Digtial Studio, digital studio photography, digital studios, digital studio art, community outreach, outreach community, community outreach programs, youth community outreach, outreach riverside, riverside community events"> 
+  <link rel="canonical" href="http://digitalstudio.ucr.edu/"> 
+  <meta name="robots" content="noydir"> 
+  <meta name="google-site-verification" content="_Fw0P1M6b5Fnczp5M1xQhu01gtb9Z_sBGuV94VVuVGc"> 
+  <script type="text/javascript" src="swfobject.js"></script> 
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+  <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-998196-5");
+pageTracker._trackPageview();
+} catch(err) {}</script> 
+  <!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.twoColFixRtHdr #sidebar1 { width: 220px; }
+</style>
+<![endif]-->
+  <!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColFixRtHdr #sidebar1 { padding-top: 30px; }
+.twoColFixRtHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+ </head> 
+ <body> 
+  <!-- class="all"--> 
+  <div class="all"> 
+   <!-- start #header --> 
+   <div id="header"> 
+    <a href="default.lasso"><img src="images/digitalstudio_logo.png" width="457" height="93" border="0" alt="UCR ARTSblock's Digital Studio program works with local and regional arts organizations, businesses, and teachers to develop engaging media-based programs, lectures, and family-friendly events that serve as lifelong learning opportunities for all ages" name="UCR ARTSblock Digital Studio"></a> 
+   </div> 
+   <div id="menu"></div>
+   <div id="nav">
+    <a href="upcoming.lasso" class="nav">upcoming</a> | 
+    <a href="pages.lasso?archive" class="nav">archive</a> | 
+    <a href="pages.lasso?programs" class="nav">programs</a> | 
+    <a href="pages.lasso?about" class="nav">about us</a> | 
+    <a href="http://offtheblock.ucr.edu" class="nav">off the block</a> | 
+    <a href="https://advancementservices.ucr.edu/GivingForm.aspx?dept=UCR%20ARTSBlock" class="nav">support</a> 
+   </div> 
+   <!-- end #header --> 
+   <!-- start cont --> 
+   <div id="spotlight_float"> 
+    <div id="spotlight">
+     Spotlight Banner Goes Here
+    </div> 
+    <script type="text/javascript">
+		var so = new SWFObject("spotlight.swf", "spotlight", "570", "380", "9", "#EBEBEB");
+		so.write("spotlight");
+	</script>
+   </div> 
+   <div id="mainContent"></div> 
+   <div id="mainContent_cnt">
+    <img src="images/spacer.gif" width="1" height="450" border="0">
+    <br> 
+    <strong>UCR ARTSblock's Digital Studio</strong> program works with local and regional arts organizations, businesses, and teachers to develop engaging media-based programs, lectures, and family-friendly events that serve as lifelong learning opportunities for all ages. In the Digital Studio computer lab and gallery, visiting artists, educators and the general public are able to work with leading-edge media technology through access, residencies, and professional training on a regular basis.
+   </div> 
+   <!-- end #mainContent --> 
+   <!-- start #SideBar --> 
+   <!-- #SideBar --> 
+   <div id="sidebar_float"> 
+   </div> 
+   <!-- end #SideBar --> 
+   <!-- /#SideBar --> 
+   <!-- /cont--> 
+   <!-- footer ---> 
+   <!-- foot--> 
+   <div id="footer"></div> 
+   <div id="footer_cnt"> 
+    <div style=" clear:both;" align="center"> 
+     <div class="footer_header"> 
+      <div class="footer_header menu2"> 
+       <div class="menu2_ul"> 
+        <ul> 
+         <li>General Information</li> 
+         <li>Digital Studio Info</li> 
+         <li>&nbsp;&nbsp;&nbsp;Related Links</li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="footer_box"> 
+      <div class="cnt1"> 
+       <div class="cnt1_ul"> 
+        <ul> 
+         <li>UCR ARTSblock<br> 3824 Main Street<br> Riverside, CA 92501<br> Tel: (951) 827-5191</li> 
+         <li> Tel: (951) 827-4787<br> Email: digitalstudioinfo@ucr.edu </li> 
+         <li> <a href="http://artsblock.ucr.edu/">UCR ARTSblock</a><br> <a href="http://offtheblock.ucr.edu/">OFF THE BLOCK</a><br> <a href="http://sweeney.ucr.edu/">Sweeney Art Gallery</a><br> <a href="http://cmp.ucr.edu/">California Museum of Photography</a><br> <a href="http://culvercenter.ucr.edu/">Culver Center of the Arts</a><br> <a href="http://artsblock.ucr.edu/main.php?content=events-week">Events Calendar</a><br> <br> <img src="images/rss.png" alt="RSS 2.0"> <a href="http://feeds.feedburner.com/ucrartsblock">Subscribe to ARTSblock RSS</a> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="footer_copy"> 
+     <div class="footer_copy copy">
+      © 2009 Regents of the University of California
+     </div> 
+    </div> 
+    <div class="cnt_img"> 
+     <a href="http://artsblock.ucr.edu/"><img title="UCR ARTSblock" src="images/artsblock_logo.jpg" height="150" width="150" alt="UCR ARTSblock" border="0"></a> 
+    </div> 
+   </div> 
+   <!-- /foot--> 
+  </div> 
+  <!-- end #footer --> 
+ </body>
+</html>

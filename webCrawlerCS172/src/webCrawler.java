@@ -263,15 +263,18 @@ public static void crawl_frontier(Integer numPagesToSearchFor, Integer numHopsAw
 	
 	public static void main(String [] args) throws MalformedURLException
 	{
-		Integer numberOfPagesToCrawl = 100;
+		Integer numberOfPagesToCrawl;
 		//Integer numberOfHopsAwayFromSeed = 1;//6;
-		if(args.length > 1 && args.length < 4)
+		if(args.length > 1)
 		{
-			numberOfPagesToCrawl = Integer.parseInt(args[1]);
+			numberOfPagesToCrawl = Integer.parseInt(args[0]);
+			System.out.println(numberOfPagesToCrawl);
 			//numberOfHopsAwayFromSeed = Integer.parseInt(args[2]);
 		}
 		else {
 			//do nothing
+			numberOfPagesToCrawl = 100;
+			System.out.println("Default value, 100, is used for number of pages to crawl\n");
 		}
 
 		

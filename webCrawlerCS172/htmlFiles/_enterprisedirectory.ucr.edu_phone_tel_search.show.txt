@@ -1,0 +1,6 @@
+<html>
+ <head>
+  <script language="Javascript">self.location="http://enterprisedirectory.ucr.edu";</script> 
+ </head>
+ <body></body>
+</html>

@@ -1,0 +1,1490 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Police Department: CLERY</title> 
+  <meta http-equiv="last-modified" content="2014-12-12"> 
+  <meta name="version" content="2.45 2.72 "> 
+  <!-- 02/09/15 18:47:12 02/09/15 18:47:12 --> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://police.ucr.edu/" accesskey="1">Home Page</a></li> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://police.ucr.edu/"><span class="printonly">Police Department</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li><a href="http://police.ucr.edu/">Police Department</a> &gt;</li> 
+    <li class="lastitem">CLERY</li> 
+   </ul> 
+  </div> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="18" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>CLERY</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li><a href="/" title="Home">Home<br><span></span></a></li>
+       <li><a href="/faq/resources.html" title="Services">Services</a></li>
+       <li><a href="/press_logs.html" title="Press Logs">Press Logs</a></li>
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Annual Security Report (Clery Act)</h3>
+        <ul>
+         <li><a href="/clery/definitions.html" title="Definitions">Definitions</a></li>
+        </ul></li>
+       <li><a href="http://police-statistics.universityofcalifornia.edu/" title="UC Annual Crime Statistics">UC Annual Crime Statistics</a></li>
+       <li><a href="/prevention.html" title="Crime Prevention">Crime Prevention</a></li>
+       <li><a href="/cso/cso.html" title="Community Service Officers">Community Service Officers</a></li>
+       <li><a href="/unet/unet.html" title="UNET">UNET</a></li>
+       <li><a href="/contact.html" title="Contact Us">Contact Us</a></li>
+       <li><a href="/feedback.html" title="Comments &amp; Suggestions">Comments &amp; Suggestions</a></li>
+       <li><a href="/ucrpgsa.pdf" title="UCR's Principles Guiding Speech &amp; Assembly">UCR's Principles Guiding Speech &amp; Assembly</a></li>
+       <li><a href="/useofforce.pdf" title="Policy: Use of Force">Policy: Use of Force</a></li>
+       <li><a href="/rpd.pdf" title="City of Riverside Police Dept. (RPD)">City of Riverside Police Dept. (RPD)</a></li>
+       <li><a href="/acknowledge.html" title="Crime Map">Crime Map</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <h2>University of California, Riverside&nbsp;Clery Act Annual&nbsp;Security Report</h2> 
+     <p>&nbsp;</p> 
+     <p><a href="/clery/cleryactannualcrimetablestatistics.pdf">Printable PDF of&nbsp;the Crime Table Statistics - Clery Act Annual&nbsp;Security Report</a></p> 
+     <p>Higher Education Opportunity Act (Clery Act)<br>Disclosure of Campus Security Policy and Campus Statistics<br>For any questions contact Judy Lane at <a href="mailto:Judy.Lane@ucr.edu">Judy.Lane@ucr.edu</a> or at&nbsp;(951) 827-6189</p> 
+     <p><a href="/clery2014.pdf">CLERY ACT Crime Statistics Collection Form 2014</a></p> 
+     <p>The University of California, Riverside is committed to protecting the safety and security of all students, staff, and faculty, as well as visitors to our campus, and to providing accurate and complete information regarding crimes committed in the campus community. We believe that our policies and programs for preventing and reducing crime, and our emergency notices, timely warnings and disclosure of crimes reported, promote a safer, more informed community. Please take time to read this information and, if you have questions, contact the resources identified below for assistance.</p> 
+     <p><em><strong>Clery </strong><strong>Act Overview and Important Information&nbsp;&amp; Links</strong></em></p> 
+     <p>The "Jeanne CLERY Disclosure of Campus Security Policy and Campus Crime Statistics Act of 1998," commonly referred to as the "CLERY Act," requires institutions of higher education receiving federal financial aid to report specified crime statistics on college campuses and to provide other safety and crime information to members of the campus community.</p> 
+     <p>The University provides crime information and statistics to the public in a variety of ways. In addition to the CLERY Act, the University provides to the California Department of Justice crime statistics that are classified pursuant to the Uniform Crime Reporting (UCR) Program administered by the FBI. These statistics are reflected in the University of California Police Department Annual Report and Crime Statistics, the annual California Department of Justice Crime in California, and the annual FBI Crime in the United States publications.</p> 
+     <p><em><strong>Preparation </strong><strong>of </strong><strong>Annual </strong><strong>Disclosure </strong><strong>of </strong><strong>Crime </strong><strong>Statistics</strong></em></p> 
+     <p>The current <em>Annual Campus Security Report</em> has been compiled for the previous calendar year (2013) from crime reports received by the UC Riverside Police Department; from crime statistics received from other police agencies having jurisdiction over Public Property on and around UC Riverside, off-campus UC Riverside affiliated, owned, or controlled property; from crime reports received in response to written requests sent to non-police campus security authorities; and from reports received through established reporting guidelines. The report also includes disciplinary referrals to Student Conduct and Academic Integrity Programs and Housing and Residential Services for drug, alcohol, weapons, and other Clery Act crimes not otherwise reported as an arrest or crime.</p> 
+     <p><em><strong>Clery </strong><strong>Act Requirements</strong></em></p> 
+     <p><strong>This Report Contains Information Regarding:</strong></p> 
+     <ul> 
+      <li>Reporting crimes and emergencies (reporting crimes/emergencies; non-urgent crime reports; confidential crime reports, reporting hate crimes)</li> 
+      <li>The UC Riverside Police Department</li> 
+      <li>Emergency Notification, Everbridge system, Crime alert bulletins and timely warnings</li> 
+      <li>Missing Persons Notification Policy</li> 
+      <li>Procedures for handling sexual assault cases (reporting the assault; seeking medical attention/preserving evidence; support, assistance, resources and referrals)</li> 
+      <li>Reporting suspected misconduct by students, student organizations, staff or faculty</li> 
+      <li>How to obtain public information regarding sex offenders</li> 
+      <li>Keeping the campus safe: safety precautions (developing campus safeguards, access to and maintenance of campus buildings and grounds; walking and biking on campus; no weapons on campus)</li> 
+      <li>Education &amp; prevention services and programs (Crime Prevention Unit; Campus Violence Prevention Program and University Neighborhood Enhancement Team)</li> 
+      <li>Collection of statistics for campus security report</li> 
+      <li>Substance abuse: policy, sanctions, &amp; laws (University policy and sanctions; federal, and state laws and penalties)</li> 
+      <li>Prevention, education, resources, and assistance for substance abuse</li> 
+      <li>Health effects of substance abuse</li> 
+      <li>Disclosure of Campus Safety Policies</li> 
+      <li>Reporting Criminal Actions and Emergencies</li> 
+      <li>Emergencies (Use of the 9-1-1 System)</li> 
+     </ul> 
+     <p><strong>Local Reporting Municipal Police Departments:</strong></p> 
+     <ul> 
+      <li>Riverside Police Department</li> 
+      <li>Riverside County Sheriff's Office</li> 
+      <li>San Bernardino County Sheriff's Office</li> 
+     </ul> 
+     <p><strong>Campus Security Authorities - CSA's Responsible for Reporting Criminal Activity</strong></p> 
+     <p>The University has designated certain administrators and staff as “Campus Security Authorities” in recognition that many students, faculty and staff may be hesitant about reporting crimes to UCPD Riverside, and may be more inclined to report incidents to non-law enforcement administrators and staff instead.</p> 
+     <p>The law defines “Campus Security Authority” as: “An official of an institution who has significant responsibility for student and campus activities, including, but not limited to, student housing, student discipline, and campus judicial proceedings.” An example would be a dean of students who oversees student housing, a student center, or student extra-curricular activities and has significant responsibility for student and campus activities. Similarly, a director of athletics, team coach, and faculty advisor to a student group also has significant responsibility for student and campus activities. A single teaching faculty member is unlikely to have significant responsibility for student and campus activities, except when serving as an advisor to a registered student group. Clerical staff, as well, is unlikely to have significant responsibility for student and campus activities. For more information about the Clery Act and the role of Campus Security Authorities go to <a href="/clery/clery.html">http://police.ucr.edu/clery/clery.html</a> and click “Clery Act Training” for the PDF document.</p> 
+     <p>Campus Security Authorities are charged with reporting to the appropriate law enforcement personnel, either UC Riverside Police Department&nbsp;or local police, or to any official or office which should be informed of the crime or complaint due to the nature of the crime or complaint, those allegations of Clery Act crimes that the Campus Security Authority concludes are made in good faith. A Campus Security Authority is not responsible for determining whether a crime took place as that is the function of law enforcement and its investigatory process.</p> 
+     <p>A Campus Security Authority is required to report all allegations to law enforcement personnel, even if the Campus Security Authority was told of a crime in the context of providing emotional support or health care support. The allegations will be reported whether or not the victim chooses to file a report with law enforcement or press charges. A Campus Security Authority may also provide a victim or witness with assistance in reporting a crime to UCPD Riverside or local police, or to any official or office which should be informed of the crime or complaint.</p> 
+     <p>Pastoral counselors and mental health counselors at the University are not Campus Security Authorities, and are therefore exempt from disclosing or reporting allegations of crimes and incidents. However, to be exempt from the Clery Act reporting requirements, the counselor must be acting in their professional role of pastoral or mental health counselors at the University. For example, a Dean who has a PhD in Psychology is not acting in the counseling role, but rather as a Dean; and a PhD student in Psychology working in the counseling center as part of his/her education and training is acting in the counseling role. Pastoral counselors and mental health counselors are trained in the procedures for reporting crimes and the procedures for reporting crimes confidentially. The University encourages them to inform their clients of the procedures in accordance with their professional judgment, given the individual victim and circumstances before them.</p> 
+     <p>In addition, the Student Health Services employees, including the medical director, physicians and nurses are not Campus Security Authorities.</p> 
+     <p><strong>Law Enforcement</strong></p> 
+     <p>The UC Riverside Police Department operates 24 hours-per-day, 365 days a year. It is the Public Safety Answering Point (PSAP) for all 9-1-1 system calls originating from telephones located at UCR, meaning that responses to all 9-1-1 calls (Police/Fire/Medical emergencies) are coordinated through the UC Police Department. The department is an authorized terminal user of all local, regional, state and federal criminal justice information systems (e.g., wanted persons, DMV, stolen vehicles/property, criminal records, etc.). UC Riverside Police Department employs Police Officers and Community Service Officers (CSO's) to deliver public safety services to the campus community.</p> 
+     <p>Our goal is to provide timely and appropriate responses to community problems and needs. Police officers of the UC Riverside Police Department are armed, duly sworn peace officers of the State of California. Empowered by section 830.2(b) of the California Penal Code, UC Riverside Police Officers possess the same authority, and adhere to the same state-mandated standards, as municipal police officers. Therefore, under California law, UC Riverside Police Officers may enforce laws and make arrests anywhere in the state; however, we concentrate our efforts on the campus and its immediate surrounding area.</p> 
+     <p>UC Riverside Police Officers may work in uniform or plain-clothes. They provide a full range of police related services, including: primary emergency responses; preventative patrols; investigation of observed, reported, or suspected crimes; enforcement of all applicable laws; follow-up and specialized criminal investigations; crime prevention; community liaison and relations; V.I.P./dignitary protection; special event security; traffic activities (enforcement and accident investigations).</p> 
+     <p>Persons arrested by the UC Riverside Police Officers are processed in accordance with prevailing practices in Riverside County, which can include: citation and release; booking into the Riverside County Jail; filing of charges with, and prosecution through, the District Attorney's Office; and formal trial. Additionally, UCR affiliates (student, faculty, staff) may be subject to additional (administrative/Code of Conduct) sanctions.</p> 
+     <p>By mutual agreement with state and federal agencies, the UC Riverside Police Department maintains an NLETS terminal (National Law Enforcement Telecommunications Network). Through this system police personnel can access the National Crime Information Computer system as well as the California Law Enforcement Telecommunications System (CLETS). These computer databases are used for accessing criminal history data, nationwide police records, driver/vehicle identification information, as well as other local, state and federal law enforcement information.</p> 
+     <p>Community Service Officers (CSO's) are student employees. They wear distinctive shirts and/or jackets, are not armed, and perform many specialized services for the community, including: contract security patrols (e.g., campus housing areas), campus building security checks/unlocks/lock-ups, and occasional campus escorts.</p> 
+     <p>Our department enjoys a positive and close working relationship with the City of Riverside Police Department, with whom we share proximity, mutual interests, and geographic jurisdiction. Both Police Departments share information regarding crimes in each jurisdiction. Additionally, both departments participate in the University Neighborhood Enhancement Team.</p> 
+     <p>The University Neighborhood Enhancement Team (UNET) is a cooperative effort between the UC Riverside Police Department and the Riverside Police Department. Each agency has committed four officers and one sergeant to a seventeen square mile area, which surrounds the university. Officers are encouraged to identify community concerns and seek out novel approaches to solving those concerns.</p> 
+     <p>UNET team members work two shifts, day shift and swing shift. Officers from the UC Riverside Police Department are paired up with officers from the Riverside Police Department. This has proven crucial, as the officers can act as liaisons for the respective agency. UNET team members work primarily in full uniform and drive marked police cars. One of the most effective tools at UNET's disposal is the use of the bicycle in patrol activities. UNET regularly conducts bicycle crime abatement programs, which have resulted in numerous arrests for drug related crimes and has impacted the neighborhood with a significant decrease in overall crime activity. UNET has focused on everything from drugs and gangs, to burglaries and auto thefts during these programs.</p> 
+     <p>UNET has been working very closely with the University Neighborhood Association (UNA). UNA is a community action group, which is comprised of residents, university students and university staff who live in the immediate area. UNET team members attend UNA monthly meetings and bring community concerns back to the team. The team has proactively worked on the concerns of UNA and brought several issues to a close. Traffic problems and neighbor conflicts with college students renting homes in the area continue to be the association's main concerns.</p> 
+     <p>In response to these concerns, team members have developed programs to fight them head on. As a result, traffic enforcement days have resulted in numerous citations being issued, impacting many of the traffic problems presented by UNA. Team members continue to work with student groups who rent single-family residences in the area. These students often clash with residents who have lived in their neighborhoods for many years. Officers have resolved several problems through conflict resolution techniques and have acted as mediators between the students and residents. We have also used the regular party patrols and enforcement of the Riverside City Loud Party Ordinance effectively. This ordinance has decreased the number of repeat visits by law enforcement to loud party calls and helps to quickly stop the disturbances. Considerable time and effort has been spent helping the students understand how to be good neighbors.</p> 
+     <p>UNA has been instrumental in identifying problems in the university neighborhood, and UNET continues to work closely with this organization, as their goal is to better their neighborhood.</p> 
+     <p>Team members have been assigned to individual apartment complexes within the UNET boundaries and are working closely with those apartment's managers. Team members are assisting the managers through the Riverside Crime Free Multi Housing Program and have begun "Phase 3" inspections for the program. The apartment managers, as well as the UNET officers have been very receptive to the program and are continuing to make their complexes safe for their residents.</p> 
+     <p>Since the UNET team was developed in 1994, there has been a significant decrease in Part One crime in UNET reporting districts. The UNET reporting districts continue to show a decrease in crime, and those reporting areas accounted for only 1.5% of all Part One crimes in the city. The significance of the decrease should be filtered, to some degree, with the regional and national trends of decreasing crime. Certainly, the team cannot claim sole responsibility for the decrease in crime. Rather, the UNET community, working hand in hand with the police, taking responsibility for their neighborhoods, and helping to develop crime control priorities should get most of the credit.</p> 
+     <p>There is a memorandum of understanding between the UC Riverside Police Department and the Riverside Police Department for the UNET program.</p> 
+     <p><em><strong>Reporting Crimes and Emergencies</strong></em></p> 
+     <p>Community members, students, faculty, staff and guests are encouraged to report all crimes and public safety related incidents to the UC Riverside Police Department in a timely manner. In general, reports are confidential unless the victim gives permission to document identifying information or for police to investigate. Report forms include crime definitions and request specific information (date, location, nature of offense). This information is used to compile statistics, while preserving confidentiality, avoiding duplicate or inaccurate statistical reporting, and to assign reports to appropriate Clery and FBI crime classifications.</p> 
+     <p>All police/fire/medical emergencies should be reported immediately, utilizing the 9-1-1 system reporting procedure appropriate to the telephone instrument or by using the emergency call boxes located in or adjacent to parking lots.</p> 
+     <ul> 
+      <li>All PBX station phones (those capable of 4-digit extension interoffice calls) must dial 9-1-1.</li> 
+      <li>All dormitory room phones dial 9-1-1.</li> 
+      <li>On-Campus residences and businesses on outside lines (e.g., Bannockburn and Crest Housing) must dial 9-1-1.</li> 
+      <li>All pay phones are programmed for 9-1-1 access by dialing 9-1-1 after receipt of a dial tone. No coin deposit should be necessary to initiate and complete a 9-1-1 call.</li> 
+      <li>Emergency red phones which ring down directly to the Police Department.</li> 
+     </ul> 
+     <p><strong>Emergency Call Boxes</strong></p> 
+     <p>The purpose of the emergency call boxes is to provide a method for people to alert the UC Riverside Police Department, of any emergency or suspicious circumstances they may observe. To activate the box, open the box, press the button, and tell the UC Riverside Police Department Dispatcher what you have seen. If in an emergency you are unable to speak, you can alert the Police simply by pressing the button. This will signal the dispatcher who will then send assistance.</p> 
+     <p><strong>Non-Emergency and Routine Business</strong></p> 
+     <p>Non-emergency business may be reported and/or handled by calling ext. 25222. When off campus, dial (951) 827-5222.</p> 
+     <p><strong>Confidential Reporting of Crimes</strong></p> 
+     <p>Victims or witnesses may report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics by mailing a written statement or by calling the UC Riverside Police Department. Also, the University encourages pastoral counselors and professional counselors, if and when they deem appropriate, to inform the persons they are counseling to report crimes on a voluntary, confidential basis for inclusion in the annual disclosure of crime statistics by mailing a written statement to the UC Riverside Police Department, 3500 Canyon Crest Drive, Riverside, CA 92521, or by calling the UC Riverside Police Department at (951) 827-5222. You may also leave an anonymous tip on our website: <a href="/anon.html">http://police.ucr.edu/anon.html</a></p> 
+     <p>Crimes should be reported to the UC Riverside Police Department to ensure inclusion in the annual crime statistics and to aid in providing timely warning notices to the community, when appropriate.</p> 
+     <p><strong>Reporting Hate Crimes</strong></p> 
+     <p>A hate crime is any criminal act or attempted criminal act directed against a person(s), public agency or private institution based on the victim’s actual or perceived race, gender, religion, national origin, sexual orientation, gender identity, ethnicity, or disability of the victim. A hate crime includes an act that results in injury, however slight, a verbal threat of violence that apparently can be carried out, an act that results in property damage, and property loss or other criminal act(s) directed against a private or public agency.</p> 
+     <p>Crimes routinely classified as misdemeanors can be felonies if committed because of bigotry. A conviction cannot be based on speech alone unless the speech itself threatens violence against a specific individual or group, and the defendant has the ability to carry out the threat. If you are the victim of or witness a hate crime, report it as soon as possible to the UC Riverside Police Department.</p> 
+     <p><em><strong>Security of and Access to Campus Facilities</strong></em></p> 
+     <p>Facilities and landscaping are maintained in a manner that minimizes hazardous conditions. UC Riverside Police Officers regularly patrol the campus and report malfunctioning lights and other unsafe physical conditions to the Physical Plant Department for correction. Other members of the University community are helpful when they report equipment problems to the UC Riverside Police Department or Physical Plant.</p> 
+     <p>University of California Policies Applying to Campus Activities, Organizations, and Students: <em>40.00 “POLICY ON USE OF UNIVERSITY PROPERTIES”</em> is available through the University of California, Office of the President website: <a href="http://policy.ucop.edu/doc/2710524/PACAOS-40">http://policy.ucop.edu/doc/2710524/PACAOS-40</a></p> 
+     <p>Policies governing student affairs facilities are available on the Highlander Union Building website: <a href="http://www.highlanderunionbuilding.ucr.edu/EventScheduling/Pages/SchedulingPolicies.aspx">http://www.highlanderunionbuilding.ucr.edu/EventScheduling/Pages/SchedulingPolicies.aspx</a></p> 
+     <p><strong>Programs Designed to Inform About Security Practices</strong></p> 
+     <p>The UC Riverside Police Department presents programs to inform the community about safety and security practices. These programs occur numerous times throughout the year and include new student orientations. For information regarding these programs please contact the Crime Prevention Unit at (951) 827-1597. More information about programs and safety tips are available online at: <a href="/prevention.html">http://police.ucr.edu/prevention.html</a></p> 
+     <p>The Campus Safety Committee (CSC) is diverse group of University faculty, staff, administration, union representation, and other constituencies, chaired by the Director of Environmental Safety &amp; Health. The committee meets monthly to discuss campus safety issues. The primary goal of the safety committee is to create and maintain a high level of interest and awareness in safety among all employees and to help provide a safe and healthy environment for our faculty, staff, students, and visitors. The safety committee is also a forum where any and all safety issues can be discussed. The safety committee makes recommendations for improvement in various safety related areas.</p> 
+     <p>For more information visit <a href="http://safety.ucr.edu/">http://safety.ucr.edu</a></p> 
+     <p><strong>Programs </strong><strong>to Inform About Crime Prevention</strong></p> 
+     <p>It is well recognized that the prevention of crime provides the best measure of protection. Therefore, the UC Riverside Police Department operates as a proactive crime prevention unit that works closely with the members of the community to make UCR a safer place to work, live and learn.</p> 
+     <p>The Department provides and/or collaborates in presentations on topics such as personal safety, vehicle and residential security, office and equipment security, sexual assault prevention, and guidelines for how to respond to a crisis.</p> 
+     <p>Brochures and literature on crime prevention and personal safety are available through the department's investigations/crime prevention office.</p> 
+     <p>In order to increase the level of crime awareness and campus safety at UCR, incidents of criminal activity within the campus community are publicized in many ways: distribution of the UCPD Annual Report and Crime Statistics; maintenance of an ongoing "crime log;" dissemination of Community Crime Alert Bulletins (posters and mass e-mail notifications); the "Rap Sheet" column in the Highlander student newspaper; articles in the weekly UCReport; "Crime Watch" columns in the campus housing newsletters; via regular police activity reports to campus housing administrators; and through crime prevention programs.</p> 
+     <p>In recent years UCR has experienced growth in the programs that target safety and security. For example, lighting has been improved at many locations around the campus, and several new Emergency Call Boxes (ECBs) have been installed and placed into service. In 2008 UCR implemented use of the Everbridge system to provide the community with alert and updates on safety related incidents. Community members can sign up to receive notifications via text message, land line telephone, and e-mail. For more information and to sign up, please follow this link: <a href="http://cnc.ucr.edu/ens">http://cnc.ucr.edu/ens</a> . It is anticipated that as the population of UCR increases, so will the personnel, support services and programs designated for safety and security on the campus.</p> 
+     <p>UC Riverside Police Department provides a web link at: <a href="/">http://police.ucr.edu</a> to a digital crime map. This crime map is updated daily to provide the public and our community with the most accurate and up to date information. The crime map can be directly accessed at <a href="https://crimereports.com/agency/ucrpd">https://crimereports.com/agency/ucrpd</a> from any internet accessible device.</p> 
+     <p>UC Riverside Police Department provides many training opportunities to our community, faculty, students and staffs by our Crime Prevention Officer. These programs are done in a variety of settings to fit the need and request of the audience. Some of the most frequently requested are: Distressed and Distressing Students; RAIN for acts of violence; General Safety Awareness Training; New Student Orientation Training; UNEX and International Student Safety and Orientation; New Employee Orientation and Off Campus Events for Clubs and Organizations.</p> 
+     <p>The City of Riverside and the University of California at Riverside have created a partnership to enhance the vehicle, bicyclist and pedestrian traffic safety in the heavily traveled areas around the university through the installation and upgrading of the City of Riverside’s traffic camera program. The cameras monitor busy intersections, sidewalks and bicycle lanes and are designated with blue and white traffic signs posted in high visibility areas on light posts.</p> 
+     <p>Crime prevention efforts and tips by UC Riverside Police Department are done in a variety of ways on an ongoing basis. Some examples are: using social media; providing articles for The Highlander campus newspaper and ROAR, the Housing newsletter; provide tabling at events with give-a-way items such as key chains and whistles with UC Riverside Police Department’s phone number and webpage address; providing bookmarks with campus safety partner information and DUI and Drug Awareness Information with THE WELL.</p> 
+     <p><strong>Residential Buildings</strong></p> 
+     <p>UC Riverside provides housing to approximately 7,500 students, from apartments designed for students with children to multi-student apartment complexes and residential buildings. The UC Riverside Police Department, Student Housing staff, and apartment managers for on-campus private housing work closely together to create a safer and more comfortable living and learning environment. The security of residential areas involves on-duty housing staff, apartment managers, Community Service Officers and round-the-clock UC Riverside Police Department patrols. To provide residents with timely notice of major crimes or threats to the campus, Student Housing staff and apartment staff promptly post all Crime Alert Bulletins.</p> 
+     <p>Although all residence halls are accessible only by key/card key 24 hours a day, residents must also take an active role to ensure their own security. Always use common sense, and learn and follow campus security procedures. In addition, since the campus is open, and visitors to residence halls and apartments are not restricted or monitored, residents need to be alert and aware of their surroundings.</p> 
+     <p>To maintain the safety and security of residence halls, residents and visitors must ensure that locked buildings stay closed and locked. Keep your room or apartment door locked, always carry your key, take precautions to protect your keys against theft or loss, and report immediately any theft/loss of your building or room keys. In addition, do not open the door for unknown persons, and alert residence hall staff and the UC Riverside Police Department if you notice improper entry (someone climbing over a fence) or suspicious activity (a stranger leaving your friend's room carrying his or her computer).</p> 
+     <p><strong>Non-Residential Buildings</strong></p> 
+     <p>Our campus has over 264 buildings comprising almost 3 million square feet. Burglars or others intent on crime may target these structures. Although most buildings can be accessed by key after business hours, many are locked and alarmed after 5 p.m. It is essential that staff, faculty, and students cooperate to keep closed facilities locked. To prevent unauthorized entrance to campus buildings, DO NOT prop doors open, leave doors unlocked, or open the door for people you do not know. In addition, protect the security of campus keys, and report immediately any loss or theft of keys.</p> 
+     <p><em><strong>Missing Persons Notification Policy</strong></em></p> 
+     <p><strong>Missing Students who Reside in Campus Housing</strong></p> 
+     <p>UC Riverside takes the safety and welfare of our students very seriously. To that end, each student living in a campus housing facility has the opportunity to register the name and contact information of a person he or she would like notified if the student is found to be missing and cannot be located through reasonable outreach and investigation. Missing person contact information is registered confidentially and is accessible only to authorized campus officials in furtherance of a missing person investigation. Housing authorities will notify the UC Riverside Police Department in the event of any resident student who is discovered to be missing.</p> 
+     <p>The UC Riverside Police Department will take any missing persons report which is reported to them without delay regardless of jurisdiction. A missing person report will be given investigative priority over non-emergency property crimes.</p> 
+     <p>When an officer receives a report of a missing person, the officer will determine the category of missing person and complete a report. The reporting officer will ensure that the appropriate information is entered into the California and National Missing Persons data base. If the missing person is a student; the reporting UC Riverside Police Officer will also ensure notification is made to the student’s missing person’s contact, if available, within 24 hours of the initial report. If the missing person is under 18 and not emancipated, UC Riverside Police will notify a custodial parent or guardian.</p> 
+     <p><em><strong>Reporting Suspected Misconduct&nbsp;by Students, Staff, Faculty,&nbsp;or Student Organizations</strong></em></p> 
+     <p>If those suspected of committing a crime are University students, staff or faculty members, you may, in addition to filing a police report, report the suspected misconduct for possible disciplinary action.</p> 
+     <p>To report suspected misconduct by a UC Riverside student or student organization, call or email the Student Conduct and Academic Integrity Office (951) 827-4208 or <a href="mailto:conduct@ucr.edu">conduct@ucr.edu</a>. <em>University of California Standards of Conduct for Students</em> prohibit physical assault, including sexual assault; threats of violence; and conduct that threatens health or safety, sexual harassment; stalking; illegal use or possession of weapons, explosives, drugs or alcohol; theft; vandalism; misuse of computer resources; and other crimes and misconduct. Students who commit crimes may be prosecuted criminally as well as disciplined by the campus. Students and student organizations may be disciplined for off-campus conduct that threatens health, safety or security.</p> 
+     <p>If a formal student disciplinary hearing is held, both the complainant and the accused have the same rights to be present at the hearing, and both have the same right to be accompanied by an advisor at any stage of the process. If the incident involved an alleged crime of violence or an alleged sex offense, both the alleged victim and the accused student are notified of the final decision in the disciplinary proceeding and any sanctions imposed. If the complainant is deceased as a result of the crime, the disclosure will be made, upon request, to the complainant’s next of kin. A finding that the violation was intentional, forcible, violent, or motivated by hatred or bias normally results in a sanction of Suspension or Dismissal.</p> 
+     <p>UC Riverside staff or faculty members may be subject to disciplinary action under applicable personnel policies or collective bargaining agreements. Questions about or reports of alleged staff misconduct may be directed to UC Riverside Human Resources, (951) 827-3641 visit: <a href="http://hr.ucr.edu/supervisor/labor.html">http://hr.ucr.edu/supervisor/labor.html</a>.</p> 
+     <p>Alleged faculty misconduct may be reported to the Office of the Vice-Provost - Academic Affairs, (951) 827-2304 (visit <a href="http://academicpersonnel.ucr.edu/">http://academicpersonnel.ucr.edu</a>)</p> 
+     <p><strong>Off-Campus Criminal Activity by Recognized Student Organizations</strong></p> 
+     <p>The UC Riverside Police Department monitors criminal activity by students at off campus locations of student organizations officially recognized by the University, including student organizations with off campus housing facilities. This is done through the University Neighborhood Enhancement Team and information provided by the Riverside Police Department.</p> 
+     <p>A Registered Campus Organization is required to comply with University policies and campus regulations as well as applicable laws or it will be subject to revocation of registration, loss of privileges, or other sanctions. In denying or revoking registration or applying sanctions, campus regulations shall provide an opportunity for a hearing with basic standards of procedural due process. (University of California, Riverside Policies Applying to Campus Activities, Organizations, and Students <em>70.30 CONDUCT AND DISCIPLINE</em>) <a href="http://policy.ucop.edu/doc/2710527/PACAOS-70">http://policy.ucop.edu/doc/2710527/PACAOS-70</a>.</p> 
+     <ul> 
+      <li><strong>Disciplinary Sanctions</strong></li> 
+     </ul> 
+     <p>Sanctions for Group or Group Supported Actions: In case of an infraction of UC Policies Applying to Campus Activities, Organizations and Students. . . Any sanction imposed should be appropriate to the violation, taking into consideration the context and seriousness of the violation. (UC Policies Applying to Campus Activities, Organizations and Students, Section <em>105.00 TYPES OF STUDENT DISCIPLINARY ACTION</em>) <a href="http://policy.ucop.edu/doc/2710530/PACAOS-100">http://policy.ucop.edu/doc/2710530/PACAOS-100</a></p> 
+     <p>Appeals: Procedures associated with appeals are outlined in <em>UCR ADMINISTRATION OF STANDARDS OF CONDUCT. 10:00 APPEALS OF STUDENT CONDUCT &amp; ACADEMIC INTEGRITY PROGRAMS OR THE STUDENT CONDUCT COMMITTEE DECISIONS</em>: <a href="http://www.conduct.ucr.edu/learnPolicies/Pages/AdministrationofStandards.aspx">http://www.conduct.ucr.edu/learnPolicies/Pages/AdministrationofStandards.aspx</a> &nbsp;</p> 
+     <ul> 
+      <li><strong>Procedure: Available from the Vice Chancellor of Student Affairs Office</strong></li> 
+     </ul> 
+     <p>University of California, Riverside Policies Applying to Campus Activities, Organizations, and Students, <em>100.00 “POLICY ON STUDENT CONDUCT AND DISCIPLINE” 101.00 “STUDENT CONDUCT </em>(ON AND OFF CAMPUS)”. Students are members of both society and the academic community with attendant rights and responsibilities. Students are expected to comply with the general law, University policies, and campus regulations.</p> 
+     <p>Student conduct that occurs off University property is subject to <em>UCR Standards of Conduct</em> where it 1) adversely affects the health, safety, or security of any member of the University community, or the mission of the University, or 2) involves academic work or any records, or documents of the University. In determining whether or not to exercise jurisdiction over such conduct, the University shall consider the seriousness of the alleged offense, the risk of harm involved, whether the victim(s) are members of the campus community and/or whether the off-campus conduct is part of a series of actions which occurred both on and off University property. (Recommendations to extend jurisdiction will be reviewed by the Assistant Vice Chancellor for Student Affairs).</p> 
+     <p>The University may also exercise jurisdiction over student conduct that occurs off campus where, the conduct compromises University neighbor relations. <em>UCR ADMINISTRATION OF STANDARDS OF CONDUCT, 3.30 OFF CAMPUS JURISDICTION </em><a href="http://www.conduct.ucr.edu/learnPolicies/Pages/AdministrationofStandards.aspx">http://www.conduct.ucr.edu/learnPolicies/Pages/AdministrationofStandards.aspx</a></p> 
+     <p>University of California, Riverside Policies Applying to Campus Activities, Organizations, and Students:<em>102.00 “GROUNDS FOR DISCIPLINE</em>” <a href="http://policy.ucop.edu/doc/2710530/PACAOS-100">http://policy.ucop.edu/doc/2710530/PACAOS-100</a>. Chancellors may impose discipline for violation of, or an attempt to violate, any university policies or campus regulations. Violations or attempted violations include, but are not limited to, the following types of misconduct: [includes subsections <em>102.01 - 102.25</em>]”.</p> 
+     <p><strong>Alcoholic Beverages</strong></p> 
+     <p>Written approval is required for the sale, service, or distribution of alcohol on campus property, including open space and long- or short-term leased property.</p> 
+     <p>The <em>POLICY ANDPROCEDURESFOR SALE, SERVICE, AND CONSUMPTION OF ALCOHOL ON CAMPUS </em>including the Alcohol Approval Request Forms are located here: <a href="http://basapps.ucr.edu/policies/index.php?path=viewPolicies.php&amp;policy=700-60">http://basapps.ucr.edu/policies/index.php?path=viewPolicies.php&amp;policy=700-60</a> &nbsp;The appropriate Vice Chancellor approvals for alcohol are required.</p> 
+     <p>University of California, Riverside Policies Applying to Campus Activities, Organizations, and Students: "<em>102.00 GROUNDS FOR DISCIPLINE </em>"<em>102.18</em> Manufacture, distribution, dispensing, possession, use, or sale of, or the attempted manufacture, distribution, dispensing or sale of alcohol which is unlawful or otherwise prohibited by, or not in compliance with, University policy or campus regulations."</p> 
+     <p>"<em>ALCOHOL AND SUBSTANCE ABUSE </em>Pursuant to the federal Drug-Free Schools and Communities Act of 1989, UC Riverside publicizes a notice in its quarterly Schedule of Classes which identifies University Policy on Substance Abuse, Legal Sanctions, Health Risks, Safety and Performance, Where to Get Help, Disciplinary Sanctions, and Criminal Laws."</p> 
+     <p><strong>Illegal Drugs</strong></p> 
+     <p>University of California, Riverside Policies Applying to Campus Activities, Organizations, and Students: 102<em>.00 “GROUNDS FOR DISCIPLINE"… 102.17</em> Unlawful manufacture, distribution, dispensing, possession, use, or sale of, or the attempted manufacture, distribution, dispensing, or sale of controlled substances, identified in Federal and State law or regulations."</p> 
+     <p><strong>Substance Abuse: Policy, Sanctions&nbsp;and Laws</strong></p> 
+     <p>In accordance with the Drug Free Schools and Communities Act of 1989, the following information is provided regarding University and campus policies prohibiting unlawful possession, use or distribution of drugs or alcohol; University and campus sanctions regarding drug and alcohol violations by students or employees; federal, state, and local laws and penalties for drug and alcohol offenses; health effects of drug and alcohol abuse; and local resources providing assistance for drug and alcohol abuse (counseling, rehabilitation, or re-entry programs).</p> 
+     <p><strong>University Policy and Sanctions</strong></p> 
+     <p>The University strives to maintain communities and workplaces free from the illegal use, possession, or distribution of alcohol and other drugs. Manufacture, sale, distribution, dispensation, possession, or use of alcohol and controlled substances by University students and employees on University property, at official University functions, or on University business is prohibited except as permitted by law, University policy, and campus regulations. Students violating these policies are subject to disciplinary action, including suspension or dismissal from the University, and may be referred for criminal prosecution and/or required to participate in appropriate treatment programs. Employees violating these policies may be subject to corrective action, including dismissal, under applicable University policies and labor contracts, and may be referred for criminal prosecution and/or required to participate in an Employee Support Program or appropriate treatment program.</p> 
+     <p><strong>Loss of Financial Aid for Conviction Involving Possession/Sale of Illegal Drugs</strong></p> 
+     <p>A conviction under federal or state law for any offense involving the possession or sale of illegal drugs will result in the loss of eligibility for any Title IV, HEA grant, loan, or work-study assistance <em>(HEA Sec. 484(r) (1)); (20 U.S.C. 1091(r) (1)),</em> if the conviction occurs during a period of enrollment for which the student was receiving Title IV HEA program funds.</p> 
+     <p><strong>Federal Laws and Sanctions</strong></p> 
+     <p>Under Federal law, it is a felony offense to sell or intend to sell, manufacture, or distribute Schedule I and II illicit drugs or mixtures containing them (e.g. cocaine, methamphetamines, heroin, ecstasy, GHB, Ketamine, LSD, PCP, and so-called "designer drugs", as well as "counterfeits" purported to be such drugs), or to traffic in marijuana or hashish. Depending upon the quantity of drugs involved, penalties for first offenses range from 5 years to life (20 years to life if death or serious injury involved) and fines up to $10 million or more, and for second offenses from 10 years to life (life if death or serious injury involved) and fines up to $20 million. Illegal trafficking in over-the-counter or prescription drugs (including anabolic steroids) have maximum terms of 5 years for first offenses and 10 years for second offenses, and heavy fines. Illegal possession of controlled substances can trigger federal prison sentences and fines up to $100,000 for first offense, more for second offenses. Those convicted of possession or distribution of controlled substances can be barred from receiving benefits of federal programs, including student grants and loans, contracts, and professional and commercial licenses; may be subject to forfeiture of property used in or traceable to illegal controlled substance transactions; and, if non-citizens, subject to deportation.</p> 
+     <p><strong>California Laws and Sanctions</strong></p> 
+     <p>California law prohibits furnishing and selling alcoholic beverages to underage (younger than 21) or obviously intoxicated individuals. Underage persons may not buy alcoholic beverages or possess them on campus, in public, or in places open to public view; the penalties for violations of these laws may include substantial fines and jail. Alcohol may not be sold without a license or permit. State law also prohibits driving a motor vehicle under the influence (a blood alcohol level of .08 percent or higher creates a presumption of intoxication, but can be charged with lower blood alcohol levels); drinking or possessing an open container of alcohol while driving; and operating a bicycle while intoxicated.</p> 
+     <p>Drunken driving penalties include jail or prison, fines of $1,000 or more, driver's license suspension or revocation, and required drug/alcohol treatment programs. Refusing to submit to a test for blood alcohol can result in suspension of driver's license for up to 3 years. Sale or possession for sale of controlled substances such as cocaine, methamphetamines, heroin, ecstasy, GHB, Ketamine, LSD, PCP, and "designer drugs" is a felony with terms of 7 years or more; manufacture results in terms of 20 years or more; possession alone is punishable by up to 7 years in prison. Sentences are enhanced for previously convicted felons, for distribution within 1,000 feet of a school or University or within 100 feet of a recreational facility, and for distribution to a pregnant woman or to someone under 18 by one over 18. Property used in drug transactions can be seized.</p> 
+     <p><strong>Health Risks Associated with Substance Abuse</strong></p> 
+     <p>Substance abuse can cause very serious health and behavioral problems, including short-and long-term effects upon both the body (physiological) and mind (psychological), as well as impairment of learning ability, memory, and performance. For additional information on health risks of substance abuse, see: <a href="http://www.drugabuse.gov/related-topics/medical-consequences-drug-abuse">http://www.drugabuse.gov/related-topics/medical-consequences-drug-abuse</a></p> 
+     <p><strong>Drug or Alcohol Abuse Programs</strong></p> 
+     <p>Drug and alcohol abuse assistance programs are available to students at the Counseling Center, located in the Veitch Student Center Building (NW), at the Student Health Service, located at the Veitch Student Health Service Building, and The Loft at UCR, an emerging Collegiate Recovery Program located in GlenMor 2, created by partnership between the Healing Highlanders student organization and the department of Housing, Dining and Residential Services</p> 
+     <p>Drug and alcohol abuse assistance programs are available to employees at the Faculty and Staff Assistance Program, coordinated by the Human Resources Office, 1160 University Avenue. Assistance in these areas is also available to most employees through their medical insurance programs.</p> 
+     <p><strong>Weapons on Campus</strong></p> 
+     <p>All weapons are prohibited on the UC Riverside campus, whether in a book bag, in the car, or in an office, classroom, or apartment. Except for sworn police officers or federal law enforcement officials, it is a felony to bring or possess ANY firearm on any California school, college, or university campus (§626.9 PC). It is also a felony to possess any air gun - including pellet and BB guns that utilize air, CO2, or spring pressure to propel a projectile (§626.10 PC). In addition to firearms, knives with a rigid blade length of over two and one half inches, dirks, daggers, metal knuckles, nunchaku (nunchucks), and ice picks are illegal.</p> 
+     <p>If you see a gun or other weapon on University property, please alert the police immediately at 951-827-5222 with a description of the location of the weapon and/or the individual carrying it. If you believe that the weapon is being or is about to be used, dial 9-1-1 from a land-line, and from a cell phone, dial 951-827-5222.</p> 
+     <p><em><strong>Sexual Assault and Sexual Violence</strong></em></p> 
+     <p>The University has procedures in place that serve to be sensitive to those who report sexual assault, domestic violence, dating violence, and stalking. These procedures include informing individuals about their right to file criminal charges as well as the availability of medical, counseling and support services, and additional remedies to prevent contact between a complainant and an accused party, such as housing, academic, transportation and working accommodations, if reasonably available. Students and employees should contact the University’s Title IX/Sexual Harassment Office at (951) 827‐7070, located at 349 Surge Building, for assistance in handling concerns involving sexual assault and sexual violence.</p> 
+     <p>If you have been the victim of sexual assault, dating violence, domestic violence or stalking</p> 
+     <p>After an incident of sexual assault and domestic violence, the victim should consider seeking medical attention as soon as possible. In the event of a sexual assault, the victim may seek medical attention at the Riverside County Regional Medical Center (951) 486‐5650 for a sexual assault evidence examination. In California, for incidents involving sexual assault, evidence may be collected even if you chose not to make a report to law enforcement—you can decide later on whether or not to report it to law enforcement. It is important that a victim of sexual assault not bathe, douche, smoke, change clothing or clean the bed/linen/area where they were assaulted if the offense occurred within the past 120 hours (5 days) so criminal activity may be preserved. In cases involving sexual assault, if victims do not wish to take a sexual assault evidence examination, health care providers can still treat injuries and take steps to address concerns of pregnancy and/or sexually transmitted disease.</p> 
+     <p>Victims of sexual assault, domestic violence, dating violence, and stalking are encouraged to also preserve evidence by saving text messages, instant messages, social networking pages, other communications, and keeping pictures, logs or other copies of documents, if they have any that would be useful to University investigators or police. Although the University strongly encourages all members of the campus community to report sexual assault and sexual violence to law enforcement, it is the victim’s choice whether or not to make such a report and victims have the right to decline involvement with the police. The University’s Sexual Assault Resource Services Consultant at (951) 827‐6225 will assist any victim with notifying local law enforcement such as, the City of Riverside Police Department (951) 826‐5314 or the UC Riverside Police Department at (951) 827‐5222 if they so desire. UC Riverside Police Department may be found on line at: <a href="/contact.html">http://police.ucr.edu/contact.html</a></p> 
+     <p>As time passes, evidence may dissipate or become lost or unavailable which might make it more difficult to investigate, possible for prosecution, disciplinary proceedings, or obtaining a protection order from abuse, If a victim chooses not to make a report regarding an incident, he or she nevertheless should consider speaking with UC Riverside Police Department (or any law enforcement agency) about preserving evidence in the event that the victim changes his/her mind at a later date.</p> 
+     <p><strong>Victim’s Rights</strong></p> 
+     <p>In California, a victim of sexual assault, domestic violence, dating violence, or stalking has the following right to: 1.) Be informed of Riverside County District Attorney’s decision to decline hearing or dismiss the case along with information about seeking restraining order; 2.) Protection against employer retaliation for victims to take reasonable time off to attend order for protection or harassment restraining order proceedings; 3.) Domestic abuse victims have the ability to terminate a lease without penalty; 4.) Sexual assault victims can make a confidential request for HIV testing of a convicted offender; 5.) Sexual assault victims do not have to pay the cost of a sexual assault examination; and 6.) Sexual assault victims may not be required to undergo a polygraph examination in order for an investigation or prosecution to proceed.</p> 
+     <p><strong>Campus Sexual Assault Victims’ Bill of Rights</strong></p> 
+     <p>The “Campus Sexual Assault Victims’ Bill of Rights” exists as a part of the campus security reporting requirements, commonly known as the Jeanne Clery Act. Federal law entitles victims of sexual assault/sexual violence to the follow rights:</p> 
+     <ul> 
+      <li>Victims shall be notified of their options to notify law enforcement.</li> 
+      <li>Accuser and accused must have the same opportunity to have others present.</li> 
+      <li>Both parties shall be informed of the outcome of any disciplinary proceeding.</li> 
+      <li>Victims shall be notified of counseling services.</li> 
+      <li>Victims shall be notified of options for changing academic and living situations.</li> 
+     </ul> 
+     <p><strong>Obtaining a Restraining Order</strong></p> 
+     <p>Any person who obtains a restraining order should provide a copy to UC Riverside Police Department. A complainant might then meet with the UC Riverside Police to develop a Safety Action Plan, which is a plan for University police and the victim to reduce risk of harm while on campus or coming and going from campus. This plan may include, but is not limited to: escorts, special parking arrangements, providing a temporary cellphone, changing classroom location or allowing a student to complete assignments from home, etc.</p> 
+     <p>If you experience physical or emotional abuse, threats, stalking, harassment, or other acts of violence, and you wish to restrain a person from having contact with you, you can apply for a restraining order at the Riverside County Family Justice Center at 3900 Orange Street, Riverside, CA 92501. Or you may go online to obtain the document at: <a href="http://riverside.courts.ca.gov/selhelp/domesticviolence.shtml">http://riverside.courts.ca.gov/selhelp/domesticviolence.shtml</a> . If you are in immediate danger, call 911. A law enforcement officer can issue an Emergency Protective Order which is upheld from 5 to 7 days.</p> 
+     <p><strong>Confidentiality</strong></p> 
+     <p>To the extent of the victim’s cooperation and consent, university officials, including Director/Title IX Compliance Officer (Sexual Harassment Officer), managers, supervisors, and other designated employees, will provide confidential resources to which victims/survivors can consult for advice and information regarding making a report of sexual assault or sexual violence. These resources will provide victims/survivors who may be interested in reporting a sexual assault or sexual violence incident with a safe place to discuss their concerns and learn about the procedures and potential outcomes involved. Individuals who consult with confidential resources will be advised that their discussions in these settings are not considered reports of sexual assault or sexual violence and that without additional action by the complainant, the discussions will not result in any action by the University to resolve their concerns. The confidential resources at UCR that protect complainant’s privacy and ensure confidentiality to the extent possible by law and policy are the Student Counseling Center (951) 827-5531, Office of the Ombudsman (951) 827-3213, and the Faculty and Staff Employee Assistance Program (951) 781-0510 or (800) 266-0510. In circumstances involving safe‐based accommodations, these confidential resources and other offices on campus (responsible for assisting) will work to ensure that the complainant’s physical safety, work and academic status are protected, pending the outcome of a formal university investigation of the complaint. For example, if reasonably available, a complainant may be offered changes to academic accommodations, student housing, or workplace situations in addition to counseling, health services and assistance in notifying appropriate campus or local law enforcement. Other offices responsible for assisting the victim/survivor with safe‐based accommodations are the Sexual Assault Resource Services Consultant (951) 827-6225, the Student Affairs Case Manager (951) 827-9354, Assistant Vice Chancellor for Student Affairs (951) 827-4641, and/or Labor Relations (951) 827-3641.</p> 
+     <p>Additionally, personal identifiable information about the victim will be treated as confidential and only shared with persons with a specific need to know who is investigating/adjudicating the complaint or delivering resources or support services to the complainant. The University does not publish the name of crime victims nor house identifiable information regarding victims in the UC Riverside Police Department’s Daily Crime Log or online. Victims may request that directory information online (for employees) or the Growl system (for students) be removed to avoided being public by request. If you are an employee, you may contact your department’s Financial and Administrative Officer (FAO) or Management Service Officer (MSO) or designated person. If you are a student, you will need to go into the Growl system and check the box that says you do not want your information to be public.</p> 
+     <p><strong>Disciplinary Procedures Following a Complaint</strong></p> 
+     <p>Whether or not criminal charges are filed, the university or a person may file a complaint under the University’s Policies and Procedures for Responding to Reports of Sexual Harassment and Sexual Violence alleging that a student or employee violated the University’s policy. Reports of all sexual assaults, domestic violence, dating violence, and stalking made to UC Riverside Police Department will automatically be referred to the Title IX/Sexual Harassment Office for investigation regardless if the complainant choses to pursue criminal charges.</p> 
+     <p>The university disciplinary process will include a prompt, fair, and impartial investigation and resolution process. Investigator(s) and hearing board members are trained annually on the issues related to domestic violence, dating violence, sexual assault, and stalking and taught how to conduct a hearing process that protects the safety of the victim and promotes accountability.</p> 
+     <p>The policy provides that:</p> 
+     <p>1. The complainant and the accused may each have a representative present when he or she is interviewed, and at any subsequent proceeding or related meeting. A representative may only consult and advise his or her advisee, but not speak for the advisee at any meeting or hearing;</p> 
+     <p>2. The complainant and accused will be informed if there were findings made that the policy was or was not violated and of actions taken to resolve the complaint, if any, that are directly related to the complainant, such as an order that the accused not contact the complainant. In accordance with University policies protecting individuals’ privacy, the complainant may generally be notified that the matter has been referred for disciplinary action, but will not be informed of the details of the recommended disciplinary action without the consent of the accused;</p> 
+     <p>3. A conduct decision is based on the preponderance of evidence standard, i.e. “more likely than not to have occurred” standard. In other words, the conduct process asks: “is it more likely than not that the accused violated the university’s policy”;</p> 
+     <p>4. At the conclusion of any disciplinary proceeding arising from an allegation of sexual assault, domestic violence, dating violence, or stalking, the complainant and the accused will be simultaneously informed in writing of: 1.) The outcome of any University disciplinary proceeding; 2.) The University’s procedures for appealing the results of the proceeding; 3.) any change to the results that occur prior to the time that such results become final; and 4.) When results become final.</p> 
+     <p>5. In a conduct decision involving a student, the complainant and the accused both have the right to appeal the outcome of the conduct hearing by submitting a written appeal to the Assistant Dean of Students within ten working days of receiving written notification of the decision; and the complainant or the accused will be notified simultaneously in writing of the final outcome after the appeal is resolved. For more information about how to appeal a conduct decision—go online to Administration of the Standards of Conduct 10.00 at: <a href="http://conduct.ucr.edu/learnpolicies/administrationofstandards.html">http://conduct.ucr.edu/learnpolicies/administrationofstandards.html</a></p> 
+     <p>A person reporting sexual assault, domestic violence, dating violence, or stalking may utilize the complaint and investigatory procedures set forth in the University’s Policies and Procedures for Responding to Reports of Sexual Harassment and Sexual Violence (online at <a href="http://www.titleix.ucr.edu/">www.titleix.ucr.edu</a>) in order to remedy any hostile environment. All conduct proceedings involving students, will be resolved through the Sexual Violence and University of California Policies Applying to Campus Activities, Organizations &amp; Students online at: <a href="http://conduct.ucr.edu/learnpolicies/standardsofconduct.html">http://conduct.ucr.edu/learnpolicies/standardsofconduct.html</a></p> 
+     <p>In all cases, investigations that result in a finding of more likely than not that a violation of the policy occurred will lead to the initiation of disciplinary procedures against the accused individual. The University may implement protective measures following the report of sexual assault, domestic violence, dating violence, and/or stalking. A protective measure usually includes a “stay‐away” provision, prohibiting the accused from having contact with the victim. A protective measure may include a restraining order issued by a California court which specifies a list of places on campus where the accused is prohibited from entering, under the reasoning that these are places where the accused go to regularly and the accused does not have a need to visit. For example, the classroom, workplace, a laboratory, campus child daycare center, anywhere the accused might go to on a regular basis. In addition, protective measure issued administratively may include a “No Contact Order”, “Suspension”, “Interim Suspension”, or “Investigatory Leave.” Students or employees who violate policy will be subjected to discipline up to and including dismissal from the University. Sexual assault, domestic violence, dating violence, and stalking are criminal acts which also may subject the accused to criminal and civil penalties under federal and state law.</p> 
+     <p><em><strong>Resources for Victims of Sexual Assault, Domestic Violence, Dating Violence, or Stalking</strong></em></p> 
+     <p><strong><span style="text-decoration: underline;">On Campus</span></strong></p> 
+     <p><strong>UC Riverside Police Department </strong><br><a href="/">http://police.ucr.edu</a> <br>Emergency Call 911<br>All Other calls (951) 827‐5222</p> 
+     <p><strong>Title IX / Sexual Harassment Office</strong><br><a href="http://titleix.ucr.edu/">http://titleix.ucr.edu</a> <br>(951) 827‐7070</p> 
+     <p><strong>Women's Resource Center</strong><br><a href="http://wrc.ucr.edu/">http://wrc.ucr.edu</a> <br>(951) 827‐3337</p> 
+     <p><strong>Student Conduct and Academic Integrity Programs</strong><br><a href="http://conduct.ucr.edu/">http://conduct.ucr.edu</a> <br>(951) 827‐4208<br><a href="mailto:conduct@ucr.edu?subject=From%20UCR%20PD%20Website">conduct@ucr.edu<br></a></p> 
+     <p><strong>Counseling Center</strong><br><a href="http://counseling.ucr.edu/">http://counseling.ucr.edu</a> <br>(951) 827‐5531</p> 
+     <p><strong>Student Health Services</strong><br><a href="http://www.campushealth.ucr.edu/">http://www.campushealth.ucr.edu</a> <br>(951) 827‐3031</p> 
+     <p><strong>Sexual Assault Resource Services Consultant</strong><br>(951) 827‐6225</p> 
+     <p><strong>Student Affairs Case Manager</strong><br><a href="http://deanofstudents.ucr.edu/emergencycrisis/index.html">http://deanofstudents.ucr.edu/emergencycrisis/index.html</a> <br>(951) 827‐9354</p> 
+     <p><strong>Office of the Ombudsperson</strong><br><a href="http://ombudsperson.ucr.edu/">http://ombudsperson.ucr.edu</a> <br>(951) 827‐3213<br><a href="mailto:ombuds@ucr.edu">ombuds@ucr.edu</a></p> 
+     <p><strong>Campus Safety Escort Service</strong><br><a href="http://wrc.ucr.edu/escortservices//index.html">http://wrc.ucr.edu/escortservices//index.html</a>&nbsp;<br>(951) 827‐3772<br>Location: 1st floor of the Highlander Union (HUB)</p> 
+     <p><strong><span style="text-decoration: underline;">Off Campus</span></strong></p> 
+     <p><strong>R</strong><strong>iverside Police Department</strong><br><a href="http://www.riversideca.gov/rpd/">http://www.riversideca.gov/rpd/</a><br>Emergency Call 911<br>All Other calls (951) 787‐7911</p> 
+     <p><strong>Riverside Area Rape Crisis Center</strong><br><a href="http://www.riversideca.gov/rpd">http://www.riversideca.gov/rpd</a> <br>24‐Hour Crisis Hotline (951) 686‐7273</p> 
+     <p><strong>Riverside County Regional Medical Center</strong><br><a href="http://rcrmc.org/home/index.php?option=com_content&amp;view=article&amp;id=33:programs-a-services&amp;catid=12:services&amp;Itemid=28">Website</a><br>26520 Cactus Avenue<br>Moreno Valley, CA 92555<br>(951) 486‐5650</p> 
+     <p><strong>National Sexual Assault Hotline ‐ RAINN</strong><br><a href="http://www.rainn.org/">http://www.rainn.org</a> <br>24‐Hour Crisis Hotline (800) 656‐4673</p> 
+     <p><strong>Alternatives to Domestic Violence Riverside</strong><br><a href="http://www.alternativestodv.org/home.html">http://www.alternativestodv.org/home.html</a> <br>24‐Hour Crisis Hotline (951) 683‐0829 or (800) 339‐7233</p> 
+     <p><br><em><strong>Risk Reduction, Warning Signs of Abusive Behavior and Future Attacks</strong></em></p> 
+     <p>No victim is ever to blame for being assaulted or abused. Unfortunately, a person who is the victim of sexual or dating violence is more likely to be re‐victimized. Below are some tips to help reduce your risk, to recognize warnings signs of abusive behavior and how to avoid potential attacks.</p> 
+     <p><strong>*Warning Signs of Abusive Behavior</strong></p> 
+     <p>Domestic and dating abuse often escalates from threats and verbal abuse to violence. And, while physical injury may be the most obvious danger, the emotional and psychological consequences of domestic and dating violence are also severe.</p> 
+     <p>Warning signs of dating and domestic violence include:</p> 
+     <ul> 
+      <li>Being afraid of your partner.</li> 
+      <li>Constantly watching what you say to avoid a “blow up.”</li> 
+      <li>Feelings of low self‐worth and helplessness about your relationship.</li> 
+      <li>Feeling isolated from family or friends because of your relationship.</li> 
+      <li>Hiding bruises or other injuries from family or friends.</li> 
+      <li>Being prevented from working, studying, going home, and/or using technology (including your cell phone.)</li> 
+      <li>Being monitored by your partner at home, work or school.</li> 
+      <li>Being forced to do things you don’t want to do.</li> 
+     </ul> 
+     <p><strong>*Reduce Your Risk and Avoid Potential Attacks</strong></p> 
+     <p>If you are being abused or suspect that someone you know is being abused, speak up and/or intervene.</p> 
+     <ul> 
+      <li>Get help by contacting the Counseling Center or Health Center for support services.</li> 
+      <li>Learn how to look for “red flags” in relationships so you can learn to avoid some of those characteristics in future partners.</li> 
+      <li>Consider making a report with Campus Police and/or the Title IX Compliance Officer and ask for a “no contact”</li> 
+     </ul> 
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directive from the University to prevent future contact.</p> 
+     <ul> 
+      <li>Consider getting a restraining order from the Riverside County Family Justice Center, located at 3900 Orange Street, Riverside, CA 92501.</li> 
+     </ul> 
+     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Or you may go online to obtain the document at:&nbsp;<a href="http://riverside.courts.ca.gov/selhelp/domesticviolence.shtml">http://riverside.courts.ca.gov/selhelp/domesticviolence.shtml</a></p> 
+     <ul> 
+      <li>Learn more about what behaviors constitute dating and domestic violence, understand it is not your fault, and talk with friends and family members about ways you can be supported.</li> 
+      <li>Trust your instincts—if something doesn’t feel right in a relationship, speak up or end it.</li> 
+     </ul> 
+     <p><strong>*Sexual Assault Prevention (From RAINN)</strong></p> 
+     <ul> 
+      <li>Be aware of rape drugs</li> 
+      <li>Try not to leave your drink unattended</li> 
+      <li>Only drink from un‐opened containers or from drinks you have watched being made and poured</li> 
+      <li>Avoid group drinks like punch bowls</li> 
+      <li>Cover your drink. It is easy to slip in a small pill even while you are holding your drink. Hold a cup with your hand over the top, or choose drinks that are contained in a bottle and keep your thumb over the nozzle</li> 
+      <li>If you feel extremely tired or drunk for no apparent reason, you may have been drugged. Find your friends and ask them to leave with you as soon as possible</li> 
+      <li>If you suspect you have been drugged, go to a hospital and ask to be tested</li> 
+      <li>Keep track of how many drinks you have had</li> 
+      <li>Try to come and leave with a group of people you trust</li> 
+      <li>Avoid giving out your personal information (phone number, where you live, etc.). If someone asks for your number, take his/her number instead of giving out yours</li> 
+     </ul> 
+     <p><strong>*Traveling Around Campus (walking)</strong></p> 
+     <ul> 
+      <li>Make sure your cell phone is easily accessible and fully charged</li> 
+      <li>Be familiar with where emergency phones are installed on the campus</li> 
+      <li>Be aware of open buildings where you can use a phone</li> 
+      <li>Keep some change accessible just in case you need to use a pay phone</li> 
+      <li>Take major, public paths rather than less populated shortcuts</li> 
+      <li>Avoid dimly lit places and talk to campus services if lights need to be installed in an area</li> 
+      <li>Avoid putting music headphones in both ears so that you can be more aware of your surroundings, especially if you are walking alone</li> 
+      <li>Walking back from the library very late at night is sometimes unavoidable, so try to walk with a friend</li> 
+      <li>Carry a noisemaker (like a whistle) on your keychain</li> 
+      <li>Carry a small flashlight on your keychain</li> 
+      <li>If walking feels unsafe, try calling the campus Safety Escort Service (951) 827‐3772 which is located on the 1<sup>st</sup> floor of the Highlander Union Building (HUB).</li> 
+     </ul> 
+     <p><em><strong>Location of Registered Sex Offender Information</strong></em></p> 
+     <p>California law requires sex offenders who are employed, volunteer, are a resident of, or enrolled as a student at an institution of higher education, to register with the campus police. If you would like information concerning registered sex offenders in California, check the Megan’s law web site at <a href="http://www.meganslaw.ca.gov/">http://www.meganslaw.ca.gov</a>. You can search the database by a sex offender's specific name, or geographically by entering the ZIP Code, or city/county to obtain information on registrants residing in a specific area.</p> 
+     <p><em><strong>Emergency Notifications and Timely Warnings</strong></em></p> 
+     <p>In the event of a substantiated emergency or on-going threat to public safety on or near University property, diligent efforts are made to notify members of the UCR community. These efforts are in accordance with the federal Clery Act, which requires universities and colleges to notify students and employees in a timely manner if a significant emergency or on-going threat to public safety on or near University property occurs. Such notification shall be made without delay. On a case-by-case basis, the University may defer notification only if doing so would compromise efforts to assist victims or to contain, respond to, or otherwise mitigate the emergency.</p> 
+     <p><strong>What is the UCR Emergency Notification System?</strong></p> 
+     <p>The UCR Emergency Notification System was developed by Environmental Health &amp; Safety (EH&amp;S), UC Riverside Police Department, Computing and Communications, and Strategic Communications. It is designed to notify subscription holders (students, staff and faculty) via a variety of electronic tools and systems, including electronic text messaging.</p> 
+     <p><strong>Dissemination of UCR Emergency System Notifications:</strong></p> 
+     <p>UCR will use the UCR Emergency Notification System to notify and update the UCR community (and the larger local community) about the emergency or dangerous situation involving an immediate threat to the health or safety of students or employees is occurring on campus. The system includes the following tools:</p> 
+     <ul> 
+      <li>UCR Emergency Text Messaging</li> 
+      <li>UCR Campus Status Website</li> 
+      <li>UCR Campus Warning Siren</li> 
+      <li>Campus Homepage (ucr.edu)</li> 
+      <li>Computer Based Messaging</li> 
+      <li>Scotmail (email)</li> 
+      <li>877-UCR-WARN (recorded message line)</li> 
+      <li>Voicemail Blast (distributed voicemail)</li> 
+      <li>R’Web&nbsp;– Student Portal</li> 
+      <li>R’Space – Faculty/Staff Portal</li> 
+      <li>800 MHz Radios</li> 
+      <li>Web EOC</li> 
+     </ul> 
+     <p><strong>Issuing a UCR Emergency Notification</strong></p> 
+     <p>The UCR Emergency Notification system will be used when an emergency or dangerous situation involving an immediate threat to the health or safety of students or employees is occurring on campus. On a case-by-case basis, the University may defer notification only if doing so compromises efforts to assist victims or to contain, respond to, or otherwise mitigate the emergency. An Emergency Notification may or may not be related to criminal activity. Importantly, depending on the circumstance, various components of the Emergency Notification System will be utilized (e.g. text messaging and e-mail only) that best address / ameliorate the situation at hand. Examples of circumstances under which the University may issue an Emergency Notification include, but are not limited to:</p> 
+     <ul> 
+      <li>active shooter</li> 
+      <li>building collapse</li> 
+      <li>natural disaster on or threatening the campus</li> 
+      <li>large explosion or major fire</li> 
+      <li>hazardous spills</li> 
+     </ul> 
+     <p><strong>Authorized Users of UCR Emergency Notification System Mediums:</strong></p> 
+     <p>While the decision to send an emergency notification is made by the UCR Emergency Services Manager, UC Riverside Police Department, EH&amp;S Department Director, Associate Vice Chancellor of Facilities Plant Administration, Vice Chancellor of Business and Administrative Services, the EVC/Provost, or the Chancellor, the completion of the tasks associated with sending notification via text message or other mediums may be delegated to the following authorized personnel trained in Emergency Notification System use upon their instruction to do so from the Emergency Services Manager or their designee:</p> 
+     <ul> 
+      <li>EH&amp;S Emergency Manager</li> 
+      <li>UC Riverside Police Department Chief’s Office</li> 
+      <li>EH&amp;S Fire Marshal</li> 
+      <li>EH&amp;S Training Manager</li> 
+     </ul> 
+     <p><strong>Technological Support of the Emergency Notification System will be Provided by:</strong></p> 
+     <ul> 
+      <li>Director of Educational Technologies and Computing Support</li> 
+      <li>Systems / Network Project Manager</li> 
+      <li>UCR’s AVC C&amp;C</li> 
+     </ul> 
+     <p><strong>Decision, Procedure, Timing and Content Criteria for a UCR Emergency Notification:</strong></p> 
+     <ul> 
+      <li>The decision to send UCR Emergency Notifications may be made by the UC Riverside Police Department command staff, Campus Emergency Manager, EH&amp;S Department Director, Vice Chancellor of Business and Administrative Services, EVC/Provost, and/or the Chancellor. The decision will be made in consultation with representatives from UCPD, EH&amp;S, Physical Plant, and/or local law enforcement and fire department officials when an emergency or dangerous situation involving an immediate threat to the health or safety of students or employees is occurring on campus.</li> 
+      <li>The procedure for sending the emergency text message is as follows: The content will be approved by either UC Riverside Police Department command staff or the Director of EH&amp;S. The message will be sent via the emergency text messaging phone application. If that function is not available, the message may be sent via the emergency text messaging website or via a phone operator. The message should be sent by UC Riverside Police Department command staff/designee or the EH&amp;S director/designee.</li> 
+      <li>The Emergency Notification System will be activated as soon as reasonably possible and without delay.</li> 
+      <li>The first step of an emergency notification, if possible, is to update the campus Status Page with information about the situation at hand. All further communications then reference the Status Page.</li> 
+      <li>An emergency text message to the UCR community will be brief and will include (1) the nature of the emergency, (2) location of the emergency, and (3) directions or instructions on actions the community should take in response. After the initial notification, updated information may be disseminated to the community via additional text messages and/or other mediums (see previous page).</li> 
+      <li>In conjunction with broad campus messaging, the Emergency Notification System allows for information to be addressed to specific segments of the campus community (faculty, staff, students, buildings, departments) and information to specific campus populations may be disseminated using the system.</li> 
+     </ul> 
+     <p><strong>Business and Operational Continuity:</strong></p> 
+     <p>Depending upon the nature of the incident and corresponding emergency notifications, some or all campus operations, services or business activities may be delayed or discontinued until safe conditions are re-established by EH&amp;S or UCPD. Depending on the nature of the incident, UCR’s leadership team (Chancellor, Provost, Vice Chancellors, Deans, etc.) OR UCR’s Emergency Management Policy Group (EMPG) will be notified by EH&amp;S and/or UC Riverside Police Department as a whole (via text or email) so that appropriate business and continuity plans, logistics and communications to staff or students that may include but are not limited to:</p> 
+     <ul> 
+      <li>Alternative classes or instructional schedules and locations</li> 
+      <li>Information pertaining daily operations and services (i.e. Housing &amp; Dinning, Transportation &amp; Parking)</li> 
+      <li>Cancelation of pre-planned or on-going special events or meetings</li> 
+     </ul> 
+     <p><strong>Regular System Testing:</strong></p> 
+     <p>UCR will test the emergency notification systems/procedures at least annually, including publicizing its procedures at least once per calendar year. The University will document a description of the exercise, as well as the date and time of the exercise and whether it was announced or unannounced. The actual use of the Emergency Notification System also constitutes additional system testing. Additionally, the components of the Emergency Notification System will be reviewed on a quarterly basis by a technology oversight group comprised of:</p> 
+     <ul> 
+      <li>AVC/CIO – Computing &amp; Communications</li> 
+      <li>UC Riverside Police Department Chief of Police or designee</li> 
+      <li>AVC Strategic Communications</li> 
+      <li>Director, EH&amp;S or designee</li> 
+      <li>Campus Fire Marshal</li> 
+      <li>Campus Emergency Manager</li> 
+     </ul> 
+     <p><strong>Timely Warnings:</strong></p> 
+     <p>In the event a situation arises either on or near campus, that, in the judgment of the UC Riverside Police Department Chief of Police (or his designee) or other Senior University Officials, constitutes an ongoing or continuing threat to the community, a campus-wide “timely warning” will be issued. The warning may be issued using any or all of the tools and systems noted in this document. It is the primary responsibility of the UC Riverside Police Department’s Chief of Police (or his/her designee) or other Senior University Officials to issue a campus-wide timely warning of serious crimes or series or pattern of criminal behaviors that may pose a threat to the UCR community. A timely warning will be issued as soon as pertinent information is available.</p> 
+     <p><strong>What is a UCPD Crime Alert?</strong></p> 
+     <p>A UCPD Crime Alert is primarily a<strong> timely warning </strong>Scotmail (email) to students, faculty and staff from the UC Riverside Police Department’s Chief of Police or designee to the campus community when a serious crime constituting a threat to students and employees has reportedly occurred on or very near to campus. UC Riverside Police Department’s Crime Alerts may also be sent, if there is a pattern of criminal behavior.</p> 
+     <p><strong>Issuing a UCPD Crime Alert:</strong></p> 
+     <p>UCPD Crime Alerts are sent for the following: Arson, criminal homicide, sex offenses, aggravated assaults, robberies, or a pattern of criminal behavior. As with all warnings, decisions about UCPD Crime Alerts will be made on a case-by-case basis. For example, if a fight (assault) occurs between two students who have a disagreement that poses no known threat to the UCR community; no UCPD Crime Alert would be sent.</p> 
+     <p><strong>Timing, Content&nbsp;and Decision Criteria for a UCPD Crime Alert:</strong></p> 
+     <ul> 
+      <li>The UCPD Crime Alert should be sent when pertinent information and facts related to a serious crime or are available and enable the UCR community members to better protect themselves within a reasonable and timely manner.</li> 
+      <li>The UCPD Crime Alert will specify the type of crime, time of occurrence, location and the available pertinent information in the prevention of similar crimes and to enable the campus community to protect themselves.</li> 
+      <li>The issuance of a UCPD Crime alert must be decided on a case-by-case basis and in light of the nature and facts surrounding the crime, continuing danger to the campus community and the possible risk of compromising law enforcement efforts.</li> 
+     </ul> 
+     <p><strong>Dissemination of the UCPD Crime Alerts:</strong></p> 
+     <p>UCPD Crime Alerts will be sent via electronic Scotmail (email) to UCR students, faculty and staff (listed below). UC Riverside Police Department will electronically post Crime Alerts on the UC Riverside Police Department’s website. UCR Departments, staff and faculty can also post these alerts in highly visible areas and lounges.</p> 
+     <ul> 
+      <li><span style="color: windowtext;"><a href="mailto:students@scotmail.ucr.edu">students@scotmail.ucr.edu</a> </span></li> 
+      <li><span style="color: windowtext;"><a href="mailto:staff@scotmail.ucr.edu">staff@scotmail.ucr.edu</a> </span></li> 
+      <li><span style="color: windowtext;"><a href="mailto:faculty@scotmail.ucr.edu">faculty@scotmail.ucr.edu</a> </span></li> 
+      <li><span style="color: windowtext;"><a href="mailto:ans@scotmai.ucr.edu">ans@scotmai.ucr.edu</a> </span></li> 
+      <li><span style="color: windowtext;"><a href="mailto:mso@scotmail.ucr.edu">mso@scotmail.ucr.edu</a> </span></li> 
+     </ul> 
+     <p><strong>Authorized Users of UCPD Crime Alerts include:</strong></p> 
+     <ul> 
+      <li>UC Riverside Police Department Chief of Police</li> 
+      <li>UC Riverside Police Department Assistant Chief of Police</li> 
+      <li>UC Riverside Police Department Lieutenant</li> 
+     </ul> 
+     <p><strong>Additional Information&nbsp;and References:</strong></p> 
+     <p>Further information relative to the UCR emergency response plan, including procedures specific to particular types of emergencies, question and answers, and useful links can be found on the following links:</p> 
+     <p><strong>More About the Emergency Notification System</strong></p> 
+     <ul> 
+      <li>Emergency Notification System Home Page - <a href="http://cnc.ucr.edu/ens/">http://cnc.ucr.edu/ens/</a></li> 
+      <li>Campus Status Page - <a href="http://www.campusstatus.ucr.edu/">http://www.campusstatus.ucr.edu/</a></li> 
+      <li>Campus Emergency Warning Siren - <a href="http://www.ehs.ucr.edu/emergency/siren.html">http://www.ehs.ucr.edu/emergency/siren.html</a></li> 
+     </ul> 
+     <p><strong>Emergency Management</strong></p> 
+     <ul> 
+      <li>Campus Emergency Management Page - <a href="http://www.ehs.ucr.edu/emergency/">http://www.ehs.ucr.edu/emergency/</a></li> 
+      <li>Campus Emergency Services Page - <a href="http://www.ehs.ucr.edu/services/emergency.html">http://www.ehs.ucr.edu/services/emergency.html</a></li> 
+     </ul> 
+     <p><strong>Campus Planning</strong></p> 
+     <ul> 
+      <li>Campus Emergency Operations Plan - <a href="http://www.ehs.ucr.edu/forms/eop.pdf">http://www.ehs.ucr.edu/forms/eop.pdf</a></li> 
+      <li>Department Emergency Operations Plans - <a href="http://www.ehs.ucr.edu/forms/deop_general.doc">http://www.ehs.ucr.edu/forms/deop_general.doc</a></li> 
+     </ul> 
+     <p><strong>What to Do</strong></p> 
+     <ul> 
+      <li>Campus Emergency Procedures - <a href="http://www.ehs.ucr.edu/emergency/procedures/index.html">http://www.ehs.ucr.edu/emergency/procedures/index.html</a></li> 
+     </ul> 
+     <p><strong>Getting Involved</strong></p> 
+     <ul> 
+      <li>Building Supervisor for Emergency Conditions - <a href="http://www.ehs.ucr.edu/about/bsec.html">http://www.ehs.ucr.edu/about/bsec.html</a></li> 
+      <li>Building Emergency Staff - <a href="http://www.ehs.ucr.edu/about/bes.html">http://www.ehs.ucr.edu/about/bes.html</a></li> 
+     </ul> 
+     <p><strong>Important Phone Numbers</strong></p> 
+     <ul> 
+      <li>Dial 911 to report emergencies</li> 
+      <li>UC Riverside Police Department’s business line:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (951) 827-5222</li> 
+      <li>Emergency Information line (951) UCR-WARN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (951) 827-9276</li> 
+      <li>Environmental Health &amp; Safety:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (951) 827-5528</li> 
+      <li>Physical Plant utility or maintenance problems:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; (951) 827-4214</li> 
+      <li>Counseling Center personal and emotional challenges:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;(951) 827-5531</li> 
+     </ul> 
+     <p><em><strong>Emergency Response and Evacuation Testing Procedures</strong> </em></p> 
+     <p>Evacuation (fire) drills are conducted as required by the California Fire Code, unannounced each quarter of the year by UC Riverside EH&amp;S for all on-campus student housing facilities. Additional evacuation drills are also conducted on request.</p> 
+     <ul> 
+      <li>Participants are trained on the locations of emergency exits and general evacuation paths for their building for a short-term evacuation during these exercises. Designated locations for long-term evacuations may vary based on time of day, location of the building being evacuated, the availability of the various designated emergency gathering locations on campus, and other factors such as the location and nature of the threat. In both short-term and long-term building evacuations, UC Riverside police officers and building staff on the scene will communicate information regarding the developing situation or any evacuation status changes.</li> 
+      <li>The purpose of evacuation drills is to prepare building occupants and staff for an organized evacuation in the case of a fire or other emergency. In addition to educating the occupants of each building about the evacuation procedures during the drill, the process also provides UC Riverside an opportunity to test the operation of fire alarm systems.</li> 
+     </ul> 
+     <p><em><strong>Crime Logs</strong></em></p> 
+     <p>The UC Riverside Police Department maintains a daily crime log that contains specified information about any and all crimes that occur within the patrol jurisdiction of the UC Riverside Police Department and that are reported to the UC Riverside Police Department. There is also a daily log provided by the Riverside Police Department of crimes that occurred within the UNET boundary. The daily crime log can be viewed at the UC Riverside Police Department, 3500 Canyon Crest Drive, Riverside, Ca. certain information may be withheld from the crime log under specified circumstances, primarily information that would jeopardize the success of an investigation or the safety of a person involved in the investigation. The UC Riverside Police Department makes the crime log for the most recent 60-day period open to public inspection during normal business hours, while crime logs containing material more than 60 days old are retained for seven years for public inspection upon two days' notice.</p> 
+     <p><em><strong>Geography Definitions from the Clery Act</strong></em></p> 
+     <p><em>On-Campus</em> Defined as: (1) Any building or property owned or controlled by an institution within the same reasonably contiguous geographic area and used by the institution in direct support of or in a manner related to the institution’s educational purposes, including residence halls; and (2) Any building or property that is within or reasonably contiguous to the area identified in paragraph (1), that is owned by the institution but controlled by another person, is frequently used by students and supports institutional purposes (such as a food or retail vendor).</p> 
+     <p><em>Non-Campus Building Or Property</em> Defined as: (1) Any building or property owned or controlled by a student organization that is officially recognized by the institution; or (2) Any building or property owned or controlled by an institution that is used in direct support of or in relation to the institution’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the institution.</p> 
+     <p><em>Public Property</em> Defined as: All public property, including thoroughfares, streets, sidewalks, and parking facilities, that is within the campus or immediately adjacent to and accessible from the campus. The UCR Police crime statistics do not include crimes that occur in privately owned homes or businesses within or adjacent to the campus boundaries.</p> 
+     <p><em>See Illustration:</em></p> 
+     <p><em><img src="/images/example-public-walk.jpg" alt="Public Walk" width="696" height="534"></em></p> 
+     <h3><strong>TERMS DEFINED</strong></h3> 
+     <p>Clery Reportable Crimes as Per the Uniform Crime Reporting Handbook</p> 
+     <p><strong>Aggravated Assault</strong></p> 
+     <p>An unlawful attack by one person upon another for the purpose of inflicting severe or aggravated bodily injury. This type of assault usually is accompanied by the use of a weapon or by means likely to produce death or great bodily harm. It is not necessary that injury result from an aggravated assault when a gun, knife, or other weapon is used which could or probably would result in a serious potential injury if the crime were successfully completed.</p> 
+     <p><strong>Arson</strong></p> 
+     <p>Any willful or malicious burning or attempt to burn, with or without intent to defraud, a dwelling, house, public building, motor vehicle or aircraft, personal property, etc.</p> 
+     <p><strong>Burglary</strong></p> 
+     <p>The unlawful entry of a structure to commit a felony or a theft. For reporting purposes this definition includes: unlawful entry with intent to commit a larceny or a felony; breaking and entering with intent to commit a larceny; housebreaking; safecracking; and all attempts to commit any of the aforementioned.</p> 
+     <p><strong>Motor Vehicle Theft</strong></p> 
+     <p>The theft or attempted theft of a motor vehicle. (Classify as motor vehicle theft all cases where automobiles are taken by persons not having lawful access even though the vehicles are later abandoned-including joy riding).</p> 
+     <p><strong>Murder and Non-negligent Manslaughter </strong></p> 
+     <p>The willful (non-negligent) killing of one human being by another.</p> 
+     <p><strong>Manslaughter by Negligence</strong></p> 
+     <p>The killing of another person through gross negligence.</p> 
+     <p><strong>Robbery</strong></p> 
+     <p>The taking or attempting to take anything of value from the care, custody, or control of a person or persons by force or threat of force, violence, and/or causing the victim fear.</p> 
+     <p><strong>Larceny</strong></p> 
+     <p>The unlawful taking, carrying, leading, or riding away of property from the possession or constructive possession of another.</p> 
+     <p><strong>Vandalism</strong></p> 
+     <p>To willfully or maliciously destroy, injure, disfigure, or deface any public or private property, real or personal, without the consent of the owner or person having custody or control by cutting, tearing, breaking, marking, painting, drawing, covering with filth, or any other such means as may be specified by local law.</p> 
+     <p><strong>Weapons Law Violations</strong></p> 
+     <p>The violation of laws or ordinances dealing with weapon offenses, regulatory in nature, such as: manufacture, sale, or possession of deadly weapons; carrying deadly weapons, concealed or openly; furnishing deadly weapons to minors; aliens possessing deadly weapons; all attempts to commit any of the aforementioned.</p> 
+     <p><strong>Drug Abuse Violations</strong></p> 
+     <p>Violations of state and local laws relating to the unlawful possession, sale, use, growing, manufacturing, and making of narcotic drugs. The relevant substances include: opium or cocaine and their derivatives (morphine, heroin, codeine); marijuana; synthetic narcotics (demerol, methadones); and dangerous non-narcotic drugs (barbiturates, benzedrine).</p> 
+     <p><strong>Liquor Law Violations</strong></p> 
+     <p>The violation of laws or ordinance prohibiting: the manufacture, sale, transporting, furnishing, possessing of intoxicating liquor; maintaining unlawful drinking places; bootlegging; operating a still; furnishing liquor to minor or intemperate person; using a vehicle for illegal transportation of liquor; drinking on a train or public conveyance; all attempts to commit any of the aforementioned. (Drunkenness and driving under the influence are not included in this definition.)</p> 
+     <p align="center"><strong><span style="text-decoration: underline;">Sex Offenses Definitions</span></strong></p> 
+     <p align="center">As per the National Incident-Based Reporting System Edition of the Uniform Crime Reporting Program</p> 
+     <p><strong>Sex Offenses - Forcible</strong></p> 
+     <p>Any sexual act directed against another person, forcibly and/or against that person’s will; or not forcibly or against the person’s will where the victim is incapable of giving consent.</p> 
+     <p><strong>Forcible Rape</strong></p> 
+     <p>The carnal knowledge of a person, forcibly and/or against the person’s will; or not forcibly or against the person’s will where the victim is incapable of giving consent because of his/her temporary or permanent mental or physical incapacity (or because of his/her youth).</p> 
+     <p><strong>Forcible Sodomy</strong></p> 
+     <p>Oral or anal sexual intercourse with another person, forcibly and/or against that person’s will; or not forcibly against the person’s will where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.</p> 
+     <p><strong>Sexual Assault with an Object</strong></p> 
+     <p>The use of an object or instrument to unlawfully penetrate, however slightly, the genital or anal opening of the body of another person, forcibly and/or against that person’s will; or not forcibly or against the person’s will where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.</p> 
+     <p><strong>Forcible Fondling</strong></p> 
+     <p>The touching of the private body parts of another person for the purpose of sexual gratification, forcibly and/or against that person’s will; or, not forcibly or against the person’s will where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.</p> 
+     <p><strong>Sex Offenses - Non-Forcible</strong></p> 
+     <p>Unlawful, non-forcible sexual intercourse.</p> 
+     <p><strong>Incest</strong></p> 
+     <p>Non-forcible sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by law.</p> 
+     <p><strong>Statutory Rape</strong></p> 
+     <p>Non-forcible sexual intercourse with a person who is under the statutory age of consent.</p> 
+     <p align="center"><strong><span style="text-decoration: underline;">Offense Definitions relating to Hate/Bias Related Crime Statistics</span></strong></p> 
+     <p align="center">As per the UCR Hate Crime Reporting Guidelines</p> 
+     <p><strong>Simple Assault</strong></p> 
+     <p>An unlawful physical attack by one person upon another where neither the offender displays a weapon, nor the victim suffers obvious severe or aggravated bodily injury involving apparent broken bones, loss of teeth, possible internal injury, severe laceration or loss of consciousness.</p> 
+     <p><strong>Intimidation</strong></p> 
+     <p>To unlawfully place another person in reasonable fear of bodily harm through the use of threatening words and/or other conduct, but without displaying a weapon or subjecting the victim to actual physical attack.</p> 
+     <p align="center"><strong><span style="text-decoration: underline;">Geography definitions from the Clery Act</span></strong></p> 
+     <p><strong>On-Campus</strong></p> 
+     <p>(1) Any building or property owned or controlled by an institution within the same reasonably contiguous geographic area and used by the institution in direct support of or in a manner related to the institution’s educational purposes, including residence halls; and</p> 
+     <p>(2) Any building or property that is within or reasonably contiguous to the area identified in paragraph (1), that is owned by the institution but controlled by another person, is frequently used by students and supports institutional purposes (such as a food or retail vendor).</p> 
+     <p><strong>Non-Campus Building or Property</strong></p> 
+     <p>(1) Any building or property owned or controlled by a student organization that is officially recognized by the institution; or</p> 
+     <p>(2) Any building or property owned or controlled by an institution that is used in direct support of or in relation to the institution’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the institution.</p> 
+     <p><strong>Public Property</strong></p> 
+     <p>All public property, including thoroughfares, streets, sidewalks, and parking facilities, that is within the campus or immediately adjacent to and accessible from the campus. The UC Riverside crime statistics do not include crimes that occur in privately owned homes or businesses within or adjacent to the campus boundaries.</p> 
+     <p align="center"><strong><span style="text-decoration: underline;">VAWA Crime Definitions</span></strong></p> 
+     <p><strong>Awareness Programs</strong></p> 
+     <p>Community-wide or audience-specific programming, initiatives, and strategies that increase audience knowledge and share information and resources to prevent violence, promote safety, and reduce perpetration.</p> 
+     <p><strong>Bystander Intervention</strong></p> 
+     <p>Safe and positive options that may be carried out by an individual or individuals to prevent harm or intervene when there is a risk of sexual assault, dating violence, domestic violence or stalking. This includes recognizing situations of potential harm, understanding institutional structures and cultural conditions that facilitate violence, overcoming barriers to intervening, identifying safe and effective intervention options, and taking action to intervene.</p> 
+     <p><strong>Ongoing Prevention and Awareness Campaigns</strong></p> 
+     <p>Programming, initiatives, and strategies that are sustained over time and focus on increasing understanding of topics relevant to, and skills for addressing, dating violence, domestic violence, sexual assault, and stalking, using a range of strategies with audiences throughout the institution and including information described in paragraph proposed §§ 668.46(j)(1)(i)(A) through (j)(1)(i)(F)</p> 
+     <p><strong>Programs to Prevent Sexual Assault, Dating Violence, Domestic Violence and Stalking</strong></p> 
+     <p>Comprehensive, intentional and integrated programming, initiatives, strategies and campaigns intended to end sexual assault, dating violence, domestic violence and stalking that are culturally relevant, inclusive of diverse communities and identities, sustainable, responsive to community needs, and informed by research or assessed for value, effectiveness, or outcome.</p> 
+     <p><strong>Consent</strong></p> 
+     <p>Consent is informed. Consent is an affirmative, unambiguous, and conscious decision by each participant to engage in mutually agreed-upon sexual activity. Consent is voluntary. It must be given without coercion, force, threats, or intimidation. Consent means positive cooperation in the act or expression of intent to engage in the act pursuant to an exercise of free will. Consent is revocable. Consent to some form of sexual activity does not imply consent to other forms of sexual activity. Consent to sexual activity on one occasion is not consent to engage in sexual activity on another occasion. A current or previous dating or sexual relationship, by itself, is not sufficient to constitute consent. Even in the context of a relationship, there must be mutual consent to engage in sexual activity. Consent must be ongoing throughout a sexual encounter and can be revoked at any time. Once consent is withdrawn, the sexual activity must stop immediately. Consent cannot be given when a person is incapacitated. A person cannot consent if s/he is unconscious or coming in and out of consciousness. A person cannot consent if s/he is under the threat of violence, bodily injury or other forms of coercion. A person cannot consent if his/her understanding of the act is affected by a physical or mental impairment. For purposes of this Policy, the age of consent is consistent with California Penal Code Section 261.5.</p> 
+     <p><strong>Incapacitation</strong></p> 
+     <p>Incapacitation is defined as the physical and/or mental inability to make informed, rational judgments. States of incapacitation include, but are not limited to, unconsciousness, sleep, and blackouts. Where alcohol or drugs are involved, incapacitation is defined with respect to how the alcohol or other drugs consumed affects a person’s decision-making capacity, awareness of consequences, and ability to make fully informed judgments. Being intoxicated by drugs or alcohol does not diminish one’s responsibility to obtain consent. The factors to be considered when determining whether consent was given include whether the accused knew, or whether a reasonable person should have known, that the complainant was incapacitated.</p> 
+     <p><strong>Sexual Assault</strong></p> 
+     <p>An offense classified as a forcible or non-forcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation (FBI).</p> 
+     <p><strong>Dating Violence</strong></p> 
+     <p>The term ‘‘dating violence’’ means violence committed by a person —</p> 
+     <p>(A) Who is or has been in a social relationship of a romantic or intimate nature with the victim; and</p> 
+     <p>(B) Where the existence of such a relationship shall be determined based on a consideration of the following factors:</p> 
+     <p>• (i) The length of the relationship.</p> 
+     <p>• (ii) The type of relationship.</p> 
+     <p>• (iii) The frequency of interaction between the persons involved in the relationship.</p> 
+     <p>Dating violence includes sexual or physical abuse, or the threat of such abuse. Dating violence does not include acts covered under the act of domestic violence.</p> 
+     <p><strong>Domestic Violence</strong></p> 
+     <p>The term ‘‘domestic violence’’ includes felony or misdemeanor crimes of violence committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person’s acts under the domestic or family violence laws of the jurisdiction.</p> 
+     <p><strong>Stalking</strong></p> 
+     <p>The term ‘‘stalking’’ means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—</p> 
+     <p>(A) Fear for his or her safety or the safety of others; or</p> 
+     <p>(B) Suffer substantial emotional distress.</p> 
+     <p><strong>Sexual Harassment</strong></p> 
+     <p>Sexual harassment is unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature, when submission to or rejection of this conduct explicitly or implicitly affects a person’s employment or education, unreasonably interferes with a person’s work or educational performance, or creates an intimidating, hostile or offensive working or learning environment. In the interest of preventing sexual harassment, the university will respond to reports of any such conduct.</p> 
+     <p align="center"><strong><span style="text-decoration: underline;">Other Definitions</span></strong></p> 
+     <p><strong>Missing Person</strong></p> 
+     <p>Any person who is reported missing to law enforcement when the person’s location is unknown. This includes a child who has been taken, detained, concealed, enticed away or kept by a parent in violation of the law (Penal Code §277 et seq.). It also includes any child who is missing voluntarily, involuntarily or under circumstances that do not conform to his/her ordinary habits or behavior, and who may be in need of assistance (Penal Code §14213).</p> 
+     <p><strong>Missing Persons Networks</strong></p> 
+     <p>Those databases or computer networks available to law enforcement and that are suitable for information related to missing persons investigations. These include the National Crime Information Center (NCIC), the California Law Enforcement Telecommunications System (CLETS), Missing Person System (MPS) and the Unidentified Persons System (UPS).</p> 
+     <p><strong>At Risk</strong></p> 
+     <p>Includes, but is not limited to (Penal Code §14213) the following:</p> 
+     <p>• A victim of a crime or foul play</p> 
+     <p>• A person missing and in need of medical attention</p> 
+     <p>• A missing person with no pattern of running away or disappearing</p> 
+     <p>• A missing person who may be the victim of parental abduction</p> 
+     <p>• A mentally impaired missing person</p> 
+     <p><strong>Pastoral Counselor</strong></p> 
+     <p>An employee of an institution who is associated with a religious order or denomination, recognized by that religious order or denomination as someone who provides confidential counseling and who is functioning within the scope of that recognition as a pastoral counselor.</p> 
+     <p><strong>Professional Counselor</strong></p> 
+     <p>An employee of an institution whose official responsibilities include providing psychological counseling to members of the institution’s community and who is functioning within the scope of his or her license or certification.</p> 
+     <p><strong>Immediate Notifications</strong></p> 
+     <p>Rapid communication of immediate threats to campus affiliates.</p> 
+     <p><strong>Timely Warnings</strong></p> 
+     <p>Notifications to the campus of certain types of crimes as required under the Clery Act.</p> 
+     <p><strong>Emergency Notification System (ENS)</strong></p> 
+     <p>A system used to rapidly call, e-mail and/or text message campus affiliates who are registered in the system’s database for immediate notification purposes.</p> 
+     <p>&nbsp;</p> 
+     <h2><strong>Annual Crime Statistics and Incidents Report</strong></h2> 
+     <h3>Fire Safety Report:</h3> 
+     <p>The campus also publishes a Fire Safety Report, containing information about fire safety policies, procedures, and statistics, available online at:&nbsp;<a href="http://www.ehs.ucr.edu/fire/#annualfiresafetyreport">Website</a></p> 
+     <h3>2013 CLERY Statistics</h3> 
+     <table border="0" frame="box" rules="groups" cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Location</td> 
+        <td bgcolor="#f4f4f4">Homicide</td> 
+        <td bgcolor="#f4f4f4">Sex Offense</td> 
+        <td bgcolor="#f4f4f4">Robbery</td> 
+        <td bgcolor="#f4f4f4">Aggravated Assault</td> 
+        <td bgcolor="#f4f4f4">Burglary</td> 
+        <td bgcolor="#f4f4f4">Motor Vehicle Theft</td> 
+        <td bgcolor="#f4f4f4">Arson</td> 
+        <td bgcolor="#f4f4f4">Crime Total</td> 
+        <td bgcolor="#f4f4f4">Hate Crime</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">&nbsp;</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>0</td> 
+        <td>11</td> 
+        <td>7</td> 
+        <td>0</td> 
+        <td>22</td> 
+        <td>2</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+        <td>0</td> 
+        <td>4</td> 
+        <td>3</td> 
+        <td>1</td> 
+        <td>8</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>16</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">6</td> 
+        <td bgcolor="#b4c6db">5</td> 
+        <td bgcolor="#b4c6db">1</td> 
+        <td bgcolor="#b4c6db">19</td> 
+        <td bgcolor="#b4c6db">7</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">38</td> 
+        <td bgcolor="#b4c6db">2</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Non-Campus</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>3</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Public Property</td> 
+        <td>0</td> 
+        <td>4</td> 
+        <td>8</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>8</td> 
+        <td>0</td> 
+        <td>20</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b1c3d9">2013 Total</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">10</td> 
+        <td bgcolor="#b4c6db">13</td> 
+        <td bgcolor="#b4c6db">1</td> 
+        <td bgcolor="#b4c6db">20</td> 
+        <td bgcolor="#b4c6db">16</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">61</td> 
+        <td bgcolor="#b4c6db">2</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <table cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Location</td> 
+        <td bgcolor="#f4f4f4">Drug Arrests</td> 
+        <td bgcolor="#f4f4f4">Drug Referrals</td> 
+        <td bgcolor="#f4f4f4">Liquor Arrests</td> 
+        <td bgcolor="#f4f4f4">Liquor Referrals</td> 
+        <td bgcolor="#f4f4f4">Weapons Arrests</td> 
+        <td bgcolor="#f4f4f4">Weapons Referrals</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">&nbsp;</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+        <td>2013</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+        <td>2</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>5</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+        <td>10</td> 
+        <td>3</td> 
+        <td>0</td> 
+        <td>7</td> 
+        <td>1</td> 
+        <td>3</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+        <td bgcolor="#b4c6db">12</td> 
+        <td bgcolor="#b4c6db">3</td> 
+        <td bgcolor="#b4c6db">1</td> 
+        <td bgcolor="#b4c6db">7</td> 
+        <td bgcolor="#b4c6db">6</td> 
+        <td bgcolor="#b4c6db">3</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Non-Campus</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Public Property</td> 
+        <td>12</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>4</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">2013 Total</td> 
+        <td bgcolor="#b4c6db">25</td> 
+        <td bgcolor="#b4c6db">3</td> 
+        <td bgcolor="#b4c6db">2</td> 
+        <td bgcolor="#b4c6db">7</td> 
+        <td bgcolor="#b4c6db">10</td> 
+        <td bgcolor="#b4c6db">3</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <h4><a href="http://www.ehs.ucr.edu/fire/annualfiresafetyreport2013.pdf">Fire Requirement in 2013</a>&nbsp;</h4> 
+     <p>2013 On Campus Student Housing Facilities - Fire Summary</p> 
+     <table cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Name of Facility</td> 
+        <td bgcolor="#f4f4f4">Fire</td> 
+        <td bgcolor="#f4f4f4">Injuries</td> 
+        <td bgcolor="#f4f4f4">Deaths</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">A&amp;I Residence Hall</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Lothian Residence Hall</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Pentland Hills</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Glen Mor</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Bannockburn Village</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Bannockburn&nbsp;Plaza</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Crest Family Housing</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">International Village</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Stonehaven Apts</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Falkirk Apartments</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Oban Apartments</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">2013 Total</td> 
+        <td bgcolor="#b4c6db">1</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">0</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <h3>2012 CLERY Statistics</h3> 
+     <table style="height: 345px; width: 450px;" border="0" cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Location</td> 
+        <td bgcolor="#f4f4f4">Homicide</td> 
+        <td bgcolor="#f4f4f4">Sex Offense</td> 
+        <td bgcolor="#f4f4f4">Robbery</td> 
+        <td bgcolor="#f4f4f4">Aggravated Assault</td> 
+        <td bgcolor="#f4f4f4">Burglary</td> 
+        <td bgcolor="#f4f4f4">Motor Vehicle Theft</td> 
+        <td bgcolor="#f4f4f4">Arson</td> 
+        <td bgcolor="#f4f4f4">Crime Total</td> 
+        <td bgcolor="#f4f4f4">Hate Crime</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">&nbsp;</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>2</td> 
+        <td>2</td> 
+        <td>20</td> 
+        <td>14</td> 
+        <td>0</td> 
+        <td>39</td> 
+        <td>2</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+        <td>0</td> 
+        <td>5</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>31</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>37</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">6</td> 
+        <td bgcolor="#b4c6db">3</td> 
+        <td bgcolor="#b4c6db">2</td> 
+        <td bgcolor="#b4c6db">51</td> 
+        <td bgcolor="#b4c6db">14</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">76</td> 
+        <td bgcolor="#b4c6db">2</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Non-Campus</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>1</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Public Property</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b1c3d9">2012 Total</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">6</td> 
+        <td bgcolor="#b4c6db">6</td> 
+        <td bgcolor="#b4c6db">2</td> 
+        <td bgcolor="#b4c6db">51</td> 
+        <td bgcolor="#b4c6db">14</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">79</td> 
+        <td bgcolor="#b4c6db">2</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <table cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Location</td> 
+        <td bgcolor="#f4f4f4">Drug Arrests</td> 
+        <td bgcolor="#f4f4f4">Drug Referrals</td> 
+        <td bgcolor="#f4f4f4">Liquor Arrests</td> 
+        <td bgcolor="#f4f4f4">Liquor Referrals</td> 
+        <td bgcolor="#f4f4f4">Weapons Arrests</td> 
+        <td bgcolor="#f4f4f4">Weapons Referrals</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">&nbsp;</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+        <td>2012</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+        <td>6</td> 
+        <td>1</td> 
+        <td>20</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+        <td>1</td> 
+        <td>231</td> 
+        <td>4</td> 
+        <td>19</td> 
+        <td>3</td> 
+        <td>3</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+        <td bgcolor="#b4c6db">7</td> 
+        <td bgcolor="#b4c6db">232</td> 
+        <td bgcolor="#b4c6db">24</td> 
+        <td bgcolor="#b4c6db">19</td> 
+        <td bgcolor="#b4c6db">3</td> 
+        <td bgcolor="#b4c6db">3</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Non-Campus</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Public Property</td> 
+        <td>5</td> 
+        <td>0</td> 
+        <td>2</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">2012 Total</td> 
+        <td bgcolor="#b4c6db">12</td> 
+        <td bgcolor="#b4c6db">232</td> 
+        <td bgcolor="#b4c6db">26</td> 
+        <td bgcolor="#b4c6db">19</td> 
+        <td bgcolor="#b4c6db">3</td> 
+        <td bgcolor="#b4c6db">3</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <h4><a href="http://www.ehs.ucr.edu/fire/annualfiresafetyreport2012.pdf">Fire Requirement in 2012</a></h4> 
+     <p>2012 On Campus Student Housing Facilities - Fire Summary</p> 
+     <table cellspacing="0" cellpadding="0"> 
+      <tbody> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Name of Facility</td> 
+        <td bgcolor="#f4f4f4">Fire</td> 
+        <td bgcolor="#f4f4f4">Injuries</td> 
+        <td bgcolor="#f4f4f4">Deaths</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Pentland Hills</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">A&amp;I Residence Hall</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Lothian Residence Hall</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Glen Mor</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Bannockburn Village</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">University Plaza</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Crest Housing</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">International Village</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Stonehaven</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Falkirk</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#f4f4f4">Oban</td> 
+        <td>0</td> 
+        <td>0</td> 
+        <td>0</td> 
+       </tr> 
+       <tr> 
+        <td bgcolor="#b4c6db">2012 Total</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">0</td> 
+        <td bgcolor="#b4c6db">0</td> 
+       </tr> 
+      </tbody> 
+     </table> 
+     <div id="anonymous_element_3" style="overflower: visible;"> 
+      <h3>2011 CLERY Statistics</h3> 
+      <table style="height: 345px; width: 450px;" border="0" cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Location</td> 
+         <td bgcolor="#f4f4f4">Homicide</td> 
+         <td bgcolor="#f4f4f4">Sex Offense</td> 
+         <td bgcolor="#f4f4f4">Robbery</td> 
+         <td bgcolor="#f4f4f4">Aggravated Assault</td> 
+         <td bgcolor="#f4f4f4">Burglary</td> 
+         <td bgcolor="#f4f4f4">Motor Vehicle Theft</td> 
+         <td bgcolor="#f4f4f4">Arson</td> 
+         <td bgcolor="#f4f4f4">Crime Total</td> 
+         <td bgcolor="#f4f4f4">Hate Crime</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">&nbsp;</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>3</td> 
+         <td>0</td> 
+         <td>11</td> 
+         <td>23</td> 
+         <td>1</td> 
+         <td>38</td> 
+         <td>1</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+         <td>0</td> 
+         <td>5</td> 
+         <td>1</td> 
+         <td>1</td> 
+         <td>21</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>28</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+         <td bgcolor="#b4c6db">0</td> 
+         <td bgcolor="#b4c6db">5</td> 
+         <td bgcolor="#b4c6db">4</td> 
+         <td bgcolor="#b4c6db">1</td> 
+         <td bgcolor="#b4c6db">32</td> 
+         <td bgcolor="#b4c6db">23</td> 
+         <td bgcolor="#b4c6db">1</td> 
+         <td bgcolor="#b4c6db">66</td> 
+         <td bgcolor="#b4c6db">1</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Non-Campus</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>1</td> 
+         <td>2</td> 
+         <td>5</td> 
+         <td>0</td> 
+         <td>8</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Public Property</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>1</td> 
+         <td>0</td> 
+         <td>1</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#b1c3d9">2011 Total</td> 
+         <td bgcolor="#b4c6db">0</td> 
+         <td bgcolor="#b4c6db">5</td> 
+         <td bgcolor="#b4c6db">4</td> 
+         <td bgcolor="#b4c6db">2</td> 
+         <td bgcolor="#b4c6db">34</td> 
+         <td bgcolor="#b4c6db">29</td> 
+         <td bgcolor="#b4c6db">1</td> 
+         <td bgcolor="#b4c6db">75</td> 
+         <td bgcolor="#b4c6db">1</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Location</td> 
+         <td bgcolor="#f4f4f4">Drug Arrests</td> 
+         <td bgcolor="#f4f4f4">Drug Referrals</td> 
+         <td bgcolor="#f4f4f4">Liquor Arrests</td> 
+         <td bgcolor="#f4f4f4">Liquor Referrals</td> 
+         <td bgcolor="#f4f4f4">Weapons Arrests</td> 
+         <td bgcolor="#f4f4f4">Weapons Referrals</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">&nbsp;</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+         <td>2011</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">On Campus - Non Residence</td> 
+         <td>1</td> 
+         <td>1</td> 
+         <td>2</td> 
+         <td>18</td> 
+         <td>1</td> 
+         <td>1</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">On Campus - Residence</td> 
+         <td>3</td> 
+         <td>132</td> 
+         <td>1</td> 
+         <td>36</td> 
+         <td>1</td> 
+         <td>1</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#b4c6db">On Campus SUBTOTAL</td> 
+         <td bgcolor="#b4c6db">4</td> 
+         <td bgcolor="#b4c6db">133</td> 
+         <td bgcolor="#b4c6db">3</td> 
+         <td bgcolor="#b4c6db">54</td> 
+         <td bgcolor="#b4c6db">2</td> 
+         <td bgcolor="#b4c6db">2</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Non-Campus</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Public Property</td> 
+         <td>1</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>1</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#b4c6db">2011 Total</td> 
+         <td bgcolor="#b4c6db">5</td> 
+         <td bgcolor="#b4c6db">133</td> 
+         <td bgcolor="#b4c6db">3</td> 
+         <td bgcolor="#b4c6db">54</td> 
+         <td bgcolor="#b4c6db">3</td> 
+         <td bgcolor="#b4c6db">2</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <h4><a href="http://www.ehs.ucr.edu/fire/annualfiresafetyreport2011.pdf">Fire Requirement in 2011</a></h4> 
+      <p>2011 On Campus Student Housing Facilities - Fire Summary</p> 
+      <table cellspacing="0" cellpadding="0"> 
+       <tbody> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Name of Facility</td> 
+         <td bgcolor="#f4f4f4">Fire</td> 
+         <td bgcolor="#f4f4f4">Injuries</td> 
+         <td bgcolor="#f4f4f4">Deaths</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Pentland Hills</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">A&amp;I Residence Hall</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Lothian Residence Hall</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Glen Mor</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Bannockburn Village</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">University Plaza</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Crest Housing</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">International Village</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Stonehaven</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Falkirk</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#f4f4f4">Oban</td> 
+         <td>0</td> 
+         <td>0</td> 
+         <td>0</td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#b4c6db">2011 Total</td> 
+         <td bgcolor="#b4c6db">0</td> 
+         <td bgcolor="#b4c6db">0</td> 
+         <td bgcolor="#b4c6db">0</td> 
+        </tr> 
+       </tbody> 
+      </table> 
+      <h3>&nbsp;</h3> 
+     </div> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://library.ucr.edu/">UCR Libraries</a> • <a href="http://campusstatus.ucr.edu/">Campus Status</a><br> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://diversity.ucr.edu/">Diversity</a><br> <a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> • <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Police Department</strong><br> <a href="http://campusmap.ucr.edu/campusMap.php?loc=POLCE" title="Campus Map">3500 Canyon Crest Drive</a><br><br> <span style="color: #C00"><strong>Emergency (Police, Fire, Medical): 911</strong></span><br> Tel: (951) 827-5222<br> Fax: (951) 683-1639<br><br> E-mail: <a href="mailto:ucpdgeneralmail@ucr.edu?subject=Website%20Inquiry">ucpdgeneralmail@ucr.edu</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://ehs.ucr.edu">Environmental Health &amp; Safety (EH&amp;S)</a></li> 
+       <li><a href="http://escortservice.ucr.edu">Escort Service</a></li> 
+       <li><a href="http://wrc.ucr.edu">Women's Resource Center</a></li> 
+       <li><a href="http://www.ehs.ucr.edu/services/emergency.html">Emergency Procedures</a></li> 
+       <li><a href="http://www.chp.ca.gov/amber/amber-en.html">CHP Amber Alert</a></li> 
+       <li><a href="https://www.facebook.com/pages/University-of-California-Police-Department-Riverside/332453176821" target="_blank"><img title="Facebook" src="/images/facebook-icon2.jpg" alt="Facebook" width="100" height="35"></a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="http://police.ucr.edu/sendmail.html" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2014 Regents of the University of California</li> 
+      <li><a rel="nofollow" href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=D01123&amp;site=police&amp;path=%2Fclery%2Fclery.html">Last modified: 2014-Dec-12</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Generated in 0.242083 seconds using 2.25 MiB of memory. -->   
+ </body>
+</html>

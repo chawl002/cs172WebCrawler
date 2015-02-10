@@ -1,0 +1,594 @@
+<!--?xml version="1.0" encoding="utf-8"?--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <title>Accounting: Welcome to the Accounting Office</title> 
+  <meta http-equiv="last-modified" content="2015-02-04"> 
+  <meta name="version" content="1.204 1.233 "> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print"> 
+  <link rel="stylesheet" type="text/css" href="/css/local.css" media="all"> 
+  <link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all"> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/striper.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/effects.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/xpander.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script> 
+  <script type="text/javascript" src="http://www.ucr.edu/js/glider.js"></script> 
+  <!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]--> 
+  <!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]--> 
+  <script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script> 
+  <script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script> 
+ </head> 
+ <body> 
+  <div class="pagewrapper"> 
+   <ul id="accessibility_links"> 
+    <li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li> 
+    <li class="skip"><a tabindex="2" href="http://accounting.ucr.edu/" accesskey="1">Home Page</a></li> 
+    <!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li--> 
+   </ul> 
+   <hr> 
+   <div id="brandingbar"> 
+    <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page"></a></h2> 
+   </div> 
+  </div> 
+  <div id="masthead" style="background-image:url(/images/masthead.jpg);"> 
+   <h1><a href="http://accounting.ucr.edu/"><span class="printonly">Accounting</span></a></h1> 
+  </div> 
+  <!-- Status: Normal --> 
+  <hr> 
+  <!-- Start Breadcrumbs --> 
+  <div class="breadcrumbs"> 
+   <h3 class="accessibility">Breadcrumbs</h3> 
+   <ul> 
+    <li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li> 
+    <li class="lastitem">Accounting</li> 
+   </ul> 
+  </div> 
+  <!-- End Breadcrumbs --> 
+  <div class="pagewrapper"> 
+   <div id="search"> 
+    <div id="nav_utility"> 
+     <ul> 
+      <li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li> 
+      <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li> 
+      <li><a href="http://www.ucr.edu/find_people.php">Find People</a></li> 
+     </ul> 
+    </div> 
+    <form id="searchbox" action="http://www.ucr.edu/search.php">
+     <p> <label for="SearchText" accesskey="4">Search for:</label> <input type="text" size="19" maxlength="255" id="SearchText" name="q" value=""> <input id="go" type="submit" name="sa" value="Go"> </p>
+    </form> 
+    <script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script> 
+   </div> 
+   <hr> 
+   <!-- Start Content (Navigation and Content columns) --> 
+   <div id="content"> 
+    <h2>Welcome to the Accounting Office</h2> 
+    <!-- Start Sidebar --> 
+    <div id="sidebar"> 
+     <div class="nav"> 
+      <h3 class="accessibility">Main Navigation</h3> 
+      <ul> 
+       <li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li>
+       <li><a href="/accounts_payable/" title="Accounts Payable">Accounts Payable</a></li>
+       <li><a href="/funds/" title="Extramural Funds">Extramural Funds</a></li>
+       <li><a href="/general/" title="General Accounting &amp; Plant">General Accounting &amp; Plant</a></li>
+       <li><a href="/payroll/" title="Payroll">Payroll</a></li>
+       <li><a href="/travel/" title="Travel">Travel</a></li>
+       <li><a href="/forms.html" title="Forms">Forms</a></li>
+       <li><a href="/policies.html" title="Policies &amp; Procedures">Policies &amp; Procedures</a></li>
+       <li><a href="/access.html" title="Controls &amp; Access">Controls &amp; Access</a></li>
+       <li><a href="/news/news.html" title="Announcements">Announcements</a></li>
+       <li><a href="/#contact" title="Contacts">Contacts</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <hr> 
+    <!-- End Sidebar --> 
+    <!-- Start Content Area --> 
+    <div id="main"> 
+     <!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" --> 
+     <!-- com.omniupdate.div label="title" group="Everyone" button="734" -->
+     <!-- com.omniupdate.editor toolbar="TITLE" csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+     <!-- /com.omniupdate.div --> 
+     <div id="omnicontent"> 
+      <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+      <p><img src="/images/accounting_img_124.jpg" alt="Welcome to the Accounting Website" width="700" height="144"></p>
+      <!-- /com.omniupdate.div --> 
+      <!-- com.omniupdate.div label="controls" group="Everyone" button="707" -->
+      <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+      <ul class="texttab-control"> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#welcome">Welcome</a></li> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#news">What's New</a></li> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#contact">Contacts</a></li> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#quicklink">Quick Links</a></li> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#feedback">Support Sites &amp; Feedback</a></li> 
+       <li><a onfocus="if(this.blur)this.blur()" href="#announcements">Announcements</a></li> 
+      </ul>
+      <!-- /com.omniupdate.div --> 
+      <div id="welcome" class="texttab-column"> 
+       <!-- com.omniupdate.div label="welcomecontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <p><strong>Welcome to the Accounting Office’s web site.</strong></p> 
+       <p>The mission of the Accounting Office is to support the campus community by providing prompt, reliable accounting and payroll services; ensuring accurate financial information and reports are readily available; coordinating external audits; and contributing to the control environment through the development of financial applications and dissemination of information regarding applicable laws, regulations, policies and procedures.&nbsp;</p> 
+       <p>This web site was developed as a resource for the campus to easily access relevant policies, procedures, and other important financial services information. &nbsp;</p> 
+       <p>Sincerely,</p> 
+       <p>Bobbi McCracken<br>Associate Vice Chancellor - Financial Services &amp; Controller</p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div id="news" class="texttab-column"> 
+       <!-- com.omniupdate.div label="newscontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <ul> 
+        <li><strong>2013 W2 Forms</strong> 
+         <ul> 
+          <li>On January 22, 2014, the 2013 W2 Forms were posted electronically via <a title="UC At Your Service Online Portal" href="https://atyourserviceonline.ucop.edu/ayso" target="_blank">UC's At Your Service site</a>.</li> 
+          <li>For those individuals requesting paper W2s, the forms were mailed at the end of January, 2014.</li> 
+          <li>Questions regarding W2s should be directed to Payroll at (951) 827-3307.</li> 
+         </ul> </li> 
+        <li><a href="/payroll/theworknumber.html">Employment and Income Verification</a></li> 
+        <li><a href="/general/#fiscal">2013 Fiscal Year Closing Letters and Templates</a></li> 
+        <li><a href="http://atyourservice.ucop.edu/news/general/1201-oasdi-payroll-adjustment.html" target="_blank">Reduced OASDI tax withholding&nbsp;being implemented throughout January 2012
+          <!-- InstanceEndEditable --></a></li> 
+        <li><a href="/docs/general_accounting/userguide-ccpc.pdf" target="_blank">User Guide for Cost Centers &amp; Project Codes</a></li> 
+        <li><a href="/payroll/iap_pmt.html">Supplemental&nbsp;Recognition&nbsp;Program</a></li> 
+        <li><a href="/docs/payroll/erit.pdf" target="_blank">Employee Initiated Reduction In Time (ERIT)&nbsp;Guidelines</a></li> 
+        <li><a href="http://cnc.ucr.edu/ireport/" target="_blank">iReport application</a>&nbsp;</li> 
+        <li><a href="http://www.cnc.ucr.edu/epay/" target="_blank">e-Pay (Online Payment Request System)</a></li> 
+       </ul>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div id="contact" class="texttab-column"> 
+       <!-- com.omniupdate.div label="contactcontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <table class="timeline" style="width: 100%;" border="0"> 
+        <tbody> 
+         <tr> 
+          <td><strong>Name</strong></td> 
+          <td><strong>Title&nbsp;</strong></td> 
+          <td><strong>Phone<br>(951) 827-</strong></td> 
+          <td><strong>E-mail</strong></td> 
+         </tr> 
+         <tr> 
+          <td style="background-color: #ced7e1;" colspan="4"> <h4>Financial Services (951)827-3303</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>McCracken, Bobbi</td> 
+          <td> <p>Associate Vice Chancellor &amp; Controller</p> </td> 
+          <td>3303</td> 
+          <td><a href="mailto:bobbi.mccracken@ucr.edu">bobbi.mccracken@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Librenjak, Pauline</td> 
+          <td>Assistant Controller</td> 
+          <td>1955</td> 
+          <td><a href="mailto:pauline.librenjak@ucr.edu">pauline.librenjak@ucr.edu</a>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>Casteel, Linda</td> 
+          <td>Treasury Manager</td> 
+          <td>1939</td> 
+          <td><a href="mailto:linda.casteel@ucr.edu">linda.casteel@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Karam, Alfred</td> 
+          <td>Project Manager</td> 
+          <td>6203</td> 
+          <td><a href="mailto:alfred.karam@ucr.edu">alfred.karam@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Hoerger, Josh</td> 
+          <td>Project Manager</td> 
+          <td>1950</td> 
+          <td><a href="mailto:josh.hoerger@ucr.edu">josh.hoerger@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Contreras, Blanca</td> 
+          <td>Admin Specialist (temp)</td> 
+          <td>1944</td> 
+          <td><a href="mailto:blanca.contreras@ucr.edu">blanca.contreras@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td style="background-color: #ced7e1;" colspan="4"> <h4>Accounts Payable (951)827-3305; Travel (951)827-3304</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>Smith,&nbsp;Aver</td> 
+          <td>Supervisor</td> 
+          <td>1959</td> 
+          <td><a href="mailto:aver.smith@ucr.edu">aver.smith@ucr.edu</a>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>Campbell, Nancy</td> 
+          <td>Accounting Asst. (A-D, O-P)</td> 
+          <td>1934</td> 
+          <td><a href="mailto:nancy.campbell@ucr.edu">nancy.campbell@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Danford, Elaine</td> 
+          <td>Accounting Asst. (Q-Z)</td> 
+          <td>1935</td> 
+          <td><a href="mailto:elaine.danford@ucr.edu">elaine.danford@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Ford, Dorthea</td> 
+          <td>Accountant-AP</td> 
+          <td>1936</td> 
+          <td><a href="mailto:dorthea.ford@ucr.edu">dorthea.ford@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Jimenez, Alma</td> 
+          <td>Accounting Asst. - Vendor Maintenance</td> 
+          <td>1946</td> 
+          <td><a href="mailto:alma.jimenez@ucr.edu">alma.jimenez@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Martinez, Rosmery</td> 
+          <td>Accounting Asst. (E-N)</td> 
+          <td>1937</td> 
+          <td><a href="mailto:rosmery.martinez@ucr.edu">rosmery.martinez@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Gonzalez, Vicki</td> 
+          <td>Travel/e-Pay Specialist</td> 
+          <td>1932</td> 
+          <td><a href="mailto:vicki.gonzalez@ucr.edu">vicki.gonzalez@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Danford, Sandy</td> 
+          <td>Travel/e-Pay Specialist</td> 
+          <td>1933</td> 
+          <td><a href="mailto:sandra.danford@ucr.edu">sandra.danford@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td style="background-color: #ced7e1;" colspan="4"> <h4>Extramural Funds (951)827-3302</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>De Vera, Fred</td> 
+          <td>Manager</td> 
+          <td>1948</td> 
+          <td><a href="mailto:fred.devera@ucr.edu">fred.devera@ucr.edu</a>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>Alonzo-Le, Roseline</td> 
+          <td>Accountant</td> 
+          <td>1954</td> 
+          <td><a href="mailto:roseline.alonzo-le@ucr.edu">roseline.alonzo-le@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>James, Montrice</td> 
+          <td>Accountant</td> 
+          <td>1899</td> 
+          <td><a href="mailto:montrice.james@ucr.edu">montrice.james@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Padilla Gala, Kimberly</td> 
+          <td>Accountant</td> 
+          <td>1953</td> 
+          <td><a href="mailto:kimberly.gala@ucr.edu">kimberly.gala@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td style="background-color: #ced7e1;" colspan="4"> <h4>General Accounting (951)827-3311</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>Monahan, Jerry</td> 
+          <td>Supervisor</td> 
+          <td>1942</td> 
+          <td><a href="mailto:jerry.monahan@ucr.edu">jerry.monahan@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Mochache, Michael</td> 
+          <td>Accountant - Plant</td> 
+          <td>1920</td> 
+          <td><a href="mailto:michael.mochache@ucr.edu">michael.mochache@ucr.edu</a> &nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>Watson, Carolyn</td> 
+          <td>Accountant-Cash</td> 
+          <td>1945</td> 
+          <td><a href="mailto:carolyn.watson@ucr.edu">carolyn.watson@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Keel, Lauren</td> 
+          <td>Accountant</td> 
+          <td>1903</td> 
+          <td><a href="mailto:lauren.keel@ucr.edu">lauren.keel@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Rias, Lupe</td> 
+          <td>Accounting Asst.</td> 
+          <td>1947</td> 
+          <td><a href="mailto:lupe.rias@ucr.edu">lupe.rias@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td style="background-color: #ced7e1;" colspan="4"> <h4>Payroll (951)827-3307</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>Nwandu, Gabe</td> 
+          <td>Director</td> 
+          <td>1956</td> 
+          <td><a href="mailto:gabe.nwandu@ucr.edu">gabe.nwandu@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Christensen, Grant</td> 
+          <td>Supervisor</td> 
+          <td>1943</td> 
+          <td><a href="mailto:grant.christensen@ucr.edu">grant.christensen@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Valdez, Elena</td> 
+          <td>Accountant</td> 
+          <td>1958</td> 
+          <td><a href="mailto:elena.valdez@ucr.edu">elena.valdez@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Greaves, Agnes</td> 
+          <td>Accountant</td> 
+          <td>1961</td> 
+          <td><a href="mailto:agnes.greaves@ucr.edu">agnes.greaves@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Domin, Nancy</td> 
+          <td>Accountant</td> 
+          <td>1962</td> 
+          <td><a href="mailto:nancy.domin@ucr.edu">nancy.domin@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Moser, Veronique</td> 
+          <td>Admin&nbsp;Specialist</td> 
+          <td>1963</td> 
+          <td><a href="mailto:veronique.moser@ucr.edu">veronique.moser@ucr.edu</a></td> 
+         </tr> 
+         <tr> 
+          <td>Davis, Valerie</td> 
+          <td>Accounting Asst.</td> 
+          <td>1957</td> 
+          <td><a href="mailto:valerie.davis@ucr.edu">valerie.davis@ucr.edu</a></td> 
+         </tr> 
+        </tbody> 
+       </table>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div id="quicklink" class="texttab-column"> 
+       <!-- com.omniupdate.div label="qlucrhead" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+       <h3>UC Riverside</h3> 
+       <!-- /com.omniupdate.div --> 
+       <div class="xpander"> 
+        <!-- com.omniupdate.div label="qlucr" group="Everyone" button="707" -->
+        <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+        <ul> 
+         <li><a href="http://www.ucr.edu/" target="_blank">UCR Home Page</a></li> 
+         <li><a href="http://bas.ucr.edu/">UCR VC Business and Administrative Services (BAS)</a></li> 
+         <li><a href="http://audit.ucr.edu/" target="_blank">UCR Internal Audit</a></li> 
+         <li><a href="http://fboapps.ucr.edu/policies/" target="_blank">UCR Policies &amp; Procedures&nbsp; Manual</a></li> 
+         <li><a href="http://ucrfsreports.ucr.edu/" target="_blank">UCR Financial Reports</a></li> 
+         <li><a href="http://goldentree.ucr.edu/goldentree/GoldenTree.asp?Tree=Account">UCRFS Golden Trees</a></li> 
+         <li><a href="http://cnc.ucr.edu/reports/" target="_blank">UCR Reporting and Data Warehouses</a></li> 
+        </ul>
+        <!-- /com.omniupdate.div --> 
+       </div> 
+       <!-- com.omniupdate.div label="qluchead" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+       <h3>University of California</h3> 
+       <!-- /com.omniupdate.div --> 
+       <div class="xpander"> 
+        <!-- com.omniupdate.div label="qluc" group="Everyone" button="707" -->
+        <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+        <br> 
+        <ul> 
+         <li><a href="http://www.ucop.edu/" target="_blank">UC Office of the President</a></li> 
+         <li><a href="/uc_acct_offices.html" target="_top">UC Accounting Offices</a></li> 
+         <li><a href="http://policy.ucop.edu/manuals/accounting-manual.html">UC Accounting Manual</a></li> 
+         <li><a title="UC SharePoint Accounting Manual Procedures" href="https://sp2010.ucop.edu/sites/finacct/Pages/Default.aspx" target="_blank">UC SharePoint Accounting Manual Procedures</a></li> 
+         <li><a href="http://policy.ucop.edu/manuals/business-and-finance-bulletins.html">UC Business and Finance Bulletins</a></li> 
+         <li><a href="http://www.ucop.edu/ucophome/policies/sutm/welcome.html" target="_blank">UC Sales and Use Tax Manual</a></li> 
+         <li><a href="http://www.universityofcalifornia.edu/directories/welcome.html" target="_blank">UC Online Phone Directory Search</a></li> 
+         <li><a href="http://ucop.edu/financial-accounting/financial-reports/index.html" target="_blank">UC Financial Reports/Division of Business and Finance</a></li> 
+         <li><a href="http://www.universityofcalifornia.edu/reportingtransparency/" target="_blank">UC Reporting Transparency</a></li> 
+         <li><a href="http://policy.ucop.edu/manuals/business-and-finance-bulletins.html#rmp-series">Records Mgt and Privacy - RMP Series</a></li> 
+        </ul>
+        <!-- /com.omniupdate.div --> 
+       </div> 
+       <!-- com.omniupdate.div label="qlhehead" group="Everyone" button="707" -->
+       <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --> 
+       <h3>Higher Education</h3> 
+       <!-- /com.omniupdate.div --> 
+       <div class="xpander"> 
+        <!-- com.omniupdate.div label="qlhe" group="Everyone" button="707" -->
+        <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+        <ul> 
+         <li><a href="http://www.nacubo.org/Business_and_Policy_Areas.html" target="_blank">NACUBO</a></li> 
+         <li><a href="http://chronicle.com/section/Home/5" target="_blank">Chronicle of Higher Education</a></li> 
+        </ul>
+        <!-- /com.omniupdate.div --> 
+       </div> 
+      </div> 
+      <div id="feedback" class="texttab-column"> 
+       <!-- com.omniupdate.div label="feedbackcontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <table style="width: 625px; height: 328px;" border="0"> 
+        <tbody> 
+         <tr> 
+          <td> <h4>System</h4> </td> 
+          <td> <h4>Support Site</h4> </td> 
+          <td> <h4>Feedback</h4> </td> 
+         </tr> 
+         <tr> 
+          <td>Connexxus Travel Program</td> 
+          <td><a href="http://www.accounting.ucr.edu/connexxus.htm">http://accounting.ucr.edu/connexxus.htm</a></td> 
+          <td> <p><a href="mailto:uctravel@ucop.edu">uctravel@ucop.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>EACS</td> 
+          <td><a href="http://cnc.ucr.edu/eacs/">http://cnc.ucr.edu/eacs/</a></td> 
+          <td> <p><a href="mailto:saaupdate@ucr.edu">saaupdate@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Encumbrances</td> 
+          <td><a href="http://cnc.ucr.edu/encumbrances">http://cnc.ucr.edu/encumbrances</a><a href="http://cnc.ucr.edu/oct/">&nbsp;</a></td> 
+          <td>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>ePay</td> 
+          <td><a href="http://cnc.ucr.edu/epay/">http://cnc.ucr.edu/epay/</a></td> 
+          <td> <p><a href="mailto:epayfeedback@ucr.edu">epayfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>iReport</td> 
+          <td><a href="http://cnc.ucr.edu/ireport/">http://cnc.ucr.edu/ireport/</a></td> 
+          <td> <p><a href="mailto:ireportfeedback@ucr.edu">ireportfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>iTravel</td> 
+          <td><a href="http://cnc.ucr.edu/travel/">http://cnc.ucr.edu/travel/</a></td> 
+          <td> <p><a href="mailto:travelfeedback@ucr.edu">travelfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>LRSS</td> 
+          <td><a href="http://cnc.ucr.edu/lrss/">http://cnc.ucr.edu/lrss/</a></td> 
+          <td> <p><a href="mailto:lrssfeedback@ucr.edu">lrssfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Overdraft Control Tool</td> 
+          <td><a href="http://cnc.ucr.edu/oct/">http://cnc.ucr.edu/oct/</a></td> 
+          <td>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>PAMIS</td> 
+          <td><a href="http://cnc.ucr.edu/pamis/">http://cnc.ucr.edu/pamis/</a></td> 
+          <td>&nbsp;</td> 
+         </tr> 
+         <tr> 
+          <td>PIWRS</td> 
+          <td><a href="http://cnc.ucr.edu/piwrs/">http://cnc.ucr.edu/piwrs/</a><a href="http://cnc.ucr.edu/encumbrances">&nbsp;</a></td> 
+          <td> <p><a href="mailto:piwrsfeedback@ucr.edu">piwrsfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>UCRFS</td> 
+          <td><a href="http://cnc.ucr.edu/ucrfs/">http://cnc.ucr.edu/ucrfs/</a></td> 
+          <td> <p><a href="mailto:ucrfsfeedback@ucr.edu">ucrfsfeedback@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Uniform Guidance</td> 
+          <td>&nbsp;</td> 
+          <td> <p><a href="mailto:webppsfeedback@ucr.edu">ug@ucr.edu</a></p> </td> 
+         </tr> 
+         <tr> 
+          <td>Web Payroll/Personnel System</td> 
+          <td>&nbsp;</td> 
+          <td> <p><a href="mailto:webppsfeedback@ucr.edu">webppsfeedback@ucr.edu</a><a href="mailto:piwrsfeedback@ucr.edu">&nbsp;</a></p> </td> 
+         </tr> 
+        </tbody> 
+       </table>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <div id="announcements" class="texttab-column"> 
+       <!-- com.omniupdate.div label="announcementscontent" group="Everyone" button="707" -->
+       <!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ -->
+       <p> </p>
+       <ul class="rss_details"> 
+        <li><a href="http://accounting.ucr.edu/news/20150128-newdepositsystem.html">New Deposit System (Replacement of DAF System)</a> <strong>(January 28, 2015)</strong><br> Financial Services and Computing &amp; Communications are pleased to announce an upcoming enhancement to the Cash Collection, Reporting, and Reconciliation System (CCRRS). This efficiency enhancements allow the CCRRS to integrate directly with the UCR Financial System (UCRFS), eliminate the need for a separate system and user id to input deposit advice information, and allow access to be granted via the Enterprise Access Control System (EACS). </li> 
+        <li><a href="http://accounting.ucr.edu/news/20150106-ppspannotices.html">PPS Post Audit Notification (PAN) Reminder Notices</a> <strong>(January 6, 2015)</strong><br> In an effort to ensure the timely review of PPS Actions, beginning the week of January 12, 2015, e-mail notices will be generated for all Mandatory PPS Reviewers with unread PPS PANs. The reminder notices are intended to assist the Mandatory PPS reviewer perform their job responsibilities.</li> 
+       </ul> 
+       <p></p> 
+       <p><a class="button3" href="/news/news.html">View All Announcements</a></p>
+       <!-- /com.omniupdate.div --> 
+      </div> 
+      <!-- com.omniupdate.div label="related" group="Everyone" button="707" -->
+      <!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="300" -->
+      <!-- /com.omniupdate.div --> 
+      <script charset="utf-8" type="text/javascript"> 
+var my_glider = new Glider('my-glider', {duration:0.5}); 
+</script> 
+      <!-- com.omniupdate.efp -->
+      <!-- /com.omniupdate.efp --> 
+     </div> 
+     <hr> 
+    </div> 
+    <!-- End Content Area --> 
+    <div class="clear"></div> 
+   </div> 
+   <!-- End Content --> 
+  </div>
+  <!-- end pagewrapper --> 
+  <div class="clear"></div> 
+  <div class="footerwrapper"> 
+   <h2>More Information</h2> 
+   <div class="pagewrapper"> 
+    <div class="prefooter"> 
+     <div class="column49"> 
+      <h3>General Campus Information</h3> 
+      <address> <span class="vcard"> <strong><span class="fn org">University of California, Riverside</span></strong><br> <span class="adr"> <span class="street-address">900 University Ave.</span><br> <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br> </span> Tel: <span class="tel">(951) 827-1012</span><br><br> </span> <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> • <a href="http://library.ucr.edu/">UCR Libraries</a><br> <a href="http://campusstatus.ucr.edu/">Campus Status</a> • <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address> 
+     </div> 
+     <div class="column49"> 
+      <h3>Department Information</h3> 
+      <address><strong>Accounting Office</strong><br><br> Physical Address: 1201 University Avenue, Suite 208<br> Riverside, CA 92507<br><br> Mailing Address: UC Riverside, Accounting Office-002<br> Riverside, CA 92521<br><br> Office Hours: Mon-Fri (8:00 am - 5:00 pm); Sat-Sun (Closed)<br><br> Tel: (951) 827-3303<br> Fax: (951) 827-3314<br> <a href="http://accounting.ucr.edu/#contact">Contact Us</a><br> <a href="http://www.accounting.ucr.edu/parking.html">Parking at the University Village</a></address> 
+     </div> 
+     <div class="column49R"> 
+      <h3>Related Links</h3> 
+      <ul> 
+       <li><a href="http://rspace.ucr.edu/" target="_blank">R'Space</a></li> 
+       <li><a href="http://bas.ucr.edu/">VC Business and Administrative Services</a></li> 
+       <li><a href="http://www.sbs.ucr.edu/">SBS/Cashiers</a></li> 
+       <li><a href="http://goldentree.ucr.edu/goldentree/GoldenTree.asp?Tree=Account"><span style="color: #ac6419;">UCRFS Golden Trees</span></a></li> 
+       <li><a href="http://www.ucop.edu/ucophome/policies/acctman/">UC Accounting Manual</a></li> 
+       <li><a href="http://www.ucop.edu/ucophome/policies/bfb/">UC Business &amp; Finance Bulletin</a></li> 
+      </ul> 
+     </div> 
+     <div class="clear"></div> 
+    </div> 
+    <div class="clear"></div> 
+    <div id="nav_footer"> 
+     <h3 class="accessibility">Campuswide Navigation</h3> 
+     <ul>
+      <li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li>
+      <li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li>
+      <li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li>
+      <li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li>
+      <li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li>
+      <li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li>
+      <li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li>
+      <li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li>
+      <li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li>
+     </ul> 
+    </div> 
+    <h3 class="accessibility">Footer</h3> 
+    <div id="footer"> 
+     <ul> 
+      <li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li> 
+      <li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li> 
+      <li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li> 
+      <li>© 2015 Regents of the University of California</li> 
+      <li><a href="http://ucrcmsdev.ucr.edu/oucampus/de.jsp?user=d01100&amp;site=accounting_dev&amp;path=%2Findex.html">Last modified: 2015-Feb-04</a></li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>   
+ </body>
+</html>

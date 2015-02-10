@@ -6,7 +6,7 @@
   <!--[if IE]><![endif]--> 
   <meta http-equiv="last-modified" content="2014-10-21"> 
   <meta name="version" content="2.67 2.160 "> 
-  <!-- 02/09/15 12:20:23 02/09/15 13:04:26 --> 
+  <!-- 02/09/15 18:41:08 02/09/15 18:48:42 --> 
   <link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all"> 
   <link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print"> 
   <link rel="stylesheet" type="text/css" href="/giving/css/local.css" media="all"> 
@@ -152,14 +152,14 @@
        <div class="content"> 
         <div class="slide" id="slide1"> 
          <div class="flashcontent"> 
-          <div id="x14235158665cdd3460"> 
+          <div id="x1423536522774f7c"> 
            <p>Loading the player…</p> 
           </div> 
          </div> 
          <script type="text/javascript">
 // <![CDATA[
 	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
-		jwplayer('x14235158665cdd3460').setup({
+		jwplayer('x1423536522774f7c').setup({
 			flashplayer: 'http://www.ucr.edu/player.swf',
 			controlbar: { margin: 0, position: 'over' },
 			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
@@ -180,14 +180,14 @@
         </div> 
         <div class="slide" id="slide2"> 
          <div class="flashcontent"> 
-          <div id="x1423515866682e0b839a"> 
+          <div id="x14235365228b4e8f"> 
            <p>Loading the player…</p> 
           </div> 
          </div> 
          <script type="text/javascript">
 // <![CDATA[
 	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
-		jwplayer('x1423515866682e0b839a').setup({
+		jwplayer('x14235365228b4e8f').setup({
 			flashplayer: 'http://www.ucr.edu/player.swf',
 			controlbar: { margin: 0, position: 'over' },
 			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
@@ -208,14 +208,14 @@
         </div> 
         <div class="slide" id="slide3"> 
          <div class="flashcontent"> 
-          <div id="x14235158666b86db053033"> 
+          <div id="x1423536522b939fa8f8"> 
            <p>Loading the player…</p> 
           </div> 
          </div> 
          <script type="text/javascript">
 // <![CDATA[
 	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
-		jwplayer('x14235158666b86db053033').setup({
+		jwplayer('x1423536522b939fa8f8').setup({
 			flashplayer: 'http://www.ucr.edu/player.swf',
 			controlbar: { margin: 0, position: 'over' },
 			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
@@ -236,14 +236,14 @@
         </div> 
         <div class="slide" id="slide4"> 
          <div class="flashcontent"> 
-          <div id="x142351586646736586"> 
+          <div id="x14235365229c0bef566"> 
            <p>Loading the player…</p> 
           </div> 
          </div> 
          <script type="text/javascript">
 // <![CDATA[
 	$LAB.script('http://www.ucr.edu/js/lib/jwplayer.js').wait(function() {
-		jwplayer('x142351586646736586').setup({
+		jwplayer('x14235365229c0bef566').setup({
 			flashplayer: 'http://www.ucr.edu/player.swf',
 			controlbar: { margin: 0, position: 'over' },
 			skin: 'http://www.ucr.edu/js/lib/skin/newtubedark/newtubedark.xml',
@@ -334,7 +334,7 @@ $LAB.script("/min/f=js/glider.js").wait(function(){
        <li><a href="http://www.ucr.edu/about/directions.html" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fwww.ucr.edu%2Fabout%2Fdirections.html');">Maps and Directions</a></li> 
        <li><a href="http://admissions.ucr.edu/VisitUCR" onclick="javascript:ga('send','event','Footer','Link','http%3A%2F%2Fadmissions.ucr.edu%2FVisitUCR');">Visit UCR</a></li> 
       </ul> 
-      <!-- Generated in 0.029624 seconds using 768 KiB of memory. --> 
+      <!-- Generated in 0.355393 seconds using 768 KiB of memory. --> 
      </div> 
      <div class="column49"> 
       <h3>Department Information</h3> 
@@ -384,6 +384,6 @@ $LAB.script("/min/f=js/glider.js").wait(function(){
     </div> 
    </div> 
   </div> 
-  <!-- Generated in 0.026779 seconds using 1.50 MiB of memory. -->   
+  <!-- Generated in 0.307083 seconds using 1.50 MiB of memory. -->   
  </body>
 </html>

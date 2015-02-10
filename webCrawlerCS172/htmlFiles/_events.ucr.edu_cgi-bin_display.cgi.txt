@@ -506,6 +506,11 @@
           <tbody>
            <tr>
             <td class="nowrap">Seminar</td>
+            <td><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42600:20150211104500">Astronomy Seminar - Mario de Leo</a></td>
+            <td class="nowrap">10:45–11:45 a.m.</td>
+           </tr> 
+           <tr>
+            <td class="nowrap">Seminar</td>
             <td><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=42358:20150211110000">Career Station</a></td>
             <td class="nowrap">11 a.m.–1:30 p.m.</td>
            </tr> 
